@@ -450,6 +450,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, black.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[necrotic] damage</p><p><strong>Damage Absorption.</strong> When you take necrotic damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el negro.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño &amp;Reference[necrotic]{necrótico}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño necrótico, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBlackAbsorbi",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Blood Fury Tattoo",
     "target": "Tatuaje de furia sanguina",
     "pack": "tcoe-magic-items",
@@ -529,6 +538,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, blue.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[cold] damage</p><p><strong>Damage Absorption.</strong> When you take cold damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el azul.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[cold]{frío}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de frío, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBlueAbsorbin",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Blue Dragon Fang",
@@ -945,6 +963,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, gold.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[radiant] damage</p><p><strong>Damage Absorption.</strong> When you take radiant damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el dorado.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño &amp;Reference[radiant]{radiante}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño radiante, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeGoldAbsorbin",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Golden Goblin Bicuspid",
     "target": "Bicúspide dorado de goblin",
     "pack": "tcoe-magic-items",
@@ -970,6 +997,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, green.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[acid] damage</p><p><strong>Damage Absorption.</strong> When you take acid damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el verde.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[acid]{ácido}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de ácido, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeGreenAbsorbi",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Green Steel Pit Fiend Fang",
@@ -1386,6 +1422,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, orange.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[thunder] damage</p><p><strong>Damage Absorption.</strong> When you take thunder damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el naranja.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[thunder]{trueno}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de trueno, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeOrangeAbsorb",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Outer Essence Shard",
     "target": "Esquirla de esencia exterior",
     "pack": "tcoe-magic-items",
@@ -1519,6 +1564,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, red.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[fire] damage</p><p><strong>Damage Absorption.</strong> When you take fire damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el rojo.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[fire]{fuego}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de fuego, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRedAbsorbing",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Reveler’s Concertina",
@@ -1683,6 +1737,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, silver.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[psychic] damage</p><p><strong>Damage Absorption.</strong> When you take psychic damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el plateado.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño &amp;Reference[psychic]{psíquico}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño psíquico, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeSilverAbsorb",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Silver Mind Flayer Tooth",
     "target": "Diente plateado de azotamentes",
     "pack": "tcoe-magic-items",
@@ -1755,6 +1818,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, violet.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[poison] damage</p><p><strong>Damage Absorption.</strong> When you take poison damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el violeta.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[poison]{veneno}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de veneno, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeVioletAbsorb",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Vomerine Tooth of a Large Toad",
     "target": "Diente vomerino de sapo Grande",
     "pack": "tcoe-magic-items",
@@ -1782,6 +1854,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, white.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[force] damage</p><p><strong>Damage Absorption.</strong> When you take force damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el blanco.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[force]{fuerza}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de fuerza, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeWhiteAbsorbi",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Yellow Absorbing Tattoo",
     "target": "Tatuaje absorbente amarillo",
     "pack": "tcoe-magic-items",
@@ -1789,6 +1870,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Absorbing Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color, yellow.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &amp;Reference[damageresistance]{resistance} to &amp;Reference[lightning] damage</p><p><strong>Damage Absorption.</strong> When you take lightning damage, you can use your reaction to gain immunity against that instance of damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el amarillo.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[lightning]{relámpago}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de relámpago, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeYellowAbsorb",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Yellowed Vampire Fang",

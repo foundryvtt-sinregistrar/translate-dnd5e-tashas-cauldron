@@ -100,16 +100,6 @@
     "sourceChars": 702
   },
   {
-    "entryId": "tcoeBlackAbsorbi",
-    "path": "description",
-    "sourceChars": 721
-  },
-  {
-    "entryId": "tcoeBlueAbsorbin",
-    "path": "description",
-    "sourceChars": 712
-  },
-  {
     "entryId": "tcoeBlueDragonFa",
     "path": "description",
     "sourceChars": 411
@@ -160,11 +150,6 @@
     "sourceChars": 73
   },
   {
-    "entryId": "tcoeGoldAbsorbin",
-    "path": "description",
-    "sourceChars": 718
-  },
-  {
     "entryId": "tcoeGoldenGoblin",
     "path": "description",
     "sourceChars": 585
@@ -173,11 +158,6 @@
     "entryId": "tcoeGoodEssenceS",
     "path": "description",
     "sourceChars": 524
-  },
-  {
-    "entryId": "tcoeGreenAbsorbi",
-    "path": "description",
-    "sourceChars": 713
   },
   {
     "entryId": "tcoeGreenSteelPi",
@@ -240,11 +220,6 @@
     "sourceChars": 677
   },
   {
-    "entryId": "tcoeOrangeAbsorb",
-    "path": "description",
-    "sourceChars": 720
-  },
-  {
     "entryId": "tcoePestlebabaYa",
     "path": "description",
     "sourceChars": 1093
@@ -265,19 +240,9 @@
     "sourceChars": 1050
   },
   {
-    "entryId": "tcoeRedAbsorbing",
-    "path": "description",
-    "sourceChars": 711
-  },
-  {
     "entryId": "tcoeRubyveinedRe",
     "path": "description",
     "sourceChars": 653
-  },
-  {
-    "entryId": "tcoeSilverAbsorb",
-    "path": "description",
-    "sourceChars": 720
   },
   {
     "entryId": "tcoeSilverMindFl",
@@ -295,11 +260,6 @@
     "sourceChars": 647
   },
   {
-    "entryId": "tcoeVioletAbsorb",
-    "path": "description",
-    "sourceChars": 718
-  },
-  {
     "entryId": "tcoeVomerineToot",
     "path": "description",
     "sourceChars": 410
@@ -308,16 +268,6 @@
     "entryId": "tcoeWaterEssence",
     "path": "description",
     "sourceChars": 1167
-  },
-  {
-    "entryId": "tcoeWhiteAbsorbi",
-    "path": "description",
-    "sourceChars": 715
-  },
-  {
-    "entryId": "tcoeYellowAbsorb",
-    "path": "description",
-    "sourceChars": 724
   },
   {
     "entryId": "tcoeYellowedVamp",
