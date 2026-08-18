@@ -1719,6 +1719,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<table style=\"text-align:center\"><thead><tr><th>Tale</th><th>Creatures Summoned</th></tr></thead><tbody><tr><td>Beyond the Rock of Bral</td><td>2 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeMindFlayer00]{mind flayers}</td></tr></tbody></table><p><strong>Implanted Effect. </strong>You gain &amp;Reference[telepathy] out to 120 feet as described in the Monster Manual, and you can cast the @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detect thoughts} spell at will, requiring no components. You also have disadvantage on [[/check ability=wis skill=ins]] and [[/check ability=wis skill=per]] checks from constant whispers of memories and nearby minds.</p>",
+    "target": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Más allá de la Roca de Bral</td><td>2 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeMindFlayer00]{azotamentes}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Obtienes &amp;Reference[telepathy]{telepatía} con un alcance de 120 pies, tal y como se describe en el Monster Manual, y puedes lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detectar pensamientos} a voluntad, sin necesidad de componentes. También tienes desventaja en las [[/check ability=wis skill=ins]]{pruebas de Sabiduría (Perspicacia)} y [[/check ability=wis skill=per]]{Sabiduría (Percepción)} debido a los constantes susurros de recuerdos y mentes cercanas.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeObsidianHuma",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Orange Absorbing Tattoo",
     "target": "Tatuaje absorbente naranja",
     "pack": "tcoe-magic-items",
@@ -1872,6 +1881,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<table style=\"text-align:center\"><thead><tr><th>Tale</th><th>Creatures Summoned</th></tr></thead><tbody><tr><td>The Donkey’s Dream</td><td>1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.G9PENY6nw0xRxCJW]{unicorn}</td></tr></tbody></table><p><strong>Implanted Effect.</strong> The tooth has 3 charges. As an action, you can expend 1 charge to touch a creature. The target regains [[/healing 2d8 + 2]]{2d8 + 2} hit points, and all diseases and poisons affecting it are removed.</p><p>When you use this action, a shimmering image of a unicorn’s horn appears until the end of your turn, sprouting from your forehead. The tooth regains all expended charges daily at dawn.</p><p>You gain the following flaw: “When I see wickedness in action, I must oppose it.”</p>",
+    "target": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>El ensueño del asno</td><td>1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.G9PENY6nw0xRxCJW]{unicornio}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> El diente tiene 3 cargas. Como acción, puedes gastar 1 carga para tocar a una criatura. El objetivo recuperará [[/healing 2d8 + 2]]{2d8 + 2 puntos de golpe} y todas las enfermedades y los venenos que le afecten desaparecerán.</p><p>Cuando uses esta acción, al final de tu turno aparecerá la imagen resplandeciente del cuerno de un unicornio brotando de tu frente. El diente recupera todas las cargas empleadas cada día, al amanecer.</p><p>Recibes el siguiente defecto: «Cuando veo actuar a la maldad, debo plantar cara».</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRainbowcolor",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Crook of Rao Spells",
     "target": "Conjuros del Cayado de Rao",
     "pack": "tcoe-magic-items",
@@ -2016,6 +2034,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<table style=\"text-align:center\"><thead><tr><th>Tale</th><th>Creatures Summoned</th></tr></thead><tbody><tr><td>Incendax’s Tooth</td><td>1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.vFeFRlF2FOgf2HIL]{ancient red dragon}</td></tr></tbody></table><p><strong>Implanted Effect. </strong>You gain immunity to fire damage, and as an action, you can exhale fire in a 90-foot cone. Each creature in that area must make a [[/save ability=dex dc=24]] saving throw, taking [[/damage 26d6 type=fire]] damage on a failed save, or half as much damage on a successful one. After using the breath weapon, you gain 2 levels of &amp;Reference[exhaustion].</p>",
+    "target": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Diente de Incendax</td><td>1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.vFeFRlF2FOgf2HIL]{dragón rojo anciano}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Obtienes inmunidad al daño de fuego y, como acción, puedes exhalar fuego en un cono de 90 pies. Todas las criaturas situadas en la zona deberán hacer una [[/save ability=dex dc=24]]{tirada de salvación de Destreza con CD 24}; sufrirán [[/damage 26d6 type=fire]]{26d6 de daño de fuego} si la fallan o la mitad del daño si la superan. Tras usar el ataque de aliento, ganas 2 niveles de &amp;Reference[exhaustion]{cansancio}.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRubyveinedRe",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Shadowfell Brand Tattoo",
     "target": "Tatuaje de marca de Shadowfell",
     "pack": "tcoe-magic-items",
@@ -2088,6 +2115,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<table style=\"text-align:center\"><thead><tr><th>Tale</th><th>Creatures Summoned</th></tr></thead><tbody><tr><td>Beyond the Rock of Bral</td><td>2 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeMindFlayer00]{mind flayers}</td></tr></tbody></table><p><strong>Implanted Effect. </strong>You gain &amp;Reference[telepathy] out to 120 feet, and you can cast the @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detect thoughts} spell at will, requiring no components.</p><p>You also have <strong>disadvantage</strong> on [[/check ability=wis skill=ins]] and [[/check ability=wis skill=per]] checks from constant whispers of memories and nearby minds.</p>",
+    "target": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Más allá de la Roca de Bral</td><td>2 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeMindFlayer00]{azotamentes}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Obtienes &amp;Reference[telepathy]{telepatía} con un alcance de 120 pies y puedes lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detectar pensamientos} a voluntad, sin necesidad de componentes.</p><p>También tienes <strong>desventaja</strong> en las [[/check ability=wis skill=ins]]{pruebas de Sabiduría (Perspicacia)} y [[/check ability=wis skill=per]]{Sabiduría (Percepción)} debido a los constantes susurros de recuerdos y mentes cercanas.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeSilverMindFl",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Spellwrought Tattoo",
     "target": "Tatuaje hechizado",
     "pack": "tcoe-magic-items",
@@ -2115,6 +2151,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<table style=\"text-align:center\"><thead><tr><th>Tale</th><th>Creatures Summoned</th></tr></thead><tbody><tr><td>The Stable Hand’s Secret</td><td>2 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeIncubus00000]{incubi}/@UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.VmdyZDjqAc8vdncY]{succubi}</td></tr></tbody></table><p><strong>Implanted Effect. </strong>When you make a Charisma check against a humanoid, you can roll a [[/r 1d10]]{1d10} and add the number rolled as a bonus to the result. The creature then becomes hostile to you at the next dawn.</p>",
+    "target": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>El secreto de la Mano Firme</td><td>2 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeIncubus00000]{íncubos}/@UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.VmdyZDjqAc8vdncY]{súcubos}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Cuando realizas una prueba de Carisma contra un humanoide, puedes tirar [[/r 1d10]]{1d10} y sumar el número obtenido como bonificador al resultado. Luego la criatura se vuelve hostil contra ti en el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeSweettasting",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Teeth of Dahlver-Nar",
     "target": "Dientes de Dahlver-Nar",
     "pack": "tcoe-magic-items",
@@ -2140,6 +2185,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<table style=\"text-align:center\"><thead><tr><th>Tale</th><th>Creatures Summoned</th></tr></thead><tbody><tr><td>Nightmares of Kaggash</td><td>1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeBeholder0000]{beholder}</td></tr></tbody></table><p><strong>Implanted Effect. </strong>As an action, you can cast the @UUID[Compendium.dnd5e.spells.Item.ZRqu3Xh9FmlBCZGy]{eyebite} spell from the tooth. Once you use this action, it can’t be used again until the next dawn. Whenever you finish a long rest, roll a [[/r 1d20]]{d20}. On a 20, an &amp;Reference[aberration]{aberration} chosen by the DM appears within 30 feet of you and attacks.</p>",
+    "target": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Las pesadillas de Kaggash</td><td>1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeBeholder0000]{contemplador}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Como acción, puedes lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.ZRqu3Xh9FmlBCZGy]{mal de ojo} desde el diente. Una vez utilizada, esta acción no puede volver a usarse hasta el siguiente amanecer. Tras finalizar un descanso largo, tira [[/r 1d20]]{1d20}. Si el resultado es 20, una &amp;Reference[aberration]{aberración} elegida por el DM aparecerá a 30 pies o menos de ti y atacará.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeTwistedBehol",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Violet Absorbing Tattoo",

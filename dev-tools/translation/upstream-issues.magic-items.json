@@ -1,0 +1,9 @@
+{
+  "tcoeObsidianHuma": {
+    "name": "Obsidian Human Molar",
+    "status": "source-content-mismatch",
+    "moduleDescriptionMatches": "Silver Mind Flayer Tooth",
+    "officialSpanishEffect": "Lanzar tentáculos negros de Evard (CD 18) una vez por amanecer.",
+    "action": "Preserve the exported module UUIDs and mechanics in the translation until the upstream item is corrected or a corrective override is explicitly approved."
+  }
+}
