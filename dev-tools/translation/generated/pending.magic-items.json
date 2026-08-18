@@ -45,11 +45,6 @@
     "sourceChars": 537
   },
   {
-    "entryId": "tcoeBlueDragonFa",
-    "path": "description",
-    "sourceChars": 411
-  },
-  {
     "entryId": "tcoeBrokenTransl",
     "path": "description",
     "sourceChars": 928
@@ -63,31 +58,6 @@
     "entryId": "tcoeEmeraldLizar",
     "path": "description",
     "sourceChars": 609
-  },
-  {
-    "entryId": "tcoeGoldenGoblin",
-    "path": "description",
-    "sourceChars": 585
-  },
-  {
-    "entryId": "tcoeGreenSteelPi",
-    "path": "description",
-    "sourceChars": 509
-  },
-  {
-    "entryId": "tcoeHalflingCani",
-    "path": "description",
-    "sourceChars": 457
-  },
-  {
-    "entryId": "tcoeHumanMolar00",
-    "path": "description",
-    "sourceChars": 484
-  },
-  {
-    "entryId": "tcoeIvoryCatMola",
-    "path": "description",
-    "sourceChars": 554
   },
   {
     "entryId": "tcoeJadeHumanoid",
@@ -133,16 +103,6 @@
     "entryId": "tcoeTwistedBehol",
     "path": "description",
     "sourceChars": 647
-  },
-  {
-    "entryId": "tcoeVomerineToot",
-    "path": "description",
-    "sourceChars": 410
-  },
-  {
-    "entryId": "tcoeYellowedVamp",
-    "path": "description",
-    "sourceChars": 548
   },
   {
     "entryId": "u57CvTnvuFYPAaXA",

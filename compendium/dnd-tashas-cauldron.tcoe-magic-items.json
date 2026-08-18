@@ -178,7 +178,8 @@
       "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el azul.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[cold]{frío}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de frío, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>"
     },
     "tcoeBlueDragonFa": {
-      "name": "Colmillo de dragón azul"
+      "name": "Colmillo de dragón azul",
+      "description": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Por qué grita el cielo</td><td>1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.SNT0JNVSngUTsj4m]{dragón azul anciano}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Obtienes inmunidad al daño de relámpago y &amp;Reference[damageresistance]{vulnerabilidad} al daño de trueno.</p>"
     },
     "tcoeBrokenTransl": {
       "name": "Colmillo translúcido roto"
@@ -291,7 +292,8 @@
       "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el dorado.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño &amp;Reference[radiant]{radiante}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño radiante, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>"
     },
     "tcoeGoldenGoblin": {
-      "name": "Bicúspide dorado de goblin"
+      "name": "Bicúspide dorado de goblin",
+      "description": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>La edad de oro de Dhakaan</td><td>10 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.TjWQOgI3A4UAl7lC]{goblins}, 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeGoblinBoss00]{jefe goblin}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Cuando te impacte un ataque y tengas un aliado a 5 pies o menos de ti, podrás usar tu reacción para que sea él quien reciba el golpe. No podrás volver a usar esta reacción hasta que finalices un descanso corto o largo.</p>"
     },
     "tcoeGoodEssenceS": {
       "name": "Esquirla de esencia benigna",
@@ -302,14 +304,16 @@
       "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el verde.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[acid]{ácido}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de ácido, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>"
     },
     "tcoeGreenSteelPi": {
-      "name": "Colmillo de acero verde de diablo de la sima"
+      "name": "Colmillo de acero verde de diablo de la sima",
+      "description": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Las hijas de Bel</td><td>1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.RCv5y7iWlfNxkinx]{diablo de la sima}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Puedes usar el diente para lanzar @UUID[Compendium.dnd5e.spells.Item.eEpy1ONlXumKS1mp]{dominar monstruo} (CD 18). Una vez utilizada, esta propiedad no puede volver a usarse hasta el siguiente amanecer. Desprendes un fuerte olor a azufre quemándose.</p>"
     },
     "tcoeGuardianEmbl": {
       "name": "Emblema del guardián",
       "description": "<p><em>Objeto maravilloso (símbolo sagrado), requiere sintonización por parte de un clérigo o un paladín</em></p><p>Este emblema es el símbolo de una deidad o de una tradición espiritual. Como acción, puedes acoplar el emblema a una armadura o un escudo, o retirarlo.</p><p>El emblema tiene 3 cargas. Cuando tú o una criatura que puedas ver a 30 pies o menos de ti sufra un impacto crítico mientras lleves puesta la armadura o empuñes el escudo que porta el emblema, puedes usar tu reacción para gastar 1 carga y convertir el impacto crítico en un impacto normal.</p><p>El emblema recupera todas las cargas gastadas cada día al amanecer.</p>"
     },
     "tcoeHalflingCani": {
-      "name": "Canino de mediano"
+      "name": "Canino de mediano",
+      "description": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Los asesinatos de la senda del molino</td><td>3 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.saq6WM959pKHuaqP]{sagas verdes} en un aquelarre</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Cuando hagas daño a un objetivo que no haya tenido ningún turno en este combate, sufrirá [[/damage 3d10 type=slashing]]{3d10 de daño cortante} adicional de unas cuchillas fantasmales.</p>"
     },
     "tcoeHeartWeavers": {
       "name": "Cartilla de Tejecorazones",
@@ -320,14 +324,16 @@
       "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Tatuaje de barrera}, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por imágenes protectoras y se hace con una tinta que se asemeja al metal líquido.</p><p><strong>Protección.</strong> Mientras no lleves armadura, el tatuaje te otorga una Clase de Armadura de 18. Puedes usar un escudo y seguir obteniendo este beneficio.</p>"
     },
     "tcoeHumanMolar00": {
-      "name": "Molar humano"
+      "name": "Molar humano",
+      "description": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>El día sorprendente de Duggle</td><td>1 @UUID[Compendium.dnd5e.monsters.Actor.SqZRuJ8lt2KGJBbq]{plebeyo}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Cuando completas un descanso largo, el diente lanza @UUID[Compendium.dnd5e.spells.Item.gvdA9nPuWLck4tBl]{santuario}, [[/save ability=wisdom dc=18]]{CD 18}, sobre ti, y el conjuro dura 24 horas o hasta que lo rompes.</p>"
     },
     "tcoeIlluminators": {
       "name": "Tatuaje del Iluminador",
       "description": "<p>Objeto maravilloso (tatuaje), común (requiere sintonización)</p><p>Creado con una aguja especial, este tatuaje mágico muestra una preciosa caligrafía, imágenes de útiles de escritura y cosas por el estilo.</p><p><strong>Escritura mágica.</strong> Mientras lleves este tatuaje en la piel, puedes escribir con la punta del dedo como si fuese una pluma cuya tinta nunca se agota.</p><p>Como acción, puedes tocar un fragmento escrito de hasta una página de extensión y pronunciar el nombre de una criatura. El escrito se vuelve invisible para todo el mundo salvo para ti y la criatura mencionada durante las siguientes 24 horas. Cualquiera de los dos puede cancelar la invisibilidad tocando el escrito (no requiere acción). Una vez utilizada, esta acción no puede volver a usarse hasta el siguiente amanecer.</p>"
     },
     "tcoeIvoryCatMola": {
-      "name": "Molar felino de marfil"
+      "name": "Molar felino de marfil",
+      "description": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Los gatos atentos de Uldun-dar</td><td>9 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.hIf83RD3ZVW4Egfi]{gatos}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> El diente tiene 8 cargas. Como acción, puedes gastar 1 carga para lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.LmRHHMtplpxr9fX6]{revivir} desde el diente. Si estás muerto al comienzo de tu turno, el diente gasta 1 carga y lanza revivir sobre ti.</p>"
     },
     "tcoeJadeHumanoid": {
       "name": "Bicúspide de jade de humanoide"
@@ -520,7 +526,8 @@
       "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el violeta.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[poison]{veneno}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de veneno, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>"
     },
     "tcoeVomerineToot": {
-      "name": "Diente vomerino de sapo Grande"
+      "name": "Diente vomerino de sapo Grande",
+      "description": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Las desapariciones de Semihueco</td><td>4 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.Ixo5shumxy4I9qyD]{sapos gigantes}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Puedes hacer un salto de longitud de hasta 30 pies y un salto de altura de hasta 15 pies, tanto si has cogido carrerilla como si no.</p>"
     },
     "tcoeWaterEssence": {
       "name": "Esquirla de esencia de agua",
@@ -535,7 +542,8 @@
       "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]{Tatuaje absorbente}, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color: el amarillo.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &amp;Reference[damageresistance]{resistencia} al daño de &amp;Reference[lightning]{relámpago}.</p><p><strong>Absorber daño.</strong> Cuando recibas daño de relámpago, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p>"
     },
     "tcoeYellowedVamp": {
-      "name": "Colmillo amarillento de vampiro"
+      "name": "Colmillo amarillento de vampiro",
+      "description": "<table style=\"text-align:center\"><thead><tr><th>Historia</th><th>Criaturas invocadas</th></tr></thead><tbody><tr><td>Las mil muertes de Jander Sunstar</td><td>1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.DDO9lDCDtNHkfShP]{vampiro}</td></tr></tbody></table><p><strong>Efecto implantado.</strong> Puedes realizar un ataque con mordisco como un ataque sin armas. Si impacta, causa 1d6 de daño perforante más 3d6 de daño necrótico. Recuperas una cantidad de puntos de golpe igual al daño necrótico infligido. Mientras estés al sol, no podrás recuperar puntos de golpe.</p>"
     },
     "u57CvTnvuFYPAaXA": {
       "name": "Atadura planar (2 cargas)"
