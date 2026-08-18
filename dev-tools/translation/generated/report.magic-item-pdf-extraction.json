@@ -1,0 +1,436 @@
+{
+  "pdfParts": [
+    117,
+    135
+  ],
+  "candidateCanonicalHeadings": 56,
+  "extractedSections": 46,
+  "missingHeadings": [
+    "Esquirla de esencia benigna",
+    "Esquirla de esencia caótica",
+    "Esquirla de esencia de agua",
+    "Esquirla de esencia de aire",
+    "Esquirla de esencia de fuego",
+    "Esquirla de esencia de tierra",
+    "Esquirla de esencia legal",
+    "Esquirla de esencia maligna",
+    "Maja de Baba Yaga",
+    "Mortero de Baba Yaga"
+  ],
+  "sections": {
+    "Acordeón del parrandero": {
+      "source": {
+        "firstPart": 117,
+        "lastPart": 117,
+        "headingScore": 1.0
+      },
+      "characters": 369,
+      "lines": 9
+    },
+    "Amuleto de devoción": {
+      "source": {
+        "firstPart": 117,
+        "lastPart": 117,
+        "headingScore": 1.0
+      },
+      "characters": 627,
+      "lines": 12
+    },
+    "Archivo de astromancia": {
+      "source": {
+        "firstPart": 117,
+        "lastPart": 117,
+        "headingScore": 1.0
+      },
+      "characters": 1478,
+      "lines": 29
+    },
+    "Atlas de horizontes infinitos": {
+      "source": {
+        "firstPart": 117,
+        "lastPart": 117,
+        "headingScore": 0.867
+      },
+      "characters": 1301,
+      "lines": 27
+    },
+    "Caldero de renacimiento": {
+      "source": {
+        "firstPart": 118,
+        "lastPart": 118,
+        "headingScore": 1.0
+      },
+      "characters": 1167,
+      "lines": 24
+    },
+    "Cartilla de Tejecorazones": {
+      "source": {
+        "firstPart": 118,
+        "lastPart": 118,
+        "headingScore": 0.96
+      },
+      "characters": 1027,
+      "lines": 22
+    },
+    "Cayado de Rao": {
+      "source": {
+        "firstPart": 118,
+        "lastPart": 119,
+        "headingScore": 1.0
+      },
+      "characters": 4490,
+      "lines": 95
+    },
+    "Códice del Invocaplanos": {
+      "source": {
+        "firstPart": 119,
+        "lastPart": 119,
+        "headingScore": 0.957
+      },
+      "characters": 1049,
+      "lines": 22
+    },
+    "Compendio alquímico": {
+      "source": {
+        "firstPart": 119,
+        "lastPart": 120,
+        "headingScore": 1.0
+      },
+      "characters": 1374,
+      "lines": 29
+    },
+    "Crónica cristalina": {
+      "source": {
+        "firstPart": 120,
+        "lastPart": 121,
+        "headingScore": 1.0
+      },
+      "characters": 2808,
+      "lines": 54
+    },
+    "Demonomicón de Iggwilv": {
+      "source": {
+        "firstPart": 120,
+        "lastPart": 120,
+        "headingScore": 0.955
+      },
+      "characters": 1561,
+      "lines": 32
+    },
+    "Dientes de Dahlver-Nar": {
+      "source": {
+        "firstPart": 121,
+        "lastPart": 124,
+        "headingScore": 1.0
+      },
+      "characters": 9697,
+      "lines": 235
+    },
+    "Emblema del guardián": {
+      "source": {
+        "firstPart": 124,
+        "lastPart": 124,
+        "headingScore": 1.0
+      },
+      "characters": 1408,
+      "lines": 27
+    },
+    "Esquirla de esencia elemental": {
+      "source": {
+        "firstPart": 124,
+        "lastPart": 124,
+        "headingScore": 0.967
+      },
+      "characters": 687,
+      "lines": 16
+    },
+    "Esquirla astral": {
+      "source": {
+        "firstPart": 124,
+        "lastPart": 124,
+        "headingScore": 1.0
+      },
+      "characters": 720,
+      "lines": 16
+    },
+    "Esquirla de esencia exterior": {
+      "source": {
+        "firstPart": 125,
+        "lastPart": 125,
+        "headingScore": 1.0
+      },
+      "characters": 1341,
+      "lines": 31
+    },
+    "Esquirla de Feywild": {
+      "source": {
+        "firstPart": 125,
+        "lastPart": 125,
+        "headingScore": 1.0
+      },
+      "characters": 1024,
+      "lines": 20
+    },
+    "Esquirla de Shadowfell": {
+      "source": {
+        "firstPart": 125,
+        "lastPart": 125,
+        "headingScore": 1.0
+      },
+      "characters": 793,
+      "lines": 16
+    },
+    "Esquirla del Reino Lejano": {
+      "source": {
+        "firstPart": 125,
+        "lastPart": 126,
+        "headingScore": 1.0
+      },
+      "characters": 948,
+      "lines": 22
+    },
+    "Grimorio arcano": {
+      "source": {
+        "firstPart": 126,
+        "lastPart": 126,
+        "headingScore": 1.0
+      },
+      "characters": 589,
+      "lines": 12
+    },
+    "Herramienta multiusos": {
+      "source": {
+        "firstPart": 126,
+        "lastPart": 126,
+        "headingScore": 0.977
+      },
+      "characters": 1058,
+      "lines": 20
+    },
+    "Hoz de luna": {
+      "source": {
+        "firstPart": 126,
+        "lastPart": 126,
+        "headingScore": 1.0
+      },
+      "characters": 764,
+      "lines": 16
+    },
+    "Incensario de devoto": {
+      "source": {
+        "firstPart": 127,
+        "lastPart": 127,
+        "headingScore": 0.95
+      },
+      "characters": 548,
+      "lines": 13
+    },
+    "Lira de construcción": {
+      "source": {
+        "firstPart": 126,
+        "lastPart": 126,
+        "headingScore": 1.0
+      },
+      "characters": 578,
+      "lines": 12
+    },
+    "Manto de la naturaleza": {
+      "source": {
+        "firstPart": 127,
+        "lastPart": 127,
+        "headingScore": 1.0
+      },
+      "characters": 448,
+      "lines": 10
+    },
+    "Manuscrito engañoso": {
+      "source": {
+        "firstPart": 127,
+        "lastPart": 127,
+        "headingScore": 1.0
+      },
+      "characters": 769,
+      "lines": 17
+    },
+    "Mortero y Maja de Baba Yaga": {
+      "source": {
+        "firstPart": 127,
+        "lastPart": 130,
+        "headingScore": 1.0
+      },
+      "characters": 13579,
+      "lines": 285
+    },
+    "Prótesis de extremidad": {
+      "source": {
+        "firstPart": 130,
+        "lastPart": 130,
+        "headingScore": 1.0
+      },
+      "characters": 371,
+      "lines": 8
+    },
+    "Rama de campanillas": {
+      "source": {
+        "firstPart": 130,
+        "lastPart": 130,
+        "headingScore": 1.0
+      },
+      "characters": 852,
+      "lines": 18
+    },
+    "Tambor rítmico": {
+      "source": {
+        "firstPart": 130,
+        "lastPart": 130,
+        "headingScore": 1.0
+      },
+      "characters": 485,
+      "lines": 10
+    },
+    "Tarokka de Almas de Luba": {
+      "source": {
+        "firstPart": 130,
+        "lastPart": 132,
+        "headingScore": 1.0
+      },
+      "characters": 6110,
+      "lines": 134
+    },
+    "Tatuaje absorbente": {
+      "source": {
+        "firstPart": 132,
+        "lastPart": 132,
+        "headingScore": 1.0
+      },
+      "characters": 1294,
+      "lines": 34
+    },
+    "Tatuaje de agarre retorcido": {
+      "source": {
+        "firstPart": 132,
+        "lastPart": 132,
+        "headingScore": 1.0
+      },
+      "characters": 1203,
+      "lines": 24
+    },
+    "Tatuaje de barrera": {
+      "source": {
+        "firstPart": 132,
+        "lastPart": 133,
+        "headingScore": 1.0
+      },
+      "characters": 948,
+      "lines": 26
+    },
+    "Tatuaje de furia sanguina": {
+      "source": {
+        "firstPart": 133,
+        "lastPart": 133,
+        "headingScore": 1.0
+      },
+      "characters": 1160,
+      "lines": 24
+    },
+    "Tatuaje de garra monstruosa": {
+      "source": {
+        "firstPart": 133,
+        "lastPart": 133,
+        "headingScore": 1.0
+      },
+      "characters": 1345,
+      "lines": 27
+    },
+    "Tatuaje de marca de Shadowfell": {
+      "source": {
+        "firstPart": 133,
+        "lastPart": 133,
+        "headingScore": 1.0
+      },
+      "characters": 944,
+      "lines": 20
+    },
+    "Tatuaje de mascarada": {
+      "source": {
+        "firstPart": 133,
+        "lastPart": 133,
+        "headingScore": 1.0
+      },
+      "characters": 1135,
+      "lines": 23
+    },
+    "Tatuaje de paso fantasmal": {
+      "source": {
+        "firstPart": 133,
+        "lastPart": 134,
+        "headingScore": 1.0
+      },
+      "characters": 1419,
+      "lines": 30
+    },
+    "Tatuaje del Iluminador": {
+      "source": {
+        "firstPart": 134,
+        "lastPart": 134,
+        "headingScore": 1.0
+      },
+      "characters": 1180,
+      "lines": 24
+    },
+    "Tatuaje del Pozo de Vida": {
+      "source": {
+        "firstPart": 134,
+        "lastPart": 134,
+        "headingScore": 1.0
+      },
+      "characters": 868,
+      "lines": 19
+    },
+    "Tatuaje hechizado": {
+      "source": {
+        "firstPart": 134,
+        "lastPart": 134,
+        "headingScore": 1.0
+      },
+      "characters": 1118,
+      "lines": 27
+    },
+    "Tratado de almas y carne": {
+      "source": {
+        "firstPart": 134,
+        "lastPart": 135,
+        "headingScore": 1.0
+      },
+      "characters": 1468,
+      "lines": 29
+    },
+    "Tratado fulminante": {
+      "source": {
+        "firstPart": 135,
+        "lastPart": 135,
+        "headingScore": 1.0
+      },
+      "characters": 360,
+      "lines": 8
+    },
+    "Versos protectores": {
+      "source": {
+        "firstPart": 135,
+        "lastPart": 135,
+        "headingScore": 1.0
+      },
+      "characters": 835,
+      "lines": 17
+    },
+    "Vial del Pozo Sangriento": {
+      "source": {
+        "firstPart": 135,
+        "lastPart": 135,
+        "headingScore": 1.0
+      },
+      "characters": 878,
+      "lines": 18
+    }
+  }
+}

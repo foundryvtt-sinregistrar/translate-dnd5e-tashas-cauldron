@@ -1,0 +1,61 @@
+{
+  "queueEntries": 61,
+  "complexity": {
+    "simple": 38,
+    "structured": 12,
+    "layout-review": 11
+  },
+  "missingPdfSections": [
+    {
+      "entryId": "tcoeAirEssenceSh",
+      "englishName": "Air Essence Shard",
+      "spanishName": "Esquirla de esencia de aire"
+    },
+    {
+      "entryId": "tcoeChaoticEssen",
+      "englishName": "Chaotic Essence Shard",
+      "spanishName": "Esquirla de esencia caótica"
+    },
+    {
+      "entryId": "tcoeEarthEssence",
+      "englishName": "Earth Essence Shard",
+      "spanishName": "Esquirla de esencia de tierra"
+    },
+    {
+      "entryId": "tcoeEvilEssenceS",
+      "englishName": "Evil Essence Shard",
+      "spanishName": "Esquirla de esencia maligna"
+    },
+    {
+      "entryId": "tcoeFireEssenceS",
+      "englishName": "Fire Essence Shard",
+      "spanishName": "Esquirla de esencia de fuego"
+    },
+    {
+      "entryId": "tcoeGoodEssenceS",
+      "englishName": "Good Essence Shard",
+      "spanishName": "Esquirla de esencia benigna"
+    },
+    {
+      "entryId": "tcoeLawfulEssenc",
+      "englishName": "Lawful Essence Shard",
+      "spanishName": "Esquirla de esencia legal"
+    },
+    {
+      "entryId": "tcoeMortarbabaYa",
+      "englishName": "Baba Yaga's Mortar",
+      "spanishName": "Mortero de Baba Yaga"
+    },
+    {
+      "entryId": "tcoePestlebabaYa",
+      "englishName": "Baba Yaga's Pestle",
+      "spanishName": "Maja de Baba Yaga"
+    },
+    {
+      "entryId": "tcoeWaterEssence",
+      "englishName": "Water Essence Shard",
+      "spanishName": "Esquirla de esencia de agua"
+    }
+  ],
+  "policy": "Do not copy spanishPdf.text directly into compendium HTML; reconstruct and verify protectedMacros first."
+}

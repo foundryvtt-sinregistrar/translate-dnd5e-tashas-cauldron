@@ -1,1 +1,346 @@
-{"label":"Objetos mágicos","mapping":{"name":"name","description":"system.description.value"},"entries":{}}
+{
+  "label": "Objetos mágicos",
+  "mapping": {
+    "description": "system.description.value",
+    "activities": {
+      "path": "system.activities",
+      "converter": "tcoeActivitiesById"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "tcoeEffectsById"
+    }
+  },
+  "folders": {
+    "Absorbing Tattoo Colors": "Absorbing Tattoo Colors",
+    "Ammunition": "Ammunition",
+    "Barrier Tattoo Weights": "Barrier Tattoo Weights",
+    "Elemental Shards": "Elemental Shards",
+    "Firearms": "Firearms",
+    "Magic Items": "Objetos mágicos",
+    "Magic Tattoos": "Magic Tattoos",
+    "Outer Shards": "Outer Shards",
+    "Supplemental Items": "Supplemental Items"
+  },
+  "entries": {
+    "4Nl5uskvCggmdnsd": {
+      "name": "Mover tierra"
+    },
+    "4tBP8fyPnrKcVZEn": {
+      "name": "Invocar constructo"
+    },
+    "4y8tLxjGTUhY5Pez": {
+      "name": "Detectar magia"
+    },
+    "9INNz5wuYoHoko3a": {},
+    "9oGrPPdtScF3rWpS": {},
+    "AblR39YnwtX7Pnv8": {},
+    "AHRxTM3Ml5u4fETt": {},
+    "AwxFwzXCgjv7cdtH": {},
+    "btVMfxpigM5ZK7Xk": {},
+    "GMTo5i28HJ67XTni": {},
+    "hfg7hYHAC1ZJ2JB4": {},
+    "huel9eEMyTm8fHYh": {},
+    "IFN81SVFn7ZQ4P5K": {},
+    "JSEEhWqKREA3vAUX": {},
+    "L7W4YvNRKUx3kWze": {},
+    "Mcf3pW1rIDFO6Oxa": {},
+    "nhDYujRhZeqNwPJF": {},
+    "pXA5eMZ0Vp2ylYfs": {
+      "name": "Paso a través de la pared"
+    },
+    "Sjb6MJBgsZWcR8Ru": {
+      "name": "Detectar el bien y el mal"
+    },
+    "tcoeAbsorbingTat": {
+      "name": "Tatuaje absorbente"
+    },
+    "tcoeAirEssenceSh": {
+      "name": "Esquirla de esencia de aire"
+    },
+    "tcoeAlchemicalCo": {
+      "name": "Compendio alquímico"
+    },
+    "tcoeAllpurposeP2": {
+      "name": "Herramienta multiusos +2",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un artífice</em></p><p>Este sencillo destornillador se puede transformar en numerosas herramientas; como acción, puedes tocar el objeto y transformarlo en cualquier tipo de @UUID[Compendium.dnd5e.rules.JournalEntry.BYFd9hiJGo9L5aOM.JournalEntryPage.Rs0xLMFGbcCkEhuA#tools$1]{herramienta de artesano} de tu elección. Sea cual sea la forma que adopte, tendrás competencia con ella.</p><p>Mientras sostienes esta herramienta, obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus <strong>conjuros de artífice</strong>. El bonificador depende de la rareza de la herramienta.</p><p>Como acción, puedes concentrarte en la herramienta para canalizar tus fuerzas creativas. Elige un truco que no conozcas de la lista de cualquier clase. Durante 8 horas, puedes lanzar ese truco y cuenta como un truco de artífice para ti. Una vez utilizada, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p>"
+    },
+    "tcoeAllpurposeP3": {
+      "name": "Herramienta multiusos +3",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un artífice</em></p><p>Este sencillo destornillador se puede transformar en numerosas herramientas; como acción, puedes tocar el objeto y transformarlo en cualquier tipo de @UUID[Compendium.dnd5e.rules.JournalEntry.BYFd9hiJGo9L5aOM.JournalEntryPage.Rs0xLMFGbcCkEhuA#tools$1]{herramienta de artesano} de tu elección. Sea cual sea la forma que adopte, tendrás competencia con ella.</p><p>Mientras sostienes esta herramienta, obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus <strong>conjuros de artífice</strong>. El bonificador depende de la rareza de la herramienta.</p><p>Como acción, puedes concentrarte en la herramienta para canalizar tus fuerzas creativas. Elige un truco que no conozcas de la lista de cualquier clase. Durante 8 horas, puedes lanzar ese truco y cuenta como un truco de artífice para ti. Una vez utilizada, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p>"
+    },
+    "tcoeAllpurposeTo": {
+      "name": "Herramienta multiusos +1",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un artífice</em></p><p>Este sencillo destornillador se puede transformar en numerosas herramientas; como acción, puedes tocar el objeto y transformarlo en cualquier tipo de @UUID[Compendium.dnd5e.rules.JournalEntry.BYFd9hiJGo9L5aOM.JournalEntryPage.Rs0xLMFGbcCkEhuA#tools$1]{herramienta de artesano} de tu elección. Sea cual sea la forma que adopte, tendrás competencia con ella.</p><p>Mientras sostienes esta herramienta, obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus <strong>conjuros de artífice</strong>. El bonificador depende de la rareza de la herramienta.</p><p>Como acción, puedes concentrarte en la herramienta para canalizar tus fuerzas creativas. Elige un truco que no conozcas de la lista de cualquier clase. Durante 8 horas, puedes lanzar ese truco y cuenta como un truco de artífice para ti. Una vez utilizada, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p>"
+    },
+    "tcoeAntimatterRi": {},
+    "tcoeArcgrimp1000": {
+      "name": "Grimorio arcano +1",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un mago</em></p><p>Mientras sostienes este libro encuadernado en cuero, puedes usarlo como canalizador mágico para tus conjuros de mago y obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus <strong>conjuros de mago</strong>. El bonificador depende de la rareza del libro.</p><p>Puedes usar este libro como libro de conjuros. Además, cuando uses tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.e0uTcFPpgxjIyUW9]{Recuperación Arcana}, puedes aumentar en 1 el nivel total de los espacios de conjuro que recuperas.</p><p>[[1 + ceil(@classes.wizard.levels / 2)]]{Niveles totales de espacios de conjuro recuperados}</p>"
+    },
+    "tcoeArcgrimp2000": {
+      "name": "Grimorio arcano +2",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un mago</em></p><p>Mientras sostienes este libro encuadernado en cuero, puedes usarlo como canalizador mágico para tus conjuros de mago y obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus <strong>conjuros de mago</strong>. El bonificador depende de la rareza del libro.</p><p>Puedes usar este libro como libro de conjuros. Además, cuando uses tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.e0uTcFPpgxjIyUW9]{Recuperación Arcana}, puedes aumentar en 1 el nivel total de los espacios de conjuro que recuperas.</p><p>[[1 + ceil(@classes.wizard.levels / 2)]]{Niveles totales de espacios de conjuro recuperados}</p>"
+    },
+    "tcoeArcgrimp3000": {
+      "name": "Grimorio arcano +3",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un mago</em></p><p>Mientras sostienes este libro encuadernado en cuero, puedes usarlo como canalizador mágico para tus conjuros de mago y obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus <strong>conjuros de mago</strong>. El bonificador depende de la rareza del libro.</p><p>Puedes usar este libro como libro de conjuros. Además, cuando uses tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.e0uTcFPpgxjIyUW9]{Recuperación Arcana}, puedes aumentar en 1 el nivel total de los espacios de conjuro que recuperas.</p><p>[[1 + ceil(@classes.wizard.levels / 2)]]{Niveles totales de espacios de conjuro recuperados}</p>"
+    },
+    "tcoeAstralShard0": {
+      "name": "Esquirla astral",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal es una esquirla solidificada del Plano Astral, a cuyo alrededor se arremolina una niebla plateada. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de @UUID[Compendium.dnd5e.classfeatures.Item.9Uh7uTDNZ04oTJsL]{Metamagia} en un conjuro mientras sostienes o llevas encima la esquirla, justo después de lanzar el conjuro puedes teletransportarte a un espacio sin ocupar que puedas ver a 30 pies o menos de ti.</p>"
+    },
+    "tcoeAstromancyAr": {
+      "name": "Archivo de astromancia"
+    },
+    "tcoeAtlasOfEndle": {
+      "name": "Atlas de horizontes infinitos"
+    },
+    "tcoeBabaYagasMor": {
+      "name": "Mortero y Maja de Baba Yaga"
+    },
+    "tcoeBarrierTatto": {
+      "name": "Tatuaje de barrera"
+    },
+    "tcoeBellBranch00": {
+      "name": "Rama de campanillas",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un druida o un brujo</em></p><p>Este objeto de plata tiene forma de rama de árbol y de él cuelgan pequeñas campanillas doradas. Mientras la sostienes, la rama sirve de canalizador mágico para tus conjuros.</p><p>La rama tiene 3 cargas y recupera 1d3 cargas gastadas cada día al amanecer. Mientras la sostengas, puedes usar las cargas de las siguientes formas:</p><ul><li><p>Como acción adicional, puedes gastar 1 carga para detectar la presencia de aberraciones, celestiales, constructos, elementales, feéricos, infernales o muertos vivientes a 60 pies o menos de ti. Si hay criaturas de ese tipo y no tienen cobertura completa respecto a ti, las campanillas tintinean suavemente y su tono indica los tipos de criatura presentes.</p></li><li><p>Como acción, puedes gastar 1 carga para lanzar @UUID[Compendium.dnd5e.spells.Item.xmDBqZhRVrtLP8h2]{protección contra el bien y el mal}.</p></li></ul>"
+    },
+    "tcoeBlackAbsorbi": {},
+    "tcoeBloodFuryTat": {
+      "name": "Tatuaje de furia sanguina"
+    },
+    "tcoeBloodwellp20": {
+      "name": "Vial del Pozo Sangriento +2"
+    },
+    "tcoeBloodwellp30": {
+      "name": "Vial del Pozo Sangriento +3"
+    },
+    "tcoeBloodwellVia": {
+      "name": "Vial del Pozo Sangriento +1"
+    },
+    "tcoeBlueAbsorbin": {},
+    "tcoeBlueDragonFa": {},
+    "tcoeBrokenTransl": {},
+    "tcoeBullet000000": {},
+    "tcoeBulletModern": {},
+    "tcoeCauldronOfRe": {
+      "name": "Caldero de renacimiento"
+    },
+    "tcoeChaoticEssen": {
+      "name": "Esquirla de esencia caótica"
+    },
+    "tcoeCoilingGrasp": {
+      "name": "Tatuaje de agarre retorcido"
+    },
+    "tcoeCrookOfRao00": {
+      "name": "Cayado de Rao"
+    },
+    "tcoeCrystallineC": {
+      "name": "Crónica cristalina"
+    },
+    "tcoeDemonomiconO": {
+      "name": "Demonomicón de Iggwilv"
+    },
+    "tcoeDemonomiconS": {},
+    "tcoeDevoteesCens": {
+      "name": "Incensario de devoto"
+    },
+    "tcoeDevoutp10000": {
+      "name": "Amuleto de devoción +1",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un clérigo o un paladín</em></p><p>Este amuleto porta el símbolo de una deidad con incrustaciones de piedras o metales preciosos. Mientras lleves puesto el símbolo sagrado, obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros. El bonificador depende de la rareza del amuleto.</p><p>Mientras lleves puesto este amuleto, puedes usar tu rasgo <strong>Canalizar Divinidad</strong> sin gastar uno de sus usos. Una vez utilizada, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p><p><strong>Canalizador mágico.</strong> Un clérigo o un paladín puede usar un símbolo sagrado como canalizador mágico. Para usarlo de este modo, el lanzador debe sostenerlo en la mano, llevarlo de forma visible o portarlo en un escudo.</p>"
+    },
+    "tcoeDevoutp20000": {
+      "name": "Amuleto de devoción +2",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un clérigo o un paladín</em></p><p>Este amuleto porta el símbolo de una deidad con incrustaciones de piedras o metales preciosos. Mientras lleves puesto el símbolo sagrado, obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros. El bonificador depende de la rareza del amuleto.</p><p>Mientras lleves puesto este amuleto, puedes usar tu rasgo <strong>Canalizar Divinidad</strong> sin gastar uno de sus usos. Una vez utilizada, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p><p><strong>Canalizador mágico.</strong> Un clérigo o un paladín puede usar un símbolo sagrado como canalizador mágico. Para usarlo de este modo, el lanzador debe sostenerlo en la mano, llevarlo de forma visible o portarlo en un escudo.</p>"
+    },
+    "tcoeDevoutp30000": {
+      "name": "Amuleto de devoción +3",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un clérigo o un paladín</em></p><p>Este amuleto porta el símbolo de una deidad con incrustaciones de piedras o metales preciosos. Mientras lleves puesto el símbolo sagrado, obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros. El bonificador depende de la rareza del amuleto.</p><p>Mientras lleves puesto este amuleto, puedes usar tu rasgo <strong>Canalizar Divinidad</strong> sin gastar uno de sus usos. Una vez utilizada, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p><p><strong>Canalizador mágico.</strong> Un clérigo o un paladín puede usar un símbolo sagrado como canalizador mágico. Para usarlo de este modo, el lanzador debe sostenerlo en la mano, llevarlo de forma visible o portarlo en un escudo.</p>"
+    },
+    "tcoeDuplicitousM": {
+      "name": "Manuscrito engañoso"
+    },
+    "tcoeDustyHumanMo": {},
+    "tcoeEarthEssence": {
+      "name": "Esquirla de esencia de tierra"
+    },
+    "tcoeEldritchClaw": {
+      "name": "Tatuaje de garra monstruosa"
+    },
+    "tcoeElementalEss": {
+      "name": "Esquirla de esencia elemental"
+    },
+    "tcoeEmeraldLizar": {},
+    "tcoeEnergyCell00": {},
+    "tcoeEvilEssenceS": {
+      "name": "Esquirla de esencia maligna"
+    },
+    "tcoeFarRealmShar": {
+      "name": "Esquirla del Reino Lejano",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal retorcido está impregnado de la esencia deformada del Reino Lejano. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, puedes hacer que un tentáculo viscoso rasgue el tejido de la realidad y golpee a una criatura que puedas ver a 30 pies o menos de ti. La criatura debe superar una tirada de salvación de [[/save ability=cha]] contra tu CD de salvación de conjuros o sufrirá [[/damage 3d6 type=psychic]] de daño psíquico y estará asustada de ti hasta el principio de tu siguiente turno.</p>"
+    },
+    "tcoeFeywildShard": {
+      "name": "Esquirla de Feywild",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cálido cristal resplandece con los colores del ocaso del cielo de Feywild y evoca susurros de recuerdos emotivos. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, puedes tirar en la tabla @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeWildMagicSur]{Sobrecarga de Magia Salvaje} del Player's Handbook. Si el resultado es un conjuro, será demasiado salvaje para verse afectado por tu Metamagia y, si normalmente requiere concentración, no la requerirá en este caso; el conjuro dura todo su tiempo de duración.</p><p>Si no tienes el <strong>Origen Mágico de Magia Salvaje</strong>, una vez utilizada esta propiedad para tirar en la tabla Sobrecarga de Magia Salvaje, no puede volver a usarse hasta el siguiente amanecer.</p>"
+    },
+    "tcoeFireEssenceS": {
+      "name": "Esquirla de esencia de fuego"
+    },
+    "tcoeFlask0000000": {},
+    "tcoeFulminatingT": {
+      "name": "Tratado fulminante"
+    },
+    "tcoeGhostStepTat": {
+      "name": "Tatuaje de paso fantasmal"
+    },
+    "tcoeGoldAbsorbin": {},
+    "tcoeGoldenGoblin": {},
+    "tcoeGoodEssenceS": {
+      "name": "Esquirla de esencia benigna"
+    },
+    "tcoeGreenAbsorbi": {},
+    "tcoeGreenSteelPi": {},
+    "tcoeGuardianEmbl": {
+      "name": "Emblema del guardián",
+      "description": "<p><em>Objeto maravilloso (símbolo sagrado), requiere sintonización por parte de un clérigo o un paladín</em></p><p>Este emblema es el símbolo de una deidad o de una tradición espiritual. Como acción, puedes acoplar el emblema a una armadura o un escudo, o retirarlo.</p><p>El emblema tiene 3 cargas. Cuando tú o una criatura que puedas ver a 30 pies o menos de ti sufra un impacto crítico mientras lleves puesta la armadura o empuñes el escudo que porta el emblema, puedes usar tu reacción para gastar 1 carga y convertir el impacto crítico en un impacto normal.</p><p>El emblema recupera todas las cargas gastadas cada día al amanecer.</p>"
+    },
+    "tcoeHalflingCani": {},
+    "tcoeHeartWeavers": {
+      "name": "Cartilla de Tejecorazones"
+    },
+    "tcoeHeavyBarrier": {
+      "name": "Tatuaje de barrera pesado"
+    },
+    "tcoeHumanMolar00": {},
+    "tcoeIlluminators": {
+      "name": "Tatuaje del Iluminador"
+    },
+    "tcoeIvoryCatMola": {},
+    "tcoeJadeHumanoid": {},
+    "tcoeJaggedSliver": {},
+    "tcoeLapisLazuliO": {},
+    "tcoeLaserPistol0": {},
+    "tcoeLaserRifle00": {},
+    "tcoeLawfulEssenc": {
+      "name": "Esquirla de esencia legal"
+    },
+    "tcoeLibramOfSoul": {
+      "name": "Tratado de almas y carne"
+    },
+    "tcoeLifewellTatt": {
+      "name": "Tatuaje del Pozo de Vida"
+    },
+    "tcoeLightBarrier": {
+      "name": "Tatuaje de barrera ligero"
+    },
+    "tcoeLubasSpells0": {},
+    "tcoeLubasTarokka": {
+      "name": "Tarokka de Almas de Luba"
+    },
+    "tcoeLyreOfBuildi": {
+      "name": "Lira de construcción"
+    },
+    "tcoeLyreSpells00": {},
+    "tcoeMasqueradeTa": {
+      "name": "Tatuaje de mascarada"
+    },
+    "tcoeMediumBarrie": {
+      "name": "Tatuaje de barrera medio"
+    },
+    "tcoeMoonSickle00": {
+      "name": "Hoz de luna +1",
+      "description": "<p>Esta hoz con hoja de plata resplandece tenuemente bajo la luz de la luna. Mientras sostienes esta arma mágica, obtienes un bonificador a las tiradas de ataque y de daño que hagas con ella, así como a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros de druida y de explorador. El bonificador depende de la rareza del arma. Además, puedes usar la hoz como canalizador mágico para tus conjuros de druida y de explorador.</p><p>Cuando lances un conjuro que haga recuperar puntos de golpe, puedes tirar [[/healing 1d4]]{1d4} y añadir el resultado a la cantidad de puntos de golpe recuperados, siempre que sostengas la hoz.</p>"
+    },
+    "tcoeMoonSickle20": {
+      "name": "Hoz de luna +2",
+      "description": "<p>Esta hoz con hoja de plata resplandece tenuemente bajo la luz de la luna. Mientras sostienes esta arma mágica, obtienes un bonificador a las tiradas de ataque y de daño que hagas con ella, así como a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros de druida y de explorador. El bonificador depende de la rareza del arma. Además, puedes usar la hoz como canalizador mágico para tus conjuros de druida y de explorador.</p><p>Cuando lances un conjuro que haga recuperar puntos de golpe, puedes tirar [[/healing 1d4]]{1d4} y añadir el resultado a la cantidad de puntos de golpe recuperados, siempre que sostengas la hoz.</p>"
+    },
+    "tcoeMoonSickle30": {
+      "name": "Hoz de luna +3",
+      "description": "<p>Esta hoz con hoja de plata resplandece tenuemente bajo la luz de la luna. Mientras sostienes esta arma mágica, obtienes un bonificador a las tiradas de ataque y de daño que hagas con ella, así como a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros de druida y de explorador. El bonificador depende de la rareza del arma. Además, puedes usar la hoz como canalizador mágico para tus conjuros de druida y de explorador.</p><p>Cuando lances un conjuro que haga recuperar puntos de golpe, puedes tirar [[/healing 1d4]]{1d4} y añadir el resultado a la cantidad de puntos de golpe recuperados, siempre que sostengas la hoz.</p>"
+    },
+    "tcoeMortarbabaYa": {
+      "name": "Mortero de Baba Yaga"
+    },
+    "tcoeMusket000000": {},
+    "tcoeNaturesMantl": {
+      "name": "Manto de la naturaleza",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un druida o un explorador</em></p><p>Esta capa cambia de color y textura para confundirse con el terreno que te rodea. Mientras la lleves puesta, puedes usarla como canalizador mágico para tus conjuros de druida y de explorador.</p><p>Mientras te encuentres en una zona &amp;Reference[lightlyobscured]{ligeramente oscura}, puedes &amp;Reference[hide]{Esconderte} como acción adicional, aunque te estén observando directamente.</p>"
+    },
+    "tcoeObsidianHuma": {},
+    "tcoeOrangeAbsorb": {},
+    "tcoeOuterEssence": {
+      "name": "Esquirla de esencia exterior"
+    },
+    "tcoePestlebabaYa": {
+      "name": "Maja de Baba Yaga"
+    },
+    "tcoePistol000000": {},
+    "tcoePistolAutoma": {},
+    "tcoePlanecallers": {
+      "name": "Códice del Invocaplanos"
+    },
+    "tcoePrimalFruit0": {},
+    "tcoeProstheticLi": {
+      "name": "Prótesis de extremidad",
+      "description": "<p><em>Objeto maravilloso</em></p><p>Este objeto sustituye a una extremidad que hayas perdido: una mano, un brazo, un pie, una pierna o una parte del cuerpo similar. Mientras lleves la prótesis acoplada, esta funciona exactamente igual que la parte a la que sustituye. Puedes acoplarla o desacoplarla como acción y no te la pueden quitar contra tu voluntad. Se desacopla si mueres.</p>"
+    },
+    "tcoeProtectiveVe": {
+      "name": "Versos protectores"
+    },
+    "tcoeRainbowcolor": {},
+    "tcoeRaoSpells000": {},
+    "tcoeRedAbsorbing": {},
+    "tcoeRevelersConc": {
+      "name": "Acordeón del parrandero",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un bardo</em></p><p>Mientras sostienes este acordeón, obtienes un bonificador de +2 a la CD de las tiradas de salvación de tus conjuros de bardo.</p><p>Como acción, puedes usar el acordeón para lanzar baile irresistible de Otto desde el objeto. Esta propiedad del acordeón no puede volver a usarse hasta el siguiente amanecer.</p><hr /><p>@Embed[Compendium.dnd5e.spells.Item.TfRzwEgBHHkCc6Ql classes=\"caption-top\" caption=false]</p>"
+    },
+    "tcoeRevolver0000": {},
+    "tcoeRhythmmakers": {
+      "name": "Tambor rítmico +1",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un bardo</em></p><p>Mientras sostienes este tambor, obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros de bardo. El bonificador depende de la rareza del tambor.</p><p>Como acción, puedes tocar el tambor para recuperar un uso de tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Inspiración Bárdica}. Esta propiedad del tambor no puede volver a usarse hasta el siguiente amanecer.</p>"
+    },
+    "tcoeRhythmP20000": {
+      "name": "Tambor rítmico +2",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un bardo</em></p><p>Mientras sostienes este tambor, obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros de bardo. El bonificador depende de la rareza del tambor.</p><p>Como acción, puedes tocar el tambor para recuperar un uso de tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Inspiración Bárdica}. Esta propiedad del tambor no puede volver a usarse hasta el siguiente amanecer.</p>"
+    },
+    "tcoeRhythmP30000": {
+      "name": "Tambor rítmico +3",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un bardo</em></p><p>Mientras sostienes este tambor, obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros de bardo. El bonificador depende de la rareza del tambor.</p><p>Como acción, puedes tocar el tambor para recuperar un uso de tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.hpLNiGq7y67d2EHA]{Inspiración Bárdica}. Esta propiedad del tambor no puede volver a usarse hasta el siguiente amanecer.</p>"
+    },
+    "tcoeRifleAutomat": {},
+    "tcoeRifleHunting": {},
+    "tcoeRubyveinedRe": {},
+    "tcoeShadowfellBr": {
+      "name": "Tatuaje de marca de Shadowfell"
+    },
+    "tcoeShadowfellSh": {
+      "name": "Esquirla de Shadowfell",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal opaco y frío resulta pesado y plomizo porque está saturado de la desesperación de Shadowfell. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, puedes maldecir momentáneamente a una criatura objetivo del conjuro; elige una puntuación de característica y, hasta el final de tu siguiente turno, la criatura tendrá desventaja en las pruebas de característica y las tiradas de salvación que usen esa característica.</p>"
+    },
+    "tcoeShotgun00000": {},
+    "tcoeSilverAbsorb": {},
+    "tcoeSilverMindFl": {},
+    "tcoeSpellwrought": {
+      "name": "Tatuaje hechizado"
+    },
+    "tcoeSweettasting": {},
+    "tcoeTeethOfDahlv": {
+      "name": "Dientes de Dahlver-Nar"
+    },
+    "tcoeTwistedBehol": {},
+    "tcoeVioletAbsorb": {},
+    "tcoeVomerineToot": {},
+    "tcoeWaterEssence": {
+      "name": "Esquirla de esencia de agua"
+    },
+    "tcoeWhiteAbsorbi": {},
+    "tcoeYellowAbsorb": {},
+    "tcoeYellowedVamp": {},
+    "u57CvTnvuFYPAaXA": {},
+    "Vk93XfZhd0HLxkaN": {},
+    "xG4CH77hIt7Lqr0i": {},
+    "YvtyXTwwrjbaYoJ5": {}
+  }
+}
