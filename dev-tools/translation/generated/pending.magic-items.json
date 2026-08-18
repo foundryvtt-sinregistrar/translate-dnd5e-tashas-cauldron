@@ -420,11 +420,6 @@
     "sourceChars": 1033
   },
   {
-    "entryId": "tcoeLubasTarokka",
-    "path": "description",
-    "sourceChars": 4922
-  },
-  {
     "entryId": "tcoeLyreSpells00",
     "path": "name",
     "source": "Lyre Spells"
