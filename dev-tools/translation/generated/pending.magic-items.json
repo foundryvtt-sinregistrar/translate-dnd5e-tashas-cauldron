@@ -215,26 +215,6 @@
     "sourceChars": 721
   },
   {
-    "entryId": "tcoeBloodFuryTat",
-    "path": "description",
-    "sourceChars": 735
-  },
-  {
-    "entryId": "tcoeBloodwellp20",
-    "path": "description",
-    "sourceChars": 708
-  },
-  {
-    "entryId": "tcoeBloodwellp30",
-    "path": "description",
-    "sourceChars": 708
-  },
-  {
-    "entryId": "tcoeBloodwellVia",
-    "path": "description",
-    "sourceChars": 708
-  },
-  {
     "entryId": "tcoeBlueAbsorbin",
     "path": "name",
     "source": "Blue Absorbing Tattoo"
@@ -285,11 +265,6 @@
     "sourceChars": 549
   },
   {
-    "entryId": "tcoeCoilingGrasp",
-    "path": "description",
-    "sourceChars": 789
-  },
-  {
     "entryId": "tcoeCrookOfRao00",
     "path": "description",
     "sourceChars": 4141
@@ -338,11 +313,6 @@
     "entryId": "tcoeEarthEssence",
     "path": "description",
     "sourceChars": 748
-  },
-  {
-    "entryId": "tcoeEldritchClaw",
-    "path": "description",
-    "sourceChars": 849
   },
   {
     "entryId": "tcoeElementalEss",
@@ -470,11 +440,6 @@
     "sourceChars": 484
   },
   {
-    "entryId": "tcoeIlluminators",
-    "path": "description",
-    "sourceChars": 714
-  },
-  {
     "entryId": "tcoeIvoryCatMola",
     "path": "name",
     "source": "Ivory Cat Molar"
@@ -535,11 +500,6 @@
     "sourceChars": 1335
   },
   {
-    "entryId": "tcoeLifewellTatt",
-    "path": "description",
-    "sourceChars": 402
-  },
-  {
     "entryId": "tcoeLightBarrier",
     "path": "description",
     "sourceChars": 454
@@ -560,11 +520,6 @@
     "sourceChars": 4922
   },
   {
-    "entryId": "tcoeLyreOfBuildi",
-    "path": "description",
-    "sourceChars": 846
-  },
-  {
     "entryId": "tcoeLyreSpells00",
     "path": "name",
     "source": "Lyre Spells"
@@ -573,11 +528,6 @@
     "entryId": "tcoeLyreSpells00",
     "path": "description",
     "sourceChars": 915
-  },
-  {
-    "entryId": "tcoeMasqueradeTa",
-    "path": "description",
-    "sourceChars": 787
   },
   {
     "entryId": "tcoeMediumBarrie",
@@ -710,11 +660,6 @@
     "sourceChars": 653
   },
   {
-    "entryId": "tcoeShadowfellBr",
-    "path": "description",
-    "sourceChars": 518
-  },
-  {
     "entryId": "tcoeShotgun00000",
     "path": "name",
     "source": "Shotgun"
@@ -738,11 +683,6 @@
     "entryId": "tcoeSilverMindFl",
     "path": "description",
     "sourceChars": 665
-  },
-  {
-    "entryId": "tcoeSpellwrought",
-    "path": "description",
-    "sourceChars": 180
   },
   {
     "entryId": "tcoeSweettasting",

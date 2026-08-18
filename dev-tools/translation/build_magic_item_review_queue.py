@@ -33,6 +33,7 @@ def main() -> int:
     source = load(dev_tools / "export/data/dnd-tashas-cauldron.tcoe-magic-items.en.json")
     official = load(dev_tools / "translation/official-magic-item-names.json")
     sections = load(dev_tools / "export/_data/extracted/magic-item-pdf-sections.es.json")
+    reviewed = load(dev_tools / "translation/reviewed-magic-item-descriptions.json")
 
     queue: list[dict[str, Any]] = []
     missing: list[dict[str, str]] = []
@@ -82,7 +83,7 @@ def main() -> int:
                 "text": spanish_text,
                 "lines": section["lines"],
             },
-            "status": "pending-html-reconstruction",
+            "status": "reviewed" if entry_id in reviewed else "pending-html-reconstruction",
         })
 
     generated = dev_tools / "translation/generated"
@@ -92,6 +93,8 @@ def main() -> int:
     )
     report = {
         "queueEntries": len(queue),
+        "reviewedEntries": sum(row["status"] == "reviewed" for row in queue),
+        "pendingEntries": sum(row["status"] != "reviewed" for row in queue),
         "complexity": counts,
         "missingPdfSections": missing,
         "policy": "Do not copy spanishPdf.text directly into compendium HTML; reconstruct and verify protectedMacros first.",

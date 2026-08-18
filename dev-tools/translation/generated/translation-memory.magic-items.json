@@ -261,6 +261,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, requires attunement</em></p><p>Produced by a special needle, this magic tattoo evokes fury in its form and colors.</p><p><strong>Bloodthirsty Strikes.</strong> The tattoo has 10 charges, and it regains all expended charges daily at dawn. While this tattoo is on your skin, you gain the following benefits:</p><ul><li><p>When you hit a creature with a weapon attack, you can expend a charge to deal an extra 4d6 necrotic damage to the target, and you regain a number of hit points equal to the necrotic damage dealt.</p></li><li><p>When a creature you can see damages you, you can expend a charge and use your reaction to make a melee attack against that creature, with advantage on your attack roll.</p></li></ul>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, las formas y los colores de este tatuaje mágico evocan la furia.</p><p><strong>Golpes sanguinarios.</strong> El tatuaje tiene 10 cargas y recupera todas las cargas gastadas cada día al amanecer. Mientras tengas el tatuaje en la piel, obtienes los siguientes beneficios:</p><ul><li><p>Cuando impactes a una criatura con un ataque con arma, puedes gastar 1 carga para infligir 4d6 de daño necrótico adicional al objetivo y recuperas una cantidad de puntos de golpe igual al daño necrótico infligido.</p></li><li><p>Cuando una criatura que puedas ver te cause daño, puedes gastar 1 carga y usar tu reacción para realizar un ataque cuerpo a cuerpo contra ella con ventaja en la tirada de ataque.</p></li></ul>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBloodFuryTat",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Bloodwell Vial +2",
     "target": "Vial del Pozo Sangriento +2",
     "pack": "tcoe-magic-items",
@@ -268,6 +277,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement by a sorcerer</em></p><p>To attune to this vial, you must place a few drops of your blood into it. The vial can’t be opened while your attunement to it lasts. If your attunement to the vial ends, the contained blood turns to ash. You can use the vial as a spellcasting focus for your spells while wearing or holding it, and you gain a bonus to spell attack rolls and to the saving throw DCs of your sorcerer spells. The bonus is determined by the vial’s rarity.</p><p>In addition, when you roll any Hit Dice to recover hit points while you are carrying the vial, you can regain 5 sorcery points. This property of the vial can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Para sintonizarte con este vial, debes depositar en él unas gotas de tu sangre. El vial no se puede abrir mientras dure tu sintonización con él. Si tu sintonización con el vial termina, la sangre contenida en él se convierte en ceniza. Mientras sostienes o llevas contigo este vial, puedes usarlo como canalizador mágico para tus conjuros y obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros de hechicero. El bonificador depende de la rareza del vial.</p><p>Además, cuando tires Dados de Golpe para recuperar puntos de golpe mientras lleves contigo el vial, puedes recuperar 5 puntos de hechicería. Esta propiedad del vial no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBloodwellp20",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Bloodwell Vial +3",
@@ -279,6 +297,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, requires attunement by a sorcerer</em></p><p>To attune to this vial, you must place a few drops of your blood into it. The vial can’t be opened while your attunement to it lasts. If your attunement to the vial ends, the contained blood turns to ash. You can use the vial as a spellcasting focus for your spells while wearing or holding it, and you gain a bonus to spell attack rolls and to the saving throw DCs of your sorcerer spells. The bonus is determined by the vial’s rarity.</p><p>In addition, when you roll any Hit Dice to recover hit points while you are carrying the vial, you can regain 5 sorcery points. This property of the vial can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Para sintonizarte con este vial, debes depositar en él unas gotas de tu sangre. El vial no se puede abrir mientras dure tu sintonización con él. Si tu sintonización con el vial termina, la sangre contenida en él se convierte en ceniza. Mientras sostienes o llevas contigo este vial, puedes usarlo como canalizador mágico para tus conjuros y obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros de hechicero. El bonificador depende de la rareza del vial.</p><p>Además, cuando tires Dados de Golpe para recuperar puntos de golpe mientras lleves contigo el vial, puedes recuperar 5 puntos de hechicería. Esta propiedad del vial no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBloodwellp30",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Bloodwell Vial +1",
     "target": "Vial del Pozo Sangriento +1",
     "pack": "tcoe-magic-items",
@@ -286,6 +313,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement by a sorcerer</em></p><p>To attune to this vial, you must place a few drops of your blood into it. The vial can’t be opened while your attunement to it lasts. If your attunement to the vial ends, the contained blood turns to ash. You can use the vial as a spellcasting focus for your spells while wearing or holding it, and you gain a bonus to spell attack rolls and to the saving throw DCs of your sorcerer spells. The bonus is determined by the vial’s rarity.</p><p>In addition, when you roll any Hit Dice to recover hit points while you are carrying the vial, you can regain 5 sorcery points. This property of the vial can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Para sintonizarte con este vial, debes depositar en él unas gotas de tu sangre. El vial no se puede abrir mientras dure tu sintonización con él. Si tu sintonización con el vial termina, la sangre contenida en él se convierte en ceniza. Mientras sostienes o llevas contigo este vial, puedes usarlo como canalizador mágico para tus conjuros y obtienes un bonificador a las tiradas de ataque de conjuro y a las CD de las tiradas de salvación de tus conjuros de hechicero. El bonificador depende de la rareza del vial.</p><p>Además, cuando tires Dados de Golpe para recuperar puntos de golpe mientras lleves contigo el vial, puedes recuperar 5 puntos de hechicería. Esta propiedad del vial no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBloodwellVia",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Cauldron of Rebirth",
@@ -313,6 +349,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement</em></p><p>Produced by a special needle, this magic tattoo has long intertwining designs.</p><p><strong>Grasping Tendrils.</strong> While the tattoo is on your skin, you can, as an action, cause the tattoo to extrude into inky tendrils, which reach for a creature you can see within 15 feet of you. The creature must succeed on a DC 14 Strength saving throw or take 3d6 force damage and be grappled by you.</p><p>As an action, the creature can escape the grapple by succeeding on a [[/check ability=str skill=ath dc=14]] or [[/check ability=dex skill=acr dc=14]] check. </p><p>The grapple also ends if you halt it (no action required), if the creature is ever more than 15 feet away from you, or if you use this tattoo on a different creature.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por largos trazos entrelazados.</p><p><strong>Zarcillos prensiles.</strong> Como acción mientras tengas el tatuaje en la piel, puedes hacer que de él broten zarcillos de tinta que intentarán alcanzar a una criatura que puedas ver a 15 pies o menos de ti. La criatura debe superar una tirada de salvación de Fuerza con CD 14 o sufrirá 3d6 de daño de fuerza y quedará agarrada por ti.</p><p>Como acción, la criatura puede escapar del agarre si supera una prueba de [[/check ability=str skill=ath dc=14]] o [[/check ability=dex skill=acr dc=14]].</p><p>El agarre también termina si lo detienes (no requiere acción), si la criatura se aleja a más de 15 pies de ti o si usas este tatuaje en una criatura diferente.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeCoilingGrasp",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Crook of Rao",
@@ -430,6 +475,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement</em></p><p>Produced by a special needle, this magic tattoo depicts clawlike forms and other jagged shapes.</p><p><strong>Magical Strikes.</strong> While the tattoo is on your skin, your unarmed strikes are considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks, and you gain a +1 bonus to attack and damage rolls with unarmed strikes.</p><p><strong>Eldritch Maul.</strong> As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee attacks with a weapon or an unarmed strike can reach a target up to 15 feet away from you, as inky tendrils launch toward the target. In addition, your melee attacks deal an extra [[/damage 1d6 type=force]] damage on a hit. Once used, this bonus action can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está compuesto por formas serradas y similares a garras.</p><p><strong>Ataques mágicos.</strong> Mientras tengas el tatuaje en la piel, tus ataques sin armas se consideran mágicos a efectos de superar la inmunidad y la resistencia a ataques no mágicos, y obtienes un bonificador de +1 a las tiradas de ataque y daño con ataques sin armas.</p><p><strong>Vapuleo sobrenatural.</strong> Como acción adicional, puedes potenciar el tatuaje durante 1 minuto. Durante ese tiempo, cada uno de tus ataques cuerpo a cuerpo con un arma o un ataque sin armas puede alcanzar a un objetivo que esté a hasta 15 pies de ti, ya que proyectas zarcillos de tinta hacia él. Además, tus ataques cuerpo a cuerpo infligen [[/damage 1d6 type=force]] de daño de fuerza adicional si impactan. Una vez utilizada, esta acción adicional no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeEldritchClaw",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Elemental Essence Shard",
@@ -567,6 +621,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p>Wondrous item (tattoo), common (requires attunement)</p><p>Produced by a special needle, this magic tattoo features beautiful calligraphy, images of writing implements, and the like.</p><p><strong>Magical Scribing.</strong> While this tattoo is on your skin, you can write with your fingertip as if it were an ink pen that never runs out of ink.</p><p>As an action, you can touch a piece of writing up to one page in length and speak a creature’s name. The writing becomes invisible to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can’t be used again until the next dawn.</p>",
+    "target": "<p>Objeto maravilloso (tatuaje), común (requiere sintonización)</p><p>Creado con una aguja especial, este tatuaje mágico muestra una preciosa caligrafía, imágenes de útiles de escritura y cosas por el estilo.</p><p><strong>Escritura mágica.</strong> Mientras lleves este tatuaje en la piel, puedes escribir con la punta del dedo como si fuese una pluma cuya tinta nunca se agota.</p><p>Como acción, puedes tocar un fragmento escrito de hasta una página de extensión y pronunciar el nombre de una criatura. El escrito se vuelve invisible para todo el mundo salvo para ti y la criatura mencionada durante las siguientes 24 horas. Cualquiera de los dos puede cancelar la invisibilidad tocando el escrito (no requiere acción). Una vez utilizada, esta acción no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeIlluminators",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Lawful Essence Shard",
     "target": "Esquirla de esencia legal",
     "pack": "tcoe-magic-items",
@@ -592,6 +655,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features symbols of life and rebirth.</p><p><strong>Necrotic Resistance.</strong> You have resistance to necrotic damage.</p><p><strong>Life Ward.</strong> When you would be reduced to 0 hit points, you drop to 1 hit point instead. Once used, this property can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico muestra símbolos de vida y renacimiento.</p><p><strong>Resistencia necrótica.</strong> Tienes resistencia al daño necrótico.</p><p><strong>Protección vital.</strong> Cuando tus puntos de golpe fueran a reducirse a 0, se reducen a 1 en su lugar. Una vez utilizada, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLifewellTatt",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Light Barrier Tattoo",
@@ -621,6 +693,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, requires attunement by a bard</em></p><p>While holding this lyre, you can cast @UUID[Compendium.dnd5e.spells.Item.kjmjY0zlE6IEiQVL]{mending} as an action.</p><p>In addition, you can play the lyre as an action to cast @UUID[Compendium.dnd5e.spells.Item.7Fw7Bf1k3xxDVr5L]{fabricate}, @UUID[Compendium.dnd5e.spells.Item.yI0XWIgI0IGGsR3R]{move earth}, @UUID[Compendium.dnd5e.spells.Item.d9MwcXi7Il3HROXd]{passwall}, or @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonConstr]{summon construct}, and that spell can’t be cast from it again until the next dawn.</p><p>You can also play the lyre as a reaction when an object or a structure you can see within 300 feet of you takes damage, causing it to be immune to that damage and any further damage of the same type until the start of your next turn.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un bardo</em></p><p>Mientras sostienes esta lira, puedes lanzar @UUID[Compendium.dnd5e.spells.Item.kjmjY0zlE6IEiQVL]{reparar} como acción.</p><p>Además, puedes tocar la lira como acción para lanzar @UUID[Compendium.dnd5e.spells.Item.7Fw7Bf1k3xxDVr5L]{fabricar}, @UUID[Compendium.dnd5e.spells.Item.yI0XWIgI0IGGsR3R]{mover la tierra}, @UUID[Compendium.dnd5e.spells.Item.d9MwcXi7Il3HROXd]{pasamuros} o @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonConstr]{invocar autómata}, y ese conjuro no puede volver a lanzarse desde ella hasta el siguiente amanecer.</p><p>También puedes tocar la lira como reacción cuando un objeto o una estructura que puedas ver a 300 pies o menos de ti reciba daño, haciendo que sea inmune a ese daño y a cualquier daño posterior del mismo tipo hasta el principio de tu siguiente turno.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLyreOfBuildi",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Masquerade Tattoo",
     "target": "Tatuaje de mascarada",
     "pack": "tcoe-magic-items",
@@ -628,6 +709,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement</em></p><p>Produced by a special needle, this magic tattoo appears on your body as whatever you desire.</p><p><strong>Fluid Ink.</strong> As a bonus action, you can shape the tattoo into any color or pattern and move it to any area of your skin. Whatever form it takes, it is always obviously a tattoo. It can range in size from no smaller than a copper piece to an intricate work of art that covers all your skin.</p><p><strong>Disguise Self.</strong> As an action, you can use the tattoo to cast the @UUID[Compendium.dnd5e.spells.Item.A3q2gTNqG6fvNGrv]{disguise self} spell ([[/check ability=int skill=inv dc=13]] to discern the disguise). Once the spell is cast from the tattoo, it can’t be cast from the tattoo again until the next dawn.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico aparece en tu cuerpo con la forma que desees.</p><p><strong>Tinta fluida.</strong> Como acción adicional, puedes dotar al tatuaje del color o el patrón que quieras y moverlo a cualquier zona de tu piel. Adopte la forma que adopte, siempre resulta evidente que es un tatuaje. No puede ser más pequeño que una pieza de cobre, pero puede llegar a ser una intrincada obra de arte que cubra toda tu piel.</p><p><strong>Disfrazarse.</strong> Como acción, puedes usar el tatuaje para lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.A3q2gTNqG6fvNGrv]{disfrazarse} ([[/check ability=int skill=inv dc=13]] para descubrir el disfraz). Una vez lanzado el conjuro desde el tatuaje, no puede volver a lanzarse desde él hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeMasqueradeTa",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Medium Barrier Tattoo",
@@ -855,6 +945,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, requires attunement</em></p><p>Produced by a special needle, this magic tattoo is dark in color and abstract.</p><p><strong>Shadow Essence.</strong> You gain &amp;Reference[darkvision] with a range of 60 feet, and you have advantage on [[/check ability=dex skill=ste]] checks.</p><p><strong>Shadowy Defense.</strong> When you take damage, you can use your reaction to become insubstantial for a moment, halving the damage you take. Then the reaction can’t be used again until the next sunset.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico tiene una forma abstracta y es de color oscuro.</p><p><strong>Esencia sombría.</strong> Obtienes &amp;Reference[darkvision]{visión en la oscuridad} con un alcance de 60 pies y tienes ventaja en las pruebas de [[/check ability=dex skill=ste]].</p><p><strong>Defensa sombría.</strong> Cuando recibes daño, puedes usar tu reacción para volverte insustancial durante un instante, lo que reduce a la mitad el daño que recibes. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente anochecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeShadowfellBr",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Shadowfell Shard",
     "target": "Esquirla de Shadowfell",
     "pack": "tcoe-magic-items",
@@ -880,6 +979,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, rarity varies</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeMagicTattoos.JournalEntryPage.X1JTXrJ119g1TNEQ caption=false]</p>",
+    "target": "<p><em>Objeto maravilloso, rareza variable</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeMagicTattoos.JournalEntryPage.X1JTXrJ119g1TNEQ caption=false]</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeSpellwrought",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Teeth of Dahlver-Nar",
