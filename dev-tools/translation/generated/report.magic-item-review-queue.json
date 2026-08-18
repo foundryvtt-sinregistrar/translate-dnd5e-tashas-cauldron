@@ -1,7 +1,7 @@
 {
   "queueEntries": 61,
-  "reviewedEntries": 50,
-  "pendingEntries": 11,
+  "reviewedEntries": 52,
+  "pendingEntries": 9,
   "complexity": {
     "simple": 38,
     "structured": 12,
