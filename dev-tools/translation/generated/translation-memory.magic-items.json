@@ -27,6 +27,132 @@
     "sourceType": "reviewed-glossary"
   },
   {
+    "source": "Mass Cure Wounds (3 charges)",
+    "target": "Curar heridas en masa (3 cargas)",
+    "pack": "tcoe-magic-items",
+    "documentId": "9INNz5wuYoHoko3a",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Scrying",
+    "target": "Escudriñar",
+    "pack": "tcoe-magic-items",
+    "documentId": "9oGrPPdtScF3rWpS",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Hideous Laughter (0 charges)",
+    "target": "Risa repulsiva (0 cargas)",
+    "pack": "tcoe-magic-items",
+    "documentId": "AblR39YnwtX7Pnv8",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Planar Ally (3 charges)",
+    "target": "Aliado planar (3 cargas)",
+    "pack": "tcoe-magic-items",
+    "documentId": "AHRxTM3Ml5u4fETt",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Banishment (1 charge)",
+    "target": "Destierro (1 carga)",
+    "pack": "tcoe-magic-items",
+    "documentId": "AwxFwzXCgjv7cdtH",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Beacon of Hope (1 charge)",
+    "target": "Señal de esperanza (1 carga)",
+    "pack": "tcoe-magic-items",
+    "documentId": "btVMfxpigM5ZK7Xk",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Magic Circle (1 charge)",
+    "target": "Círculo mágico (1 carga)",
+    "pack": "tcoe-magic-items",
+    "documentId": "GMTo5i28HJ67XTni",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Mending",
+    "target": "Reparar",
+    "pack": "tcoe-magic-items",
+    "documentId": "hfg7hYHAC1ZJ2JB4",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Comprehend Languages",
+    "target": "Entender idiomas",
+    "pack": "tcoe-magic-items",
+    "documentId": "huel9eEMyTm8fHYh",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Aura of Purity (2 charges)",
+    "target": "Aura de pureza (2 cargas)",
+    "pack": "tcoe-magic-items",
+    "documentId": "IFN81SVFn7ZQ4P5K",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Detect Poison and Disease",
+    "target": "Detectar venenos y enfermedades",
+    "pack": "tcoe-magic-items",
+    "documentId": "JSEEhWqKREA3vAUX",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Fabricate",
+    "target": "Fabricar",
+    "pack": "tcoe-magic-items",
+    "documentId": "L7W4YvNRKUx3kWze",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Magic Jar (3 charges)",
+    "target": "Urna mágica (3 cargas)",
+    "pack": "tcoe-magic-items",
+    "documentId": "Mcf3pW1rIDFO6Oxa",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Locate Object",
+    "target": "Localizar objeto",
+    "pack": "tcoe-magic-items",
+    "documentId": "nhDYujRhZeqNwPJF",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Passwall",
     "target": "Paso a través de la pared",
     "pack": "tcoe-magic-items",
@@ -142,6 +268,15 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Antimatter Rifle",
+    "target": "Rifle de antimateria",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeAntimatterRi",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Arcane Grimoire +1",
@@ -306,6 +441,15 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Black Absorbing Tattoo",
+    "target": "Tatuaje absorbente negro",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBlackAbsorbi",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Blood Fury Tattoo",
     "target": "Tatuaje de furia sanguina",
     "pack": "tcoe-magic-items",
@@ -376,6 +520,51 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Blue Absorbing Tattoo",
+    "target": "Tatuaje absorbente azul",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBlueAbsorbin",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Blue Dragon Fang",
+    "target": "Colmillo de dragón azul",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBlueDragonFa",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Broken Translucent Fang",
+    "target": "Colmillo translúcido roto",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBrokenTransl",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Bullets",
+    "target": "Balas",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBullet000000",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Bullets, Modern",
+    "target": "Balas modernas",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBulletModern",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Cauldron of Rebirth",
@@ -477,6 +666,15 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Demonomicon Spells",
+    "target": "Conjuros del Demonomicón",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeDemonomiconS",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Devotee's Censer",
     "target": "Incensario de devoto",
     "pack": "tcoe-magic-items",
@@ -567,6 +765,15 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Dusty Human Molar",
+    "target": "Molar humano polvoriento",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeDustyHumanMo",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Earth Essence Shard",
     "target": "Esquirla de esencia de tierra",
     "pack": "tcoe-magic-items",
@@ -610,6 +817,24 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Emerald Lizardfolk Fang",
+    "target": "Colmillo esmeralda de hombre lagarto",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeEmeraldLizar",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Energy Cell",
+    "target": "Célula de energía",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeEnergyCell00",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Evil Essence Shard",
@@ -666,6 +891,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "Flask",
+    "target": "Frasco",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeFlask0000000",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Fulminating Treatise",
     "target": "Tratado fulminante",
     "pack": "tcoe-magic-items",
@@ -702,10 +936,46 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Gold Absorbing Tattoo",
+    "target": "Tatuaje absorbente dorado",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeGoldAbsorbin",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Golden Goblin Bicuspid",
+    "target": "Bicúspide dorado de goblin",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeGoldenGoblin",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Good Essence Shard",
     "target": "Esquirla de esencia benigna",
     "pack": "tcoe-magic-items",
     "documentId": "tcoeGoodEssenceS",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Green Absorbing Tattoo",
+    "target": "Tatuaje absorbente verde",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeGreenAbsorbi",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Green Steel Pit Fiend Fang",
+    "target": "Colmillo de acero verde de diablo de la sima",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeGreenSteelPi",
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
@@ -727,6 +997,15 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Halfling Canine",
+    "target": "Canino de mediano",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeHalflingCani",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Heart Weaver's Primer",
@@ -765,6 +1044,15 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Human Molar",
+    "target": "Molar humano",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeHumanMolar00",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Illuminator’s Tattoo",
     "target": "Tatuaje del Iluminador",
     "pack": "tcoe-magic-items",
@@ -781,6 +1069,60 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Ivory Cat Molar",
+    "target": "Molar felino de marfil",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeIvoryCatMola",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Jade Humanoid Bicuspid",
+    "target": "Bicúspide de jade de humanoide",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeJadeHumanoid",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Jagged Sliver of Tarrasque Tooth",
+    "target": "Fragmento serrado de diente de tarasca",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeJaggedSliver",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Lapis Lazuli Oni Fang",
+    "target": "Colmillo de oni de lapislázuli",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLapisLazuliO",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Laser Pistol",
+    "target": "Pistola láser",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLaserPistol0",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Laser Rifle",
+    "target": "Rifle láser",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLaserRifle00",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Lawful Essence Shard",
@@ -846,6 +1188,15 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Luba's Tarokka Spells",
+    "target": "Conjuros de la Tarokka de Luba",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLubasSpells0",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Luba's Tarokka of Souls",
     "target": "Tarokka de Almas de Luba",
     "pack": "tcoe-magic-items",
@@ -880,6 +1231,15 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Lyre Spells",
+    "target": "Conjuros de la lira",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLyreSpells00",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Masquerade Tattoo",
@@ -981,6 +1341,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "Musket",
+    "target": "Mosquete",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeMusket000000",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Nature's Mantle",
     "target": "Manto de la naturaleza",
     "pack": "tcoe-magic-items",
@@ -997,6 +1366,24 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Obsidian Human Molar",
+    "target": "Molar humano de obsidiana",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeObsidianHuma",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Orange Absorbing Tattoo",
+    "target": "Tatuaje absorbente naranja",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeOrangeAbsorb",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Outer Essence Shard",
@@ -1026,6 +1413,24 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "Pistol",
+    "target": "Pistola",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoePistol000000",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Pistol, Automatic",
+    "target": "Pistola automática",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoePistolAutoma",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Planecaller's Codex",
     "target": "Códice del Invocaplanos",
     "pack": "tcoe-magic-items",
@@ -1042,6 +1447,15 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Primal Fruit",
+    "target": "Fruto primordial",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoePrimalFruit0",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Prosthetic Limb",
@@ -1080,6 +1494,33 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Rainbow-colored Donkey Molar",
+    "target": "Molar de burro de color arcoíris",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRainbowcolor",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Crook of Rao Spells",
+    "target": "Conjuros del Cayado de Rao",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRaoSpells000",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Red Absorbing Tattoo",
+    "target": "Tatuaje absorbente rojo",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRedAbsorbing",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Reveler’s Concertina",
     "target": "Acordeón del parrandero",
     "pack": "tcoe-magic-items",
@@ -1096,6 +1537,15 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Revolver",
+    "target": "Revólver",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRevolver0000",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Rhythm-Maker's Drum +1",
@@ -1152,6 +1602,33 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Rifle, Automatic",
+    "target": "Rifle automático",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRifleAutomat",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Rifle, Hunting",
+    "target": "Rifle de caza",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRifleHunting",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Ruby-veined Red Dragon Fang",
+    "target": "Colmillo de dragón rojo con vetas de rubí",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeRubyveinedRe",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Shadowfell Brand Tattoo",
     "target": "Tatuaje de marca de Shadowfell",
     "pack": "tcoe-magic-items",
@@ -1188,6 +1665,33 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Shotgun",
+    "target": "Escopeta",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeShotgun00000",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Silver Absorbing Tattoo",
+    "target": "Tatuaje absorbente plateado",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeSilverAbsorb",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Silver Mind Flayer Tooth",
+    "target": "Diente plateado de azotamentes",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeSilverMindFl",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Spellwrought Tattoo",
     "target": "Tatuaje hechizado",
     "pack": "tcoe-magic-items",
@@ -1204,6 +1708,15 @@
     "path": "description",
     "confidence": 1.0,
     "sourceType": "official-pdf-reviewed-html"
+  },
+  {
+    "source": "Sweet-tasting Human Canine",
+    "target": "Canino humano de sabor dulce",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeSweettasting",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
   },
   {
     "source": "Teeth of Dahlver-Nar",
@@ -1224,10 +1737,100 @@
     "sourceType": "official-pdf-reviewed-html"
   },
   {
+    "source": "Twisted Beholder Tooth",
+    "target": "Diente retorcido de contemplador",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeTwistedBehol",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Violet Absorbing Tattoo",
+    "target": "Tatuaje absorbente violeta",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeVioletAbsorb",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Vomerine Tooth of a Large Toad",
+    "target": "Diente vomerino de sapo Grande",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeVomerineToot",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
     "source": "Water Essence Shard",
     "target": "Esquirla de esencia de agua",
     "pack": "tcoe-magic-items",
     "documentId": "tcoeWaterEssence",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "White Absorbing Tattoo",
+    "target": "Tatuaje absorbente blanco",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeWhiteAbsorbi",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Yellow Absorbing Tattoo",
+    "target": "Tatuaje absorbente amarillo",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeYellowAbsorb",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Yellowed Vampire Fang",
+    "target": "Colmillo amarillento de vampiro",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeYellowedVamp",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Planar Binding (2 charges)",
+    "target": "Atadura planar (2 cargas)",
+    "pack": "tcoe-magic-items",
+    "documentId": "u57CvTnvuFYPAaXA",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Plane Shift (3 charges)",
+    "target": "Desplazamiento entre planos (3 cargas)",
+    "pack": "tcoe-magic-items",
+    "documentId": "Vk93XfZhd0HLxkaN",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Aura of Life (2 charges)",
+    "target": "Aura de vida (2 cargas)",
+    "pack": "tcoe-magic-items",
+    "documentId": "xG4CH77hIt7Lqr0i",
+    "path": "name",
+    "confidence": 1.0,
+    "sourceType": "official-pdf"
+  },
+  {
+    "source": "Summon Fiend (3 charges)",
+    "target": "Invocar infernal (3 cargas)",
+    "pack": "tcoe-magic-items",
+    "documentId": "YvtyXTwwrjbaYoJ5",
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"

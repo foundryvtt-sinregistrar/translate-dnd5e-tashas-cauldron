@@ -16,18 +16,8 @@
   },
   {
     "entryId": "9INNz5wuYoHoko3a",
-    "path": "name",
-    "source": "Mass Cure Wounds (3 charges)"
-  },
-  {
-    "entryId": "9INNz5wuYoHoko3a",
     "path": "description",
     "sourceChars": 294
-  },
-  {
-    "entryId": "9oGrPPdtScF3rWpS",
-    "path": "name",
-    "source": "Scrying"
   },
   {
     "entryId": "9oGrPPdtScF3rWpS",
@@ -36,18 +26,8 @@
   },
   {
     "entryId": "AblR39YnwtX7Pnv8",
-    "path": "name",
-    "source": "Hideous Laughter (0 charges)"
-  },
-  {
-    "entryId": "AblR39YnwtX7Pnv8",
     "path": "description",
     "sourceChars": 580
-  },
-  {
-    "entryId": "AHRxTM3Ml5u4fETt",
-    "path": "name",
-    "source": "Planar Ally (3 charges)"
   },
   {
     "entryId": "AHRxTM3Ml5u4fETt",
@@ -56,18 +36,8 @@
   },
   {
     "entryId": "AwxFwzXCgjv7cdtH",
-    "path": "name",
-    "source": "Banishment (1 charge)"
-  },
-  {
-    "entryId": "AwxFwzXCgjv7cdtH",
     "path": "description",
     "sourceChars": 1040
-  },
-  {
-    "entryId": "btVMfxpigM5ZK7Xk",
-    "path": "name",
-    "source": "Beacon of Hope (1 charge)"
   },
   {
     "entryId": "btVMfxpigM5ZK7Xk",
@@ -76,18 +46,8 @@
   },
   {
     "entryId": "GMTo5i28HJ67XTni",
-    "path": "name",
-    "source": "Magic Circle (1 charge)"
-  },
-  {
-    "entryId": "GMTo5i28HJ67XTni",
     "path": "description",
     "sourceChars": 1014
-  },
-  {
-    "entryId": "hfg7hYHAC1ZJ2JB4",
-    "path": "name",
-    "source": "Mending"
   },
   {
     "entryId": "hfg7hYHAC1ZJ2JB4",
@@ -96,18 +56,8 @@
   },
   {
     "entryId": "huel9eEMyTm8fHYh",
-    "path": "name",
-    "source": "Comprehend Languages"
-  },
-  {
-    "entryId": "huel9eEMyTm8fHYh",
     "path": "description",
     "sourceChars": 405
-  },
-  {
-    "entryId": "IFN81SVFn7ZQ4P5K",
-    "path": "name",
-    "source": "Aura of Purity (2 charges)"
   },
   {
     "entryId": "IFN81SVFn7ZQ4P5K",
@@ -116,18 +66,8 @@
   },
   {
     "entryId": "JSEEhWqKREA3vAUX",
-    "path": "name",
-    "source": "Detect Poison and Disease"
-  },
-  {
-    "entryId": "JSEEhWqKREA3vAUX",
     "path": "description",
     "sourceChars": 372
-  },
-  {
-    "entryId": "L7W4YvNRKUx3kWze",
-    "path": "name",
-    "source": "Fabricate"
   },
   {
     "entryId": "L7W4YvNRKUx3kWze",
@@ -136,18 +76,8 @@
   },
   {
     "entryId": "Mcf3pW1rIDFO6Oxa",
-    "path": "name",
-    "source": "Magic Jar (3 charges)"
-  },
-  {
-    "entryId": "Mcf3pW1rIDFO6Oxa",
     "path": "description",
     "sourceChars": 2284
-  },
-  {
-    "entryId": "nhDYujRhZeqNwPJF",
-    "path": "name",
-    "source": "Locate Object"
   },
   {
     "entryId": "nhDYujRhZeqNwPJF",
@@ -170,24 +100,9 @@
     "sourceChars": 702
   },
   {
-    "entryId": "tcoeAntimatterRi",
-    "path": "name",
-    "source": "Antimatter Rifle"
-  },
-  {
-    "entryId": "tcoeBlackAbsorbi",
-    "path": "name",
-    "source": "Black Absorbing Tattoo"
-  },
-  {
     "entryId": "tcoeBlackAbsorbi",
     "path": "description",
     "sourceChars": 721
-  },
-  {
-    "entryId": "tcoeBlueAbsorbin",
-    "path": "name",
-    "source": "Blue Absorbing Tattoo"
   },
   {
     "entryId": "tcoeBlueAbsorbin",
@@ -196,33 +111,13 @@
   },
   {
     "entryId": "tcoeBlueDragonFa",
-    "path": "name",
-    "source": "Blue Dragon Fang"
-  },
-  {
-    "entryId": "tcoeBlueDragonFa",
     "path": "description",
     "sourceChars": 411
   },
   {
     "entryId": "tcoeBrokenTransl",
-    "path": "name",
-    "source": "Broken Translucent Fang"
-  },
-  {
-    "entryId": "tcoeBrokenTransl",
     "path": "description",
     "sourceChars": 928
-  },
-  {
-    "entryId": "tcoeBullet000000",
-    "path": "name",
-    "source": "Bullets"
-  },
-  {
-    "entryId": "tcoeBulletModern",
-    "path": "name",
-    "source": "Bullets, Modern"
   },
   {
     "entryId": "tcoeChaoticEssen",
@@ -231,18 +126,8 @@
   },
   {
     "entryId": "tcoeDemonomiconS",
-    "path": "name",
-    "source": "Demonomicon Spells"
-  },
-  {
-    "entryId": "tcoeDemonomiconS",
     "path": "description",
     "sourceChars": 1529
-  },
-  {
-    "entryId": "tcoeDustyHumanMo",
-    "path": "name",
-    "source": "Dusty Human Molar"
   },
   {
     "entryId": "tcoeDustyHumanMo",
@@ -256,18 +141,8 @@
   },
   {
     "entryId": "tcoeEmeraldLizar",
-    "path": "name",
-    "source": "Emerald Lizardfolk Fang"
-  },
-  {
-    "entryId": "tcoeEmeraldLizar",
     "path": "description",
     "sourceChars": 609
-  },
-  {
-    "entryId": "tcoeEnergyCell00",
-    "path": "name",
-    "source": "Energy Cell"
   },
   {
     "entryId": "tcoeEvilEssenceS",
@@ -281,28 +156,13 @@
   },
   {
     "entryId": "tcoeFlask0000000",
-    "path": "name",
-    "source": "Flask"
-  },
-  {
-    "entryId": "tcoeFlask0000000",
     "path": "description",
     "sourceChars": 73
   },
   {
     "entryId": "tcoeGoldAbsorbin",
-    "path": "name",
-    "source": "Gold Absorbing Tattoo"
-  },
-  {
-    "entryId": "tcoeGoldAbsorbin",
     "path": "description",
     "sourceChars": 718
-  },
-  {
-    "entryId": "tcoeGoldenGoblin",
-    "path": "name",
-    "source": "Golden Goblin Bicuspid"
   },
   {
     "entryId": "tcoeGoldenGoblin",
@@ -316,18 +176,8 @@
   },
   {
     "entryId": "tcoeGreenAbsorbi",
-    "path": "name",
-    "source": "Green Absorbing Tattoo"
-  },
-  {
-    "entryId": "tcoeGreenAbsorbi",
     "path": "description",
     "sourceChars": 713
-  },
-  {
-    "entryId": "tcoeGreenSteelPi",
-    "path": "name",
-    "source": "Green Steel Pit Fiend Fang"
   },
   {
     "entryId": "tcoeGreenSteelPi",
@@ -336,18 +186,8 @@
   },
   {
     "entryId": "tcoeHalflingCani",
-    "path": "name",
-    "source": "Halfling Canine"
-  },
-  {
-    "entryId": "tcoeHalflingCani",
     "path": "description",
     "sourceChars": 457
-  },
-  {
-    "entryId": "tcoeHumanMolar00",
-    "path": "name",
-    "source": "Human Molar"
   },
   {
     "entryId": "tcoeHumanMolar00",
@@ -356,18 +196,8 @@
   },
   {
     "entryId": "tcoeIvoryCatMola",
-    "path": "name",
-    "source": "Ivory Cat Molar"
-  },
-  {
-    "entryId": "tcoeIvoryCatMola",
     "path": "description",
     "sourceChars": 554
-  },
-  {
-    "entryId": "tcoeJadeHumanoid",
-    "path": "name",
-    "source": "Jade Humanoid Bicuspid"
   },
   {
     "entryId": "tcoeJadeHumanoid",
@@ -376,33 +206,13 @@
   },
   {
     "entryId": "tcoeJaggedSliver",
-    "path": "name",
-    "source": "Jagged Sliver of Tarrasque Tooth"
-  },
-  {
-    "entryId": "tcoeJaggedSliver",
     "path": "description",
     "sourceChars": 814
   },
   {
     "entryId": "tcoeLapisLazuliO",
-    "path": "name",
-    "source": "Lapis Lazuli Oni Fang"
-  },
-  {
-    "entryId": "tcoeLapisLazuliO",
     "path": "description",
     "sourceChars": 609
-  },
-  {
-    "entryId": "tcoeLaserPistol0",
-    "path": "name",
-    "source": "Laser Pistol"
-  },
-  {
-    "entryId": "tcoeLaserRifle00",
-    "path": "name",
-    "source": "Laser Rifle"
   },
   {
     "entryId": "tcoeLawfulEssenc",
@@ -411,18 +221,8 @@
   },
   {
     "entryId": "tcoeLubasSpells0",
-    "path": "name",
-    "source": "Luba's Tarokka Spells"
-  },
-  {
-    "entryId": "tcoeLubasSpells0",
     "path": "description",
     "sourceChars": 1033
-  },
-  {
-    "entryId": "tcoeLyreSpells00",
-    "path": "name",
-    "source": "Lyre Spells"
   },
   {
     "entryId": "tcoeLyreSpells00",
@@ -435,24 +235,9 @@
     "sourceChars": 545
   },
   {
-    "entryId": "tcoeMusket000000",
-    "path": "name",
-    "source": "Musket"
-  },
-  {
-    "entryId": "tcoeObsidianHuma",
-    "path": "name",
-    "source": "Obsidian Human Molar"
-  },
-  {
     "entryId": "tcoeObsidianHuma",
     "path": "description",
     "sourceChars": 677
-  },
-  {
-    "entryId": "tcoeOrangeAbsorb",
-    "path": "name",
-    "source": "Orange Absorbing Tattoo"
   },
   {
     "entryId": "tcoeOrangeAbsorb",
@@ -465,29 +250,9 @@
     "sourceChars": 1093
   },
   {
-    "entryId": "tcoePistol000000",
-    "path": "name",
-    "source": "Pistol"
-  },
-  {
-    "entryId": "tcoePistolAutoma",
-    "path": "name",
-    "source": "Pistol, Automatic"
-  },
-  {
-    "entryId": "tcoePrimalFruit0",
-    "path": "name",
-    "source": "Primal Fruit"
-  },
-  {
     "entryId": "tcoePrimalFruit0",
     "path": "description",
     "sourceChars": 184
-  },
-  {
-    "entryId": "tcoeRainbowcolor",
-    "path": "name",
-    "source": "Rainbow-colored Donkey Molar"
   },
   {
     "entryId": "tcoeRainbowcolor",
@@ -496,18 +261,8 @@
   },
   {
     "entryId": "tcoeRaoSpells000",
-    "path": "name",
-    "source": "Crook of Rao Spells"
-  },
-  {
-    "entryId": "tcoeRaoSpells000",
     "path": "description",
     "sourceChars": 1050
-  },
-  {
-    "entryId": "tcoeRedAbsorbing",
-    "path": "name",
-    "source": "Red Absorbing Tattoo"
   },
   {
     "entryId": "tcoeRedAbsorbing",
@@ -515,39 +270,9 @@
     "sourceChars": 711
   },
   {
-    "entryId": "tcoeRevolver0000",
-    "path": "name",
-    "source": "Revolver"
-  },
-  {
-    "entryId": "tcoeRifleAutomat",
-    "path": "name",
-    "source": "Rifle, Automatic"
-  },
-  {
-    "entryId": "tcoeRifleHunting",
-    "path": "name",
-    "source": "Rifle, Hunting"
-  },
-  {
-    "entryId": "tcoeRubyveinedRe",
-    "path": "name",
-    "source": "Ruby-veined Red Dragon Fang"
-  },
-  {
     "entryId": "tcoeRubyveinedRe",
     "path": "description",
     "sourceChars": 653
-  },
-  {
-    "entryId": "tcoeShotgun00000",
-    "path": "name",
-    "source": "Shotgun"
-  },
-  {
-    "entryId": "tcoeSilverAbsorb",
-    "path": "name",
-    "source": "Silver Absorbing Tattoo"
   },
   {
     "entryId": "tcoeSilverAbsorb",
@@ -556,18 +281,8 @@
   },
   {
     "entryId": "tcoeSilverMindFl",
-    "path": "name",
-    "source": "Silver Mind Flayer Tooth"
-  },
-  {
-    "entryId": "tcoeSilverMindFl",
     "path": "description",
     "sourceChars": 665
-  },
-  {
-    "entryId": "tcoeSweettasting",
-    "path": "name",
-    "source": "Sweet-tasting Human Canine"
   },
   {
     "entryId": "tcoeSweettasting",
@@ -576,28 +291,13 @@
   },
   {
     "entryId": "tcoeTwistedBehol",
-    "path": "name",
-    "source": "Twisted Beholder Tooth"
-  },
-  {
-    "entryId": "tcoeTwistedBehol",
     "path": "description",
     "sourceChars": 647
   },
   {
     "entryId": "tcoeVioletAbsorb",
-    "path": "name",
-    "source": "Violet Absorbing Tattoo"
-  },
-  {
-    "entryId": "tcoeVioletAbsorb",
     "path": "description",
     "sourceChars": 718
-  },
-  {
-    "entryId": "tcoeVomerineToot",
-    "path": "name",
-    "source": "Vomerine Tooth of a Large Toad"
   },
   {
     "entryId": "tcoeVomerineToot",
@@ -611,18 +311,8 @@
   },
   {
     "entryId": "tcoeWhiteAbsorbi",
-    "path": "name",
-    "source": "White Absorbing Tattoo"
-  },
-  {
-    "entryId": "tcoeWhiteAbsorbi",
     "path": "description",
     "sourceChars": 715
-  },
-  {
-    "entryId": "tcoeYellowAbsorb",
-    "path": "name",
-    "source": "Yellow Absorbing Tattoo"
   },
   {
     "entryId": "tcoeYellowAbsorb",
@@ -631,18 +321,8 @@
   },
   {
     "entryId": "tcoeYellowedVamp",
-    "path": "name",
-    "source": "Yellowed Vampire Fang"
-  },
-  {
-    "entryId": "tcoeYellowedVamp",
     "path": "description",
     "sourceChars": 548
-  },
-  {
-    "entryId": "u57CvTnvuFYPAaXA",
-    "path": "name",
-    "source": "Planar Binding (2 charges)"
   },
   {
     "entryId": "u57CvTnvuFYPAaXA",
@@ -651,28 +331,13 @@
   },
   {
     "entryId": "Vk93XfZhd0HLxkaN",
-    "path": "name",
-    "source": "Plane Shift (3 charges)"
-  },
-  {
-    "entryId": "Vk93XfZhd0HLxkaN",
     "path": "description",
     "sourceChars": 1316
   },
   {
     "entryId": "xG4CH77hIt7Lqr0i",
-    "path": "name",
-    "source": "Aura of Life (2 charges)"
-  },
-  {
-    "entryId": "xG4CH77hIt7Lqr0i",
     "path": "description",
     "sourceChars": 396
-  },
-  {
-    "entryId": "YvtyXTwwrjbaYoJ5",
-    "path": "name",
-    "source": "Summon Fiend (3 charges)"
   },
   {
     "entryId": "YvtyXTwwrjbaYoJ5",

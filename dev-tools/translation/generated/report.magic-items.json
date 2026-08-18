@@ -2,8 +2,8 @@
   "pack": "dnd-tashas-cauldron.tcoe-magic-items",
   "sourceEntries": 143,
   "outputEntries": 143,
-  "translatedNames": 76,
+  "translatedNames": 143,
   "translatedDescriptions": 61,
-  "pendingFields": 136,
+  "pendingFields": 69,
   "note": "Descriptions identical to English are intentionally omitted pending PDF-guided translation."
 }
