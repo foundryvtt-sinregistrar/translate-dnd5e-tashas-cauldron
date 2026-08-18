@@ -1,0 +1,3047 @@
+{
+  "Aberrant Mind": {
+    "es": "Mente aberrante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Acid Resistance": {
+    "es": "Resistencia al ácido",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Add to Hunting Party": {
+    "es": "Añadir a la partida de caza",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Additional Bard Spells": {
+    "es": "Conjuros Adicionales de Bardo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Additional Cleric Spells": {
+    "es": "Conjuros Adicionales de Clérigo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Additional Druid Spells": {
+    "es": "Conjuros adicionales de druida",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Additional Paladin Spells": {
+    "es": "Conjuros Adicionales de Paladín",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Additional Ranger Spells": {
+    "es": "Conjuros adicionales de guardabosques",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Additional Sorcerer Spells": {
+    "es": "Conjuros Adicionales de Hechicero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Additional Warlock Spells": {
+    "es": "Conjuros Adicionales de Brujo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Additional Wizard Spells": {
+    "es": "Conjuros adicionales de mago",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Alacrity": {
+    "es": "Presteza",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Alchemical Savant": {
+    "es": "Erudito Alquímico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Alchemist": {
+    "es": "Alquimista",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Alchemist Spells": {
+    "es": "Conjuros de Alquimista",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Alertness": {
+    "es": "Alerta",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Ambush": {
+    "es": "Emboscada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Ambush Bonus": {
+    "es": "Bonificador de Emboscada",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Animating Performance": {
+    "es": "Interpretación Animadora",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Aquatic Soul": {
+    "es": "Alma Acuática",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Arboreal Soul": {
+    "es": "Alma Arbórea",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Arcane Armor": {
+    "es": "Armadura Arcana",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Arcane Firearm": {
+    "es": "Arma de Fuego Arcana",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Arcane Jolt": {
+    "es": "Sacudida Arcana",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Arcane Jolt Die": {
+    "es": "Dado de Sacudida Arcana",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Arcane Propulsion": {
+    "es": "Propulsión arcana",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Arcane Propulsion Armor": {
+    "es": "Armadura de propulsión arcana",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Arcane Propulsion Gauntlets": {
+    "es": "Guanteletes de propulsión arcana",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Archer": {
+    "es": "Arquero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Armor Model": {
+    "es": "Modelo de Armadura",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Armor Modifications": {
+    "es": "Modificaciones de Armadura",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Armor of Magical Strength": {
+    "es": "Armadura de fuerza mágica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Armor of the Spirit": {
+    "es": "Armadura del espíritu",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Armorer": {
+    "es": "Armero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Armorer Spells": {
+    "es": "Conjuros del Armero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Arms of the Astral Self": {
+    "es": "Brazos del Yo Astral",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Artificer": {
+    "es": "Artífice",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Artificer Initiate": {
+    "es": "Iniciado en artificiero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Artificer Specialist": {
+    "es": "Especialista artífice",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Artillerist": {
+    "es": "Artillero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Artillerist Spells": {
+    "es": "Conjuros de Artillero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Astral Sight": {
+    "es": "Vista astral",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Attacker": {
+    "es": "Atacante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Aura of Alacrity": {
+    "es": "Aura de presteza",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Aura of the Sentinel": {
+    "es": "Aura del Centinela",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Awakened Astral Self": {
+    "es": "Yo Astral Despertado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Awakened Spellbook": {
+    "es": "Libro de Conjuros Despertado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bait and Switch": {
+    "es": "Cebo e Intercambio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Baited AC +1": {
+    "es": "CA (Cebo) +1",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +10": {
+    "es": "CA (Cebo) +10",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +11": {
+    "es": "CA (Cebo) +11",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +12": {
+    "es": "CA (Cebo) +12",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +2": {
+    "es": "CA (Cebo) +2",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +3": {
+    "es": "CA (Cebo) +3",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +4": {
+    "es": "CA (Cebo) +4",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +5": {
+    "es": "CA (Cebo) +5",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +6": {
+    "es": "CA (Cebo) +6",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +7": {
+    "es": "CA (Cebo) +7",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +8": {
+    "es": "CA (Cebo) +8",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Baited AC +9": {
+    "es": "CA (Cebo) +9",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Barbarian": {
+    "es": "Bárbaro",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Bard": {
+    "es": "Bardo",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Bardic Versatility": {
+    "es": "Versatilidad Bárdica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bastion of Law": {
+    "es": "Bastión de la Ley",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Battle Readiness": {
+    "es": "Preparación para la batalla",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Battle Ready": {
+    "es": "Listo para la Batalla",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Battle Ready: Weapon Proficiency": {
+    "es": "Listo para la batalla: competencia con armas",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Battle Smith": {
+    "es": "Forjabatallas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Battle Smith Spells": {
+    "es": "Conjuros de Herrero de Batalla",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Beguiling Twist": {
+    "es": "Giro Embaucador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bestial Soul": {
+    "es": "Alma Bestial",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bite": {
+    "es": "Mordisco",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Blade of Disaster": {
+    "es": "Hoja del Desastre",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bladesinging": {
+    "es": "Canto de Espadas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bladesong": {
+    "es": "Canción de la Hoja",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Blazing Revival": {
+    "es": "Resurgir Llameante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Blessed Strikes": {
+    "es": "Golpes Benditos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Blessed Warrior": {
+    "es": "Guerrero Bendito",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Blind Fighting": {
+    "es": "Combate a Ciegas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Blinded by Radiance": {
+    "es": "Cegado por la radiancia",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Body of the Astral Self": {
+    "es": "Cuerpo del Yo Astral",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Boldness Elixir": {
+    "es": "Elixir de audacia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bolstered": {
+    "es": "Reforzado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Bolstering Magic": {
+    "es": "Magia Reforzadora",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bond of the Talisman": {
+    "es": "Vínculo del Talismán",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bonded": {
+    "es": "Vinculado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Bonus Action Attack": {
+    "es": "Ataque como acción adicional",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Bonus Melee Damage": {
+    "es": "Daño Cuerpo a Cuerpo Adicional",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Bonus Proficiencies": {
+    "es": "Competencias adicionales",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bonus Proficiencies: Armor": {
+    "es": "Competencias adicionales: armadura",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Bonus Proficiencies: Saving Throw": {
+    "es": "Competencias adicionales: Tirada de salvación",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Bonus Proficiencies: Saving Throws": {
+    "es": "Competencias adicionales: tiradas de salvación",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Bonus Proficiencies: Skills": {
+    "es": "Competencias adicionales: habilidades",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Bonus Proficiencies: Tools": {
+    "es": "Competencias adicionales: herramientas",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Bonus Proficiencies: Weapons": {
+    "es": "Competencias adicionales: armas",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Booming Blade": {
+    "es": "Hoja Retumbante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Booming Energy": {
+    "es": "Energía Retumbante",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Boots of the Winding Path": {
+    "es": "Botas del Sendero Enroscado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bottled Respite": {
+    "es": "Reposo Embotellado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Brace": {
+    "es": "Armarse",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Bulwark of Force": {
+    "es": "Baluarte de Fuerza",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Call the Hunt": {
+    "es": "Llamar a la Cacería",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Canny": {
+    "es": "Astuto",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Cantrip Formulas": {
+    "es": "Fórmulas de trucos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Cantrip Versatility": {
+    "es": "Versatilidad de trucos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Cantrips Known": {
+    "es": "Trucos conocidos",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Cast Ritual": {
+    "es": "Lanzar ritual",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Cauterizing Flames": {
+    "es": "Llamas Cauterizantes",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Chalice": {
+    "es": "Cáliz",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Channel Divinity": {
+    "es": "Canalizar Divinidad",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Channel Divinity: Abjure the Extraplanar": {
+    "es": "Canalizar divinidad: Abjurar a los extraplanares",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Channel Divinity: Balm of Peace": {
+    "es": "Canalizar Divinidad: Bálsamo de Paz",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Channel Divinity: Inspiring Smite": {
+    "es": "Canalizar divinidad: Castigo inspirador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Channel Divinity: Order's Demand": {
+    "es": "Canalizar Divinidad: Exigencia de la Orden",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Channel Divinity: Peerless Athlete": {
+    "es": "Canalizar divinidad: atleta sin parangón",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Channel Divinity: Twilight Sanctuary": {
+    "es": "Canalizar Divinidad: Santuario Crepuscular",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Channel Divinity: Watcher's Will": {
+    "es": "Canalizar Divinidad: Voluntad del Vigilante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Charmed": {
+    "es": "Hechizado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Charming Twist": {
+    "es": "Giro Hechizante",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Chemical Mastery": {
+    "es": "Maestría Química",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Choose Infusions": {
+    "es": "Elegir infusiones",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Choose Model": {
+    "es": "Elegir modelo",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Circle Spells": {
+    "es": "Conjuros del círculo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Circle of Spores": {
+    "es": "Círculo de las Esporas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Circle of Stars": {
+    "es": "Círculo de las Estrellas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Circle of Wildfire": {
+    "es": "Círculo de las Llamas Salvajes",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Class Features": {
+    "es": "Rasgos de clase",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Claws": {
+    "es": "Garras",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Cleric": {
+    "es": "Clérigo",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Clockwork Cavalcade": {
+    "es": "Cabalgata Mecánica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Clockwork Magic": {
+    "es": "Magia Mecánica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Clockwork Soul": {
+    "es": "Alma mecánica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Cloud Carved": {
+    "es": "Grabado con nubes",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Cloud Rune": {
+    "es": "Runa de las nubes",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Cold Resistance": {
+    "es": "Resistencia al frío",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "College of Creation": {
+    "es": "Colegio de la Creación",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "College of Eloquence": {
+    "es": "Colegio de la Elocuencia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Commanding Presence": {
+    "es": "Presencia imperiosa",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Consume Die": {
+    "es": "Consumir dado",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Consume Use": {
+    "es": "Consumir uso",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Controlled Surge": {
+    "es": "Oleada Controlada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Coordinated Strike": {
+    "es": "Golpe coordinado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Cosmic Omen": {
+    "es": "Presagio cósmico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Covered in Caustic Brew": {
+    "es": "Cubierto de brebedizo cáustico",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Creative Crescendo": {
+    "es": "Crescendo Creativo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Critical Slashing Damage": {
+    "es": "Daño cortante en crítico",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Crushed": {
+    "es": "Aplastado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Crusher": {
+    "es": "Aplastador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Cunning Action": {
+    "es": "Acción astuta",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Death's Friend": {
+    "es": "Amigo de la Muerte",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Deceptive Magic": {
+    "es": "Magia engañosa",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Dedicated Weapon": {
+    "es": "Arma Dedicada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Defender": {
+    "es": "Defensor",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Defender: Imposed Disadvantage": {
+    "es": "Defensor: Desventaja Impuesta",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Deflect Energy": {
+    "es": "Desviar energía",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Deft Explorer": {
+    "es": "Explorador Diestro",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Deft Explorer Improvements": {
+    "es": "Mejoras de Explorador experto",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Destroy Token": {
+    "es": "Destruir señal",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Divine Strike": {
+    "es": "Golpe Divino",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Divine Strike Die": {
+    "es": "Dado de Golpe Divino",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Domain Spells": {
+    "es": "Conjuros de Dominio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Dragon": {
+    "es": "Dragón",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Dragon's Wisdom": {
+    "es": "Sabiduría del Dragón",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Dread": {
+    "es": "Pavor",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Dreadful Strike Die": {
+    "es": "Dado de golpe pavoroso",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Dreadful Strikes": {
+    "es": "Golpes Pavorosos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Dream of the Blue Veil": {
+    "es": "Sueño del velo azul",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Dreaming": {
+    "es": "Soñando",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Druid": {
+    "es": "Druida",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Druidic Warrior": {
+    "es": "Guerrero druídico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Eldritch Adept": {
+    "es": "Adepto Arcano",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Eldritch Cannon": {
+    "es": "Cañón Arcano",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Eldritch Invocations": {
+    "es": "Invocaciones arcanas",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Eldritch Mind": {
+    "es": "Mente sobrenatural",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Eldritch Versatility": {
+    "es": "Versatilidad Eldritch",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Elemental Gift": {
+    "es": "Don elemental",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Elemental Gift Resistances": {
+    "es": "Resistencias del don elemental",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Embodiment of the Law": {
+    "es": "Encarnación de la Ley",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Emboldening Bond": {
+    "es": "Vínculo Envalentonador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Empowered Arms": {
+    "es": "Brazos potenciados",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Empowered Spells": {
+    "es": "Conjuros potenciados",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Empty Handed Attack": {
+    "es": "Ataque a mano vacía",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Enhanced Arcane Focus": {
+    "es": "Foco arcano mejorado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Enhanced Arcane Focus +2": {
+    "es": "Foco arcano mejorado +2",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Enhanced Bond": {
+    "es": "Vínculo Mejorado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Enhanced Defense": {
+    "es": "Defensa mejorada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Enhanced Defense +2": {
+    "es": "Defensa mejorada +2",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Enhanced Weapon": {
+    "es": "Arma mejorada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Enhanced Weapon +2": {
+    "es": "Arma mejorada +2",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Evasion": {
+    "es": "Evasión",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Expanded Spell List": {
+    "es": "Lista de conjuros ampliada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Expansive Bond": {
+    "es": "Vínculo Expansivo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Expend Die": {
+    "es": "Gastar dado",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Expend Magical Strength Charge": {
+    "es": "Gastar carga de fuerza mágica",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Expend Sorcery Points": {
+    "es": "Gastar puntos de hechicería",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Experimental Elixir": {
+    "es": "Elixir Experimental",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Expert": {
+    "es": "Experto",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Expertise": {
+    "es": "Pericia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Explosive Cannon": {
+    "es": "Cañón Explosivo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Extra Attack": {
+    "es": "Ataque adicional",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Extra Weapon Damage": {
+    "es": "Daño adicional del arma",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Eyes of Night": {
+    "es": "Ojos de la Noche",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Far Scribe": {
+    "es": "Escriba distante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Fathomless Damage Scale": {
+    "es": "Escalado de daño de Lo Insondable",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Fathomless Plunge": {
+    "es": "Inmersión Abisal",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Favored Foe": {
+    "es": "Enemigo Predilecto",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Feats": {
+    "es": "Dotes",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Feature": {
+    "es": "Rasgo",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Features": {
+    "es": "Rasgos",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Fey Reinforcements": {
+    "es": "Refuerzos Feéricos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Fey Touched": {
+    "es": "Tocado por las Hadas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Fey Wanderer": {
+    "es": "Vagabundo feérico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Fey Wanderer Magic": {
+    "es": "Magia del Errante Feérico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Fighter": {
+    "es": "Guerrero",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Fighting Initiate": {
+    "es": "Iniciado en el Combate",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Fighting Style Options": {
+    "es": "Opciones de estilo de combate",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Fighting Styles": {
+    "es": "Estilos de combate",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Fire Carved": {
+    "es": "Grabado con fuego",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Fire Resistance": {
+    "es": "Resistencia al fuego",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Fire Rune": {
+    "es": "Runa de fuego",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Flaming Restraint": {
+    "es": "Sujeción llameante",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Flash of Genius": {
+    "es": "Destello de Genio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Flight Elixir": {
+    "es": "Elixir de vuelo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Flight Speed": {
+    "es": "Velocidad de vuelo",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Flurry of Healing and Harm": {
+    "es": "Ráfaga de curación y daño",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Focused Aim": {
+    "es": "Puntería Concentrada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Focused Casting": {
+    "es": "Lanzamiento concentrado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Force Resistance": {
+    "es": "Resistencia a la fuerza",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Form of the Beast": {
+    "es": "Forma de la Bestia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Forms of the Beast": {
+    "es": "Formas de la Bestia",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Fortified Intellect": {
+    "es": "Intelecto fortificado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Fortified Position": {
+    "es": "Posición Fortificada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Frightening Twist": {
+    "es": "Giro Aterrador",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Frost Carved": {
+    "es": "Grabado con escarcha",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Frost Rune": {
+    "es": "Runa de escarcha",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Full of Stars": {
+    "es": "Lleno de estrellas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Full of Stars (14th Level)": {
+    "es": "Lleno de estrellas (nivel 14)",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Fungal Body": {
+    "es": "Cuerpo fúngico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Fungal Infestation": {
+    "es": "Infestación fúngica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Gathered Swarm": {
+    "es": "Enjambre reunido",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Gathered Swarm Die": {
+    "es": "Dado de enjambre reunido",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Genie's Vessel": {
+    "es": "Vasija del genio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Genie's Wrath": {
+    "es": "Ira del genio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Ghost Walk": {
+    "es": "Paseo Fantasmal",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Giant Size": {
+    "es": "Tamaño de gigante",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Giant's Constitution": {
+    "es": "Constitución de gigante",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Giant's Might": {
+    "es": "Poder de Gigante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Giant's Might Die": {
+    "es": "Dado de Poderío gigante",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Gift of the Protectors": {
+    "es": "Don de los protectores",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Gift of the Sea": {
+    "es": "Don del Mar",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Glimmering": {
+    "es": "Reluciente",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Glimpse the Future": {
+    "es": "Vislumbrar el Futuro",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Glorious Defense": {
+    "es": "Defensa gloriosa",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Grappling Strike": {
+    "es": "Golpe de agarre",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Grasping Tentacles": {
+    "es": "Tentáculos Atrapadores",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Great Stature": {
+    "es": "Gran Estatura",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Green-Flame Blade": {
+    "es": "Hoja de llama verde",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Guarded Mind": {
+    "es": "Mente Protegida",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Guarded Mind Resistance": {
+    "es": "Resistencia de mente protegida",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Guardian": {
+    "es": "Guardián",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Guardian Coil": {
+    "es": "Espiral Guardiana",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Guardian Perfected": {
+    "es": "Guardián Perfeccionado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Guardian Reaction": {
+    "es": "Reacción del Guardián",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Guardian: Defensive Field": {
+    "es": "Guardián: campo defensivo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Guardian: Thunder Gauntlets": {
+    "es": "Guardián: Guanteletes de Trueno",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Gunner": {
+    "es": "Tirador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Halo of Spores": {
+    "es": "Halo de esporas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Halo of Spores Die": {
+    "es": "Dado del Halo de Esporas",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Hand of Harm": {
+    "es": "Mano del Daño",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Hand of Healing": {
+    "es": "Mano de la Curación",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Hand of Ultimate Mercy": {
+    "es": "Mano de la Misericordia Suprema",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Harness Divine Power": {
+    "es": "Aprovechar el Poder Divino",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Heal with Sorcery Points": {
+    "es": "Curar con puntos de hechicería",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Healing Elixir": {
+    "es": "Elixir de curación",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Helm of Awareness": {
+    "es": "Yelmo de alerta",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Helpful": {
+    "es": "Servicial",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Hill Carved": {
+    "es": "Tallado de la colina",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Hill Rune": {
+    "es": "Runa de la colina",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Homing Strikes": {
+    "es": "Golpes certeros",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Homunculus Servant": {
+    "es": "Sirviente homúnculo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Hunting Party": {
+    "es": "Partida de Caza",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Imbued Might": {
+    "es": "Poder Imbuido",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Implement of Peace": {
+    "es": "Implemento de Paz",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Implements of Mercy": {
+    "es": "Instrumentos de la Misericordia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Implements of Mercy: Proficiencies": {
+    "es": "Instrumentos de Misericordia: Competencias",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Improved Critical": {
+    "es": "Crítico mejorado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Improved Defender": {
+    "es": "Defensor Mejorado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Improved Defense": {
+    "es": "Defensa mejorada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Indomitable": {
+    "es": "Indómito",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Indomitable Uses": {
+    "es": "Usos de Indómito",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Infectious Fury": {
+    "es": "Furia Infecciosa",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Infectious Inspiration": {
+    "es": "Inspiración Infecciosa",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Infiltrator": {
+    "es": "Infiltrador",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Infiltrator Perfected": {
+    "es": "Infiltrador Perfeccionado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Infiltrator: Dampening Field": {
+    "es": "Infiltrador: campo amortiguador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Infiltrator: Lightning Launcher": {
+    "es": "Infiltrador: Lanzador de relámpagos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Infiltrator: Lightning Launcher Perfected": {
+    "es": "Infiltrador: lanzador relámpago perfeccionado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Infiltrator: Powered Steps": {
+    "es": "Infiltrador: pasos potenciados",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Infuse Flask": {
+    "es": "Infundir frasco",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Infuse Flask with Spell Slot": {
+    "es": "Infundir frasco con espacio de conjuro",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Infuse Item": {
+    "es": "Infundir Objeto",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Infused Items": {
+    "es": "Objetos infusionados",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Infusions": {
+    "es": "Infusiones",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Infusions Known": {
+    "es": "Infusiones conocidas",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Inscribe Rune": {
+    "es": "Inscribir runa",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Inspiring Help": {
+    "es": "Ayuda inspiradora",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Instinctive Pounce": {
+    "es": "Arremetida Instintiva",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Intellect Fortress": {
+    "es": "Fortaleza del intelecto",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Interception": {
+    "es": "Intercepción",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Investment of the Chain Master": {
+    "es": "Inversión del Maestro de la Cadena",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Invoke Rune": {
+    "es": "Invocar runa",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Judged": {
+    "es": "Juzgado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Judiciousness": {
+    "es": "Sensatez",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Jumping Green Fire": {
+    "es": "Fuego verde saltarín",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Ki-Fueled Attack": {
+    "es": "Ataque Impulsado por Ki",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Lifted": {
+    "es": "Elevado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Light": {
+    "es": "Luz",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Lightning Lure": {
+    "es": "Atraer relámpago",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Lightning Resistance": {
+    "es": "Resistencia al relámpago",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Limited Wish": {
+    "es": "Deseo limitado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Living Legend": {
+    "es": "Leyenda viviente",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Lower Planes": {
+    "es": "Planos Inferiores",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Magic Awareness": {
+    "es": "Percepción mágica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Magic Item Adept": {
+    "es": "Adepto en objetos mágicos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Magic Item Master": {
+    "es": "Maestro de objetos mágicos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Magic Item Savant": {
+    "es": "Erudito en objetos mágicos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Magical Guidance": {
+    "es": "Guía Mágica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Magical Inspiration": {
+    "es": "Inspiración Mágica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Magical Tinkering": {
+    "es": "Trasteo mágico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Maneuver Options": {
+    "es": "Opciones de maniobra",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Maneuvers": {
+    "es": "Maniobras",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Manifest Mind": {
+    "es": "Manifestar Mente",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Mark with Spectral Flame": {
+    "es": "Marcar con Llama Espectral",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Marked": {
+    "es": "Marcado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Martial Role": {
+    "es": "Rol marcial",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Martial Versatility": {
+    "es": "Versatilidad Marcial",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Master Scrivener": {
+    "es": "Maestro Escriba",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Master of Runes": {
+    "es": "Maestro de Runas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Masterful Craftsmanship": {
+    "es": "Artesanía magistral",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Max Elixir Creations": {
+    "es": "Máximo de creaciones de elixir",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Metamagic": {
+    "es": "Metamagia",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Metamagic Adept": {
+    "es": "Adepto en Metamagia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Metamagic Options": {
+    "es": "Opciones de Metamagia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Might of Survival": {
+    "es": "Poder de la supervivencia",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Mighty Swarm": {
+    "es": "Enjambre Poderoso",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Mind Rent": {
+    "es": "Desgarro mental",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Mind Sharpener": {
+    "es": "Afilador Mental",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Mind Sliver": {
+    "es": "Astilla Mental",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Mind Whipped": {
+    "es": "Latigazo mental",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Misty Wanderer": {
+    "es": "Errante brumoso",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Monk": {
+    "es": "Monje",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Mortal Bulwark": {
+    "es": "Baluarte Mortal",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Mote of Potential": {
+    "es": "Mota de Potencial",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Nature's Veil": {
+    "es": "Velo de la Naturaleza",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Necrotic Resistance": {
+    "es": "Resistencia al necrótico",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Oath Spells": {
+    "es": "Conjuros de Juramento",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Oath of Glory": {
+    "es": "Juramento de Gloria",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Oath of the Watchers": {
+    "es": "Juramento de los Vigilantes",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Oceanic Soul": {
+    "es": "Alma Oceánica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "One with the Word": {
+    "es": "Uno con la Palabra",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Optional Class Features": {
+    "es": "Rasgos de clase opcionales",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Order Domain": {
+    "es": "Dominio del Orden",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Order of Scribes": {
+    "es": "Orden de los Escribas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Order's Curse": {
+    "es": "Maldición de la Orden",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Order's Wrath": {
+    "es": "Ira de la Orden",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Otherworldly Glamor": {
+    "es": "Encanto de otro mundo",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Otherworldly Glamour": {
+    "es": "Glamur de otro mundo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Pact Boon Option": {
+    "es": "Opción de Don de Pacto",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Pact of the Talisman": {
+    "es": "Pacto del Talismán",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Paladin": {
+    "es": "Paladín",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Path of Wild Magic": {
+    "es": "Senda de la Magia Salvaje",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Path of the Beast": {
+    "es": "Senda de la Bestia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Peace Domain": {
+    "es": "Dominio de la Paz",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Peerless Athlete": {
+    "es": "Atleta sin parangón",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Perfected Armor": {
+    "es": "Armadura Perfeccionada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Performance of Creation": {
+    "es": "Interpretación de la Creación",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Phantom": {
+    "es": "Fantasma",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Physician's Touch": {
+    "es": "Toque del Médico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Piercer": {
+    "es": "Perforador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Poison Resistance": {
+    "es": "Resistencia al veneno",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Poisoner": {
+    "es": "Envenenador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Potent Cantrips": {
+    "es": "Trucos potentes",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Potent Spellcasting": {
+    "es": "Lanzamiento de Conjuros Potente",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Powered Steps": {
+    "es": "Pasos potenciados",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Primal Awareness": {
+    "es": "Percepción Primordial",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Primal Companion": {
+    "es": "Compañero primigenio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Primal Knowledge": {
+    "es": "Conocimiento Primigenio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Proficiencies": {
+    "es": "Competencias",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Prone": {
+    "es": "Derribado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Protection of the Talisman": {
+    "es": "Protección del talismán",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Protective Bond": {
+    "es": "Vínculo Protector",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Protective Field": {
+    "es": "Campo protector",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psi Warrior": {
+    "es": "Guerrero psiónico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psi-Bolstered Knack": {
+    "es": "Astucia reforzada por psi",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psi-Powered Leap": {
+    "es": "Salto potenciado por psi",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psionic Energy Die": {
+    "es": "Dado de energía psiónica",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Psionic Power": {
+    "es": "Poder psiónico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psionic Powers": {
+    "es": "Poderes psiónicos",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Psionic Sorcery": {
+    "es": "Hechicería Psiónica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psionic Spells": {
+    "es": "Conjuros Psiónicos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psionic Strike": {
+    "es": "Golpe psiónico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psychic Blades": {
+    "es": "Hojas psíquicas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psychic Defenses": {
+    "es": "Defensas Psíquicas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psychic Resistance": {
+    "es": "Resistencia al psíquico",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Psychic Teleportation": {
+    "es": "Teletransportación psíquica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psychic Veil": {
+    "es": "Velo psíquico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Psychic Whispers": {
+    "es": "Susurros psíquicos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Quick Toss": {
+    "es": "Lanzamiento Rápido",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Quickened Healing": {
+    "es": "Curación Acelerada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Radiant Resistance": {
+    "es": "Resistencia al radiante",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Radiant Weapon": {
+    "es": "Arma radiante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Radiant Weapon Reaction": {
+    "es": "Reacción de arma radiante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Ranger": {
+    "es": "Explorador",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Rebuke of the Talisman": {
+    "es": "Reprensión del talismán",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Recover Spell Slot": {
+    "es": "Recuperar espacio de conjuro",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Regain Psionic Energy": {
+    "es": "Recuperar energía psiónica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Reliable Talent": {
+    "es": "Talento fiable",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Rend Mind": {
+    "es": "Desgarrar la mente",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Repeating Shot": {
+    "es": "Disparo repetidor",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Replicate Magic Item": {
+    "es": "Replicar objeto mágico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Replicated Magic Item": {
+    "es": "Objeto mágico replicado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Repulse": {
+    "es": "Repeler",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Repulsion Shield": {
+    "es": "Escudo de repulsión",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Resilience": {
+    "es": "Resistencia",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Resilience Elixir": {
+    "es": "Elixir de resistencia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Resistant Armor": {
+    "es": "Armadura resistente",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Restorative Reagents": {
+    "es": "Reactivos Restauradores",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Restore Balance": {
+    "es": "Restaurar el Equilibrio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Restore Die": {
+    "es": "Restaurar dado",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Restore Half HP": {
+    "es": "Restaurar la mitad de PG",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Returning Weapon": {
+    "es": "Arma retornante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Revelation in Flesh": {
+    "es": "Revelación en la Carne",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Revelation in Flesh: Flying": {
+    "es": "Revelación en la Carne: Vuelo",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Revelation in Flesh: Slimy": {
+    "es": "Revelación en la Carne: Viscoso",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Revelation in Flesh: Swimming": {
+    "es": "Revelación en la Carne: Nado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Revelation in Flesh: Vision": {
+    "es": "Revelación en la Carne: Visión",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Rogue": {
+    "es": "Pícaro",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Roving": {
+    "es": "Errante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Rune Carver": {
+    "es": "Tallador de Runas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Rune Carver Options": {
+    "es": "Opciones de tallador de runas",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Rune Knight": {
+    "es": "Caballero rúnico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Rune Uses": {
+    "es": "Usos de runa",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Runes Known": {
+    "es": "Runas conocidas",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Runic Juggernaut": {
+    "es": "Juggernaut Rúnico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Runic Shield": {
+    "es": "Escudo Rúnico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Saltatorial Soul": {
+    "es": "Alma Saltadora",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Sanctuary Vessel": {
+    "es": "Vasija santuario",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Second Wind": {
+    "es": "Segundo Aliento",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Second Wind Uses": {
+    "es": "Usos de Segundo aliento",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Seeking Spell": {
+    "es": "Conjuro buscador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Seer Sight": {
+    "es": "Vista de Vidente",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Shadow Touched": {
+    "es": "Tocado por las Sombras",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Shared Sight": {
+    "es": "Visión Compartida",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Sharp Mind": {
+    "es": "Mente aguda",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Sharpen Reaction": {
+    "es": "Reacción de Afilar",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Shrouded": {
+    "es": "Envuelto",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Sidekicks": {
+    "es": "Acompañantes",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Silver Tongue": {
+    "es": "Lengua de plata",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Skill Expert": {
+    "es": "Experto en habilidades",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Skills": {
+    "es": "Habilidades",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Slasher": {
+    "es": "Acuchillador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Slowed": {
+    "es": "Ralentizado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Smell/Non-Verbal Sound": {
+    "es": "Olor/Sonido no verbal",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Song of Defense": {
+    "es": "Canción de Defensa",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Song of Victory": {
+    "es": "Canción de Victoria",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Sorcerer": {
+    "es": "Hechicero",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Sorcerous Versatility": {
+    "es": "Versatilidad Hechicera",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Soul Blades": {
+    "es": "Hojas del alma",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Soul Trinket": {
+    "es": "Amuleto de alma",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Soul of Artifice": {
+    "es": "Alma de artificio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Soulknife": {
+    "es": "Cuchilla anímica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Sound": {
+    "es": "Sonido",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Special Food": {
+    "es": "Comida especial",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Spectral Flame": {
+    "es": "Llama Espectral",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Spectral Unarmed Strike": {
+    "es": "Golpe desarmado espectral",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Spell-Refueling Ring": {
+    "es": "Anillo recargaconjuros",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Spell-Storing Item": {
+    "es": "Objeto almacenahechizos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Spellcaster": {
+    "es": "Lanzador de conjuros",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Spellcaster Healer": {
+    "es": "Lanzador de conjuros: Sanador",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Spellcaster Mage": {
+    "es": "Lanzador de conjuros: Mago",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Spellcaster Prodigy": {
+    "es": "Lanzador de conjuros: Prodigio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Spellcasting": {
+    "es": "Lanzamiento de conjuros",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Spellcasting Focus": {
+    "es": "Foco de lanzamiento de conjuros",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Spells": {
+    "es": "Conjuros",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Spells Known": {
+    "es": "Conjuros conocidos",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Spirit Shroud": {
+    "es": "Mortaja Espiritual",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Spreading Spores": {
+    "es": "Esporas extendidas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Star Map": {
+    "es": "Mapa estelar",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Star Map Bolt": {
+    "es": "Rayo del Mapa Estelar",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Star Map Guidance": {
+    "es": "Guía del Mapa Estelar",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Starry Form": {
+    "es": "Forma estrellada",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Starry Form Constellations": {
+    "es": "Constelaciones de Forma estrellada",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Starry Form Die": {
+    "es": "Dado de Forma Estrellada",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Steady Aim": {
+    "es": "Puntería Firme",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Steel Defender": {
+    "es": "Defensor de Acero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Steps of Night": {
+    "es": "Pasos de la Noche",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Stone Carved": {
+    "es": "Tallado en Piedra",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Stone Rune": {
+    "es": "Runa de Piedra",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Storm Carved": {
+    "es": "Tallado por la Tormenta",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Storm Rune": {
+    "es": "Runa de Tormenta",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Sturdy": {
+    "es": "Robustez",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Subclass Features": {
+    "es": "Rasgos de subclase",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Summon Aberration": {
+    "es": "Conjurar Aberración",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon Beast": {
+    "es": "Invocar bestia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon Celestial": {
+    "es": "Invocar celestial",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon Construct": {
+    "es": "Invocar constructo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon Elemental": {
+    "es": "Invocar elemental",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon Fey": {
+    "es": "Invocar feérico",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon Fiend": {
+    "es": "Invocar infernal",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon Shadowspawn": {
+    "es": "Invocar engendro sombrío",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon Undead": {
+    "es": "Invocar no muerto",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon Wildfire Spirit": {
+    "es": "Invocar espíritu de fuego salvaje",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Summon with Spell Slot": {
+    "es": "Invocar con espacio de conjuro",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Summonable Cannons": {
+    "es": "Cañones invocables",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Superior Technique": {
+    "es": "Técnica superior",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Supernatural Charm": {
+    "es": "Encanto sobrenatural",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Swarm Protection": {
+    "es": "Protección del Enjambre",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Swarmed": {
+    "es": "Enjambreado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Swarming Dispersal": {
+    "es": "Dispersión del Enjambre",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Swarmkeeper": {
+    "es": "Guardián del enjambre",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Swarmkeeper Magic": {
+    "es": "Magia del Custodio del Enjambre",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Swiftness Elixir": {
+    "es": "Elixir de presteza",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Swimming Speed": {
+    "es": "Velocidad de nado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Sword Burst": {
+    "es": "Estallido de espadas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Symbiotic Bonuses": {
+    "es": "Bonificadores simbióticos",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Symbiotic Entity": {
+    "es": "Entidad simbiótica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tactical Assessment": {
+    "es": "Evaluación Táctica",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tail": {
+    "es": "Cola",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tasha's Caustic Brew": {
+    "es": "Brebedizo cáustico de Tasha",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tasha's Mind Whip": {
+    "es": "Latigazo mental de Tasha",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tasha's Otherworldly Guise": {
+    "es": "Guisa de otro mundo de Tasha",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Telekinesis Using Psionic Die": {
+    "es": "Telequinesis usando dado psiónico",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Telekinetic": {
+    "es": "Telequinético",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Telekinetic Adept": {
+    "es": "Adepto Telequinético",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Telekinetic Cover": {
+    "es": "Cobertura telequinética",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Telekinetic Master": {
+    "es": "Maestro Telequinético",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Telekinetic Movement": {
+    "es": "Movimiento telequinético",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Telekinetic Thrust": {
+    "es": "Impulso telequinético",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Telepathic": {
+    "es": "Telepático",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Telepathic Speech": {
+    "es": "Habla Telepática",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Teleport": {
+    "es": "Teletransporte",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Temporary Healing": {
+    "es": "Curación temporal",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Tentacle of the Deeps": {
+    "es": "Tentáculo de las Profundidades",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "The Fathomless": {
+    "es": "Lo Insondable",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "The Genie": {
+    "es": "El Genio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "The Right Tool for the Job": {
+    "es": "La herramienta adecuada para el trabajo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Thrown Weapon Fighting": {
+    "es": "Estilo de Combate: Armas Arrojadizas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Thunder Gauntlets: Disadvantage": {
+    "es": "Guanteletes de Trueno: Desventaja",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Thunder Resistance": {
+    "es": "Resistencia al trueno",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Tireless": {
+    "es": "Incansable",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tokens of the Departed": {
+    "es": "Señales de los Difuntos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tool Expertise": {
+    "es": "Pericia con herramientas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tool Proficiencies": {
+    "es": "Competencias con herramientas",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Tool Proficiency": {
+    "es": "Competencia con Herramientas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tools of the Trade": {
+    "es": "Herramientas del Oficio",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Tools of the Trade: Armor": {
+    "es": "Herramientas del oficio: armadura",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Tools of the Trade: Tools": {
+    "es": "Herramientas del oficio: herramientas",
+    "category": "advancement-title",
+    "confidence": 1.0
+  },
+  "Tracking Infusion": {
+    "es": "Seguimiento de Infusión",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Training in War and Song": {
+    "es": "Entrenamiento en Guerra y Canción",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Trance of Order": {
+    "es": "Trance del Orden",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Transformation Elixir": {
+    "es": "Elixir de transformación",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Transmuted Spell": {
+    "es": "Conjuro Transmutado",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Treats": {
+    "es": "Dulces",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Turned": {
+    "es": "Ahuyentado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Twilight Domain": {
+    "es": "Dominio del Crepúsculo",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Twilight Shroud": {
+    "es": "Sudario Crepuscular",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Twinkling Constellations": {
+    "es": "Constelaciones centelleantes",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Twinkling Wisdom (10th Level)": {
+    "es": "Sabiduría Centelleante (Nivel 10)",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Unarmed Fighting": {
+    "es": "Combate sin Armas",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Undying Servitude": {
+    "es": "Servidumbre Imperecedera",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Unfailing Inspiration": {
+    "es": "Inspiración Inquebrantable",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Universal Speech": {
+    "es": "Habla Universal",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Unsettling Words": {
+    "es": "Palabras Inquietantes",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Unstable Backlash": {
+    "es": "Represalia inestable",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Upper Planes": {
+    "es": "Planos Superiores",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Use": {
+    "es": "Usar",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use Boldness Elixir": {
+    "es": "Usar elixir de osadía",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use Flight Elixir": {
+    "es": "Usar elixir de vuelo",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use Healing Elixir": {
+    "es": "Usar elixir de curación",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use Magic": {
+    "es": "Usar magia",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use Resilience Elixir": {
+    "es": "Usar elixir de resiliencia",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use Swiftness Elixir": {
+    "es": "Usar elixir de celeridad",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use Transformation Elixir": {
+    "es": "Usar elixir de transformación",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use with Psionic Die": {
+    "es": "Usar con dado psiónico",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use with Psionic Energy Die": {
+    "es": "Usar con dado de Energía psiónica",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use with Sorcery Points": {
+    "es": "Usar con puntos de hechicería",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use with Spell Slot": {
+    "es": "Usar con espacio de conjuro",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Use with Superiority Die": {
+    "es": "Usar con dado de superioridad",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Veiled": {
+    "es": "Velado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Vigilant Blessing": {
+    "es": "Bendición Vigilante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Vigilant Rebuke": {
+    "es": "Reprimenda Vigilante",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Visage of the Astral Self": {
+    "es": "Semblante del Yo Astral",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Voice of Authority": {
+    "es": "Voz de la Autoridad",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Wails from the Grave": {
+    "es": "Lamentos desde la Tumba",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Warded": {
+    "es": "Protegido",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Warlock": {
+    "es": "Brujo",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Warping Implosion": {
+    "es": "Implosión Deformadora",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Warrior": {
+    "es": "Guerrero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Watcher's Will": {
+    "es": "Voluntad del Vigilante",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Way of Mercy": {
+    "es": "Senda de la Misericordia",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Way of the Astral Self": {
+    "es": "Senda del Ser Astral",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Whispers of the Dead": {
+    "es": "Susurros de los Muertos",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Whispers of the Dead: Proficiency": {
+    "es": "Susurros de los muertos: Competencia",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Wielding Weapon Attack": {
+    "es": "Ataque empuñando arma",
+    "category": "activities-name",
+    "confidence": 1.0
+  },
+  "Wild Companion": {
+    "es": "Compañero salvaje",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Wild Surge": {
+    "es": "Oleada salvaje",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Wizard": {
+    "es": "Mago",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Wizardly Quill": {
+    "es": "Pluma de Hechicero",
+    "category": "document-name",
+    "confidence": 1.0
+  },
+  "Writhing Tide": {
+    "es": "Marea Retorcida",
+    "category": "document-name",
+    "confidence": 1.0
+  }
+}
