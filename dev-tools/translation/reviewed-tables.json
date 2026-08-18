@@ -202,7 +202,20 @@
     "tcoeUndeadDesire": { "name": "Deseos de muertos vivientes" },
     "tcoeUnearthlyRoa": { "name": "Llaves de caminos sobrenaturales" },
     "tcoeUnravelingMa": { "name": "Efectos de magia desatada" },
-    "tcoeWildMagicEru": { "name": "Magia salvaje" },
+    "tcoeWildMagicEru": {
+      "name": "Magia salvaje",
+      "description": "<p>La energía mágica que borbotea en tu interior a veces se desborda. Cuando te dejes llevar por la furia, haz una tirada en la tabla Magia salvaje para determinar el efecto mágico producido.</p><p>Si el efecto obliga a hacer una tirada de salvación, tu CD es igual a 8 + tu bonificador por competencia + tu modificador por Constitución.</p>",
+      "results": {
+        "3Eqsr0sWvhpMH6yQ": "Cuando una criatura te impacte con una tirada de ataque antes de que finalice tu furia, recibirá [[/damage 1d6 type=force]] de daño de fuerza, ya que la magia la atacará como castigo.",
+        "5NKzELyQKOUooO5w": "A tu alrededor crecen temporalmente flores y parras; hasta que finalice tu furia, el suelo a 15 pies o menos de ti será terreno difícil para tus enemigos.",
+        "DP5BhOo91G4ijGRX": "Hasta que finalice tu furia, estarás rodeado de luces protectoras de varios colores; obtienes un bonificador de +1 a la CA y tus aliados obtendrán lo mismo mientras estén a 10 pies o menos de ti.",
+        "gnRZAmmuWnOantOz": "Unos zarcillos sombríos dan latigazos a tu alrededor. Cada criatura de tu elección que puedas ver a 30 pies o menos de ti deberá tener éxito en una tirada de salvación de Constitución [[/save ability=con]] o sufrirá [[/damage 1d12 type=necrotic]] de daño necrótico. También ganas [[/r 1d12#Temporary Hit Points]] puntos de golpe temporales.",
+        "i4J1zLaTDalSYqui": "Un espíritu intangible, con aspecto de flumph o pixie (a tu elección), aparece a 5 pies o menos de una criatura de tu elección que puedas ver a 30 pies o menos de ti. Al final de ese turno, el espíritu explota y cada criatura que esté a 5 pies o menos de él deberá tener éxito en una tirada de salvación de Destreza [[/save ability=dex]] o recibirá [[/damage 1d6 type=force]] de daño de fuerza. Hasta que finalice tu furia, podrás volver a usar este efecto e invocar a otro espíritu en cada uno de tus turnos como acción adicional.",
+        "m6cpBk67eC4r3dcX": "La magia imbuye un arma de tu elección que sostengas. Hasta que finalice tu furia, el tipo de daño del arma cambiará a fuerza y tendrá las propiedades «ligera» y «arrojadiza», con un alcance normal de 20 pies y un alcance largo de 60. Si el arma abandona tu mano, volverá a aparecer en ella al final de ese turno.",
+        "R4CVbQ6tZAeq7sN9": "De tu pecho sale un rayo de luz. Otra criatura de tu elección que puedas ver a 30 pies o menos de ti deberá tener éxito en una tirada de salvación de Constitución [[/save ability=con]] o sufrirá [[/damage 1d6 type=radiant]] de daño radiante y quedará cegada hasta el principio de tu siguiente turno. Hasta que finalice tu furia, podrás volver a usar este efecto en cada uno de tus turnos como acción adicional.",
+        "xyHkZQhbMJ5385k7": "Te teletransportas un máximo de 30 pies hasta un espacio sin ocupar que puedas ver. Hasta que finalice tu furia, podrás volver a usar este efecto en cada uno de tus turnos como acción adicional."
+      }
+    },
     "tcoeWildMagicSur": { "name": "Sobrecarga de magia salvaje" }
   }
 }
