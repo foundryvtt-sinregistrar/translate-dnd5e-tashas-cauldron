@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+dist/
+_release-zip/
+staged.txt
+Thumbs.db
+Desktop.ini
