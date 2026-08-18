@@ -1,0 +1,2557 @@
+{
+  "Aberrant Ground": {
+    "es": "Terreno aberrante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Aberrant Mind": {
+    "es": "Mente aberrante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Aberrant Spirit Template": {
+    "es": "Plantilla de espíritu aberrante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Aberrant Spirits": {
+    "es": "Espíritus aberrantes",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Aberration": {
+    "es": "Aberración",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Adult Red Dracolich": {
+    "es": "Dracoliche rojo adulto",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Advanced Telepathy": {
+    "es": "Telepatía avanzada",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Air Elemental": {
+    "es": "Elemental de Aire",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Air Form": {
+    "es": "Forma de aire",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Air Spirit": {
+    "es": "Espíritu de aire",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Alchemist": {
+    "es": "Alquimista",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Alter Self": {
+    "es": "Alterar el propio aspecto",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Amorphous": {
+    "es": "Amorfo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Amphibious": {
+    "es": "Anfibio",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Ancient Blue Dragon": {
+    "es": "Dragón Azul Ancestral",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Ancient Red Dragon": {
+    "es": "Dragón rojo anciano",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Animate Boulders": {
+    "es": "Animar peñascos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Animate Dead": {
+    "es": "Animar a los muertos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Animate Trees": {
+    "es": "Animar árboles",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Animated Armor": {
+    "es": "Armadura animada",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Antimagic Cone": {
+    "es": "Cono antimagia",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Antimagic Susceptibility": {
+    "es": "Susceptibilidad a la antimagia",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Artificer": {
+    "es": "Artífice",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Artillerist": {
+    "es": "Artillero",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Attack": {
+    "es": "Atacar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Avatar of Death": {
+    "es": "Avatar de la Muerte",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Avenger Spirit": {
+    "es": "Espíritu vengador",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Awakened Spellbook": {
+    "es": "Libro de conjuros despertado",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Baba Yaga's Mortar": {
+    "es": "Mortero de Baba Yaga",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Banishment": {
+    "es": "Destierro",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Barbarian": {
+    "es": "Bárbaro",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Barbed Devil": {
+    "es": "Diablo de púas",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Barbed Hide": {
+    "es": "Piel con púas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Bard": {
+    "es": "Bardo",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Battle Smith": {
+    "es": "Herrero de Batalla",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Beak": {
+    "es": "Pico",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Beaks": {
+    "es": "Picos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Beast": {
+    "es": "Bestia",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Beast of the Land": {
+    "es": "Bestia de la Tierra",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Beast of the Sea": {
+    "es": "Bestia del Mar",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Beast of the Sky": {
+    "es": "Bestia del Cielo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Beholder": {
+    "es": "Contemplador",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Beholderkin Spirit": {
+    "es": "Espíritu de vástago de contemplador",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Berserk Lashing": {
+    "es": "Azote frenético",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Bestial Spirit Template": {
+    "es": "Plantilla de espíritu bestial",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Bestial Spirits": {
+    "es": "Espíritus bestiales",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Binding Strike: Bludgeoning": {
+    "es": "Golpe vinculante: contundente",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Binding Strike: Piercing": {
+    "es": "Golpe vinculante: perforante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Bite": {
+    "es": "Mordisco",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Bite (Bat or Vampire Form Only)": {
+    "es": "Mordisco (solo forma de murciélago o vampiro)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Bite (Slaad Form Only)": {
+    "es": "Mordisco (solo forma de slaad)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Bite (beast form only)": {
+    "es": "Mordisco (solo en forma de bestia)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Bites": {
+    "es": "Mordiscos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Bladesinging": {
+    "es": "Danza de hojas",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Blasphemous Word": {
+    "es": "Palabra blasfema",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Blinding Dust": {
+    "es": "Polvo cegador",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Blinding Spittle": {
+    "es": "Escupitajo cegador",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Blink Dog": {
+    "es": "Perro parpadeante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Blur": {
+    "es": "Desenfocar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Breastplate": {
+    "es": "Coraza",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Calm Emotions": {
+    "es": "Calmar emociones",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Cat": {
+    "es": "Gato",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Celestial Spirit Template": {
+    "es": "Plantilla de espíritu celestial",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Celestial Spirits": {
+    "es": "Espíritus celestiales",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Chain Lightning": {
+    "es": "Rayo en cadena",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Chain Mail": {
+    "es": "Cota de malla",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Chain Shirt": {
+    "es": "Cota de anillas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Change Shape": {
+    "es": "Cambiar de forma",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Channel Magic": {
+    "es": "Canalizar magia",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Channel Negative Energy": {
+    "es": "Canalizar energía negativa",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Charge": {
+    "es": "Carga",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Charm": {
+    "es": "Encantar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Charm Person": {
+    "es": "Hechizar persona",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Charm Ray": {
+    "es": "Rayo de hechizar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Charmed": {
+    "es": "Hechizado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Charmed (Destructive)": {
+    "es": "Hechizado (destructivo)",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Children of the Night": {
+    "es": "Hijos de la noche",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Chilling Rend": {
+    "es": "Desgarrón gélido",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Chomp": {
+    "es": "Mordisco voraz",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Circle of Spores": {
+    "es": "Círculo de esporas",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Circle of Stars": {
+    "es": "Círculo de las Estrellas",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Circle of Wildfire": {
+    "es": "Círculo del Fuego Salvaje",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Classes": {
+    "es": "Clases",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Claw": {
+    "es": "Garra",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Claw (Bite in Beast Form)": {
+    "es": "Garra (Mordisco en forma de bestia)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Claw (Fiend Form Only)": {
+    "es": "Garra (solo forma demoníaca)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Claw (Oni Form Only)": {
+    "es": "Garra (solo forma de oni)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Claw (Slaad Form Only)": {
+    "es": "Garra (solo forma de slaad)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Claws": {
+    "es": "Garras",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Claws (Hag Form Only)": {
+    "es": "Garras (solo forma de bruja)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Clay Spirit": {
+    "es": "Espíritu de arcilla",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Cleric": {
+    "es": "Clérigo",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Clockwork Soul": {
+    "es": "Alma mecánica",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "College of Eloquence": {
+    "es": "Colegio de la Elocuencia",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Command": {
+    "es": "Orden",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Cone of Cold": {
+    "es": "Cono de frío",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Conjure Elemental": {
+    "es": "Conjurar elemental",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Construct": {
+    "es": "Constructo",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Construct Spirit Template": {
+    "es": "Plantilla de espíritu constructo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Construct Spirits": {
+    "es": "Espíritus constructo",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Contact Other Plane": {
+    "es": "Contactar con otro plano",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Contagion": {
+    "es": "Contagio",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Control Water": {
+    "es": "Controlar agua",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Corrupting Touch": {
+    "es": "Toque corruptor",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Counterspell": {
+    "es": "Contrahechizo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Create Specter": {
+    "es": "Crear espectro menor",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Create or Destroy Water": {
+    "es": "Crear o destruir agua",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Crushing Leap": {
+    "es": "Salto aplastante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Cure Wounds": {
+    "es": "Curar heridas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dagger": {
+    "es": "Daga",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dancing Item": {
+    "es": "Objeto danzante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Dancing Lights": {
+    "es": "Luces danzantes",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Darkness": {
+    "es": "Oscuridad",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Death Knight": {
+    "es": "Caballero de la Muerte",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Death Ray": {
+    "es": "Rayo de muerte",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Death Slaad": {
+    "es": "Slaad de la muerte",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Death Throes": {
+    "es": "Estertores de muerte",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Deathly Touch": {
+    "es": "Toque mortífero",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Defender Spirit": {
+    "es": "Espíritu defensor",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Deflect Attack": {
+    "es": "Desviar ataque",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Demon Spirit": {
+    "es": "Espíritu demoníaco",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Despair Shadow": {
+    "es": "Sombra de Desesperación",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Destructive Fist (melee)": {
+    "es": "Puño destructivo (cuerpo a cuerpo)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Destructive Fist (ranged)": {
+    "es": "Puño destructivo (a distancia)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Detect": {
+    "es": "Detectar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Detect Evil and Good": {
+    "es": "Detectar el bien y el mal",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Detect Life": {
+    "es": "Detectar vida",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Detect Magic": {
+    "es": "Detectar magia",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Detect Thoughts": {
+    "es": "Detectar pensamientos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Devil Sight": {
+    "es": "Vista diabólica",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Devil Spirit": {
+    "es": "Espíritu diabólico",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Devil's Sight": {
+    "es": "Vista diabólica",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dimension Door": {
+    "es": "Puerta dimensional",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Disguise Self": {
+    "es": "Disfrazarse",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Disintegration Ray": {
+    "es": "Rayo de desintegración",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dispel Evil and Good": {
+    "es": "Disipar el bien y el mal",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dispel Magic": {
+    "es": "Disipar magia",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Divination": {
+    "es": "Adivinación",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Divine Eminence": {
+    "es": "Eminencia divina",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dominate Monster": {
+    "es": "Dominar monstruo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dominate Person": {
+    "es": "Dominar persona",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dragon": {
+    "es": "Dragón",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Draining Kiss": {
+    "es": "Beso drenador",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dreadful Glare": {
+    "es": "Mirada pavorosa",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Dreadful Scream": {
+    "es": "Grito aterrador",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Druid": {
+    "es": "Druida",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Druidcraft": {
+    "es": "Druidismo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Earth Elemental": {
+    "es": "Elemental de Tierra",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Earth Glide": {
+    "es": "Deslizamiento terrestre",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Earth Spirit": {
+    "es": "Espíritu de tierra",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Echolocation": {
+    "es": "Ecolocalización",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Eldritch Cannons": {
+    "es": "Cañones sobrenaturales",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Elemental Demise": {
+    "es": "Muerte elemental",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Elemental Spirit Template": {
+    "es": "Plantilla de espíritu elemental",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Elemental Spirits": {
+    "es": "Espíritus elementales",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Energetic Dance": {
+    "es": "Danza enérgica",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Enervation Ray": {
+    "es": "Rayo de debilitamiento",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Entangle": {
+    "es": "Enredar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Ethereal Sight": {
+    "es": "Vista etérea",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Etherealness": {
+    "es": "Eteridad",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Evasion": {
+    "es": "Evasión",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Explosive Cannons": {
+    "es": "Cañones explosivos",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Explosive Flamethrower": {
+    "es": "Lanzallamas explosivo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Explosive Force Ballista": {
+    "es": "Balista explosiva de fuerza",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Explosive Protector": {
+    "es": "Protector explosivo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Extract Brain": {
+    "es": "Extraer cerebro",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Eye Ray": {
+    "es": "Rayo ocular",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Eye Rays": {
+    "es": "Rayos oculares",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "False Appearance": {
+    "es": "Apariencia falsa",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "False Appearance (Object Form Only)": {
+    "es": "Apariencia falsa (solo forma de objeto)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fear": {
+    "es": "Miedo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fear Aura": {
+    "es": "Aura de miedo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fear Ray": {
+    "es": "Rayo de miedo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fear Shadow": {
+    "es": "Sombra de Miedo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Festering Aura": {
+    "es": "Aura supurante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fey": {
+    "es": "Feérico",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Fey Spirit Template": {
+    "es": "Plantilla de espíritu feérico",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Fey Spirits": {
+    "es": "Espíritus feéricos",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Fey Step": {
+    "es": "Paso feérico",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fey Wanderer": {
+    "es": "Errante Feérico",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Fiend": {
+    "es": "Demonio",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Fiendish Spirit Template": {
+    "es": "Plantilla de espíritu infernal",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Fiendish Spirits": {
+    "es": "Espíritus demoníacos",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Fiery Teleportation": {
+    "es": "Teleportación ígnea",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fighter": {
+    "es": "Guerrero",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Finger of Death": {
+    "es": "Dedo de la muerte",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fire Aura": {
+    "es": "Aura de fuego",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fire Bolt": {
+    "es": "Saeta de fuego",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fire Breath": {
+    "es": "Aliento de fuego",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fire Elemental": {
+    "es": "Elemental de fuego",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Fire Form": {
+    "es": "Forma de fuego",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fire Ray": {
+    "es": "Rayo de fuego",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fire Spirit": {
+    "es": "Espíritu de Fuego",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Fireball": {
+    "es": "Bola de fuego",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fist": {
+    "es": "Puño",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Flame Seed": {
+    "es": "Semilla de llama",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Flameskull": {
+    "es": "Cráneo Flamígero",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Flamethrower": {
+    "es": "Lanzallamas",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Flaming Sphere": {
+    "es": "Esfera llameante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fly": {
+    "es": "Volar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Flyby": {
+    "es": "Vuelo rasante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Flying Sword (Radiant)": {
+    "es": "Espada voladora (Radiante)",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Fog Cloud": {
+    "es": "Nube de niebla",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Force Ballista": {
+    "es": "Balista de fuerza",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Force Strike": {
+    "es": "Golpe de fuerza",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Force-Empowered Rend": {
+    "es": "Desgarrar potenciado por fuerza",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Force-Empowered Slam": {
+    "es": "Golpe potenciado por fuerza",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Freeze": {
+    "es": "Congelación",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Frightful Presence": {
+    "es": "Presencia aterradora",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Fuming Spirit": {
+    "es": "Espíritu Humeante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Fury Shadow": {
+    "es": "Furia sombría",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Gaseous Form": {
+    "es": "Forma gaseosa",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Genie's Vessel": {
+    "es": "Vasija del Genio",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Ghost": {
+    "es": "Fantasma",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Ghost in the Machine": {
+    "es": "Fantasma en la máquina",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Giant": {
+    "es": "Gigante",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Giant Bat": {
+    "es": "Murciélago Gigante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Giant Centipede": {
+    "es": "Ciempiés gigante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Giant Frog": {
+    "es": "Rana gigante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Giant Octopus": {
+    "es": "Pulpo gigante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Giant Poisonous Snake": {
+    "es": "Serpiente Gigante Venenosa",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Giant Spider": {
+    "es": "Araña gigante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Giant Toad": {
+    "es": "Sapo gigante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Giant Wolf Spider": {
+    "es": "Araña lobo gigante",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Gibbering": {
+    "es": "Balbuceo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Gibbering Mouther": {
+    "es": "Balbuceador incoherente",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Glaive": {
+    "es": "Alabarda",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Goblin Boss": {
+    "es": "Jefe Goblin",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Grave Bolt": {
+    "es": "Proyectil funerario",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Greater Invisibility": {
+    "es": "Invisibilidad superior",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Greatsword": {
+    "es": "Mandoble",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Green Hag": {
+    "es": "Bruja verde",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Guardian of Faith": {
+    "es": "Guardián de la fe",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Guiding Bolt": {
+    "es": "Rayo guía",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Harm": {
+    "es": "Daño",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Heal Self": {
+    "es": "Sanarse",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Healing Touch": {
+    "es": "Toque sanador",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Heat Metal": {
+    "es": "Calentar metal",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Heated Body": {
+    "es": "Cuerpo ardiente",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Heavy Club": {
+    "es": "Garrote pesado",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Hellfire Orb": {
+    "es": "Orbe de fuego infernal",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Hold Breath": {
+    "es": "Aguantar la respiración",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Hold Monster": {
+    "es": "Inmovilizar monstruo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Hold Person": {
+    "es": "Inmovilizar persona",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Homunculus": {
+    "es": "Homúnculo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Hooves": {
+    "es": "Pezuñas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Horn": {
+    "es": "Cuerno",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Horns": {
+    "es": "Cuernos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Horrifying Visage": {
+    "es": "Aspecto aterrador",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Humanoid": {
+    "es": "Humanoide",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Hurl Flame": {
+    "es": "Lanzar llama",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Ice Devil": {
+    "es": "Demonio de Hielo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Ice Storm": {
+    "es": "Tormenta de hielo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Identify": {
+    "es": "Identificar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Illumination": {
+    "es": "Iluminación",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Illusory Appearance": {
+    "es": "Apariencia ilusoria",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Immutable Existence": {
+    "es": "Existencia inmutable",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Immutable Form": {
+    "es": "Forma inmutable",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Imp": {
+    "es": "Diablillo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Improved Steel Defender": {
+    "es": "Defensor de acero mejorado",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Incorporeal Movement": {
+    "es": "Movimiento incorpóreo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Incorporeal Passage": {
+    "es": "Paso incorpóreo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Incubus": {
+    "es": "Íncubo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Ink Cloud": {
+    "es": "Nube de tinta",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Innate Spellcasting": {
+    "es": "Conjuración innata",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Innate Spellcasting (Psionics)": {
+    "es": "Lanzamiento innato de conjuros (psiónica)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Insect Plague": {
+    "es": "Plaga de insectos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Invisibility": {
+    "es": "Invisibilidad",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Invisibility (Self Only)": {
+    "es": "Invisibilidad (solo a sí mismo)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Invisible Passage": {
+    "es": "Paso invisible",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Irrepressible Dance": {
+    "es": "Danza irrefrenable",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Javelin": {
+    "es": "Jabalina",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Juvenile Mimic": {
+    "es": "Mímico juvenil",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Keen Hearing": {
+    "es": "Oído agudo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Keen Hearing and Smell": {
+    "es": "Oído y olfato agudos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Keen Smell": {
+    "es": "Olfato agudo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Lair Action: Eye Ray": {
+    "es": "Acción de guarida: rayo ocular",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Lair Action: Terrain Alteration": {
+    "es": "Acción de guarida: alteración del terreno",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Lair Action: Wall Tentacles": {
+    "es": "Acción de guarida: tentáculos en la pared",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Lair Actions": {
+    "es": "Acciones de guarida",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Land Spirit": {
+    "es": "Espíritu de Tierra",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Leather Armor": {
+    "es": "Armadura de cuero",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Legendary Actions": {
+    "es": "Acciones legendarias",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Legendary Resistance": {
+    "es": "Resistencia legendaria",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Lesser Restoration": {
+    "es": "Restauración menor",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Levitate": {
+    "es": "Levitar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Life Drain": {
+    "es": "Drenaje vital",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Light": {
+    "es": "Luz",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Lightning Breath": {
+    "es": "Aliento de relámpago",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Limited Magic Immunity": {
+    "es": "Inmunidad mágica limitada",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Lizardfolk": {
+    "es": "Hombre Lagarto",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Lizardfolk King/Queen": {
+    "es": "Rey/Reina Saurio",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Longsword": {
+    "es": "Espada larga",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Mace": {
+    "es": "Maza",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Mage": {
+    "es": "Mago",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Mage Armor": {
+    "es": "Armadura de mago",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Mage Hand": {
+    "es": "Mano de mago",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Magic Items": {
+    "es": "Objetos mágicos",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Magic Missile": {
+    "es": "Proyectil mágico",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Magic Resistance": {
+    "es": "Resistencia mágica",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Magic Resistant Construction": {
+    "es": "Construcción resistente a la magia",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Magic Weapon": {
+    "es": "Arma mágica",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Magic Weapons": {
+    "es": "Armas mágicas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Major Image": {
+    "es": "Imagen mayor",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Marshal Undead": {
+    "es": "Reunir a los no muertos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Maul": {
+    "es": "Desgarrar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Melancholy Dance": {
+    "es": "Danza melancólica",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Metal Spirit": {
+    "es": "Espíritu de metal",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Mighty Servant of Leuk-o": {
+    "es": "Poderoso Sirviente de Leuk-o",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Mimicry": {
+    "es": "Mimetismo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Mind Blank": {
+    "es": "Mente en blanco",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Mind Blast": {
+    "es": "Explosión mental",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Mind Flayer": {
+    "es": "Azotamentes",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Minor Illusion": {
+    "es": "Ilusión menor",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Mirror Image": {
+    "es": "Imagen múltiple",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Mirthful Spirit": {
+    "es": "Espíritu risueño",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Misty Escape": {
+    "es": "Evasión brumosa",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Misty Step": {
+    "es": "Paso brumoso",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Monk": {
+    "es": "Monje",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Monstrosity": {
+    "es": "Monstruosidad",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Move": {
+    "es": "Moverse",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Move Earth": {
+    "es": "Mover tierra",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Multiattack": {
+    "es": "Ataque múltiple",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Multiattack (Vampire Form Only)": {
+    "es": "Multiataque (solo forma de vampiro)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Mummy": {
+    "es": "Momia",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Mummy Lord": {
+    "es": "Señor Momia",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Night Hag": {
+    "es": "Bruja nocturna",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Nightmare Haunting": {
+    "es": "Acoso de pesadillas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Nimble Escape": {
+    "es": "Huida ágil",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Oath of Glory": {
+    "es": "Juramento de Gloria",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Oath of the Watchers": {
+    "es": "Juramento de los Vigilantes",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Order Domain": {
+    "es": "Dominio del Orden",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Order of Scribes": {
+    "es": "Orden de los Escribas",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Pack Tactics": {
+    "es": "Tácticas de manada",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Paladin": {
+    "es": "Paladín",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Paralyzing Ray": {
+    "es": "Rayo paralizante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Parry": {
+    "es": "Parada",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Pass without Trace": {
+    "es": "Pasar sin dejar rastro",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Passwall": {
+    "es": "Paso a través de la pared",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Path of Wild Magic": {
+    "es": "Senda de magia salvaje",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Path of the Beast": {
+    "es": "Senda de la Bestia",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Peace Domain": {
+    "es": "Dominio de la Paz",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Petrification Ray": {
+    "es": "Rayo de petrificación",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Phantasmal Force": {
+    "es": "Fuerza fantasmal",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Phantasmal Killer": {
+    "es": "Asesino fantasmagórico",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Phantom": {
+    "es": "Fantasma",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Pit Fiend": {
+    "es": "Demonio mayor",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Plane Shift": {
+    "es": "Cambio de plano",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Plane Shift (Self Only)": {
+    "es": "Desplazamiento planar (solo a sí mismo)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Plane Shift (self only)": {
+    "es": "Desplazamiento planar (solo a sí misma)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Plant": {
+    "es": "Planta",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Plate Armor": {
+    "es": "Armadura de placas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Possession": {
+    "es": "Posesión",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Prestidigitation": {
+    "es": "Prestidigitación",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Priest": {
+    "es": "Sacerdote",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Primal Bond": {
+    "es": "Vínculo primigenio",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Primal Companions": {
+    "es": "Compañeros primigenios",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Prone": {
+    "es": "Derribado",
+    "category": "effects-name",
+    "confidence": 1.0
+  },
+  "Prone Deficiency": {
+    "es": "Deficiencia al quedar tumbado",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Psi Warrior": {
+    "es": "Guerrero Psíquico",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Psychic Slam": {
+    "es": "Golpe psíquico",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Purify Food and Drink": {
+    "es": "Purificar comida y bebida",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Quasit": {
+    "es": "Cuásit",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Radiant Bow": {
+    "es": "Arco radiante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Radiant Mace": {
+    "es": "Maza radiante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Ranger": {
+    "es": "Explorador",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Ray of Enfeeblement": {
+    "es": "Rayo debilitador",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Reactive": {
+    "es": "Reactiva",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Reaping Scythe": {
+    "es": "Guadaña segadora",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Redirect Attack": {
+    "es": "Redirigir ataque",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Reflection": {
+    "es": "Reflejo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Reflective Carapace": {
+    "es": "Caparazón reflectante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Regeneration": {
+    "es": "Regeneración",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Regional Effects": {
+    "es": "Efectos regionales",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Rejuvenation": {
+    "es": "Rejuvenecimiento",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Repair": {
+    "es": "Reparar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Rogue": {
+    "es": "Pícaro",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Rolling Charge": {
+    "es": "Carga rodante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Rotting Claw": {
+    "es": "Garra putrefacta",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Rotting Fist": {
+    "es": "Puño putrefacto",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Rune Knight": {
+    "es": "Caballero Rúnico",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Sacred Flame": {
+    "es": "Llama sagrada",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Sanctuary": {
+    "es": "Santuario",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Scare": {
+    "es": "Asustar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Scimitar": {
+    "es": "Cimitarra",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Self-Destruct": {
+    "es": "Autodestrucción",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Servant Controls": {
+    "es": "Controles del sirviente",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Shadow Spirit Template": {
+    "es": "Plantilla de espíritu sombrío",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Shadow Spirits": {
+    "es": "Espíritus sombríos",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Shadow Stealth": {
+    "es": "Sigilo en las sombras",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Shape-Shift": {
+    "es": "Cambio de forma",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Shapechanger": {
+    "es": "Cambiaformas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Shield": {
+    "es": "Escudo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Shield of Faith": {
+    "es": "Escudo de la fe",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Shimmering Shield": {
+    "es": "Escudo centelleante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Shortbow": {
+    "es": "Arco corto",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Shortsword": {
+    "es": "Espada corta",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Shred": {
+    "es": "Desgarrar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Siege Monster": {
+    "es": "Monstruo de asedio",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Silence": {
+    "es": "Silencio",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Skeleton": {
+    "es": "Esqueleto",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Skewer": {
+    "es": "Ensartar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Slaad Spirit": {
+    "es": "Espíritu slaad",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Slam": {
+    "es": "Golpe",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Sleep": {
+    "es": "Dormir",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Sleep Ray": {
+    "es": "Rayo de sueño",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Slowing Ray": {
+    "es": "Rayo ralentizador",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Sorcerer": {
+    "es": "Hechicero",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Soulknife": {
+    "es": "Cuchilla de almas",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Specter": {
+    "es": "Espectro",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Spellcasting": {
+    "es": "Lanzamiento de conjuros",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Spider Climb": {
+    "es": "Trepar como araña",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Spiked Shield": {
+    "es": "Escudo con pinchos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Spirit Guardians": {
+    "es": "Guardianes espirituales",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Spiritual Weapon": {
+    "es": "Arma espiritual",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Spores": {
+    "es": "Esporas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Standing Leap": {
+    "es": "Salto en estático",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Star Spawn Spirit": {
+    "es": "Espíritu engendro estelar",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Steel Defender": {
+    "es": "Defensor de acero",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Stench Spray": {
+    "es": "Rociada pestilente",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Sting": {
+    "es": "Aguijón",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Stone Shape": {
+    "es": "Moldear piedra",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Stone Spirit": {
+    "es": "Espíritu de piedra",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Stony Lethargy": {
+    "es": "Letargo pétreo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Strength Drain": {
+    "es": "Drenaje de Fuerza",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Stunning Screech": {
+    "es": "Graznido aturdidor",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Succubus": {
+    "es": "Súcubo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Suggestion": {
+    "es": "Sugestión",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Summons": {
+    "es": "Invocaciones",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Sunlight Sensitivity": {
+    "es": "Sensibilidad a la luz del sol",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Sunlight Weakness": {
+    "es": "Debilidad a la luz del sol",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Sure-Footed": {
+    "es": "Paso seguro",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Swallow": {
+    "es": "Tragar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Swarm": {
+    "es": "Enjambre",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Swarm of Rats": {
+    "es": "Enjambre de ratas",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Swarm of Ravens": {
+    "es": "Enjambre de cuervos",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Swarmkeeper": {
+    "es": "Guardiana del Enjambre",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Tail": {
+    "es": "Cola",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Tail Attack": {
+    "es": "Ataque de cola",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Talons": {
+    "es": "Garras",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Telekinetic Ray": {
+    "es": "Rayo telequinético",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Telepathic Bond": {
+    "es": "Vínculo telepático",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Telepathic Shroud": {
+    "es": "Manto telepático",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Teleport": {
+    "es": "Teletransporte",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Tendrils": {
+    "es": "Tentáculos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Tenser's Floating Disk": {
+    "es": "Disco flotante de Tenser",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Tentacle of the Deeps": {
+    "es": "Tentáculo de las profundidades",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Tentacles": {
+    "es": "Tentáculos",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Terror Frenzy": {
+    "es": "Frenesí de terror",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Thaumaturgy": {
+    "es": "Taumaturgia",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "The Fathomless": {
+    "es": "Lo Insondable",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "The Genie": {
+    "es": "El Genio",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Tongues": {
+    "es": "Lenguas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Touch": {
+    "es": "Toque",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Treant": {
+    "es": "Ent",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Treant - Rock": {
+    "es": "Ent: Roca",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Tricksy Spirit": {
+    "es": "Espíritu travieso",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Trident": {
+    "es": "Tridente",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "True Seeing": {
+    "es": "Visión verdadera",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Turn Immunity": {
+    "es": "Inmunidad a expulsión",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Twilight Domain": {
+    "es": "Dominio del Crepúsculo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Unarmed Strike": {
+    "es": "Golpe sin armas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Unarmed Strike (Vampire Form Only)": {
+    "es": "Golpe sin armas (solo forma de vampiro)",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Undead": {
+    "es": "No muerto",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Undead Fortitude": {
+    "es": "Fortaleza no muerta",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Undead Ghostly Spirit": {
+    "es": "Espíritu no muerto espectral",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Undead Putrid Spirit": {
+    "es": "Espíritu no muerto pútrido",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Undead Skeleton Spirit": {
+    "es": "Espíritu esqueleto no muerto",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Undead Spirit Template": {
+    "es": "Plantilla de espíritu no muerto",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Undead Spirits": {
+    "es": "Espíritus no muertos",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Underwater Camouflage": {
+    "es": "Camuflaje submarino",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Unicorn": {
+    "es": "Unicornio",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Unusual Nature": {
+    "es": "Naturaleza inusual",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Utility": {
+    "es": "Utilidad",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Vampire": {
+    "es": "Vampiro",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Vampire Spawn": {
+    "es": "Vástago vampírico",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Vampire Weaknesses": {
+    "es": "Debilidades del vampiro",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Vicious Mockery": {
+    "es": "Burla viciosa",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Vigilant": {
+    "es": "Vigilante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Wail": {
+    "es": "Aullido",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Wall of Fire": {
+    "es": "Muro de fuego",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Wall of Ice": {
+    "es": "Muro de hielo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Wall of Stone": {
+    "es": "Muro de piedra",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Warlock": {
+    "es": "Brujo",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Water Breathing": {
+    "es": "Respirar bajo el agua",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Water Elemental": {
+    "es": "Elemental de agua",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Water Form": {
+    "es": "Forma acuosa",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Water Jet": {
+    "es": "Chorro de agua",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Water Spirit": {
+    "es": "Espíritu de agua",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Water Susceptibility": {
+    "es": "Vulnerabilidad al agua",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Water Walk": {
+    "es": "Caminar sobre el agua",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Way of Mercy": {
+    "es": "Senda de la Misericordia",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Way of the Astral Self": {
+    "es": "Senda del Ser Astral",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Web": {
+    "es": "Telaraña",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Web Sense": {
+    "es": "Sentido de telaraña",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Web Walker": {
+    "es": "Caminante de telarañas",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Weight of Sorrow": {
+    "es": "Peso de la pena",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Whelm": {
+    "es": "Anegar",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Whip": {
+    "es": "Látigo",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Whirlwind": {
+    "es": "Torbellino",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Whirlwind of Sand": {
+    "es": "Torbellino de arena",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Whispering Aura": {
+    "es": "Aura susurrante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Wildfire Spirit": {
+    "es": "Espíritu de fuegovivo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Wing Attack": {
+    "es": "Ataque de ala",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Withering Touch": {
+    "es": "Toque marchitante",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Wizard": {
+    "es": "Mago",
+    "category": "folder",
+    "confidence": 1.0
+  },
+  "Wolf": {
+    "es": "Lobo",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Wraith": {
+    "es": "Espectro",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Wraith - Life Drain": {
+    "es": "Espectro: Drenaje vital",
+    "category": "item-name",
+    "confidence": 1.0
+  },
+  "Yugoloth Spirit": {
+    "es": "Espíritu yugoloth",
+    "category": "actor-name",
+    "confidence": 1.0
+  },
+  "Zombie": {
+    "es": "Zombi",
+    "category": "actor-name",
+    "confidence": 1.0
+  }
+}
