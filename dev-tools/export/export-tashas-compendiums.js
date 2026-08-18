@@ -5,14 +5,16 @@
  */
 (async () => {
   const MODULE_ID = "dnd-tashas-cauldron";
+  // Para regenerar un único compendio, deja solo su nombre en esta lista.
   const PACKS = [
-    "tcoe-content",
-    "tcoe-character-options",
-    "tcoe-magic-items",
-    "tcoe-tables",
-    "tcoe-actors",
-    "tcoe-dm-tools",
-    "tcoe-scenes"
+    "tcoe-magic-items"
+    // "tcoe-content",
+    // "tcoe-character-options",
+    // "tcoe-magic-items",
+    // "tcoe-tables",
+    // "tcoe-actors",
+    // "tcoe-dm-tools",
+    // "tcoe-scenes"
   ];
 
   const text = (value) => typeof value === "string" ? value : "";
@@ -25,11 +27,13 @@
     Object.entries(object(value)).sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }))
   );
   const byId = (values, mapper) => {
-    const rows = Array.from(values?.contents ?? values ?? []);
-    return sortObject(Object.fromEntries(rows.flatMap((row) => {
-      const id = row?.id ?? row?._id;
-      return id ? [[id, mapper(row)]] : [];
-    })));
+    const raw = values?.contents ?? values ?? [];
+    const rows = Array.isArray(raw) || typeof raw?.[Symbol.iterator] === "function"
+      ? Array.from(raw).map((row) => [row?.id ?? row?._id, row])
+      : Object.entries(object(raw)).map(([key, row]) => [row?.id ?? row?._id ?? key, row]);
+    return sortObject(Object.fromEntries(rows.flatMap(([id, row]) =>
+      id ? [[id, mapper(row)]] : []
+    )));
   };
   const folders = (pack) => {
     const rows = Array.from(pack.folders?.contents ?? pack.folders ?? []);
@@ -47,6 +51,7 @@
   };
 
   const activity = (row) => ({
+    type: text(row?.type),
     name: text(row?.name),
     condition: text(get(row, "activation.condition", "")),
     chatFlavor: text(get(row, "description.chatFlavor", ""))
@@ -55,7 +60,11 @@
     name: text(row?.name),
     description: text(row?.description ?? get(row, "description.value", ""))
   });
-  const advancement = (row) => ({ title: text(row?.title), hint: text(row?.hint) });
+  const advancement = (row) => ({
+    type: text(row?.type),
+    title: text(row?.title),
+    hint: text(row?.hint)
+  });
   const item = (document) => {
     const row = document.toObject ? document.toObject() : document;
     return {
@@ -133,5 +142,5 @@
     console.log(`[Tasha export] ${packId}: ${documents.length} documentos (${type})`);
   }
 
-  ui.notifications.info("Exportación de Tasha terminada: se han generado siete descargas JSON.");
+  ui.notifications.info(`Exportación de Tasha terminada: ${PACKS.length} JSON generado(s).`);
 })();

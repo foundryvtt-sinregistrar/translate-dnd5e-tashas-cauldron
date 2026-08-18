@@ -3,5 +3,20 @@
 dist/
 _release-zip/
 staged.txt
+
+# Local exports of proprietary source compendiums
+dev-tools/export/data/
+
+# Python caches
+__pycache__/
+*.pyc
 Thumbs.db
 Desktop.ini
+
+# Ignore folders that begin with _
+_*/
+_*
+
+# Commits info
+# git diff --staged > staged.txt
+staged.txt
