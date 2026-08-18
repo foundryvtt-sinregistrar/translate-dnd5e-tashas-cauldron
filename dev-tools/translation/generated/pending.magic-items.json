@@ -95,11 +95,6 @@
     "sourceChars": 448
   },
   {
-    "entryId": "tcoeAirEssenceSh",
-    "path": "description",
-    "sourceChars": 702
-  },
-  {
     "entryId": "tcoeBlueDragonFa",
     "path": "description",
     "sourceChars": 411
@@ -108,11 +103,6 @@
     "entryId": "tcoeBrokenTransl",
     "path": "description",
     "sourceChars": 928
-  },
-  {
-    "entryId": "tcoeChaoticEssen",
-    "path": "description",
-    "sourceChars": 549
   },
   {
     "entryId": "tcoeDemonomiconS",
@@ -125,24 +115,9 @@
     "sourceChars": 650
   },
   {
-    "entryId": "tcoeEarthEssence",
-    "path": "description",
-    "sourceChars": 748
-  },
-  {
     "entryId": "tcoeEmeraldLizar",
     "path": "description",
     "sourceChars": 609
-  },
-  {
-    "entryId": "tcoeEvilEssenceS",
-    "path": "description",
-    "sourceChars": 506
-  },
-  {
-    "entryId": "tcoeFireEssenceS",
-    "path": "description",
-    "sourceChars": 799
   },
   {
     "entryId": "tcoeFlask0000000",
@@ -153,11 +128,6 @@
     "entryId": "tcoeGoldenGoblin",
     "path": "description",
     "sourceChars": 585
-  },
-  {
-    "entryId": "tcoeGoodEssenceS",
-    "path": "description",
-    "sourceChars": 524
   },
   {
     "entryId": "tcoeGreenSteelPi",
@@ -193,11 +163,6 @@
     "entryId": "tcoeLapisLazuliO",
     "path": "description",
     "sourceChars": 609
-  },
-  {
-    "entryId": "tcoeLawfulEssenc",
-    "path": "description",
-    "sourceChars": 566
   },
   {
     "entryId": "tcoeLubasSpells0",
@@ -263,11 +228,6 @@
     "entryId": "tcoeVomerineToot",
     "path": "description",
     "sourceChars": 410
-  },
-  {
-    "entryId": "tcoeWaterEssence",
-    "path": "description",
-    "sourceChars": 1167
   },
   {
     "entryId": "tcoeYellowedVamp",

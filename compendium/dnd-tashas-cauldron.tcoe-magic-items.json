@@ -85,7 +85,8 @@
       "description": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &Reference[damageresistance]{resistencia} a un tipo de daño asociado con ese color, como se indica en la tabla siguiente. El DM elige el color o lo determina al azar.</p><p><strong>Absorber daño.</strong> Cuando recibas daño del tipo elegido, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAbsorbingTat caption=false]</p>"
     },
     "tcoeAirEssenceSh": {
-      "name": "Esquirla de esencia de aire"
+      "name": "Esquirla de esencia de aire",
+      "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Esquirla de esencia elemental}, requiere sintonización por parte de un hechicero</em></p><p>Este cristal crepitante contiene la esencia de un plano elemental. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar la siguiente propiedad:</p><p><strong>Aire.</strong> Puedes volar inmediatamente hasta 60 pies sin provocar ataques de oportunidad.</p>"
     },
     "tcoeAlchemicalCo": {
       "name": "Compendio alquímico",
@@ -183,7 +184,8 @@
       "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un druida o un brujo</em></p><p>Este caldero Diminuto está decorado con escenas en relieve de héroes sobre su superficie de hierro fundido. Puedes usar el caldero como canalizador mágico para tus conjuros de druida y es apto para usarse como componente del conjuro @UUID[Compendium.dnd5e.spells.Item.fVbCxFRaORalHB20]{escudriñar}. Tras finalizar un descanso largo, puedes usar el caldero para crear una @UUID[Compendium.dnd5e.items.Item.L887NdWEP5NqHCrQ]{poción de curación mayor}. La poción dura 24 horas y luego pierde sus propiedades mágicas.</p><p>Como acción, puedes hacer que el caldero crezca lo suficiente como para que en su interior pueda acuclillarse una criatura de tamaño Mediano. Como acción, puedes hacer que el caldero vuelva a su tamaño normal y cualquier cosa que no quepa dentro irá al espacio sin ocupar más cercano sin sufrir daño.</p><p>Si introduces el cadáver de un humanoide en el caldero y cubres ese cadáver con 200 libras de sal (que cuestan 10 po) durante al menos 8 horas, la sal se consumirá y, en el siguiente amanecer, la criatura volverá a la vida como si la hubieran reanimado con @UUID[Compendium.dnd5e.spells.Item.AGFMPAmuzwWO6Dfz]{alzar a los muertos}. Una vez utilizada, esta propiedad no puede volver a usarse en 7 días.</p>"
     },
     "tcoeChaoticEssen": {
-      "name": "Esquirla de esencia caótica"
+      "name": "Esquirla de esencia caótica",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p><strong>Caótica.</strong> Elige una criatura que reciba daño del conjuro. Ese objetivo tiene desventaja en las tiradas de ataque y pruebas de característica que realice antes del principio de tu siguiente turno.</p>"
     },
     "tcoeCoilingGrasp": {
       "name": "Tatuaje de agarre retorcido",
@@ -228,7 +230,8 @@
       "name": "Molar humano polvoriento"
     },
     "tcoeEarthEssence": {
-      "name": "Esquirla de esencia de tierra"
+      "name": "Esquirla de esencia de tierra",
+      "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Esquirla de esencia elemental}, requiere sintonización por parte de un hechicero</em></p><p>Este cristal crepitante contiene la esencia de un plano elemental. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar la siguiente propiedad:</p><p><strong>Tierra.</strong> Obtienes &amp;Reference[damageresistance]{resistencia} a un tipo de daño de tu elección hasta el principio de tu siguiente turno.</p>"
     },
     "tcoeEldritchClaw": {
       "name": "Tatuaje de garra monstruosa",
@@ -245,7 +248,8 @@
       "name": "Célula de energía"
     },
     "tcoeEvilEssenceS": {
-      "name": "Esquirla de esencia maligna"
+      "name": "Esquirla de esencia maligna",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p><strong>Maligna.</strong> Elige una criatura que reciba daño del conjuro. Ese objetivo recibe [[/damage 3d6 type=necrotic]]{3d6 de daño necrótico} adicional.</p>"
     },
     "tcoeFarRealmShar": {
       "name": "Esquirla del Reino Lejano",
@@ -256,7 +260,8 @@
       "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cálido cristal resplandece con los colores del ocaso del cielo de Feywild y evoca susurros de recuerdos emotivos. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, puedes tirar en la tabla @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeWildMagicSur]{Sobrecarga de Magia Salvaje} del Player's Handbook. Si el resultado es un conjuro, será demasiado salvaje para verse afectado por tu Metamagia y, si normalmente requiere concentración, no la requerirá en este caso; el conjuro dura todo su tiempo de duración.</p><p>Si no tienes el <strong>Origen Mágico de Magia Salvaje</strong>, una vez utilizada esta propiedad para tirar en la tabla Sobrecarga de Magia Salvaje, no puede volver a usarse hasta el siguiente amanecer.</p>"
     },
     "tcoeFireEssenceS": {
-      "name": "Esquirla de esencia de fuego"
+      "name": "Esquirla de esencia de fuego",
+      "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Esquirla de esencia elemental}, requiere sintonización por parte de un hechicero</em></p><p>Este cristal crepitante contiene la esencia de un plano elemental. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar la siguiente propiedad:</p><p><strong>Fuego.</strong> Un objetivo del conjuro que puedas ver comienza a arder. El objetivo en llamas sufre [[/damage 2d10 type=fire]]{2d10 de daño de fuego} al principio de su siguiente turno y luego las llamas se apagan.</p>"
     },
     "tcoeFlask0000000": {
       "name": "Frasco"
@@ -277,7 +282,8 @@
       "name": "Bicúspide dorado de goblin"
     },
     "tcoeGoodEssenceS": {
-      "name": "Esquirla de esencia benigna"
+      "name": "Esquirla de esencia benigna",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p><strong>Benigna.</strong> Tú o una criatura de tu elección que puedas ver a 30 pies o menos de ti obtiene [[/healing 3d6 type=temphp]]{3d6 puntos de golpe temporales}.</p>"
     },
     "tcoeGreenAbsorbi": {
       "name": "Tatuaje absorbente verde",
@@ -327,7 +333,8 @@
       "name": "Rifle láser"
     },
     "tcoeLawfulEssenc": {
-      "name": "Esquirla de esencia legal"
+      "name": "Esquirla de esencia legal",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p><strong>Legal.</strong> Puedes terminar uno de los siguientes estados que os afecten a ti o a una criatura que puedas ver a 30 pies o menos de ti: asustado, aturdido, cegado, ensordecido, envenenado o hechizado.</p>"
     },
     "tcoeLibramOfSoul": {
       "name": "Tratado de almas y carne",
@@ -498,7 +505,8 @@
       "name": "Diente vomerino de sapo Grande"
     },
     "tcoeWaterEssence": {
-      "name": "Esquirla de esencia de agua"
+      "name": "Esquirla de esencia de agua",
+      "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Esquirla de esencia elemental}, requiere sintonización por parte de un hechicero</em></p><p>Este cristal crepitante contiene la esencia de un plano elemental. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar la siguiente propiedad:</p><p><strong>Agua.</strong> Creas una ola de agua que se expande desde ti en un radio de 10 pies. Cada criatura de tu elección que puedas ver en esa zona recibe [[/damage 2d6 type=cold]]{2d6 de daño de frío} y deberá superar una [[/save ability=str]]{tirada de salvación de Fuerza} contra tu CD de salvación de conjuros o será empujada 10 pies alejándose de ti y quedará &amp;Reference[prone]{derribada}.</p><section id=\"secret-8kKlUtmkoIq0G7tB\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>A diferencia de las demás esquirlas, este objeto se ha configurado con el efecto de <strong>agua</strong> como acción principal.</p></section>"
     },
     "tcoeWhiteAbsorbi": {
       "name": "Tatuaje absorbente blanco",

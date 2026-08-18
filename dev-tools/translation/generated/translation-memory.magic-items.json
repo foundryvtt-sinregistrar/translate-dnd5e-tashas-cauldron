@@ -198,6 +198,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous Item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Elemental Essence Shard}, requires attunement by a sorcerer</em></p><p>This crackling crystal contains the essence of an elemental plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p>When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use the following property:</p><p><strong>Air.</strong> You can immediately fly up to 60 feet without provoking opportunity attacks.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Esquirla de esencia elemental}, requiere sintonización por parte de un hechicero</em></p><p>Este cristal crepitante contiene la esencia de un plano elemental. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar la siguiente propiedad:</p><p><strong>Aire.</strong> Puedes volar inmediatamente hasta 60 pies sin provocar ataques de oportunidad.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeAirEssenceSh",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Alchemical Compendium",
     "target": "Compendio alquímico",
     "pack": "tcoe-magic-items",
@@ -612,6 +621,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, requires attunement by a sorcerer</em></p><p>This flickering crystal holds the essence of an Outer Plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p><strong>Chaotic.</strong> Choose one creature who takes damage from the spell. That target has disadvantage on attack rolls and ability checks made before the start of your next turn.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p><strong>Caótica.</strong> Elige una criatura que reciba daño del conjuro. Ese objetivo tiene desventaja en las tiradas de ataque y pruebas de característica que realice antes del principio de tu siguiente turno.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeChaoticEssen",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Coiling Grasp Tattoo",
     "target": "Tatuaje de agarre retorcido",
     "pack": "tcoe-magic-items",
@@ -801,6 +819,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous Item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Elemental Essence Shard}, requires attunement by a sorcerer</em></p><p>This crackling crystal contains the essence of an elemental plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p>When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use the following property:</p><p><strong>Earth.</strong> You gain &amp;Reference[damageresistance]{resistance} to a damage type of your choice until the start of your next turn.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Esquirla de esencia elemental}, requiere sintonización por parte de un hechicero</em></p><p>Este cristal crepitante contiene la esencia de un plano elemental. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar la siguiente propiedad:</p><p><strong>Tierra.</strong> Obtienes &amp;Reference[damageresistance]{resistencia} a un tipo de daño de tu elección hasta el principio de tu siguiente turno.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeEarthEssence",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Eldritch Claw Tattoo",
     "target": "Tatuaje de garra monstruosa",
     "pack": "tcoe-magic-items",
@@ -864,6 +891,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, requires attunement by a sorcerer</em></p><p>This flickering crystal holds the essence of an Outer Plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p><strong>Evil.</strong> Choose one creature who takes damage from the spell. That target takes an extra [[/damage 3d6 type=necrotic]] damage.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p><strong>Maligna.</strong> Elige una criatura que reciba daño del conjuro. Ese objetivo recibe [[/damage 3d6 type=necrotic]]{3d6 de daño necrótico} adicional.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeEvilEssenceS",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Far Realm Shard",
     "target": "Esquirla del Reino Lejano",
     "pack": "tcoe-magic-items",
@@ -907,6 +943,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous Item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Elemental Essence Shard}, requires attunement by a sorcerer</em></p><p>This crackling crystal contains the essence of an elemental plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p>When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use the following property:</p><p><strong>Fire.</strong> One target of the spell that you can see catches fire. The burning target takes [[/damage 2d10 type=fire]] damage at the start of its next turn, and then the flames go out.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Esquirla de esencia elemental}, requiere sintonización por parte de un hechicero</em></p><p>Este cristal crepitante contiene la esencia de un plano elemental. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar la siguiente propiedad:</p><p><strong>Fuego.</strong> Un objetivo del conjuro que puedas ver comienza a arder. El objetivo en llamas sufre [[/damage 2d10 type=fire]]{2d10 de daño de fuego} al principio de su siguiente turno y luego las llamas se apagan.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeFireEssenceS",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Flask",
@@ -988,6 +1033,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement by a sorcerer</em></p><p>This flickering crystal holds the essence of an Outer Plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p><strong>Good.</strong> You or one creature of your choice that you can see within 30 feet of you gains [[/healing 3d6 type=temphp]]{3d6} temporary hit points.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p><strong>Benigna.</strong> Tú o una criatura de tu elección que puedas ver a 30 pies o menos de ti obtiene [[/healing 3d6 type=temphp]]{3d6 puntos de golpe temporales}.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeGoodEssenceS",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Green Absorbing Tattoo",
@@ -1168,6 +1222,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement by a sorcerer</em></p><p>This flickering crystal holds the essence of an Outer Plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p><strong>Lawful.</strong> You can end one of the following conditions affecting yourself or one creature you can see within 30 feet of you: charmed, blinded, deafened, frightened, poisoned, or stunned.</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p><strong>Legal.</strong> Puedes terminar uno de los siguientes estados que os afecten a ti o a una criatura que puedas ver a 30 pies o menos de ti: asustado, aturdido, cegado, ensordecido, envenenado o hechizado.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLawfulEssenc",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Libram of Souls and Flesh",
@@ -1843,6 +1906,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous Item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Elemental Essence Shard}, requires attunement by a sorcerer</em></p><p>This crackling crystal contains the essence of an elemental plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p>When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use the following property:</p><p><strong>Water.</strong> You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes [[/damage 2d6 type=cold]] damage and must succeed on a [[/save ability=str]] saving throw against your spell save DC or be pushed 10 feet away from you and fall &amp;Reference[prone].</p><section id=\"secret-8kKlUtmkoIq0G7tB\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>Unlike other shards, this item has been configured with the <strong>water</strong> effect as its primary action.</p></section>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{Esquirla de esencia elemental}, requiere sintonización por parte de un hechicero</em></p><p>Este cristal crepitante contiene la esencia de un plano elemental. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar la siguiente propiedad:</p><p><strong>Agua.</strong> Creas una ola de agua que se expande desde ti en un radio de 10 pies. Cada criatura de tu elección que puedas ver en esa zona recibe [[/damage 2d6 type=cold]]{2d6 de daño de frío} y deberá superar una [[/save ability=str]]{tirada de salvación de Fuerza} contra tu CD de salvación de conjuros o será empujada 10 pies alejándose de ti y quedará &amp;Reference[prone]{derribada}.</p><section id=\"secret-8kKlUtmkoIq0G7tB\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>A diferencia de las demás esquirlas, este objeto se ha configurado con el efecto de <strong>agua</strong> como acción principal.</p></section>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeWaterEssence",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "White Absorbing Tattoo",
