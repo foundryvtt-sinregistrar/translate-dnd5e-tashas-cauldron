@@ -27,6 +27,15 @@
     "sourceType": "reviewed-glossary"
   },
   {
+    "source": "<p>You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeConstructSpi]{Construct Spirit} stat block. When you cast the spell, choose a material: @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeClaySpirit00]{Clay}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeMetalSpirit0]{Metal}, or @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeStoneSpirit0]{Stone}. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.</p><p>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the &amp;Reference[dodge] action and uses its move to avoid danger.</p><p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears in the stat block.</p>",
+    "target": "<p>Invocas el espíritu de un autómata, que se manifiesta en un espacio sin ocupar que puedas ver dentro del alcance. Esta forma corpórea usa el perfil del @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeConstructSpi]{Espíritu autómata}. Cuando lanzas el conjuro, elige un material: @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeClaySpirit00]{arcilla}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeMetalSpirit0]{metal} o @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeStoneSpirit0]{piedra}. La criatura se parece a un gólem o a un modron, a tu elección, hecho del material escogido, que determina ciertos atributos de su perfil. La criatura desaparece cuando sus puntos de golpe se reducen a 0 o cuando termina el conjuro.</p><p>La criatura es aliada tuya y de tus compañeros. En combate, comparte tu posición en el orden de iniciativa, pero actúa inmediatamente después de ti. Obedece tus órdenes verbales, sin que tengas que realizar ninguna acción. Si no le das ninguna orden, realiza la acción &amp;Reference[dodge]{Esquivar} y usa su movimiento para evitar el peligro.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de conjuro de nivel 4 o superior, utiliza el nivel superior donde aparezca el nivel del conjuro en el perfil.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "4tBP8fyPnrKcVZEn",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Detect Magic",
     "target": "Detectar magia",
     "pack": "tcoe-magic-items",
@@ -2349,6 +2358,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p>With this spell, you attempt to bind a Celestial, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of an inverted Magic Circle in order to keep it trapped while this spell is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the Duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.</p><p>A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends.</p>",
+    "target": "<p>Con este conjuro intentas obligar a un celestial, elemental, feérico o infernal a servirte. La criatura debe permanecer dentro del alcance durante todo el lanzamiento del conjuro. Normalmente, primero se invoca a la criatura en el centro de un círculo mágico invertido para mantenerla atrapada mientras se lanza este conjuro. Cuando completas el lanzamiento, el objetivo debe realizar una tirada de salvación de Carisma. Si falla, queda obligado a servirte mientras dure el conjuro. Si la criatura fue invocada o creada mediante otro conjuro, la duración de ese conjuro se amplía para coincidir con la duración de este.</p><p>Una criatura vinculada debe seguir tus instrucciones lo mejor que pueda. Puedes ordenarle que te acompañe en una aventura, que proteja un lugar o que entregue un mensaje. La criatura obedece tus instrucciones al pie de la letra, pero, si es hostil hacia ti, intentará tergiversar tus palabras para alcanzar sus propios objetivos. Si cumple por completo tus instrucciones antes de que termine el conjuro, viajará hasta ti para informarte si os encontráis en el mismo plano de existencia. Si estáis en planos de existencia distintos, regresará al lugar donde la vinculaste y permanecerá allí hasta que termine el conjuro.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "u57CvTnvuFYPAaXA",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Plane Shift (3 charges)",
     "target": "Desplazamiento entre planos (3 cargas)",
     "pack": "tcoe-magic-items",
@@ -2356,6 +2374,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Can only transport to layers of the Abyss.</em></p><p>You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the City of Brass on the Elemental Plane of Fire or the palace of Dispater on the second level of the Nine Hells, and you appear in or near that destination. If you are trying to reach the City of Brass, for example, you might arrive in its Street of Steel, before its Gate of Ashes, or looking at the city from across the Sea of Fire, at the DM's discretion.</p><p>Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.</p><p>You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a Charisma saving throw. If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence.</p>",
+    "target": "<p><em>Solo puede transportar a capas del Abismo.</em></p><p>Tú y hasta ocho criaturas voluntarias que os deis la mano formando un círculo sois transportados a otro plano de existencia. Puedes especificar un destino en términos generales, como la Ciudad de Bronce en el Plano Elemental del Fuego o el palacio de Dispater en el segundo nivel de los Nueve Infiernos, y aparecéis en ese destino o cerca de él. Por ejemplo, si intentas llegar a la Ciudad de Bronce, podrías aparecer en su Calle de Acero, ante su Puerta de las Cenizas o contemplando la ciudad desde el otro lado del Mar de Fuego, a discreción del DM.</p><p>Como alternativa, si conoces la secuencia de sellos de un círculo de teletransportación en otro plano de existencia, este conjuro puede llevarte hasta ese círculo. Si el círculo de teletransportación es demasiado pequeño para albergar a todas las criaturas transportadas, estas aparecen en los espacios sin ocupar más cercanos al círculo.</p><p>Puedes usar este conjuro para desterrar a una criatura involuntaria a otro plano. Elige una criatura dentro de tu alcance y realiza un ataque de conjuro cuerpo a cuerpo contra ella. Si impactas, la criatura debe realizar una tirada de salvación de Carisma. Si falla, es transportada a un lugar aleatorio del plano de existencia que especifiques. Una criatura transportada de esta forma debe encontrar por sus propios medios el camino de vuelta a tu plano de existencia actual.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "Vk93XfZhd0HLxkaN",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Aura of Life (2 charges)",
@@ -2383,5 +2410,14 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p>You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeFiendishSpir]{Fiendish Spirit} stat block. When you cast the spell, choose @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeDemonSpirit0]{Demon}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeDevilSpirit0]{Devil}, or @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeYugolothSpir]{Yugoloth}. The creature resembles a fiend of the chosen type, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.</p><p>The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the &amp;Reference[dodge] action and uses its move to avoid danger.</p><p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 7th level or higher, use the higher level wherever the spell’s level appears in the stat block.</p>",
+    "target": "<p>Invocas un espíritu infernal, que se manifiesta en un espacio sin ocupar que puedas ver dentro del alcance. Esta forma corpórea usa el perfil del @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeFiendishSpir]{Espíritu infernal}. Cuando lanzas el conjuro, elige @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeDemonSpirit0]{demonio}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeDevilSpirit0]{diablo} o @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeYugolothSpir]{yugoloth}. La criatura se parece a un infernal del tipo elegido, que determina ciertos atributos de su perfil. La criatura desaparece cuando sus puntos de golpe se reducen a 0 o cuando termina el conjuro.</p><p>La criatura es aliada tuya y de tus compañeros. En combate, comparte tu posición en el orden de iniciativa, pero actúa inmediatamente después de ti. Obedece tus órdenes verbales, sin que tengas que realizar ninguna acción. Si no le das ninguna orden, realiza la acción &amp;Reference[dodge]{Esquivar} y usa su movimiento para evitar el peligro.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de conjuro de nivel 7 o superior, utiliza el nivel superior donde aparezca el nivel del conjuro en el perfil.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "YvtyXTwwrjbaYoJ5",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   }
 ]
