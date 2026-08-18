@@ -120,11 +120,6 @@
     "sourceChars": 609
   },
   {
-    "entryId": "tcoeFlask0000000",
-    "path": "description",
-    "sourceChars": 73
-  },
-  {
     "entryId": "tcoeGoldenGoblin",
     "path": "description",
     "sourceChars": 585
@@ -175,24 +170,9 @@
     "sourceChars": 915
   },
   {
-    "entryId": "tcoeMortarbabaYa",
-    "path": "description",
-    "sourceChars": 545
-  },
-  {
     "entryId": "tcoeObsidianHuma",
     "path": "description",
     "sourceChars": 677
-  },
-  {
-    "entryId": "tcoePestlebabaYa",
-    "path": "description",
-    "sourceChars": 1093
-  },
-  {
-    "entryId": "tcoePrimalFruit0",
-    "path": "description",
-    "sourceChars": 184
   },
   {
     "entryId": "tcoeRainbowcolor",

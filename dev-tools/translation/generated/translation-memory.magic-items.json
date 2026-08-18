@@ -963,6 +963,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p>An empty flask that can be used to contain a number of substances.</p>",
+    "target": "<p>Un frasco vacío que puede usarse para contener distintas sustancias.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeFlask0000000",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Fulminating Treatise",
     "target": "Tratado fulminante",
     "pack": "tcoe-magic-items",
@@ -1440,6 +1449,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item</em></p><p><strong>Properties of the Mortar.</strong> The mortar is a Tiny wooden bowl. However, the mortar increases in size to accommodate anything you place inside, expanding—if there's enough space—up to Large size, meaning it can hold even a Large creature.</p><section id=\"secret-A0bBQEhb7Ov1bXBJ\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This item has been configured with a \"summon\" action in the event that a physical representation of the mortar's location and variable size is required.</p></section>",
+    "target": "<p><em>Objeto maravilloso</em></p><p><strong>Propiedades del mortero.</strong> El mortero es un cuenco de madera Diminuto. Sin embargo, aumenta de tamaño para que quepa en él cualquier cosa que se ponga dentro (si hay suficiente espacio) hasta ser de tamaño Grande, por lo que puede contener incluso a una criatura Grande.</p><section id=\"secret-A0bBQEhb7Ov1bXBJ\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Este objeto se ha configurado con una acción de «invocación» por si fuera necesaria una representación física de la ubicación y el tamaño variable del mortero.</p></section>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeMortarbabaYa",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Musket",
     "target": "Mosquete",
     "pack": "tcoe-magic-items",
@@ -1521,6 +1539,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Staff (quarterstaff)</em></p><p><strong>Properties of the Pestle</strong>. The pestle is a 6-inch-long, worn wooden tool. Once during your turn while you are holding the pestle, you can extend it into a quarterstaff or shrink it back into a pestle (no action required). As a quarterstaff, the pestle is a magic weapon that grants a +3 bonus to attack and damage rolls made with it.</p><p>The pestle has 12 charges. When you hit with a melee attack using the pestle, you can expend up to 3 of its charges to deal an extra 1d8 force damage for each charge expended. The pestle regains all expended charges daily at dawn.</p><p><strong>Additional Damage by Charges Expended: </strong>[[/damage 1d8 type=force]]{one charge}, [[/damage 2d8 type=force]]{two charges}, [[/damage 3d8 type=force]]{three charges}</p><section class=\"secret\" id=\"secret-BQHrvBG0Zo3qq2Qy\"><p><strong>Foundry Note</strong></p><p>As configured, this item will not consume a charge when used. Charges should be deducted manually based on the number of charges (if any) that are used for the damage bonus.</p></section>",
+    "target": "<p><em>Bastón</em></p><p><strong>Propiedades de la maja.</strong> La maja es una herramienta de madera desgastada de 6 pulgadas de largo. Mientras sostengas la maja, una vez durante tu turno podrás extenderla hasta que se convierta en un bastón o encogerla para que vuelva a ser una maja (no requiere acción). Cuando es un bastón, cuenta como un arma mágica que concede un bonificador de +3 a las tiradas de ataque y de daño que hagas con ella.</p><p>La maja tiene 12 cargas. Cuando impactes con un ataque cuerpo a cuerpo con la maja, podrás gastar hasta 3 cargas para infligir 1d8 de daño de fuerza adicional por cada carga gastada. La maja recupera todas las cargas empleadas cada día, al amanecer.</p><p><strong>Daño adicional según las cargas empleadas: </strong>[[/damage 1d8 type=force]]{una carga}, [[/damage 2d8 type=force]]{dos cargas}, [[/damage 3d8 type=force]]{tres cargas}</p><section class=\"secret\" id=\"secret-BQHrvBG0Zo3qq2Qy\"><p><strong>Nota de Foundry</strong></p><p>Con la configuración actual, este objeto no consume ninguna carga al usarse. Las cargas deben descontarse manualmente según el número de cargas que se utilicen, si se usa alguna, para el bonificador al daño.</p></section>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoePestlebabaYa",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Pistol",
     "target": "Pistola",
     "pack": "tcoe-magic-items",
@@ -1564,6 +1591,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p>A primal fruit pulled brimming with power. Roll on the @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoePrimalFruitE] table to determine its effects when consumed.</p>",
+    "target": "<p>Un fruto primordial rebosante de poder. Tira en la tabla @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoePrimalFruitE]{Efectos del fruto primordial} para determinar sus efectos al consumirlo.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoePrimalFruit0",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Prosthetic Limb",
