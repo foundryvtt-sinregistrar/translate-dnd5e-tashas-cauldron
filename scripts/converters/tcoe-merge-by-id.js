@@ -23,6 +23,7 @@ export function mergeById(source, translation) {
 export const tcoeActivitiesById = mergeById;
 export const tcoeEffectsById = mergeById;
 export const tcoeAdvancementById = mergeById;
+export const tcoeTableResultsById = mergeById;
 
 export function tcoeActorItemsById(source, translation) {
   if (!Array.isArray(source) || !translation || typeof translation !== "object") return source;

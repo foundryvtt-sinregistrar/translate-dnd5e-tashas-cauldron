@@ -2,7 +2,8 @@ import {
   tcoeActivitiesById,
   tcoeEffectsById,
   tcoeAdvancementById,
-  tcoeActorItemsById
+  tcoeActorItemsById,
+  tcoeTableResultsById
 } from "./converters/tcoe-merge-by-id.js";
 
 /** Convertidores estructurados de Babele para los documentos de Tasha. */
@@ -13,6 +14,7 @@ Hooks.on("init", () => {
     tcoeActivitiesById,
     tcoeEffectsById,
     tcoeAdvancementById,
-    tcoeActorItemsById
+    tcoeActorItemsById,
+    tcoeTableResultsById
   });
 });
