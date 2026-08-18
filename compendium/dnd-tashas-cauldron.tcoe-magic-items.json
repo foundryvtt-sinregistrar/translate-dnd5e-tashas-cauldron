@@ -24,7 +24,8 @@
   },
   "entries": {
     "4Nl5uskvCggmdnsd": {
-      "name": "Mover tierra"
+      "name": "Mover tierra",
+      "description": "<p>Elige una zona de terreno dentro del alcance que no mida más de 40 pies de lado. Puedes remodelar la tierra, arena o arcilla de la zona como quieras mientras dure el conjuro. Puedes elevar o reducir la altura de la zona, crear o rellenar una zanja, levantar o aplanar un muro o formar un pilar. La extensión de cualquiera de estos cambios no puede superar la mitad de la dimensión más grande de la zona. Por tanto, si afectas a una zona cuadrada de 40 pies de lado, puedes crear un pilar de hasta 20 pies de altura, elevar o reducir la altura de la zona hasta 20 pies, cavar una zanja de hasta 20 pies de profundidad, etc. Estos cambios tardan 10 minutos en completarse.</p><p>Al final de cada 10 minutos que pases concentrándote en el conjuro, puedes elegir una nueva zona de terreno a la que afectar.</p><p>Como la transformación del terreno ocurre lentamente, las criaturas de la zona normalmente no pueden quedar atrapadas ni resultar heridas por el movimiento del suelo.</p><p>Este conjuro no puede manipular piedra natural ni construcciones de piedra. Las rocas y estructuras se desplazan para adaptarse al nuevo terreno. Si la forma que das al terreno hace que una estructura sea inestable, esta podría derrumbarse.</p><p>Del mismo modo, este conjuro no afecta directamente al crecimiento de las plantas. La tierra desplazada arrastra consigo cualquier planta.</p>"
     },
     "4tBP8fyPnrKcVZEn": {
       "name": "Invocar constructo"
@@ -48,7 +49,8 @@
       "name": "Aliado planar (3 cargas)"
     },
     "AwxFwzXCgjv7cdtH": {
-      "name": "Destierro (1 carga)"
+      "name": "Destierro (1 carga)",
+      "description": "<p>Intentas enviar a otro plano de existencia a una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de Carisma o será desterrado.</p><p>Si el objetivo es nativo del plano de existencia en el que te encuentras, lo destierras a un semiplano inofensivo. Mientras esté allí, queda &amp;Reference[incapacitated]{incapacitado}. El objetivo permanece allí hasta que termina el conjuro, momento en el que reaparece en el espacio que abandonó o en el espacio sin ocupar más cercano si dicho espacio está ocupado.</p><p>Si el objetivo es nativo de un plano de existencia distinto al que te encuentras, es desterrado con un ligero chasquido y regresa a su plano natal. Si el conjuro termina antes de que transcurra 1 minuto, el objetivo reaparece en el espacio que abandonó o en el espacio sin ocupar más cercano si dicho espacio está ocupado. De lo contrario, el objetivo no regresa.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro usando un espacio de conjuro de nivel 5 o superior, puedes elegir como objetivo a una criatura adicional por cada nivel por encima de 4 que tenga el espacio.</p>"
     },
     "btVMfxpigM5ZK7Xk": {
       "name": "Señal de esperanza (1 carga)",
@@ -74,7 +76,8 @@
       "description": "<p>Mientras dura el conjuro, puedes percibir la presencia y ubicación de venenos, criaturas venenosas y enfermedades a 30 pies o menos de ti. También identificas el tipo de veneno, criatura venenosa o enfermedad en cada caso.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero queda bloqueado por 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>"
     },
     "L7W4YvNRKUx3kWze": {
-      "name": "Fabricar"
+      "name": "Fabricar",
+      "description": "<p>Conviertes materias primas en productos fabricados con ese mismo material. Por ejemplo, puedes fabricar un puente de madera a partir de un grupo de árboles, una cuerda a partir de una plantación de cáñamo o ropa a partir de lino o lana.</p><p>Elige materias primas que puedas ver dentro del alcance. Puedes fabricar un objeto Grande o más pequeño, contenido en un cubo de 10 pies o en ocho cubos conectados de 5 pies, siempre que dispongas de suficiente materia prima. Sin embargo, si trabajas con metal, piedra u otra sustancia mineral, el objeto fabricado no puede ser mayor que Mediano, contenido en un único cubo de 5 pies. La calidad de los objetos creados por el conjuro depende de la calidad de las materias primas.</p><p>Este conjuro no puede crear ni transmutar criaturas u objetos mágicos. Tampoco puedes usarlo para crear objetos que normalmente requieran un alto grado de artesanía, como joyas, armas, vidrio o armaduras, a menos que tengas competencia con el tipo de herramientas de artesano utilizadas para fabricarlos.</p>"
     },
     "Mcf3pW1rIDFO6Oxa": {
       "name": "Urna mágica (3 cargas)"
@@ -84,7 +87,8 @@
       "description": "<p>Describe o nombra un objeto que te resulte familiar. Percibes la dirección en la que se encuentra, siempre que esté a 1000 pies o menos de ti. Si el objeto está en movimiento, conoces la dirección en la que se desplaza.</p><p>El conjuro puede localizar un objeto específico que conozcas, siempre que lo hayas visto de cerca, a 30 pies o menos, al menos una vez. Como alternativa, puede localizar el objeto más cercano de un tipo concreto, como una determinada clase de prenda, joya, mueble, herramienta o arma.</p><p>Este conjuro no puede localizar un objeto si cualquier grosor de plomo, incluso una lámina fina, bloquea una trayectoria directa entre el objeto y tú.</p>"
     },
     "pXA5eMZ0Vp2ylYfs": {
-      "name": "Paso a través de la pared"
+      "name": "Paso a través de la pared",
+      "description": "<p>Aparece un pasadizo en un punto de tu elección que puedas ver sobre una superficie de madera, yeso o piedra, como una pared, un techo o un suelo, dentro del alcance. El pasadizo permanece mientras dura el conjuro. Tú eliges las dimensiones de la abertura: hasta 5 pies de ancho, 8 pies de alto y 20 pies de profundidad. El pasadizo no provoca inestabilidad en la estructura que lo rodea.</p><p>Cuando la abertura desaparece, las criaturas u objetos que sigan dentro del pasadizo creado por el conjuro son expulsados de forma segura al espacio sin ocupar más cercano a la superficie sobre la que lanzaste el conjuro.</p>"
     },
     "Sjb6MJBgsZWcR8Ru": {
       "name": "Detectar el bien y el mal",
