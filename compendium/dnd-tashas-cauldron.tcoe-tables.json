@@ -38,7 +38,28 @@
   },
   "entries": {
     "tcoeAberrantOrig": {
-      "name": "Orígenes aberrantes"
+      "name": "Orígenes aberrantes",
+      "description": "<p>Como hechicero de Mente Aberrante, tú decides cómo adquiriste tus poderes. ¿Naciste con ellos? ¿O acaso un suceso posterior hizo que se manifestara tu consciencia psiónica? Consulta la tabla Orígenes aberrantes para determinar un posible origen de tu poder.</p>",
+      "results": {
+        "8IijJiZmfz6hxoSJ": {
+          "text": "Un viento psíquico del Plano Astral transportó energía psiónica hasta ti. Cuando usas tus poderes, unas tenues motas de luz centellean a tu alrededor."
+        },
+        "cFT1AryTN5jEA5eZ": {
+          "text": "Tus pesadillas te susurran la verdad: tus poderes psiónicos no son tuyos. ¡Los extraes de tu gemelo parásito!"
+        },
+        "d3QnYORhDaE3WMiJ": {
+          "text": "Cuando eras pequeño tenías un amigo imaginario que parecía un flumph o una extraña criatura similar a un ornitorrinco. Un día te concedió poderes psiónicos que resultaron no ser tan imaginarios."
+        },
+        "NxpYyLHLxiOXrO9z": {
+          "text": "Te implantaron una larva de azotamentes, pero la ceremorfosis nunca se completó. Ahora su poder psiónico es tuyo. Cuando lo usas, tu carne brilla cubierta por una mucosidad extraña."
+        },
+        "tukTIR1iSKjXhk3q": {
+          "text": "Estuviste expuesto a la influencia deformadora del Reino Lejano. Estás convencido de que te está creciendo un tentáculo, pero nadie más puede verlo."
+        },
+        "Twfyb6hPoDc0rEmd": {
+          "text": "En una ocasión sufriste los poderes dominadores de un aboleth, que dejaron una esquirla psíquica en tu mente."
+        }
+      }
     },
     "tcoeAberrationDe": {
       "name": "Deseos de aberraciones"
@@ -98,7 +119,28 @@
       "name": "Efectos de manantial encantado"
     },
     "tcoeExperimental": {
-      "name": "Elixir experimental"
+      "name": "Elixir experimental",
+      "description": "<p>Creas el siguiente elixir experimental:</p>",
+      "results": {
+        "aE1Ltv9FXCkpPJYz": {
+          "text": "Elixir de volar"
+        },
+        "ozl7HkkSVpdkBt6u": {
+          "text": "Elixir de audacia"
+        },
+        "PC5a7CivLwRtJtlb": {
+          "text": "Elixir de resistencia"
+        },
+        "rdM8WZNJAlHTZlrS": {
+          "text": "Elixir de curación"
+        },
+        "roepJB54o8LWYvty": {
+          "text": "Elixir de rapidez"
+        },
+        "UHJThc3cyND50fYF": {
+          "text": "Elixir de transformación"
+        }
+      }
     },
     "tcoeExtraplanarR": {
       "name": "Inversión extraplanar"
@@ -113,16 +155,73 @@
       "name": "Deseos de feéricos"
     },
     "tcoeFeywildGifts": {
-      "name": "Dádivas de Feywild"
+      "name": "Dádivas de Feywild",
+      "description": "<p>Como @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeyWanderer0]{Errante Feérico}, también posees una bendición sobrenatural de un aliado feérico o de un lugar de poder feérico. Elige tu bendición de esta tabla o determínala al azar.</p>",
+      "results": {
+        "68RSuLJMq6I1fk7K": {
+          "text": "Mariposas ilusorias revolotean a tu alrededor cuando realizas un descanso corto o largo."
+        },
+        "cNoa1pomoPmm1RbB": {
+          "text": "Cada amanecer brotan de tu cabello flores frescas propias de la estación."
+        },
+        "GzSwjlOrNOrJrbb8": {
+          "text": "De tu cabeza brotan cuernos o astas."
+        },
+        "io8AOnmcwkK8UUzk": {
+          "text": "Tu piel y tu cabello cambian de color cada amanecer para adaptarse a la estación."
+        },
+        "qiEgOLYZ5t2NfAlI": {
+          "text": "Tu sombra baila cuando nadie la mira directamente."
+        },
+        "qsaz2Gsd2hUHCAF7": {
+          "text": "Desprendes un tenue aroma a canela, lavanda, nuez moscada u otra hierba o especia reconfortante."
+        }
+      }
     },
     "tcoeFiendDesires": {
       "name": "Deseos de infernales"
     },
     "tcoeGenieKind000": {
-      "name": "Tipo de genio"
+      "name": "Tipo de genio",
+      "description": "<p>Has hecho un pacto con uno de los tipos de genio más inusuales: un genio noble. Estas entidades gobiernan vastos feudos de los Planos Elementales y tienen gran influencia sobre genios inferiores y criaturas elementales. Los genios nobles tienen cada cual sus motivaciones, pero la mayoría son arrogantes y ostentan un poder que rivaliza con el de las deidades menores. Les gusta pagar a los mortales con su misma moneda, dado que estos a menudo obligan a los genios a servirlos, y siempre están dispuestos a hacer pactos que expandan sus dominios.</p><p>Eliges tu tipo de patrón o lo determinas de forma aleatoria usando las opciones siguientes.</p>",
+      "results": {
+        "4IxbrMlGgWP37jW8": {
+          "text": "<strong>Tipo:</strong> Efreeti. <strong>Elemento:</strong> Fuego."
+        },
+        "dSFnUJPEp5z2PTzA": {
+          "text": "<strong>Tipo:</strong> Dao. <strong>Elemento:</strong> Tierra."
+        },
+        "XyRi6kM1Dpyxpq4F": {
+          "text": "<strong>Tipo:</strong> Marid. <strong>Elemento:</strong> Agua."
+        },
+        "YB0vfNari9YBjAc9": {
+          "text": "<strong>Tipo:</strong> Djinni. <strong>Elemento:</strong> Aire."
+        }
+      }
     },
     "tcoeGeniesVessel": {
-      "name": "Recipiente del genio"
+      "name": "Recipiente del genio",
+      "description": "<p>Tu patrón te regala un recipiente mágico que te otorga una medida del poder del genio. Es un objeto Diminuto y puedes utilizarlo como canalizador mágico para tus conjuros de brujo. Tú decides lo que es el objeto o puedes determinarlo aleatoriamente tirando en la tabla siguiente:</p>",
+      "results": {
+        "GLq9fWBXObGQ4n0a": {
+          "text": "Anillo con un compartimento"
+        },
+        "K0nn11zadLIHv3ZA": {
+          "text": "Botella con tapón"
+        },
+        "lbUntDmPxTHtjtN5": {
+          "text": "Estatuilla hueca"
+        },
+        "t9UVcPxJNzWYr5it": {
+          "text": "Lámpara de aceite"
+        },
+        "yBlb4SUe30fQr4Sw": {
+          "text": "Farol ornamentado"
+        },
+        "ZCpJbvHDVedJ7ApR": {
+          "text": "Urna"
+        }
+      }
     },
     "tcoeGiantDesires": {
       "name": "Deseos de gigantes"
@@ -152,10 +251,52 @@
       "name": "Temáticas mágicas"
     },
     "tcoeManifestatio": {
-      "name": "Manifestaciones del orden"
+      "name": "Manifestaciones del orden",
+      "description": "<p>Elige o determina al azar cómo se manifiesta tu conexión con el orden mientras lanzas cualquiera de tus conjuros de hechicero.</p>",
+      "results": {
+        "2dAJDC23dB33cEc5": {
+          "text": "Tu piel resplandece con un brillo metálico."
+        },
+        "2YfWd1zkvY1B3zDM": {
+          "text": "Objetos geométricos y ecuaciones flotantes recubren tu cuerpo."
+        },
+        "DBhOLPG2frcgKc2G": {
+          "text": "Tanto tú como aquellos afectados por tu magia podéis escuchar el tictac de los engranajes o el timbre de un reloj."
+        },
+        "r8H1RcKeQJmp7Is5": {
+          "text": "Tu canalizador mágico adopta temporalmente la forma de un mecanismo de relojería Diminuto."
+        },
+        "RKbarfqIINLbUV11": {
+          "text": "Unos engranajes espectrales levitan tras de ti."
+        },
+        "UV5dvOtvZK9RPLMR": {
+          "text": "Las manecillas de un reloj giran en tus ojos."
+        }
+      }
     },
     "tcoeMercifulMask": {
-      "name": "Máscara de misericordia"
+      "name": "Máscara de misericordia",
+      "description": "<p>Una selección de posibles máscaras para la subclase del monje Camino de la Misericordia.</p>",
+      "results": {
+        "0qE1B6hrmehOKGrx": {
+          "text": "Rostro que llora"
+        },
+        "b1JrvBoTyYrVkaLe": {
+          "text": "Rostro que ríe"
+        },
+        "FGdcbgTYbGFeK6zW": {
+          "text": "Blanca y vacía"
+        },
+        "j1WR3x9mT25ciQ6E": {
+          "text": "Mariposa"
+        },
+        "ljJpDxOKq773zZ9L": {
+          "text": "Cuervo"
+        },
+        "msF5vo2R3VnAPf0E": {
+          "text": "Calavera"
+        }
+      }
     },
     "tcoeMilitaryCont": {
       "name": "Oficial al mando"
@@ -176,7 +317,22 @@
       "name": "Deseos de cienos"
     },
     "tcoeOriginOfTheB": {
-      "name": "Origen de la bestia"
+      "name": "Origen de la bestia",
+      "description": "<p>Los bárbaros de este tipo podrían albergar en su interior un espíritu primordial o descender de un cambiaformas. Puedes elegir el origen de tu fuerza salvaje o determinarlo con una tirada en esta tabla.</p>",
+      "results": {
+        "6ucuGyeI6cKsDppU": {
+          "text": "Un espíritu feérico te concedió la capacidad de adoptar distintas formas de bestia."
+        },
+        "DtWjV6GHREoOczVv": {
+          "text": "En tu interior reside un espíritu animal ancestral que te permite recorrer esta senda."
+        },
+        "hMv8PTcqZlSdW1PA": {
+          "text": "Desciendes de un archidruida y has heredado su capacidad de cambiar de forma parcialmente."
+        },
+        "PTN9RwABB68A903M": {
+          "text": "Uno de tus padres es un licántropo y has heredado parte de su maldición."
+        }
+      }
     },
     "tcoeOuterPlaneEs": {
       "name": "Esencia y propiedad exterior"
@@ -215,10 +371,46 @@
       "name": "Tipos de soberano"
     },
     "tcoeStarMapForm0": {
-      "name": "Mapa estelar"
+      "name": "Mapa estelar",
+      "description": "<p>Has creado un mapa estelar como parte de tus estudios del firmamento. Es un objeto Diminuto y puede servir como canalizador mágico para tus conjuros de druida. Escoge su forma de entre las de esta tabla o tira un dado para decidirlo.</p>",
+      "results": {
+        "aghPhcpiJNK66NM5": {
+          "text": "Una tablilla de piedra perforada con pequeños agujeros"
+        },
+        "B9aI6FkXkzKJwJUo": {
+          "text": "Un trozo de piel moteada de oso lechuza, decorada con grabados"
+        },
+        "BMsL5MXLQmIqwiHZ": {
+          "text": "Un conjunto de mapas encuadernados con una cubierta de ébano"
+        },
+        "dXpCqm7OMWPVz2HF": {
+          "text": "Discos de vidrio que representan las distintas constelaciones"
+        },
+        "EbJTGBr9oKxL33MR": {
+          "text": "Un cristal que proyecta patrones de estrellas cuando se coloca frente a una luz"
+        },
+        "KQwLc2Z4b8ktzong": {
+          "text": "Un pergamino con representaciones de constelaciones"
+        }
+      }
     },
     "tcoeSwarmAppeara": {
-      "name": "Aspecto del enjambre"
+      "name": "Aspecto del enjambre",
+      "description": "<p>Un enjambre de espíritus de la naturaleza intangibles se ha vinculado a ti y puede ayudarte en combate. Mientras estés vivo, el enjambre permanece en tu espacio, trepando por ti, volando o correteando a tu alrededor. Tú determinas su aspecto o lo generas tirando en esta tabla.</p>",
+      "results": {
+        "0is0e7F5CU4Hojxz": {
+          "text": "Enjambre de insectos"
+        },
+        "C0p0wbVGAWWh00g7": {
+          "text": "Hadas juguetonas"
+        },
+        "GJcdYlgDX4I9mwOo": {
+          "text": "Ramas marchitas diminutas"
+        },
+        "LRsr9gGmzpul7QIE": {
+          "text": "Pájaros revoloteando"
+        }
+      }
     },
     "tcoeSyndicateCon": {
       "name": "Contacto del sindicato"
