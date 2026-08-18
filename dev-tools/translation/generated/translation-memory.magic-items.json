@@ -468,6 +468,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Weapon (flail), requires attunement by a cleric or paladin</em></p><p>The rounded head of this flail is perforated with tiny holes, arranged in symbols and patterns. The flail counts as a holy symbol for you. When you hit with an attack using this magic flail, the target takes an extra 1d8 radiant damage.</p><p>As a bonus action, you can speak the command word to cause the flail to emanate a thin cloud of incense out to 10 feet for 1 minute. At the start of each of your turns, you and any other creatures in the incense each regain [[/healing 1d4]]{1d4 hit points}. This property can’t be used again until the next dawn.</p>",
+    "target": "<p><em>Arma (flagelo), requiere sintonización por parte de un clérigo o un paladín</em></p><p>La cabeza redondeada de este flagelo está perforada con numerosos agujeros minúsculos que forman símbolos y patrones. El flagelo cuenta como un símbolo sagrado para ti. Cuando impactes con un ataque usando este flagelo mágico, el objetivo recibirá 1d8 de daño radiante adicional.</p><p>Como acción adicional, puedes pronunciar la palabra de activación para hacer que el flagelo desprenda finas volutas de incienso a 10 pies durante 1 minuto. Al comienzo de cada uno de tus turnos, tú y todas las criaturas que os encontréis en el área del incienso recuperáis [[/healing 1d4]]{1d4 puntos de golpe}. Esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeDevoteesCens",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Amulet of the Devout +1",
     "target": "Amuleto de devoción +1",
     "pack": "tcoe-magic-items",
@@ -576,6 +585,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous Item, requires attunement by a sorcerer</em></p><p>This crackling crystal contains the essence of an elemental plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p>Roll a d4 and consult the Elemental Essence Shards table to determine the shard’s essence and property. When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use that property.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeElementalEss caption=false]</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal crepitante contiene la esencia de un plano elemental. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Tira 1d4 y consulta la tabla «Esquirlas de esencia elemental» para determinar la esencia y la propiedad de la esquirla. Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar esa propiedad.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeElementalEss caption=false]</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeElementalEss",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Evil Essence Shard",
     "target": "Esquirla de esencia maligna",
     "pack": "tcoe-magic-items",
@@ -637,6 +655,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement by a wizard</em></p><p>This thick, scorched spellbook reeks of smoke and ozone, and sparks of energy crackles along the edges of its pages. When found, the book contains the following spells: @UUID[Compendium.dnd5e.spells.Item.4smlOvpF5AQHcyg1]{contingency}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{fireball}, @UUID[Compendium.dnd5e.spells.Item.FSMy6VAjDnXY9vWz]{gust of wind}, @UUID[Compendium.dnd5e.spells.Item.NXWWWgHtWb7Nv21F]{Leomund’s tiny hut}, @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{magic missile}, @UUID[Compendium.dnd5e.spells.Item.WTbOQBsarsL1LuXJ]{thunderwave}, and @UUID[Compendium.dnd5e.spells.Item.o9ZCvuD2B1OTcubb]{wall of force}. It functions as a spellbook for you.</p><p>While you are holding the book, you can use it as a spellcasting focus for your wizard spells.</p><p>The book has 3 charges, and it regains 1d3 expended charges daily at dawn. You can use the charges in the following ways while holding it:</p><ul><li><p>If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the evocation school.</p></li><li><p>When one creature you can see takes damage from an evocation spell you cast, you can use your reaction and expend 1 charge to deal an extra 2d6 force damage to the creature and knock the creature prone if it is Large or smaller.</p></li></ul>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un mago</em></p><p>Este grueso libro de conjuros medio calcinado apesta a humo y ozono, y en los bordes de sus páginas chisporrotean chispas de energía. En el momento de hallarlo, el libro contiene los siguientes conjuros: @UUID[Compendium.dnd5e.spells.Item.4smlOvpF5AQHcyg1]{contingencia}, @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego}, @UUID[Compendium.dnd5e.spells.Item.FSMy6VAjDnXY9vWz]{ráfaga de viento}, @UUID[Compendium.dnd5e.spells.Item.NXWWWgHtWb7Nv21F]{pequeña choza de Leomund}, @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{proyectil mágico}, @UUID[Compendium.dnd5e.spells.Item.WTbOQBsarsL1LuXJ]{ola atronadora} y @UUID[Compendium.dnd5e.spells.Item.o9ZCvuD2B1OTcubb]{muro de fuerza}. Para ti funciona como un libro de conjuros.</p><p>Mientras lo sostienes, puedes usarlo como canalizador mágico para tus conjuros de mago.</p><p>El libro tiene 3 cargas y recupera 1d3 cargas empleadas cada día, al amanecer. Mientras lo sostengas, podrás usar las cargas de las siguientes formas:</p><ul><li><p>Si pasas 1 minuto estudiando el libro, puedes gastar 1 carga en sustituir uno de tus conjuros de mago preparados por otro conjuro del libro. El nuevo conjuro debe ser de la escuela de evocación.</p></li><li><p>Cuando una criatura que puedas ver reciba daño de un conjuro de evocación que lances, podrás usar tu reacción y gastar 1 carga para causar 2d6 de daño de fuerza adicional a la criatura y derribarla si es una criatura Grande o más pequeña.</p></li></ul>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeFulminatingT",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Ghost Step Tattoo",

@@ -250,11 +250,6 @@
     "sourceChars": 1529
   },
   {
-    "entryId": "tcoeDevoteesCens",
-    "path": "description",
-    "sourceChars": 636
-  },
-  {
     "entryId": "tcoeDustyHumanMo",
     "path": "name",
     "source": "Dusty Human Molar"
@@ -268,11 +263,6 @@
     "entryId": "tcoeEarthEssence",
     "path": "description",
     "sourceChars": 748
-  },
-  {
-    "entryId": "tcoeElementalEss",
-    "path": "description",
-    "sourceChars": 687
   },
   {
     "entryId": "tcoeEmeraldLizar",
@@ -308,11 +298,6 @@
     "entryId": "tcoeFlask0000000",
     "path": "description",
     "sourceChars": 73
-  },
-  {
-    "entryId": "tcoeFulminatingT",
-    "path": "description",
-    "sourceChars": 1464
   },
   {
     "entryId": "tcoeGoldAbsorbin",
