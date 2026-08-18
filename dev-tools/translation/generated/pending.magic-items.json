@@ -405,11 +405,6 @@
     "sourceChars": 457
   },
   {
-    "entryId": "tcoeHeartWeavers",
-    "path": "description",
-    "sourceChars": 1342
-  },
-  {
     "entryId": "tcoeHumanMolar00",
     "path": "name",
     "source": "Human Molar"
@@ -545,11 +540,6 @@
     "source": "Pistol, Automatic"
   },
   {
-    "entryId": "tcoePlanecallers",
-    "path": "description",
-    "sourceChars": 1363
-  },
-  {
     "entryId": "tcoePrimalFruit0",
     "path": "name",
     "source": "Primal Fruit"
@@ -558,11 +548,6 @@
     "entryId": "tcoePrimalFruit0",
     "path": "description",
     "sourceChars": 184
-  },
-  {
-    "entryId": "tcoeProtectiveVe",
-    "path": "description",
-    "sourceChars": 1593
   },
   {
     "entryId": "tcoeRainbowcolor",
