@@ -1140,7 +1140,7 @@
         "a usarse en 7 días."
       ]
     },
-    "status": "pending-html-reconstruction"
+    "status": "reviewed"
   },
   {
     "entryId": "tcoeCoilingGrasp",
@@ -1654,7 +1654,7 @@
         "usar las cargas de las siguientes formas:"
       ]
     },
-    "status": "pending-html-reconstruction"
+    "status": "reviewed"
   },
   {
     "entryId": "tcoeEldritchClaw",

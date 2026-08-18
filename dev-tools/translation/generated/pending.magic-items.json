@@ -230,11 +230,6 @@
     "source": "Bullets, Modern"
   },
   {
-    "entryId": "tcoeCauldronOfRe",
-    "path": "description",
-    "sourceChars": 1150
-  },
-  {
     "entryId": "tcoeChaoticEssen",
     "path": "description",
     "sourceChars": 549
@@ -258,11 +253,6 @@
     "entryId": "tcoeDevoteesCens",
     "path": "description",
     "sourceChars": 636
-  },
-  {
-    "entryId": "tcoeDuplicitousM",
-    "path": "description",
-    "sourceChars": 1561
   },
   {
     "entryId": "tcoeDustyHumanMo",
