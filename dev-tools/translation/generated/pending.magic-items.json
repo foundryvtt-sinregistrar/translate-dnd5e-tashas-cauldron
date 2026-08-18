@@ -165,11 +165,6 @@
     "sourceChars": 448
   },
   {
-    "entryId": "tcoeAbsorbingTat",
-    "path": "description",
-    "sourceChars": 820
-  },
-  {
     "entryId": "tcoeAirEssenceSh",
     "path": "description",
     "sourceChars": 702
@@ -198,11 +193,6 @@
     "entryId": "tcoeBabaYagasMor",
     "path": "description",
     "sourceChars": 4269
-  },
-  {
-    "entryId": "tcoeBarrierTatto",
-    "path": "description",
-    "sourceChars": 1027
   },
   {
     "entryId": "tcoeBlackAbsorbi",
@@ -360,11 +350,6 @@
     "sourceChars": 1464
   },
   {
-    "entryId": "tcoeGhostStepTat",
-    "path": "description",
-    "sourceChars": 1044
-  },
-  {
     "entryId": "tcoeGoldAbsorbin",
     "path": "name",
     "source": "Gold Absorbing Tattoo"
@@ -423,11 +408,6 @@
     "entryId": "tcoeHeartWeavers",
     "path": "description",
     "sourceChars": 1342
-  },
-  {
-    "entryId": "tcoeHeavyBarrier",
-    "path": "description",
-    "sourceChars": 428
   },
   {
     "entryId": "tcoeHumanMolar00",
@@ -495,16 +475,6 @@
     "sourceChars": 566
   },
   {
-    "entryId": "tcoeLibramOfSoul",
-    "path": "description",
-    "sourceChars": 1335
-  },
-  {
-    "entryId": "tcoeLightBarrier",
-    "path": "description",
-    "sourceChars": 454
-  },
-  {
     "entryId": "tcoeLubasSpells0",
     "path": "name",
     "source": "Luba's Tarokka Spells"
@@ -528,11 +498,6 @@
     "entryId": "tcoeLyreSpells00",
     "path": "description",
     "sourceChars": 915
-  },
-  {
-    "entryId": "tcoeMediumBarrie",
-    "path": "description",
-    "sourceChars": 470
   },
   {
     "entryId": "tcoeMortarbabaYa",
@@ -563,11 +528,6 @@
     "entryId": "tcoeOrangeAbsorb",
     "path": "description",
     "sourceChars": 720
-  },
-  {
-    "entryId": "tcoeOuterEssence",
-    "path": "description",
-    "sourceChars": 685
   },
   {
     "entryId": "tcoePestlebabaYa",

@@ -53,7 +53,8 @@
       "name": "Detectar el bien y el mal"
     },
     "tcoeAbsorbingTat": {
-      "name": "Tatuaje absorbente"
+      "name": "Tatuaje absorbente",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &Reference[damageresistance]{resistencia} a un tipo de daño asociado con ese color, como se indica en la tabla siguiente. El DM elige el color o lo determina al azar.</p><p><strong>Absorber daño.</strong> Cuando recibas daño del tipo elegido, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAbsorbingTat caption=false]</p>"
     },
     "tcoeAirEssenceSh": {
       "name": "Esquirla de esencia de aire"
@@ -100,7 +101,8 @@
       "name": "Mortero y Maja de Baba Yaga"
     },
     "tcoeBarrierTatto": {
-      "name": "Tatuaje de barrera"
+      "name": "Tatuaje de barrera",
+      "description": "<p><em>Objeto maravilloso, rareza variable, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por imágenes protectoras y se hace con una tinta que se asemeja al metal líquido.</p><p><strong>Protección.</strong> Mientras no lleves armadura, el tatuaje te otorga una Clase de Armadura que depende de su rareza, como se indica a continuación. Puedes usar un escudo y seguir obteniendo este beneficio.</p><table><thead><tr><th>Tatuaje</th><th>Rareza</th><th>CA</th></tr></thead><tbody><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLightBarrier]{Barrera ligera}</p></td><td><p>Infrecuente</p></td><td><p>12 + tu modificador por Destreza</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMediumBarrie]{Barrera media}</p></td><td><p>Raro</p></td><td><p>15 + tu modificador por Destreza (máximo de +2)</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeHeavyBarrier]{Barrera pesada}</p></td><td><p>Muy raro</p></td><td><p>18</p></td></tr></tbody></table>"
     },
     "tcoeBellBranch00": {
       "name": "Rama de campanillas",
@@ -198,7 +200,8 @@
       "name": "Tratado fulminante"
     },
     "tcoeGhostStepTat": {
-      "name": "Tatuaje de paso fantasmal"
+      "name": "Tatuaje de paso fantasmal",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje cambia y se mueve sobre la piel, y ciertas partes de él aparecen borrosas.</p><p><strong>Forma fantasmal.</strong> El tatuaje tiene 3 cargas y recupera todas las cargas gastadas cada día al amanecer. Como acción adicional, mientras tengas el tatuaje en la piel, puedes gastar 1 de sus cargas para volverte incorpóreo hasta el final de tu siguiente turno. Hasta que termine, obtienes los siguientes beneficios:</p><ul><li><p>Tienes &amp;Reference[damageresistance]{resistencia} al daño contundente, cortante y perforante de ataques no mágicos.</p></li><li><p>No puedes ser agarrado ni apresado.</p></li><li><p>Puedes moverte a través de criaturas y objetos sólidos como si fueran &amp;Reference[difficultterrain]{terreno difícil}. Si acabas tu turno en un objeto sólido, recibes [[/damage 1d10 type=force]] de daño de fuerza. Si el efecto termina mientras estás dentro de un objeto sólido, eres desplazado al espacio sin ocupar más cercano y recibes 1d10 de daño de fuerza por cada 5 pies recorridos.</p></li></ul>"
     },
     "tcoeGoldAbsorbin": {},
     "tcoeGoldenGoblin": {},
@@ -216,7 +219,8 @@
       "name": "Cartilla de Tejecorazones"
     },
     "tcoeHeavyBarrier": {
-      "name": "Tatuaje de barrera pesado"
+      "name": "Tatuaje de barrera pesado",
+      "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Tatuaje de barrera}, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por imágenes protectoras y se hace con una tinta que se asemeja al metal líquido.</p><p><strong>Protección.</strong> Mientras no lleves armadura, el tatuaje te otorga una Clase de Armadura de 18. Puedes usar un escudo y seguir obteniendo este beneficio.</p>"
     },
     "tcoeHumanMolar00": {},
     "tcoeIlluminators": {
@@ -233,14 +237,16 @@
       "name": "Esquirla de esencia legal"
     },
     "tcoeLibramOfSoul": {
-      "name": "Tratado de almas y carne"
+      "name": "Tratado de almas y carne",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un mago</em></p><p>Con unas tapas de piel e incrustaciones de hueso, este tomo resulta frío al tacto y susurra suavemente. En el momento de hallarlo, el libro contiene los siguientes conjuros, que se consideran conjuros de mago para ti mientras estés sintonizado con el libro: animar a los muertos, círculo de muerte, falsa vida, dedo de la muerte, hablar con los muertos, invocar muerto viviente (aparece en este libro) y toque vampírico. Para ti funciona como un libro de conjuros.</p><p>Mientras sostienes el libro, puedes usarlo como canalizador mágico para tus conjuros de mago.</p><p>El libro tiene 3 cargas y recupera 1d3 cargas gastadas cada día al amanecer. Mientras lo sostengas, puedes usar las cargas de las siguientes formas:</p><ul><li><p>Si pasas 1 minuto estudiando el libro, puedes gastar 1 carga para sustituir uno de tus conjuros de mago preparados por otro conjuro del libro. El nuevo conjuro debe ser de la escuela de nigromancia.</p></li><li><p>Como acción, puedes gastar 1 carga para adoptar la semblanza de un muerto viviente durante 10 minutos. Hasta que termine, adoptas una apariencia cadavérica y los muertos vivientes se muestran indiferentes hacia ti, a menos que les hayas causado daño. También pareces un muerto viviente ante cualquier inspección externa y ante los conjuros usados para determinar el estado del objetivo. El efecto termina si causas daño u obligas a una criatura a realizar una tirada de salvación.</p></li></ul>"
     },
     "tcoeLifewellTatt": {
       "name": "Tatuaje del Pozo de Vida",
       "description": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico muestra símbolos de vida y renacimiento.</p><p><strong>Resistencia necrótica.</strong> Tienes resistencia al daño necrótico.</p><p><strong>Protección vital.</strong> Cuando tus puntos de golpe fueran a reducirse a 0, se reducen a 1 en su lugar. Una vez utilizada, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p>"
     },
     "tcoeLightBarrier": {
-      "name": "Tatuaje de barrera ligero"
+      "name": "Tatuaje de barrera ligero",
+      "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Tatuaje de barrera}, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por imágenes protectoras y se hace con una tinta que se asemeja al metal líquido.</p><p><strong>Protección.</strong> Mientras no lleves armadura, el tatuaje te otorga una Clase de Armadura de 12 + tu modificador por Destreza. Puedes usar un escudo y seguir obteniendo este beneficio.</p>"
     },
     "tcoeLubasSpells0": {},
     "tcoeLubasTarokka": {
@@ -256,7 +262,8 @@
       "description": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico aparece en tu cuerpo con la forma que desees.</p><p><strong>Tinta fluida.</strong> Como acción adicional, puedes dotar al tatuaje del color o el patrón que quieras y moverlo a cualquier zona de tu piel. Adopte la forma que adopte, siempre resulta evidente que es un tatuaje. No puede ser más pequeño que una pieza de cobre, pero puede llegar a ser una intrincada obra de arte que cubra toda tu piel.</p><p><strong>Disfrazarse.</strong> Como acción, puedes usar el tatuaje para lanzar el conjuro @UUID[Compendium.dnd5e.spells.Item.A3q2gTNqG6fvNGrv]{disfrazarse} ([[/check ability=int skill=inv dc=13]] para descubrir el disfraz). Una vez lanzado el conjuro desde el tatuaje, no puede volver a lanzarse desde él hasta el siguiente amanecer.</p>"
     },
     "tcoeMediumBarrie": {
-      "name": "Tatuaje de barrera medio"
+      "name": "Tatuaje de barrera medio",
+      "description": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Tatuaje de barrera}, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por imágenes protectoras y se hace con una tinta que se asemeja al metal líquido.</p><p><strong>Protección.</strong> Mientras no lleves armadura, el tatuaje te otorga una Clase de Armadura de 15 + tu modificador por Destreza (máximo de +2). Puedes usar un escudo y seguir obteniendo este beneficio.</p>"
     },
     "tcoeMoonSickle00": {
       "name": "Hoz de luna +1",
@@ -281,7 +288,8 @@
     "tcoeObsidianHuma": {},
     "tcoeOrangeAbsorb": {},
     "tcoeOuterEssence": {
-      "name": "Esquirla de esencia exterior"
+      "name": "Esquirla de esencia exterior",
+      "description": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Tira [[/r 1d4]] y consulta la tabla Esquirlas de Esencia Exterior para determinar la esencia y la propiedad de la esquirla. Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, puedes utilizar esa propiedad.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeOuterPlaneEs caption=false]</p>"
     },
     "tcoePestlebabaYa": {
       "name": "Maja de Baba Yaga"

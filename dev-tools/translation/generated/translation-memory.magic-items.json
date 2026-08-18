@@ -54,6 +54,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, requires attunement</em></p><p>Produced by a special needle, this magic tattoo features designs that emphasize one color.</p><p><strong>Damage Resistance.</strong> While the tattoo is on your skin, you have &Reference[damageresistance]{resistance} to a type of damage associated with that color, as shown on the table below. The DM chooses the color or determines it randomly.</p><p><strong>Damage Absorption.</strong> When you take damage of the chosen type, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can’t be used again until the next dawn.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAbsorbingTat caption=false]</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Este tatuaje mágico creado con una aguja especial tiene un diseño que realza un único color.</p><p><strong>Resistencia al daño.</strong> Mientras tengas el tatuaje en la piel, obtienes &Reference[damageresistance]{resistencia} a un tipo de daño asociado con ese color, como se indica en la tabla siguiente. El DM elige el color o lo determina al azar.</p><p><strong>Absorber daño.</strong> Cuando recibas daño del tipo elegido, puedes usar tu reacción para obtener inmunidad contra ese daño y recuperas una cantidad de puntos de golpe igual a la mitad del daño que habrías recibido. Una vez utilizada, esta reacción no puede volver a usarse hasta el siguiente amanecer.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAbsorbingTat caption=false]</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeAbsorbingTat",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Air Essence Shard",
     "target": "Esquirla de esencia de aire",
     "pack": "tcoe-magic-items",
@@ -232,6 +241,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, rarity varies, requires attunement</em></p><p>Produced by a special needle, this magic tattoo depicts protective imagery and uses ink that resembles liquid metal.</p><p><strong>Protection.</strong> While you aren’t wearing armor, the tattoo grants you an Armor Class depending on the tattoo’s rarity, as shown below. You can use a shield and still gain this benefit.</p><table><thead><tr><th>Tattoo</th><th>Rarity</th><th>AC</th></tr></thead><tbody><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLightBarrier]{Light Barrier}</p></td><td><p>Uncommon</p></td><td><p>12 + your Dexterity modifier</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMediumBarrie]{Medium Barrier}</p></td><td><p>Rare</p></td><td><p>15 + your Dexterity modifier (maximum of +2)</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeHeavyBarrier]{Heavy Barrier}</p></td><td><p>Very Rare</p></td><td><p>18</p></td></tr></tbody></table>",
+    "target": "<p><em>Objeto maravilloso, rareza variable, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por imágenes protectoras y se hace con una tinta que se asemeja al metal líquido.</p><p><strong>Protección.</strong> Mientras no lleves armadura, el tatuaje te otorga una Clase de Armadura que depende de su rareza, como se indica a continuación. Puedes usar un escudo y seguir obteniendo este beneficio.</p><table><thead><tr><th>Tatuaje</th><th>Rareza</th><th>CA</th></tr></thead><tbody><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLightBarrier]{Barrera ligera}</p></td><td><p>Infrecuente</p></td><td><p>12 + tu modificador por Destreza</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMediumBarrie]{Barrera media}</p></td><td><p>Raro</p></td><td><p>15 + tu modificador por Destreza (máximo de +2)</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeHeavyBarrier]{Barrera pesada}</p></td><td><p>Muy raro</p></td><td><p>18</p></td></tr></tbody></table>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeBarrierTatto",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Bell Branch",
@@ -567,6 +585,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, requires attunement</em></p><p>Produced by a special needle, this tattoo shifts and wavers on the skin, parts of it appearing blurred.</p><p><strong>Ghostly Form.</strong> The tattoo has 3 charges, and it regains all expended charges daily at dawn. As a bonus action while the tattoo is on your skin, you can expend 1 of the tattoo’s charges to become incorporeal until the end of your next turn. For the duration, you gain the following benefits:</p><ul><li><p>You have &amp;Reference[damageresistance]{resistance} to bludgeoning, piercing, and slashing damage from nonmagical attacks.</p></li><li><p>You can’t be grappled or restrained.</p></li><li><p>You can move through creatures and solid objects as if they were &amp;Reference[difficultterrain]. If you end your turn in a solid object, you take [[/damage 1d10 type=force]] damage. If the effect ends while you are inside a solid object, you instead are shunted to the nearest unoccupied space, and you take 1d10 force damage for every 5 feet traveled.</p></li></ul>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje cambia y se mueve sobre la piel, y ciertas partes de él aparecen borrosas.</p><p><strong>Forma fantasmal.</strong> El tatuaje tiene 3 cargas y recupera todas las cargas gastadas cada día al amanecer. Como acción adicional, mientras tengas el tatuaje en la piel, puedes gastar 1 de sus cargas para volverte incorpóreo hasta el final de tu siguiente turno. Hasta que termine, obtienes los siguientes beneficios:</p><ul><li><p>Tienes &amp;Reference[damageresistance]{resistencia} al daño contundente, cortante y perforante de ataques no mágicos.</p></li><li><p>No puedes ser agarrado ni apresado.</p></li><li><p>Puedes moverte a través de criaturas y objetos sólidos como si fueran &amp;Reference[difficultterrain]{terreno difícil}. Si acabas tu turno en un objeto sólido, recibes [[/damage 1d10 type=force]] de daño de fuerza. Si el efecto termina mientras estás dentro de un objeto sólido, eres desplazado al espacio sin ocupar más cercano y recibes 1d10 de daño de fuerza por cada 5 pies recorridos.</p></li></ul>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeGhostStepTat",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Good Essence Shard",
     "target": "Esquirla de esencia benigna",
     "pack": "tcoe-magic-items",
@@ -612,6 +639,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Barrier Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo depicts protective imagery and uses ink that resembles liquid metal.</p><p><strong>Protection.</strong> While you aren’t wearing armor, the tattoo grants you an Armor Class of 18. You can use a shield and still gain this benefit.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Tatuaje de barrera}, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por imágenes protectoras y se hace con una tinta que se asemeja al metal líquido.</p><p><strong>Protección.</strong> Mientras no lleves armadura, el tatuaje te otorga una Clase de Armadura de 18. Puedes usar un escudo y seguir obteniendo este beneficio.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeHeavyBarrier",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Illuminator’s Tattoo",
     "target": "Tatuaje del Iluminador",
     "pack": "tcoe-magic-items",
@@ -648,6 +684,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p><em>Wondrous item, requires attunement by a wizard</em></p><p>With covers made of skin and fittings of bone, this tome is cold to the touch, and it whispers faintly. When found, the book contains the following spells, which are wizard spells for you while you are attuned to the book: animate dead, circle of death, false life, finger of death, speak with dead, summon undead (appears in this book), vampiric touch. It functions as a spellbook for you.</p><p>While you are holding the book, you can use it as a spellcasting focus for your wizard spells.</p><p>The book has 3 charges, and it regains 1d3 expended charges daily at dawn. You can use the charges in the following ways while holding it:</p><ul><li><p>If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the necromancy school.</p></li><li><p>As an action, you can expend 1 charge to take on a semblance of undeath for 10 minutes. For the duration, you take on a deathly appearance, and undead creatures are indifferent to you, unless you have damaged them. You also appear undead to all outward inspection and to spells used to determine the target’s status. The effect ends if you deal damage or force a creature to make a saving throw.</p></li></ul>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un mago</em></p><p>Con unas tapas de piel e incrustaciones de hueso, este tomo resulta frío al tacto y susurra suavemente. En el momento de hallarlo, el libro contiene los siguientes conjuros, que se consideran conjuros de mago para ti mientras estés sintonizado con el libro: animar a los muertos, círculo de muerte, falsa vida, dedo de la muerte, hablar con los muertos, invocar muerto viviente (aparece en este libro) y toque vampírico. Para ti funciona como un libro de conjuros.</p><p>Mientras sostienes el libro, puedes usarlo como canalizador mágico para tus conjuros de mago.</p><p>El libro tiene 3 cargas y recupera 1d3 cargas gastadas cada día al amanecer. Mientras lo sostengas, puedes usar las cargas de las siguientes formas:</p><ul><li><p>Si pasas 1 minuto estudiando el libro, puedes gastar 1 carga para sustituir uno de tus conjuros de mago preparados por otro conjuro del libro. El nuevo conjuro debe ser de la escuela de nigromancia.</p></li><li><p>Como acción, puedes gastar 1 carga para adoptar la semblanza de un muerto viviente durante 10 minutos. Hasta que termine, adoptas una apariencia cadavérica y los muertos vivientes se muestran indiferentes hacia ti, a menos que les hayas causado daño. También pareces un muerto viviente ante cualquier inspección externa y ante los conjuros usados para determinar el estado del objetivo. El efecto termina si causas daño u obligas a una criatura a realizar una tirada de salvación.</p></li></ul>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLibramOfSoul",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Lifewell Tattoo",
     "target": "Tatuaje del Pozo de Vida",
     "pack": "tcoe-magic-items",
@@ -673,6 +718,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Barrier Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo depicts protective imagery and uses ink that resembles liquid metal.</p><p><strong>Protection.</strong> While you aren’t wearing armor, the tattoo grants you an Armor Class of 12 + your Dexterity modifier. You can use a shield and still gain this benefit.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Tatuaje de barrera}, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por imágenes protectoras y se hace con una tinta que se asemeja al metal líquido.</p><p><strong>Protección.</strong> Mientras no lleves armadura, el tatuaje te otorga una Clase de Armadura de 12 + tu modificador por Destreza. Puedes usar un escudo y seguir obteniendo este beneficio.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeLightBarrier",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Luba's Tarokka of Souls",
@@ -727,6 +781,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Barrier Tattoo}, requires attunement</em></p><p>Produced by a special needle, this magic tattoo depicts protective imagery and uses ink that resembles liquid metal.</p><p><strong>Protection.</strong> While you aren’t wearing armor, the tattoo grants you an Armor Class of 15 + your Dexterity modifier (maximum of +2). You can use a shield and still gain this benefit.</p>",
+    "target": "<p><em>Objeto maravilloso, @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]{Tatuaje de barrera}, requiere sintonización</em></p><p>Creado con una aguja especial, este tatuaje mágico está formado por imágenes protectoras y se hace con una tinta que se asemeja al metal líquido.</p><p><strong>Protección.</strong> Mientras no lleves armadura, el tatuaje te otorga una Clase de Armadura de 15 + tu modificador por Destreza (máximo de +2). Puedes usar un escudo y seguir obteniendo este beneficio.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeMediumBarrie",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Moon Sickle +1",
@@ -817,6 +880,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p><em>Wondrous item, requires attunement by a sorcerer</em></p><p>This flickering crystal holds the essence of an Outer Plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.</p><p>Roll a [[/r 1d4]] and consult the Outer Essence Shards table to determine the shard’s essence and property. When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use that property.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeOuterPlaneEs caption=false]</p>",
+    "target": "<p><em>Objeto maravilloso, requiere sintonización por parte de un hechicero</em></p><p>Este cristal titilante contiene la esencia de un Plano Exterior. Como acción, puedes acoplar la esquirla a un objeto Diminuto (como un arma o una joya) o desacoplarla. Se desprende si concluye tu sintonización con ella. Puedes usar la esquirla como canalizador mágico mientras la sostienes o la llevas encima.</p><p>Tira [[/r 1d4]] y consulta la tabla Esquirlas de Esencia Exterior para determinar la esencia y la propiedad de la esquirla. Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, puedes utilizar esa propiedad.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeOuterPlaneEs caption=false]</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "tcoeOuterEssence",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Baba Yaga's Pestle",
