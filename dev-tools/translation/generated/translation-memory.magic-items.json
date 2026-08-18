@@ -27,6 +27,15 @@
     "sourceType": "reviewed-glossary"
   },
   {
+    "source": "<p>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+    "target": "<p>Mientras dura el conjuro, puedes percibir la presencia de magia a 30 pies o menos de ti. Si detectas magia de esta forma, puedes usar tu acción para ver una tenue aura alrededor de cualquier criatura u objeto visible de la zona que sea mágico y descubres su escuela de magia, si tiene alguna.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero queda bloqueado por 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "4y8tLxjGTUhY5Pez",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Mass Cure Wounds (3 charges)",
     "target": "Curar heridas en masa (3 cargas)",
     "pack": "tcoe-magic-items",
@@ -34,6 +43,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p>A wave of Healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 3d8 + your Spellcasting ability modifier. This spell has no effect on Undead or constructs.</p>",
+    "target": "<p>Una oleada de energía curativa surge de un punto de tu elección dentro del alcance. Elige hasta seis criaturas en una esfera de 30 pies de radio centrada en ese punto. Cada objetivo recupera una cantidad de puntos de golpe igual a 3d8 + tu modificador por aptitud mágica. Este conjuro no afecta a muertos vivientes ni autómatas.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "9INNz5wuYoHoko3a",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Scrying",
@@ -52,6 +70,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p>A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming Incapacitated and unable to stand up for the Duration. A creature with an Intelligence score of 4 or less isn't affected.</p><p>At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.</p>",
+    "target": "<p>Una criatura de tu elección que puedas ver dentro del alcance percibe todo como algo hilarante y sufre un ataque de risa si este conjuro la afecta. El objetivo debe superar una tirada de salvación de Sabiduría o caerá derribado, quedará incapacitado y no podrá levantarse mientras dure el conjuro. Una criatura con una puntuación de Inteligencia de 4 o menos no se ve afectada.</p><p>Al final de cada uno de sus turnos y cada vez que reciba daño, el objetivo puede realizar otra tirada de salvación de Sabiduría. Tiene ventaja en la tirada si esta se debe al daño. Si la supera, el conjuro termina.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "AblR39YnwtX7Pnv8",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Planar Ally (3 charges)",
@@ -81,6 +108,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p>This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.</p>",
+    "target": "<p>Este conjuro concede esperanza y vitalidad. Elige cualquier número de criaturas dentro del alcance. Mientras dure el conjuro, cada objetivo tiene ventaja en las tiradas de salvación de Sabiduría y contra muerte, y recupera la cantidad máxima posible de puntos de golpe de cualquier curación.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "btVMfxpigM5ZK7Xk",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Magic Circle (1 charge)",
     "target": "Círculo mágico (1 carga)",
     "pack": "tcoe-magic-items",
@@ -99,6 +135,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p>This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.</p><p>This spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.</p>",
+    "target": "<p>Este conjuro repara una única rotura o desgarro de un objeto que toques, como un eslabón roto, las dos mitades de una llave partida, una capa rasgada o un odre con una fuga. Siempre que la rotura o el desgarro no mida más de 1 pie en ninguna dimensión, lo reparas sin dejar rastro del daño anterior.</p><p>Este conjuro puede reparar físicamente un objeto mágico o un autómata, pero no puede devolverle la magia.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "hfg7hYHAC1ZJ2JB4",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Comprehend Languages",
     "target": "Entender idiomas",
     "pack": "tcoe-magic-items",
@@ -106,6 +151,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p>For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.</p><p>This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language.</p>",
+    "target": "<p>Mientras dura el conjuro, entiendes el significado literal de cualquier idioma hablado que escuches. También comprendes cualquier idioma escrito que veas, pero debes estar tocando la superficie en la que estén escritas las palabras. Leer una página de texto requiere aproximadamente 1 minuto.</p><p>Este conjuro no descifra mensajes secretos en un texto ni glifos, como un sigilo arcano, que no formen parte de un idioma escrito.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "huel9eEMyTm8fHYh",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Aura of Purity (2 charges)",
@@ -117,6 +171,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p>Purifying energy radiates from you in an aura with a 30-foot radius. Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) can’t become diseased, has resistance to poison damage, and has advantage on saving throws against effects that cause any of the following conditions: blinded, charmed, deafened, frightened, paralyzed, poisoned, and stunned.</p>",
+    "target": "<p>Una energía purificadora irradia de ti en un aura de 30 pies de radio. Hasta que termine el conjuro, el aura se mueve contigo y permanece centrada en ti. Las criaturas no hostiles dentro del aura, incluido tú, no pueden contraer enfermedades, tienen resistencia al daño de veneno y ventaja en las tiradas de salvación contra efectos que causen cualquiera de los siguientes estados: asustado, aturdido, cegado, ensordecido, envenenado, hechizado y paralizado.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "IFN81SVFn7ZQ4P5K",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Detect Poison and Disease",
     "target": "Detectar venenos y enfermedades",
     "pack": "tcoe-magic-items",
@@ -124,6 +187,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p>For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+    "target": "<p>Mientras dura el conjuro, puedes percibir la presencia y ubicación de venenos, criaturas venenosas y enfermedades a 30 pies o menos de ti. También identificas el tipo de veneno, criatura venenosa o enfermedad en cada caso.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero queda bloqueado por 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "JSEEhWqKREA3vAUX",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Fabricate",
@@ -153,6 +225,15 @@
     "sourceType": "official-pdf"
   },
   {
+    "source": "<p>Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.</p><p>The spell can locate a specific object known to you, as long as you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.</p><p>This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.</p>",
+    "target": "<p>Describe o nombra un objeto que te resulte familiar. Percibes la dirección en la que se encuentra, siempre que esté a 1000 pies o menos de ti. Si el objeto está en movimiento, conoces la dirección en la que se desplaza.</p><p>El conjuro puede localizar un objeto específico que conozcas, siempre que lo hayas visto de cerca, a 30 pies o menos, al menos una vez. Como alternativa, puede localizar el objeto más cercano de un tipo concreto, como una determinada clase de prenda, joya, mueble, herramienta o arma.</p><p>Este conjuro no puede localizar un objeto si cualquier grosor de plomo, incluso una lámina fina, bloquea una trayectoria directa entre el objeto y tú.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "nhDYujRhZeqNwPJF",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
+  },
+  {
     "source": "Passwall",
     "target": "Paso a través de la pared",
     "pack": "tcoe-magic-items",
@@ -169,6 +250,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "reviewed-glossary"
+  },
+  {
+    "source": "<p>For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.</p><p>The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</p>",
+    "target": "<p>Mientras dura el conjuro, sabes si hay alguna aberración, celestial, elemental, feérico, infernal o muerto viviente a 30 pies o menos de ti, así como dónde se encuentra. Del mismo modo, sabes si hay un lugar u objeto consagrado o profanado mágicamente a 30 pies o menos de ti.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero queda bloqueado por 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "Sjb6MJBgsZWcR8Ru",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Absorbing Tattoo",
@@ -2023,6 +2113,15 @@
     "path": "name",
     "confidence": 1.0,
     "sourceType": "official-pdf"
+  },
+  {
+    "source": "<p>Life-preserving energy radiates from you in an aura with a 30-foot radius.  Until the spell ends, the aura moves with you, centered on you. Each nonhostile creature in the aura (including you) has resistance to necrotic damage, and its hit point maximum can’t be reduced. In addition, a nonhostile, living creature regains 1 hit point when it starts its turn in the aura with 0 hit points.</p>",
+    "target": "<p>Una energía protectora de la vida irradia de ti en un aura de 30 pies de radio. Hasta que termine el conjuro, el aura se mueve contigo y permanece centrada en ti. Las criaturas no hostiles dentro del aura, incluido tú, tienen resistencia al daño necrótico y sus puntos de golpe máximos no pueden reducirse. Además, una criatura viva y no hostil recupera 1 punto de golpe cuando empieza su turno dentro del aura con 0 puntos de golpe.</p>",
+    "pack": "tcoe-magic-items",
+    "documentId": "xG4CH77hIt7Lqr0i",
+    "path": "description",
+    "confidence": 1.0,
+    "sourceType": "official-pdf-reviewed-html"
   },
   {
     "source": "Summon Fiend (3 charges)",

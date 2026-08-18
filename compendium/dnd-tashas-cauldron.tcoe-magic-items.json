@@ -30,16 +30,19 @@
       "name": "Invocar constructo"
     },
     "4y8tLxjGTUhY5Pez": {
-      "name": "Detectar magia"
+      "name": "Detectar magia",
+      "description": "<p>Mientras dura el conjuro, puedes percibir la presencia de magia a 30 pies o menos de ti. Si detectas magia de esta forma, puedes usar tu acción para ver una tenue aura alrededor de cualquier criatura u objeto visible de la zona que sea mágico y descubres su escuela de magia, si tiene alguna.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero queda bloqueado por 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>"
     },
     "9INNz5wuYoHoko3a": {
-      "name": "Curar heridas en masa (3 cargas)"
+      "name": "Curar heridas en masa (3 cargas)",
+      "description": "<p>Una oleada de energía curativa surge de un punto de tu elección dentro del alcance. Elige hasta seis criaturas en una esfera de 30 pies de radio centrada en ese punto. Cada objetivo recupera una cantidad de puntos de golpe igual a 3d8 + tu modificador por aptitud mágica. Este conjuro no afecta a muertos vivientes ni autómatas.</p>"
     },
     "9oGrPPdtScF3rWpS": {
       "name": "Escudriñar"
     },
     "AblR39YnwtX7Pnv8": {
-      "name": "Risa repulsiva (0 cargas)"
+      "name": "Risa repulsiva (0 cargas)",
+      "description": "<p>Una criatura de tu elección que puedas ver dentro del alcance percibe todo como algo hilarante y sufre un ataque de risa si este conjuro la afecta. El objetivo debe superar una tirada de salvación de Sabiduría o caerá derribado, quedará incapacitado y no podrá levantarse mientras dure el conjuro. Una criatura con una puntuación de Inteligencia de 4 o menos no se ve afectada.</p><p>Al final de cada uno de sus turnos y cada vez que reciba daño, el objetivo puede realizar otra tirada de salvación de Sabiduría. Tiene ventaja en la tirada si esta se debe al daño. Si la supera, el conjuro termina.</p>"
     },
     "AHRxTM3Ml5u4fETt": {
       "name": "Aliado planar (3 cargas)"
@@ -48,22 +51,27 @@
       "name": "Destierro (1 carga)"
     },
     "btVMfxpigM5ZK7Xk": {
-      "name": "Señal de esperanza (1 carga)"
+      "name": "Señal de esperanza (1 carga)",
+      "description": "<p>Este conjuro concede esperanza y vitalidad. Elige cualquier número de criaturas dentro del alcance. Mientras dure el conjuro, cada objetivo tiene ventaja en las tiradas de salvación de Sabiduría y contra muerte, y recupera la cantidad máxima posible de puntos de golpe de cualquier curación.</p>"
     },
     "GMTo5i28HJ67XTni": {
       "name": "Círculo mágico (1 carga)"
     },
     "hfg7hYHAC1ZJ2JB4": {
-      "name": "Reparar"
+      "name": "Reparar",
+      "description": "<p>Este conjuro repara una única rotura o desgarro de un objeto que toques, como un eslabón roto, las dos mitades de una llave partida, una capa rasgada o un odre con una fuga. Siempre que la rotura o el desgarro no mida más de 1 pie en ninguna dimensión, lo reparas sin dejar rastro del daño anterior.</p><p>Este conjuro puede reparar físicamente un objeto mágico o un autómata, pero no puede devolverle la magia.</p>"
     },
     "huel9eEMyTm8fHYh": {
-      "name": "Entender idiomas"
+      "name": "Entender idiomas",
+      "description": "<p>Mientras dura el conjuro, entiendes el significado literal de cualquier idioma hablado que escuches. También comprendes cualquier idioma escrito que veas, pero debes estar tocando la superficie en la que estén escritas las palabras. Leer una página de texto requiere aproximadamente 1 minuto.</p><p>Este conjuro no descifra mensajes secretos en un texto ni glifos, como un sigilo arcano, que no formen parte de un idioma escrito.</p>"
     },
     "IFN81SVFn7ZQ4P5K": {
-      "name": "Aura de pureza (2 cargas)"
+      "name": "Aura de pureza (2 cargas)",
+      "description": "<p>Una energía purificadora irradia de ti en un aura de 30 pies de radio. Hasta que termine el conjuro, el aura se mueve contigo y permanece centrada en ti. Las criaturas no hostiles dentro del aura, incluido tú, no pueden contraer enfermedades, tienen resistencia al daño de veneno y ventaja en las tiradas de salvación contra efectos que causen cualquiera de los siguientes estados: asustado, aturdido, cegado, ensordecido, envenenado, hechizado y paralizado.</p>"
     },
     "JSEEhWqKREA3vAUX": {
-      "name": "Detectar venenos y enfermedades"
+      "name": "Detectar venenos y enfermedades",
+      "description": "<p>Mientras dura el conjuro, puedes percibir la presencia y ubicación de venenos, criaturas venenosas y enfermedades a 30 pies o menos de ti. También identificas el tipo de veneno, criatura venenosa o enfermedad en cada caso.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero queda bloqueado por 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>"
     },
     "L7W4YvNRKUx3kWze": {
       "name": "Fabricar"
@@ -72,13 +80,15 @@
       "name": "Urna mágica (3 cargas)"
     },
     "nhDYujRhZeqNwPJF": {
-      "name": "Localizar objeto"
+      "name": "Localizar objeto",
+      "description": "<p>Describe o nombra un objeto que te resulte familiar. Percibes la dirección en la que se encuentra, siempre que esté a 1000 pies o menos de ti. Si el objeto está en movimiento, conoces la dirección en la que se desplaza.</p><p>El conjuro puede localizar un objeto específico que conozcas, siempre que lo hayas visto de cerca, a 30 pies o menos, al menos una vez. Como alternativa, puede localizar el objeto más cercano de un tipo concreto, como una determinada clase de prenda, joya, mueble, herramienta o arma.</p><p>Este conjuro no puede localizar un objeto si cualquier grosor de plomo, incluso una lámina fina, bloquea una trayectoria directa entre el objeto y tú.</p>"
     },
     "pXA5eMZ0Vp2ylYfs": {
       "name": "Paso a través de la pared"
     },
     "Sjb6MJBgsZWcR8Ru": {
-      "name": "Detectar el bien y el mal"
+      "name": "Detectar el bien y el mal",
+      "description": "<p>Mientras dura el conjuro, sabes si hay alguna aberración, celestial, elemental, feérico, infernal o muerto viviente a 30 pies o menos de ti, así como dónde se encuentra. Del mismo modo, sabes si hay un lugar u objeto consagrado o profanado mágicamente a 30 pies o menos de ti.</p><p>El conjuro puede atravesar la mayoría de las barreras, pero queda bloqueado por 1 pie de piedra, 1 pulgada de metal común, una lámina fina de plomo o 3 pies de madera o tierra.</p>"
     },
     "tcoeAbsorbingTat": {
       "name": "Tatuaje absorbente",
@@ -530,7 +540,8 @@
       "name": "Desplazamiento entre planos (3 cargas)"
     },
     "xG4CH77hIt7Lqr0i": {
-      "name": "Aura de vida (2 cargas)"
+      "name": "Aura de vida (2 cargas)",
+      "description": "<p>Una energía protectora de la vida irradia de ti en un aura de 30 pies de radio. Hasta que termine el conjuro, el aura se mueve contigo y permanece centrada en ti. Las criaturas no hostiles dentro del aura, incluido tú, tienen resistencia al daño necrótico y sus puntos de golpe máximos no pueden reducirse. Además, una criatura viva y no hostil recupera 1 punto de golpe cuando empieza su turno dentro del aura con 0 puntos de golpe.</p>"
     },
     "YvtyXTwwrjbaYoJ5": {
       "name": "Invocar infernal (3 cargas)"
