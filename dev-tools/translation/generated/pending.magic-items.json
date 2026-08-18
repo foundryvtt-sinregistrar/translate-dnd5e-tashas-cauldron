@@ -170,11 +170,6 @@
     "sourceChars": 702
   },
   {
-    "entryId": "tcoeAlchemicalCo",
-    "path": "description",
-    "sourceChars": 1704
-  },
-  {
     "entryId": "tcoeAntimatterRi",
     "path": "name",
     "source": "Antimatter Rifle"
@@ -258,11 +253,6 @@
     "entryId": "tcoeCrookOfRao00",
     "path": "description",
     "sourceChars": 4141
-  },
-  {
-    "entryId": "tcoeCrystallineC",
-    "path": "description",
-    "sourceChars": 2018
   },
   {
     "entryId": "tcoeDemonomiconS",
