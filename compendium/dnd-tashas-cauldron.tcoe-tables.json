@@ -8,105 +8,247 @@
     }
   },
   "folders": {
-    "Aberrant Mind": "Aberrant Mind",
-    "Academy": "Academy",
-    "Additional Rules & References": "Additional Rules & References",
-    "Alchemist": "Alchemist",
-    "Ancient Being": "Ancient Being",
-    "Aristocrat": "Aristocrat",
-    "Circle of Stars": "Circle of Stars",
-    "Clockwork Soul": "Clockwork Soul",
-    "Criminal Syndicate": "Criminal Syndicate",
-    "Dungeon Master's Tools": "Dungeon Master's Tools",
-    "Environmental Hazards": "Environmental Hazards",
-    "Fey Wanderer": "Fey Wanderer",
-    "Guild": "Guild",
-    "Magic Items": "Magic Items",
-    "Magical Miscellany": "Magical Miscellany",
-    "Magical Phenomena": "Magical Phenomena",
-    "Military Force": "Military Force",
-    "Monsters' Desires": "Monsters' Desires",
-    "Path of Wild Magic": "Path of Wild Magic",
-    "Path of the Beast": "Path of the Beast",
-    "Patron Tables": "Patron Tables",
-    "Religious Order": "Religious Order",
-    "Sovereign": "Sovereign",
-    "Supernatural Region Effects": "Supernatural Region Effects",
-    "Swarmkeeper": "Swarmkeeper",
-    "The Genie": "The Genie",
-    "Way of Mercy": "Way of Mercy"
+    "Aberrant Mind": "Mente aberrante",
+    "Academy": "Academia",
+    "Additional Rules & References": "Reglas y referencias adicionales",
+    "Alchemist": "Alquimista",
+    "Ancient Being": "Ser ancestral",
+    "Aristocrat": "Aristócrata",
+    "Circle of Stars": "Círculo de las Estrellas",
+    "Clockwork Soul": "Alma mecánica",
+    "Criminal Syndicate": "Sindicato criminal",
+    "Dungeon Master's Tools": "Herramientas del Dungeon Master",
+    "Environmental Hazards": "Peligros ambientales",
+    "Fey Wanderer": "Errante feérico",
+    "Guild": "Gremio",
+    "Magic Items": "Objetos mágicos",
+    "Magical Miscellany": "Miscelánea mágica",
+    "Magical Phenomena": "Fenómenos mágicos",
+    "Military Force": "Fuerza militar",
+    "Monsters' Desires": "Deseos de los monstruos",
+    "Path of Wild Magic": "Senda de la Magia Salvaje",
+    "Path of the Beast": "Senda de la Bestia",
+    "Patron Tables": "Tablas de patrones",
+    "Religious Order": "Orden religiosa",
+    "Sovereign": "Soberano",
+    "Supernatural Region Effects": "Efectos de regiones sobrenaturales",
+    "Swarmkeeper": "Guardián de enjambres",
+    "The Genie": "El Genio",
+    "Way of Mercy": "Camino de la Misericordia"
   },
   "entries": {
-    "tcoeAberrantOrig": {},
-    "tcoeAberrationDe": {},
-    "tcoeAbsorbingTat": {},
-    "tcoeAcademyConta": {},
-    "tcoeAcademyQuest": {},
-    "tcoeAcademyTypes": {},
-    "tcoeAristocratCo": {},
-    "tcoeAristocratQu": {},
-    "tcoeAristocratTy": {},
-    "tcoeBeastDesires": {},
-    "tcoeBeingContact": {},
-    "tcoeBeingQuests0": {},
-    "tcoeBeingTypes00": {},
-    "tcoeBlessedRadia": {},
-    "tcoeCelestialDes": {},
-    "tcoeConstructDes": {},
-    "tcoeDragonDesire": {},
-    "tcoeElementalDes": {},
-    "tcoeElementalEss": {},
-    "tcoeEnchantedSpr": {},
-    "tcoeExperimental": {},
-    "tcoeExtraplanarR": {},
-    "tcoeFarRealmCrea": {},
-    "tcoeFarRealmEffe": {},
-    "tcoeFeyDesires00": {},
-    "tcoeFeywildGifts": {},
-    "tcoeFiendDesires": {},
-    "tcoeGenieKind000": {},
-    "tcoeGeniesVessel": {},
-    "tcoeGiantDesires": {},
-    "tcoeGuildContact": {},
-    "tcoeGuildQuests0": {},
-    "tcoeGuildTypes00": {},
-    "tcoeHauntedEffec": {},
-    "tcoeHumanoidDesi": {},
-    "tcoeInfestedEffe": {},
-    "tcoeMagicMushroo": {},
-    "tcoeMagicThemes0": {},
-    "tcoeManifestatio": {},
-    "tcoeMercifulMask": {},
-    "tcoeMilitaryCont": {},
-    "tcoeMilitaryQues": {},
-    "tcoeMilitaryType": {},
-    "tcoeMirrorZoneEf": {},
-    "tcoeMonstrosityD": {},
-    "tcoeOozeDesires0": {},
-    "tcoeOriginOfTheB": {},
-    "tcoeOuterPlaneEs": {},
-    "tcoePartyOrigin0": {},
-    "tcoePlantDesires": {},
-    "tcoePrimalFruitE": {},
-    "tcoePsychicReson": {},
-    "tcoeReligiousCon": {},
-    "tcoeReligiousQue": {},
-    "tcoeReligiousTyp": {},
-    "tcoeSoulsOfTheTa": {},
-    "tcoeSovereignCon": {},
-    "tcoeSovereignQue": {},
-    "tcoeSovereignTyp": {},
-    "tcoeStarMapForm0": {},
-    "tcoeSwarmAppeara": {},
-    "tcoeSyndicateCon": {},
-    "tcoeSyndicateQue": {},
-    "tcoeSyndicateTyp": {},
-    "tcoeTeethOfDehlv": {},
-    "tcoeTrinkets0000": {},
-    "tcoeUndeadDesire": {},
-    "tcoeUnearthlyRoa": {},
-    "tcoeUnravelingMa": {},
-    "tcoeWildMagicEru": {},
-    "tcoeWildMagicSur": {}
+    "tcoeAberrantOrig": {
+      "name": "Orígenes aberrantes"
+    },
+    "tcoeAberrationDe": {
+      "name": "Deseos de aberraciones"
+    },
+    "tcoeAbsorbingTat": {
+      "name": "Color del tatuaje absorbente"
+    },
+    "tcoeAcademyConta": {
+      "name": "Contacto en la academia"
+    },
+    "tcoeAcademyQuest": {
+      "name": "Misiones de la academia"
+    },
+    "tcoeAcademyTypes": {
+      "name": "Tipo de academia"
+    },
+    "tcoeAristocratCo": {
+      "name": "Contacto del aristócrata"
+    },
+    "tcoeAristocratQu": {
+      "name": "Misiones de los aristócratas"
+    },
+    "tcoeAristocratTy": {
+      "name": "Tipos de aristócrata"
+    },
+    "tcoeBeastDesires": {
+      "name": "Deseos de bestias"
+    },
+    "tcoeBeingContact": {
+      "name": "Contacto del ser ancestral"
+    },
+    "tcoeBeingQuests0": {
+      "name": "Misiones de los seres ancestrales"
+    },
+    "tcoeBeingTypes00": {
+      "name": "Ser ancestral"
+    },
+    "tcoeBlessedRadia": {
+      "name": "Efectos de resplandor bendito"
+    },
+    "tcoeCelestialDes": {
+      "name": "Deseos de celestiales"
+    },
+    "tcoeConstructDes": {
+      "name": "Deseos de constructos"
+    },
+    "tcoeDragonDesire": {
+      "name": "Deseos de dragones"
+    },
+    "tcoeElementalDes": {
+      "name": "Deseos de elementales"
+    },
+    "tcoeElementalEss": {
+      "name": "Esencia y propiedad elemental"
+    },
+    "tcoeEnchantedSpr": {
+      "name": "Efectos de manantial encantado"
+    },
+    "tcoeExperimental": {
+      "name": "Elixir experimental"
+    },
+    "tcoeExtraplanarR": {
+      "name": "Inversión extraplanar"
+    },
+    "tcoeFarRealmCrea": {
+      "name": "Efectos del Reino Lejano: criaturas"
+    },
+    "tcoeFarRealmEffe": {
+      "name": "Efectos del Reino Lejano"
+    },
+    "tcoeFeyDesires00": {
+      "name": "Deseos de feéricos"
+    },
+    "tcoeFeywildGifts": {
+      "name": "Dádivas de Feywild"
+    },
+    "tcoeFiendDesires": {
+      "name": "Deseos de infernales"
+    },
+    "tcoeGenieKind000": {
+      "name": "Tipo de genio"
+    },
+    "tcoeGeniesVessel": {
+      "name": "Recipiente del genio"
+    },
+    "tcoeGiantDesires": {
+      "name": "Deseos de gigantes"
+    },
+    "tcoeGuildContact": {
+      "name": "Contacto del gremio"
+    },
+    "tcoeGuildQuests0": {
+      "name": "Misiones del gremio"
+    },
+    "tcoeGuildTypes00": {
+      "name": "Tipos de gremio"
+    },
+    "tcoeHauntedEffec": {
+      "name": "Efectos de lugares encantados"
+    },
+    "tcoeHumanoidDesi": {
+      "name": "Deseos de humanoides"
+    },
+    "tcoeInfestedEffe": {
+      "name": "Efectos de infestación"
+    },
+    "tcoeMagicMushroo": {
+      "name": "Efectos de hongos mágicos"
+    },
+    "tcoeMagicThemes0": {
+      "name": "Temáticas mágicas"
+    },
+    "tcoeManifestatio": {
+      "name": "Manifestaciones del orden"
+    },
+    "tcoeMercifulMask": {
+      "name": "Máscara de misericordia"
+    },
+    "tcoeMilitaryCont": {
+      "name": "Oficial al mando"
+    },
+    "tcoeMilitaryQues": {
+      "name": "Misiones militares"
+    },
+    "tcoeMilitaryType": {
+      "name": "Tipos de fuerza militar"
+    },
+    "tcoeMirrorZoneEf": {
+      "name": "Efectos de zona especular"
+    },
+    "tcoeMonstrosityD": {
+      "name": "Deseos de monstruosidades"
+    },
+    "tcoeOozeDesires0": {
+      "name": "Deseos de cienos"
+    },
+    "tcoeOriginOfTheB": {
+      "name": "Origen de la bestia"
+    },
+    "tcoeOuterPlaneEs": {
+      "name": "Esencia y propiedad exterior"
+    },
+    "tcoePartyOrigin0": {
+      "name": "Origen del grupo"
+    },
+    "tcoePlantDesires": {
+      "name": "Deseos de plantas"
+    },
+    "tcoePrimalFruitE": {
+      "name": "Efectos del fruto primordial"
+    },
+    "tcoePsychicReson": {
+      "name": "Efectos de resonancia psíquica"
+    },
+    "tcoeReligiousCon": {
+      "name": "Contacto de la orden religiosa"
+    },
+    "tcoeReligiousQue": {
+      "name": "Misiones de las órdenes religiosas"
+    },
+    "tcoeReligiousTyp": {
+      "name": "Tipos de órdenes religiosas"
+    },
+    "tcoeSoulsOfTheTa": {
+      "name": "Almas del Tarokka"
+    },
+    "tcoeSovereignCon": {
+      "name": "Contacto del soberano"
+    },
+    "tcoeSovereignQue": {
+      "name": "Misiones del soberano"
+    },
+    "tcoeSovereignTyp": {
+      "name": "Tipos de soberano"
+    },
+    "tcoeStarMapForm0": {
+      "name": "Mapa estelar"
+    },
+    "tcoeSwarmAppeara": {
+      "name": "Aspecto del enjambre"
+    },
+    "tcoeSyndicateCon": {
+      "name": "Contacto del sindicato"
+    },
+    "tcoeSyndicateQue": {
+      "name": "Misiones del sindicato criminal"
+    },
+    "tcoeSyndicateTyp": {
+      "name": "Tipos de sindicato"
+    },
+    "tcoeTeethOfDehlv": {
+      "name": "Dientes de Dahlver-Nar"
+    },
+    "tcoeTrinkets0000": {
+      "name": "Chucherías"
+    },
+    "tcoeUndeadDesire": {
+      "name": "Deseos de muertos vivientes"
+    },
+    "tcoeUnearthlyRoa": {
+      "name": "Llaves de caminos sobrenaturales"
+    },
+    "tcoeUnravelingMa": {
+      "name": "Efectos de magia desatada"
+    },
+    "tcoeWildMagicEru": {
+      "name": "Magia salvaje"
+    },
+    "tcoeWildMagicSur": {
+      "name": "Sobrecarga de magia salvaje"
+    }
   }
 }

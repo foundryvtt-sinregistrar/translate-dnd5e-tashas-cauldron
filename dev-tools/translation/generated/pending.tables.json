@@ -1,118 +1,5 @@
 [
   {
-    "path": "folders.Aberrant Mind",
-    "source": "Aberrant Mind"
-  },
-  {
-    "path": "folders.Academy",
-    "source": "Academy"
-  },
-  {
-    "path": "folders.Additional Rules & References",
-    "source": "Additional Rules & References"
-  },
-  {
-    "path": "folders.Alchemist",
-    "source": "Alchemist"
-  },
-  {
-    "path": "folders.Ancient Being",
-    "source": "Ancient Being"
-  },
-  {
-    "path": "folders.Aristocrat",
-    "source": "Aristocrat"
-  },
-  {
-    "path": "folders.Circle of Stars",
-    "source": "Circle of Stars"
-  },
-  {
-    "path": "folders.Clockwork Soul",
-    "source": "Clockwork Soul"
-  },
-  {
-    "path": "folders.Criminal Syndicate",
-    "source": "Criminal Syndicate"
-  },
-  {
-    "path": "folders.Dungeon Master's Tools",
-    "source": "Dungeon Master's Tools"
-  },
-  {
-    "path": "folders.Environmental Hazards",
-    "source": "Environmental Hazards"
-  },
-  {
-    "path": "folders.Fey Wanderer",
-    "source": "Fey Wanderer"
-  },
-  {
-    "path": "folders.Guild",
-    "source": "Guild"
-  },
-  {
-    "path": "folders.Magic Items",
-    "source": "Magic Items"
-  },
-  {
-    "path": "folders.Magical Miscellany",
-    "source": "Magical Miscellany"
-  },
-  {
-    "path": "folders.Magical Phenomena",
-    "source": "Magical Phenomena"
-  },
-  {
-    "path": "folders.Military Force",
-    "source": "Military Force"
-  },
-  {
-    "path": "folders.Monsters' Desires",
-    "source": "Monsters' Desires"
-  },
-  {
-    "path": "folders.Path of Wild Magic",
-    "source": "Path of Wild Magic"
-  },
-  {
-    "path": "folders.Path of the Beast",
-    "source": "Path of the Beast"
-  },
-  {
-    "path": "folders.Patron Tables",
-    "source": "Patron Tables"
-  },
-  {
-    "path": "folders.Religious Order",
-    "source": "Religious Order"
-  },
-  {
-    "path": "folders.Sovereign",
-    "source": "Sovereign"
-  },
-  {
-    "path": "folders.Supernatural Region Effects",
-    "source": "Supernatural Region Effects"
-  },
-  {
-    "path": "folders.Swarmkeeper",
-    "source": "Swarmkeeper"
-  },
-  {
-    "path": "folders.The Genie",
-    "source": "The Genie"
-  },
-  {
-    "path": "folders.Way of Mercy",
-    "source": "Way of Mercy"
-  },
-  {
-    "entryId": "tcoeAberrantOrig",
-    "path": "name",
-    "source": "Aberrant Origins"
-  },
-  {
     "entryId": "tcoeAberrantOrig",
     "path": "description",
     "source": "<p>As an Aberrant Mind sorcerer, you decide how you acquired your powers. Were you born with them? Or did an event later in life leave you shining with psionic awareness? Consult the Aberrant Origins options for a possible origin of your power.</p>"
@@ -167,11 +54,6 @@
   },
   {
     "entryId": "tcoeAberrationDe",
-    "path": "name",
-    "source": "Aberration Desires"
-  },
-  {
-    "entryId": "tcoeAberrationDe",
     "path": "description",
     "source": "<p>Some desired offering options for an aberration.</p>"
   },
@@ -206,11 +88,6 @@
     "path": "results.yTcchuNYwA49sCux.text",
     "source": "Flattery and obsequiousness",
     "legacySource": "Flattery and obsequiousness"
-  },
-  {
-    "entryId": "tcoeAbsorbingTat",
-    "path": "name",
-    "source": "Absorbing Tattoo Color"
   },
   {
     "entryId": "tcoeAbsorbingTat",
@@ -294,11 +171,6 @@
   },
   {
     "entryId": "tcoeAcademyConta",
-    "path": "name",
-    "source": "Academy Contacts"
-  },
-  {
-    "entryId": "tcoeAcademyConta",
     "resultId": "9vhJD2ZLvKNchevh",
     "range": "3-3",
     "path": "results.9vhJD2ZLvKNchevh.text",
@@ -344,11 +216,6 @@
     "path": "results.xHN2lTPVyphXugda.text",
     "source": "<strong>Infatuated Tourist.</strong> A flirtatious visiting scholar perceives your every report and donated discovery as a personal gift.",
     "legacySource": "<strong>Infatuated Tourist.</strong> A flirtatious visiting scholar perceives your every report and donated discovery as a personal gift."
-  },
-  {
-    "entryId": "tcoeAcademyQuest",
-    "path": "name",
-    "source": "Academy Quests"
   },
   {
     "entryId": "tcoeAcademyQuest",
@@ -400,11 +267,6 @@
   },
   {
     "entryId": "tcoeAcademyTypes",
-    "path": "name",
-    "source": "Academy Types"
-  },
-  {
-    "entryId": "tcoeAcademyTypes",
     "resultId": "1KDevIpHaYObvC86",
     "range": "6-6",
     "path": "results.1KDevIpHaYObvC86.text",
@@ -450,11 +312,6 @@
     "path": "results.utNWhHHOl7rhyhdO.text",
     "source": "<strong>Elite Institute.</strong> This cutthroat college of science or the arts accepts only the crème de la crème of society and talent.",
     "legacySource": "<strong>Elite Institute.</strong> This cutthroat college of science or the arts accepts only the crème de la crème of society and talent."
-  },
-  {
-    "entryId": "tcoeAristocratCo",
-    "path": "name",
-    "source": "Aristocrat Contacts"
   },
   {
     "entryId": "tcoeAristocratCo",
@@ -506,11 +363,6 @@
   },
   {
     "entryId": "tcoeAristocratQu",
-    "path": "name",
-    "source": "Aristocrat Quests"
-  },
-  {
-    "entryId": "tcoeAristocratQu",
     "resultId": "cGW3beuXxdct4685",
     "range": "1-1",
     "path": "results.cGW3beuXxdct4685.text",
@@ -556,11 +408,6 @@
     "path": "results.TXgxGqlYoxAap4BL.text",
     "source": "<strong>Origin of Nobility.</strong> You reveal the secret reason why certain individuals were elevated to noble status and how they will soon fulfill their purpose.",
     "legacySource": "<strong>Origin of Nobility.</strong> You reveal the secret reason why certain individuals were elevated to noble status and how they will soon fulfill their purpose."
-  },
-  {
-    "entryId": "tcoeAristocratTy",
-    "path": "name",
-    "source": "Aristocrat Types"
   },
   {
     "entryId": "tcoeAristocratTy",
@@ -612,11 +459,6 @@
   },
   {
     "entryId": "tcoeBeastDesires",
-    "path": "name",
-    "source": "Beast Desires"
-  },
-  {
-    "entryId": "tcoeBeastDesires",
     "path": "description",
     "source": "<p>Some desired offering options for a beast.</p>"
   },
@@ -651,11 +493,6 @@
     "path": "results.yLyZPm43U0UM4l7M.text",
     "source": "A soothing melody",
     "legacySource": "A soothing melody"
-  },
-  {
-    "entryId": "tcoeBeingContact",
-    "path": "name",
-    "source": "Ancient Being Contacts"
   },
   {
     "entryId": "tcoeBeingContact",
@@ -707,11 +544,6 @@
   },
   {
     "entryId": "tcoeBeingQuests0",
-    "path": "name",
-    "source": "Ancient Being Quests"
-  },
-  {
-    "entryId": "tcoeBeingQuests0",
     "resultId": "4QSQthUJgDXbLfye",
     "range": "6-6",
     "path": "results.4QSQthUJgDXbLfye.text",
@@ -760,11 +592,6 @@
   },
   {
     "entryId": "tcoeBeingTypes00",
-    "path": "name",
-    "source": "Ancient Being Types"
-  },
-  {
-    "entryId": "tcoeBeingTypes00",
     "resultId": "6DqtJ8jCMtdsFEF8",
     "range": "4-4",
     "path": "results.6DqtJ8jCMtdsFEF8.text",
@@ -810,11 +637,6 @@
     "path": "results.yZIkafNmrLNFumA0.text",
     "source": "<strong>Lich</strong>. An undead spellcaster of immense power employs your group. Its interests are strangely diverse and seemingly benign. Perhaps it’s not as evil as conventional adventuring wisdom suggests?",
     "legacySource": "<strong>Lich</strong>. An undead spellcaster of immense power employs your group. Its interests are strangely diverse and seemingly benign. Perhaps it’s not as evil as conventional adventuring wisdom suggests?"
-  },
-  {
-    "entryId": "tcoeBlessedRadia",
-    "path": "name",
-    "source": "Blessed Radiance Effects"
   },
   {
     "entryId": "tcoeBlessedRadia",
@@ -959,11 +781,6 @@
   },
   {
     "entryId": "tcoeCelestialDes",
-    "path": "name",
-    "source": "Celestial Desires"
-  },
-  {
-    "entryId": "tcoeCelestialDes",
     "path": "description",
     "source": "<p>Some desired offering options for a celestial.</p>"
   },
@@ -998,11 +815,6 @@
     "path": "results.wMRcQxdZZeiaIOEX.text",
     "source": "An oath to do three charitable deeds before dawn",
     "legacySource": "An oath to do three charitable deeds before dawn"
-  },
-  {
-    "entryId": "tcoeConstructDes",
-    "path": "name",
-    "source": "Construct Desires"
   },
   {
     "entryId": "tcoeConstructDes",
@@ -1043,11 +855,6 @@
   },
   {
     "entryId": "tcoeDragonDesire",
-    "path": "name",
-    "source": "Dragon Desires"
-  },
-  {
-    "entryId": "tcoeDragonDesire",
     "path": "description",
     "source": "<p>Some desired offering options for a dragon.</p>"
   },
@@ -1082,11 +889,6 @@
     "path": "results.wGOllr5sHdiA1qLN.text",
     "source": "An antique passed down at least three generations",
     "legacySource": "An antique passed down at least three generations"
-  },
-  {
-    "entryId": "tcoeElementalDes",
-    "path": "name",
-    "source": "Elemental Desires"
   },
   {
     "entryId": "tcoeElementalDes",
@@ -1127,11 +929,6 @@
   },
   {
     "entryId": "tcoeElementalEss",
-    "path": "name",
-    "source": "Elemental Essence and Property"
-  },
-  {
-    "entryId": "tcoeElementalEss",
     "path": "description",
     "source": "<p>Use this table to determine a @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{shard's} essence and property. When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use that property.</p>"
   },
@@ -1166,11 +963,6 @@
     "path": "results.xdgUD0YbcflWVMyV.text",
     "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeFireEssenceS]{Fire.}</strong> One target of the spell that you can see catches fire. The burning target takes [[/damage 2d10 type=fire]] damage at the start of its next turn, and then the flames go out.",
     "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeFireEssenceS]{Fire.}</strong> One target of the spell that you can see catches fire. The burning target takes [[/damage 2d10 type=fire]] damage at the start of its next turn, and then the flames go out."
-  },
-  {
-    "entryId": "tcoeEnchantedSpr",
-    "path": "name",
-    "source": "Enchanted Spring Effects"
   },
   {
     "entryId": "tcoeEnchantedSpr",
@@ -1275,11 +1067,6 @@
   },
   {
     "entryId": "tcoeExperimental",
-    "path": "name",
-    "source": "Experimental Elixirs"
-  },
-  {
-    "entryId": "tcoeExperimental",
     "path": "description",
     "source": "<p>You create the following experimental elixir:</p>"
   },
@@ -1330,11 +1117,6 @@
     "path": "results.UHJThc3cyND50fYF.text",
     "source": "Transformation Elixir",
     "legacySource": null
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "path": "name",
-    "source": "Extraplanar Reversal"
   },
   {
     "entryId": "tcoeExtraplanarR",
@@ -1407,11 +1189,6 @@
   },
   {
     "entryId": "tcoeFarRealmCrea",
-    "path": "name",
-    "source": "Far Realm Effects: Creatures"
-  },
-  {
-    "entryId": "tcoeFarRealmCrea",
     "path": "description",
     "source": "<p>Options that can occur as part of a @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeFarRealmEffe]{Far Realm Effect}.</p>"
   },
@@ -1438,11 +1215,6 @@
     "path": "results.PLzhHyvMWFTw3P59.text",
     "source": "A @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.NB6wUgVqeOQtsQKu]{treant} (in forested terrain) or a galeb duhr (in rockier terrain) attacks.",
     "legacySource": "A @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.NB6wUgVqeOQtsQKu]{treant} (in forested terrain) or a galeb duhr (in rockier terrain) attacks."
-  },
-  {
-    "entryId": "tcoeFarRealmEffe",
-    "path": "name",
-    "source": "Far Realm Effects"
   },
   {
     "entryId": "tcoeFarRealmEffe",
@@ -1555,11 +1327,6 @@
   },
   {
     "entryId": "tcoeFeyDesires00",
-    "path": "name",
-    "source": "Fey Desires"
-  },
-  {
-    "entryId": "tcoeFeyDesires00",
     "path": "description",
     "source": "<p>Some desired offering options for a fey.</p>"
   },
@@ -1594,11 +1361,6 @@
     "path": "results.TXFA6125pvLmdAmw.text",
     "source": "The color of your eyes",
     "legacySource": "The color of your eyes"
-  },
-  {
-    "entryId": "tcoeFeywildGifts",
-    "path": "name",
-    "source": "Feywild Gifts"
   },
   {
     "entryId": "tcoeFeywildGifts",
@@ -1655,11 +1417,6 @@
   },
   {
     "entryId": "tcoeFiendDesires",
-    "path": "name",
-    "source": "Fiend Desires"
-  },
-  {
-    "entryId": "tcoeFiendDesires",
     "path": "description",
     "source": "<p>Some desired offering options for a fiend.</p>"
   },
@@ -1697,11 +1454,6 @@
   },
   {
     "entryId": "tcoeGenieKind000",
-    "path": "name",
-    "source": "Genie Kind"
-  },
-  {
-    "entryId": "tcoeGenieKind000",
     "path": "description",
     "source": "<p>You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.</p><p>You choose your patron’s kind or determine it randomly, using the below options.</p>"
   },
@@ -1736,11 +1488,6 @@
     "path": "results.YB0vfNari9YBjAc9.text",
     "source": "<strong>Kind:</strong> Djinii. <strong>Element:</strong> Air.",
     "legacySource": "<strong>Kind:</strong> Djinii. <strong>Element:</strong> Air."
-  },
-  {
-    "entryId": "tcoeGeniesVessel",
-    "path": "name",
-    "source": "Genie's Vessel"
   },
   {
     "entryId": "tcoeGeniesVessel",
@@ -1797,11 +1544,6 @@
   },
   {
     "entryId": "tcoeGiantDesires",
-    "path": "name",
-    "source": "Giant Desires"
-  },
-  {
-    "entryId": "tcoeGiantDesires",
     "path": "description",
     "source": "<p>Some desired offering options for a giant.</p>"
   },
@@ -1836,11 +1578,6 @@
     "path": "results.L3a46nqdpAnfxM53.text",
     "source": "A strong working animal",
     "legacySource": "A strong working animal"
-  },
-  {
-    "entryId": "tcoeGuildContact",
-    "path": "name",
-    "source": "Guild Contacts"
   },
   {
     "entryId": "tcoeGuildContact",
@@ -1892,11 +1629,6 @@
   },
   {
     "entryId": "tcoeGuildQuests0",
-    "path": "name",
-    "source": "Guild Quests"
-  },
-  {
-    "entryId": "tcoeGuildQuests0",
     "resultId": "ebsluT7yWFXXHFat",
     "range": "6-6",
     "path": "results.ebsluT7yWFXXHFat.text",
@@ -1945,11 +1677,6 @@
   },
   {
     "entryId": "tcoeGuildTypes00",
-    "path": "name",
-    "source": "Guild Types"
-  },
-  {
-    "entryId": "tcoeGuildTypes00",
     "resultId": "0mpglL6SxRBRY2nq",
     "range": "4-4",
     "path": "results.0mpglL6SxRBRY2nq.text",
@@ -1995,11 +1722,6 @@
     "path": "results.S4P8rYlmpZnS5lt1.text",
     "source": "<strong>Identity Traders.</strong> These enigmatic dealers buy and sell documents, memories, and the trappings of thoroughly lived lives, selling them to those in need of the ultimate fresh start.",
     "legacySource": "<strong>Identity Traders.</strong> These enigmatic dealers buy and sell documents, memories, and the trappings of thoroughly lived lives, selling them to those in need of the ultimate fresh start."
-  },
-  {
-    "entryId": "tcoeHauntedEffec",
-    "path": "name",
-    "source": "Haunted Effects"
   },
   {
     "entryId": "tcoeHauntedEffec",
@@ -2168,11 +1890,6 @@
   },
   {
     "entryId": "tcoeHumanoidDesi",
-    "path": "name",
-    "source": "Humanoid Desires"
-  },
-  {
-    "entryId": "tcoeHumanoidDesi",
     "path": "description",
     "source": "<p>Some desired offering options for a humanoid.</p>"
   },
@@ -2207,11 +1924,6 @@
     "path": "results.pnhw5A5uYjqrGeKe.text",
     "source": "Information on a foe’s secrets or weaknesses",
     "legacySource": "Information on a foe’s secrets or weaknesses"
-  },
-  {
-    "entryId": "tcoeInfestedEffe",
-    "path": "name",
-    "source": "Infested Effects"
   },
   {
     "entryId": "tcoeInfestedEffe",
@@ -2372,11 +2084,6 @@
   },
   {
     "entryId": "tcoeMagicMushroo",
-    "path": "name",
-    "source": "Magic Mushroom Effects"
-  },
-  {
-    "entryId": "tcoeMagicMushroo",
     "path": "description",
     "source": "<p>Effects that can occur from interacting with magic mushrooms.</p>"
   },
@@ -2462,11 +2169,6 @@
   },
   {
     "entryId": "tcoeMagicThemes0",
-    "path": "name",
-    "source": "Magic Themes"
-  },
-  {
-    "entryId": "tcoeMagicThemes0",
     "resultId": "0FFV8ofqpJBz0SZk",
     "range": "1-1",
     "path": "results.0FFV8ofqpJBz0SZk.text",
@@ -2547,11 +2249,6 @@
   },
   {
     "entryId": "tcoeManifestatio",
-    "path": "name",
-    "source": "Manifestations of Order"
-  },
-  {
-    "entryId": "tcoeManifestatio",
     "path": "description",
     "source": "<p>Choose or randomly determine a way your connection to order manifests while you are casting any of your sorcerer spells.</p>"
   },
@@ -2602,11 +2299,6 @@
     "path": "results.UV5dvOtvZK9RPLMR.text",
     "source": "The hands of a clock spin in your eyes.",
     "legacySource": "The hands of a clock spin in your eyes."
-  },
-  {
-    "entryId": "tcoeMercifulMask",
-    "path": "name",
-    "source": "Merciful Mask"
   },
   {
     "entryId": "tcoeMercifulMask",
@@ -2663,11 +2355,6 @@
   },
   {
     "entryId": "tcoeMilitaryCont",
-    "path": "name",
-    "source": "Military Force Contacts"
-  },
-  {
-    "entryId": "tcoeMilitaryCont",
     "resultId": "4UZ4gNkYDzq6ooGg",
     "range": "3-3",
     "path": "results.4UZ4gNkYDzq6ooGg.text",
@@ -2713,11 +2400,6 @@
     "path": "results.tuYHWiMwsCW9vQUl.text",
     "source": "<strong>Tested Veteran.</strong> Your commander is a battle-scarred officer who experienced horrors in combat. They rely on something to dull the pain of their memories or wounds, from a favorite writer’s prose to a distracting vice.",
     "legacySource": "<strong>Tested Veteran.</strong> Your commander is a battle-scarred officer who experienced horrors in combat. They rely on something to dull the pain of their memories or wounds, from a favorite writer’s prose to a distracting vice."
-  },
-  {
-    "entryId": "tcoeMilitaryQues",
-    "path": "name",
-    "source": "Military Force Quests"
   },
   {
     "entryId": "tcoeMilitaryQues",
@@ -2769,11 +2451,6 @@
   },
   {
     "entryId": "tcoeMilitaryType",
-    "path": "name",
-    "source": "Military Force Types"
-  },
-  {
-    "entryId": "tcoeMilitaryType",
     "resultId": "bWVQryfuWMIu9snb",
     "range": "1-1",
     "path": "results.bWVQryfuWMIu9snb.text",
@@ -2819,11 +2496,6 @@
     "path": "results.wbG4j0extTyMXmHN.text",
     "source": "<strong>Expeditionary Force.</strong> This military force is far from home, fighting behind enemy lines or striking into wild, unsettled lands. The force must be fast, self-sufficient, and either diplomatic or decisive to assure their survival.",
     "legacySource": "<strong>Expeditionary Force.</strong> This military force is far from home, fighting behind enemy lines or striking into wild, unsettled lands. The force must be fast, self-sufficient, and either diplomatic or decisive to assure their survival."
-  },
-  {
-    "entryId": "tcoeMirrorZoneEf",
-    "path": "name",
-    "source": "Mirror Zone Effects"
   },
   {
     "entryId": "tcoeMirrorZoneEf",
@@ -2960,11 +2632,6 @@
   },
   {
     "entryId": "tcoeMonstrosityD",
-    "path": "name",
-    "source": "Monstrosity Desires"
-  },
-  {
-    "entryId": "tcoeMonstrosityD",
     "path": "description",
     "source": "<p>Some desired offering options for a monstrosity.</p>"
   },
@@ -2999,11 +2666,6 @@
     "path": "results.vLmXRw0uBzpnKGLU.text",
     "source": "Making movements that mimic the monster’s mating dance",
     "legacySource": "Making movements that mimic the monster’s mating dance"
-  },
-  {
-    "entryId": "tcoeOozeDesires0",
-    "path": "name",
-    "source": "Ooze Desires"
   },
   {
     "entryId": "tcoeOozeDesires0",
@@ -3044,11 +2706,6 @@
   },
   {
     "entryId": "tcoeOriginOfTheB",
-    "path": "name",
-    "source": "Origin of the Beast"
-  },
-  {
-    "entryId": "tcoeOriginOfTheB",
     "path": "description",
     "source": "<p>Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on this table.</p>"
   },
@@ -3086,11 +2743,6 @@
   },
   {
     "entryId": "tcoeOuterPlaneEs",
-    "path": "name",
-    "source": "Outer Essence and Property"
-  },
-  {
-    "entryId": "tcoeOuterPlaneEs",
     "path": "description",
     "source": "<p>Use this table to determine a @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeOuterEssence]{shard's} essence and property. When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use that property.</p>"
   },
@@ -3125,11 +2777,6 @@
     "path": "results.PHx0XvpHMDpKNu9h.text",
     "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeChaoticEssen]{Chaotic.}</strong> Choose one creature who takes damage from the spell. That target has disadvantage on attack rolls and ability checks made before the start of your next turn.",
     "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeChaoticEssen]{Chaotic.}</strong> Choose one creature who takes damage from the spell. That target has disadvantage on attack rolls and ability checks made before the start of your next turn."
-  },
-  {
-    "entryId": "tcoePartyOrigin0",
-    "path": "name",
-    "source": "Party Origin"
   },
   {
     "entryId": "tcoePartyOrigin0",
@@ -3181,11 +2828,6 @@
   },
   {
     "entryId": "tcoePlantDesires",
-    "path": "name",
-    "source": "Plant Desires"
-  },
-  {
-    "entryId": "tcoePlantDesires",
     "path": "description",
     "source": "<p>Some desired offering options for a plant.</p>"
   },
@@ -3220,11 +2862,6 @@
     "path": "results.Vd9V7DExpwSo7JOd.text",
     "source": "A pound of mulch",
     "legacySource": "A pound of mulch"
-  },
-  {
-    "entryId": "tcoePrimalFruitE",
-    "path": "name",
-    "source": "Primal Fruit Effects"
   },
   {
     "entryId": "tcoePrimalFruitE",
@@ -3294,11 +2931,6 @@
     "path": "results.zvZLNmaW4PPBHfXL.text",
     "source": "The creature feels a surge of might. For 1 hour, the creature has advantage on attack rolls using Strength, Strength checks, and Strength saving throws. When the effect ends, the creature gains 1 level of &amp;Reference[exhaustion].",
     "legacySource": "The creature feels a surge of might. For 1 hour, the creature has advantage on attack rolls using Strength, Strength checks, and Strength saving throws. When the effect ends, the creature gains 1 level of &amp;Reference[exhaustion]."
-  },
-  {
-    "entryId": "tcoePsychicReson",
-    "path": "name",
-    "source": "Psychic Resonance Effects"
   },
   {
     "entryId": "tcoePsychicReson",
@@ -3435,11 +3067,6 @@
   },
   {
     "entryId": "tcoeReligiousCon",
-    "path": "name",
-    "source": "Religious Order Contacts"
-  },
-  {
-    "entryId": "tcoeReligiousCon",
     "resultId": "bNcSDWD1egNdtCwO",
     "range": "5-5",
     "path": "results.bNcSDWD1egNdtCwO.text",
@@ -3485,11 +3112,6 @@
     "path": "results.TAdKuZslNOWClqRE.text",
     "source": "<strong>Inspired Creator.</strong> A gifted artisan conveys the will of the divine through prophetic song or artwork.",
     "legacySource": "<strong>Inspired Creator.</strong> A gifted artisan conveys the will of the divine through prophetic song or artwork."
-  },
-  {
-    "entryId": "tcoeReligiousQue",
-    "path": "name",
-    "source": "Religious Order Quests"
   },
   {
     "entryId": "tcoeReligiousQue",
@@ -3541,11 +3163,6 @@
   },
   {
     "entryId": "tcoeReligiousTyp",
-    "path": "name",
-    "source": "Religious Order Types"
-  },
-  {
-    "entryId": "tcoeReligiousTyp",
     "resultId": "8ezG7smfcmv9aaYX",
     "range": "4-4",
     "path": "results.8ezG7smfcmv9aaYX.text",
@@ -3591,11 +3208,6 @@
     "path": "results.yFrAvYiRvlYErZF0.text",
     "source": "<strong>Militant Inquisitors.</strong> This dogmatically rigid hierarchy seeks to stamp out all threats to their beliefs.",
     "legacySource": "<strong>Militant Inquisitors.</strong> This dogmatically rigid hierarchy seeks to stamp out all threats to their beliefs."
-  },
-  {
-    "entryId": "tcoeSoulsOfTheTa",
-    "path": "name",
-    "source": "Souls of the Tarokka"
   },
   {
     "entryId": "tcoeSoulsOfTheTa",
@@ -3836,11 +3448,6 @@
   },
   {
     "entryId": "tcoeSovereignCon",
-    "path": "name",
-    "source": "Sovereign Contacts"
-  },
-  {
-    "entryId": "tcoeSovereignCon",
     "resultId": "cGrMIhFzJhv7JRic",
     "range": "2-2",
     "path": "results.cGrMIhFzJhv7JRic.text",
@@ -3886,11 +3493,6 @@
     "path": "results.XaO0PhoMdVKrFc0t.text",
     "source": "<strong>Envoy.</strong> A semi-retired, leisure-loving ambassador speaks in suggestion and innuendo.",
     "legacySource": "<strong>Envoy.</strong> A semi-retired, leisure-loving ambassador speaks in suggestion and innuendo."
-  },
-  {
-    "entryId": "tcoeSovereignQue",
-    "path": "name",
-    "source": "Sovereign Quests"
   },
   {
     "entryId": "tcoeSovereignQue",
@@ -3942,11 +3544,6 @@
   },
   {
     "entryId": "tcoeSovereignTyp",
-    "path": "name",
-    "source": "Sovereign Types"
-  },
-  {
-    "entryId": "tcoeSovereignTyp",
     "resultId": "5ghhMyWXp6Saqidj",
     "range": "1-1",
     "path": "results.5ghhMyWXp6Saqidj.text",
@@ -3992,11 +3589,6 @@
     "path": "results.Vnef9ctI9isJiymq.text",
     "source": "<strong>Young Noble.</strong> An ambitious noble eagerly seeks to reform society to align with a personal vision.",
     "legacySource": "<strong>Young Noble.</strong> An ambitious noble eagerly seeks to reform society to align with a personal vision."
-  },
-  {
-    "entryId": "tcoeStarMapForm0",
-    "path": "name",
-    "source": "Star Map Form"
   },
   {
     "entryId": "tcoeStarMapForm0",
@@ -4053,11 +3645,6 @@
   },
   {
     "entryId": "tcoeSwarmAppeara",
-    "path": "name",
-    "source": "Swarm Appearance"
-  },
-  {
-    "entryId": "tcoeSwarmAppeara",
     "path": "description",
     "source": "<p>A swarm of intangible nature spirits has bonded itself to you and can assist you in battle. While you’re alive, the swarm remains in your space, crawling on you or flying and skittering around you within your space. You determine its appearance, or you generate its appearance by rolling on this table.</p>"
   },
@@ -4092,11 +3679,6 @@
     "path": "results.LRsr9gGmzpul7QIE.text",
     "source": "Fluttering birds",
     "legacySource": "Fluttering birds"
-  },
-  {
-    "entryId": "tcoeSyndicateCon",
-    "path": "name",
-    "source": "Criminal Syndicate Contacts"
   },
   {
     "entryId": "tcoeSyndicateCon",
@@ -4148,11 +3730,6 @@
   },
   {
     "entryId": "tcoeSyndicateQue",
-    "path": "name",
-    "source": "Criminal Syndicate Quests"
-  },
-  {
-    "entryId": "tcoeSyndicateQue",
     "resultId": "0jmvVOXg7j8LnV8C",
     "range": "5-5",
     "path": "results.0jmvVOXg7j8LnV8C.text",
@@ -4201,11 +3778,6 @@
   },
   {
     "entryId": "tcoeSyndicateTyp",
-    "path": "name",
-    "source": "Criminal Syndicate Types"
-  },
-  {
-    "entryId": "tcoeSyndicateTyp",
     "resultId": "AQZNb9OKMZIsVIXw",
     "range": "4-4",
     "path": "results.AQZNb9OKMZIsVIXw.text",
@@ -4251,11 +3823,6 @@
     "path": "results.SSv8ZgTB9GesDbSo.text",
     "source": "<strong>Magical Arms Dealer.</strong> The syndicate has cornered the market on deadly magical devices. They offer their services and wares for a price and acquire staggering magical might for those who meet their demands.",
     "legacySource": "<strong>Magical Arms Dealer.</strong> The syndicate has cornered the market on deadly magical devices. They offer their services and wares for a price and acquire staggering magical might for those who meet their demands."
-  },
-  {
-    "entryId": "tcoeTeethOfDehlv",
-    "path": "name",
-    "source": "Teeth of Dehlver-Nar"
   },
   {
     "entryId": "tcoeTeethOfDehlv",
@@ -4416,11 +3983,6 @@
     "path": "results.wFn79I6VbjLgH39Z.text",
     "source": "Nightmares of Kaggash (twisted beholder tooth)",
     "legacySource": "Nightmares of Kaggash (twisted beholder tooth)"
-  },
-  {
-    "entryId": "tcoeTrinkets0000",
-    "path": "name",
-    "source": "Trinkets"
   },
   {
     "entryId": "tcoeTrinkets0000",
@@ -5224,11 +4786,6 @@
   },
   {
     "entryId": "tcoeUndeadDesire",
-    "path": "name",
-    "source": "Undead Desires"
-  },
-  {
-    "entryId": "tcoeUndeadDesire",
     "path": "description",
     "source": "<p>Some desired offering options for an undead.</p>"
   },
@@ -5263,11 +4820,6 @@
     "path": "results.rOjCCs5JzlQwiYdC.text",
     "source": "Materials, tools, or the skills to sun-proof a crumbling mausoleum",
     "legacySource": "Materials, tools, or the skills to sun-proof a crumbling mausoleum"
-  },
-  {
-    "entryId": "tcoeUnearthlyRoa",
-    "path": "name",
-    "source": "Unearthly Road Keys"
   },
   {
     "entryId": "tcoeUnearthlyRoa",
@@ -5321,11 +4873,6 @@
     "path": "results.XqPogoNZcaXH5ym6.text",
     "source": "Wearing the regalia of a lost royal dynasty",
     "legacySource": "Wearing the regalia of a lost royal dynasty"
-  },
-  {
-    "entryId": "tcoeUnravelingMa",
-    "path": "name",
-    "source": "Unraveling Magic Effects"
   },
   {
     "entryId": "tcoeUnravelingMa",
@@ -5494,11 +5041,6 @@
   },
   {
     "entryId": "tcoeWildMagicEru",
-    "path": "name",
-    "source": "Wild Magic Eruption"
-  },
-  {
-    "entryId": "tcoeWildMagicEru",
     "path": "description",
     "source": "<p>The magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.</p><p>If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.</p>"
   },
@@ -5565,11 +5107,6 @@
     "path": "results.xyHkZQhbMJ5385k7.text",
     "source": "You teleport up to 30 feet to an unoccupied space you can see. Until your rage ends, you can use this effect again on each of your turns as a bonus action.",
     "legacySource": "You teleport up to 30 feet to an unoccupied space you can see. Until your rage ends, you can use this effect again on each of your turns as a bonus action."
-  },
-  {
-    "entryId": "tcoeWildMagicSur",
-    "path": "name",
-    "source": "Wild Magic Surge"
   },
   {
     "entryId": "tcoeWildMagicSur",
