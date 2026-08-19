@@ -36,6 +36,9 @@ def main() -> int:
     legacy = load(root / "dev-tools/export/_data/dnd-tashas-cauldron.tcoe-tables.json")
     reviewed_path = root / "dev-tools/translation/reviewed-tables.json"
     reviewed = load(reviewed_path) if reviewed_path.exists() else {}
+    token_overrides_path = root / "dev-tools/translation/protected-token-overrides.tables.json"
+    token_overrides = load(token_overrides_path) if token_overrides_path.exists() else {}
+    allowed_token_changes = set(token_overrides.get("paths", []))
 
     output: dict[str, Any] = {
         "label": "Tablas de Tasha",
@@ -66,7 +69,8 @@ def main() -> int:
             translated = patch.get(field)
             if isinstance(translated, str) and translated:
                 target[field] = translated
-                if tokens(entry.get(field, "")) != tokens(translated):
+                token_path = f"{entry_id}.{field}"
+                if tokens(entry.get(field, "")) != tokens(translated) and token_path not in allowed_token_changes:
                     token_issues.append({"entryId": entry_id, "path": field})
             elif entry.get(field):
                 pending.append({"entryId": entry_id, "path": field, "source": entry[field]})
@@ -82,7 +86,8 @@ def main() -> int:
             translated = reviewed_results.get(result_id)
             if isinstance(translated, str) and translated:
                 translated_results[result_id] = {"text": translated}
-                if tokens(result.get("text", "")) != tokens(translated):
+                token_path = f"{entry_id}.results.{result_id}.text"
+                if tokens(result.get("text", "")) != tokens(translated) and token_path not in allowed_token_changes:
                     token_issues.append({"entryId": entry_id, "path": f"results.{result_id}.text"})
             elif result.get("text"):
                 pending.append({
