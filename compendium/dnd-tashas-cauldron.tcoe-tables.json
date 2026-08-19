@@ -62,7 +62,22 @@
       }
     },
     "tcoeAberrationDe": {
-      "name": "Deseos de aberraciones"
+      "name": "Deseos de aberraciones",
+      "description": "<p>Algunas opciones de ofrendas que podría desear una aberración.</p>",
+      "results": {
+        "BH1aEsbfdfpUTtcT": {
+          "text": "Secretos o conocimientos que aún no posea"
+        },
+        "QwbuOC2wbDZzgGAI": {
+          "text": "El cerebro u otros órganos de una criatura rara"
+        },
+        "wXE5VZ1Q5iMOVR1c": {
+          "text": "Aceptar que te implanten un extraño injerto orgánico"
+        },
+        "yTcchuNYwA49sCux": {
+          "text": "Adulación y servilismo"
+        }
+      }
     },
     "tcoeAbsorbingTat": {
       "name": "Color del tatuaje absorbente",
@@ -238,7 +253,22 @@
       }
     },
     "tcoeBeastDesires": {
-      "name": "Deseos de bestias"
+      "name": "Deseos de bestias",
+      "description": "<p>Algunas opciones de ofrendas que podría desear una bestia.</p>",
+      "results": {
+        "4KeystNQ2nou0Png": {
+          "text": "Cuentas, telas, plumas o cordeles de colores vivos"
+        },
+        "b297x6MvMxbelo1M": {
+          "text": "Un viejo animal de peluche u otra chuchería blanda"
+        },
+        "TNBEbi4pyfQCoEgq": {
+          "text": "Carne fresca"
+        },
+        "yLyZPm43U0UM4l7M": {
+          "text": "Una melodía relajante"
+        }
+      }
     },
     "tcoeBeingContact": {
       "name": "Contacto del ser ancestral",
@@ -313,16 +343,76 @@
       "name": "Efectos de resplandor bendito"
     },
     "tcoeCelestialDes": {
-      "name": "Deseos de celestiales"
+      "name": "Deseos de celestiales",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un celestial.</p>",
+      "results": {
+        "Ad8azT84Xw3iuqqT": {
+          "text": "Una reliquia sagrada o una preciada herencia familiar"
+        },
+        "hKSoNaDDJRislDRH": {
+          "text": "La corona de un tirano derrotado"
+        },
+        "NspTg6AfCgy1nPS8": {
+          "text": "La historia de una figura heroica"
+        },
+        "wMRcQxdZZeiaIOEX": {
+          "text": "Un juramento de realizar tres obras caritativas antes del amanecer"
+        }
+      }
     },
     "tcoeConstructDes": {
-      "name": "Deseos de constructos"
+      "name": "Deseos de constructos",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un constructo.</p>",
+      "results": {
+        "5fwgnKNU4kfruWg3": {
+          "text": "Un recipiente imbuido de poder elemental"
+        },
+        "BoXTxTaNen8x0Bzx": {
+          "text": "Aceite para aplicarlo en las articulaciones del constructo"
+        },
+        "MN44GDxsdpc3hiVx": {
+          "text": "Componentes de adamantina o mithral"
+        },
+        "mQ455QFf0c8T3Z89": {
+          "text": "Un objeto mágico con cargas para usarlo como combustible"
+        }
+      }
     },
     "tcoeDragonDesire": {
-      "name": "Deseos de dragones"
+      "name": "Deseos de dragones",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un dragón.</p>",
+      "results": {
+        "JdKyxjjz8RXoHLSO": {
+          "text": "Una representación artística y halagadora del dragón"
+        },
+        "nGwvzXFyju8h9asL": {
+          "text": "Cualquier objeto del tesoro de un rival dracónico"
+        },
+        "s4Trs1qNOz8HT483": {
+          "text": "Oro o gemas"
+        },
+        "wGOllr5sHdiA1qLN": {
+          "text": "Una antigüedad transmitida durante al menos tres generaciones"
+        }
+      }
     },
     "tcoeElementalDes": {
-      "name": "Deseos de elementales"
+      "name": "Deseos de elementales",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un elemental.</p>",
+      "results": {
+        "3PdB3FchQd3VaV0O": {
+          "text": "Una gema con un valor mínimo de 50 po, que la criatura se come"
+        },
+        "4KJfpQfusPpA8a9E": {
+          "text": "Una muestra excepcionalmente pura de su elemento favorito"
+        },
+        "eDhjXSM9BGzGMlkN": {
+          "text": "Una forma de devolver al elemental a su plano natal"
+        },
+        "PpVak8jq1V9N7T2E": {
+          "text": "Interpretar una danza del plano natal del elemental"
+        }
+      }
     },
     "tcoeElementalEss": {
       "name": "Esencia y propiedad elemental",
@@ -406,7 +496,22 @@
       "name": "Efectos del Reino Lejano"
     },
     "tcoeFeyDesires00": {
-      "name": "Deseos de feéricos"
+      "name": "Deseos de feéricos",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un feérico.</p>",
+      "results": {
+        "e1IPPpUTYvU9ZJq3": {
+          "text": "Un objeto de gran valor sentimental para ti"
+        },
+        "pJPSTcT85R4Z5S4V": {
+          "text": "El recuerdo de tu primer beso"
+        },
+        "qd87vEHT8k47EWkH": {
+          "text": "Recitar un poema sublime"
+        },
+        "TXFA6125pvLmdAmw": {
+          "text": "El color de tus ojos"
+        }
+      }
     },
     "tcoeFeywildGifts": {
       "name": "Dádivas de Feywild",
@@ -433,7 +538,22 @@
       }
     },
     "tcoeFiendDesires": {
-      "name": "Deseos de infernales"
+      "name": "Deseos de infernales",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un infernal.</p>",
+      "results": {
+        "41pl3imcTPWA3iyd": {
+          "text": "Tu alma"
+        },
+        "b91xDwDFyaJU6qcv": {
+          "text": "Un objeto sagrado profanado"
+        },
+        "eAH87FTfxRorgCwu": {
+          "text": "Sangre de un ser querido vivo o muerto recientemente"
+        },
+        "NXq1Y92LvG5kPS0P": {
+          "text": "Romper una promesa sagrada en presencia del infernal"
+        }
+      }
     },
     "tcoeGenieKind000": {
       "name": "Tipo de genio",
@@ -478,7 +598,22 @@
       }
     },
     "tcoeGiantDesires": {
-      "name": "Deseos de gigantes"
+      "name": "Deseos de gigantes",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un gigante.</p>",
+      "results": {
+        "5Ko4Kt2aF3kgQYMs": {
+          "text": "Un enano que admita que la artesanía gigante es superior a la artesanía enana"
+        },
+        "aIGl8y8XIVfbcQO3": {
+          "text": "Un tesoro robado a un gigante rival"
+        },
+        "buAM3DlZS0Bx5R8P": {
+          "text": "Varios barriles de cerveza"
+        },
+        "L3a46nqdpAnfxM53": {
+          "text": "Un animal de trabajo fuerte"
+        }
+      }
     },
     "tcoeGuildContact": {
       "name": "Contacto del gremio",
@@ -553,7 +688,22 @@
       "name": "Efectos de lugares encantados"
     },
     "tcoeHumanoidDesi": {
-      "name": "Deseos de humanoides"
+      "name": "Deseos de humanoides",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un humanoide.</p>",
+      "results": {
+        "JP64jHsJkxiGQxKi": {
+          "text": "Recuperar algo que haya perdido"
+        },
+        "koaYkD2ktaY3NZ9D": {
+          "text": "Desafiarlo a una competición amistosa, como bailar, cantar o beber"
+        },
+        "m2fvpg4Cwjircd2d": {
+          "text": "Prometer que encontrarás un objeto perdido de gran importancia para su cultura"
+        },
+        "pnhw5A5uYjqrGeKe": {
+          "text": "Información sobre los secretos o debilidades de un enemigo"
+        }
+      }
     },
     "tcoeInfestedEffe": {
       "name": "Efectos de infestación"
@@ -685,10 +835,40 @@
       "name": "Efectos de zona especular"
     },
     "tcoeMonstrosityD": {
-      "name": "Deseos de monstruosidades"
+      "name": "Deseos de monstruosidades",
+      "description": "<p>Algunas opciones de ofrendas que podría desear una monstruosidad.</p>",
+      "results": {
+        "esd5YJHTFahh1YXO": {
+          "text": "La comida favorita de la criatura"
+        },
+        "JP0le9fwy9ZjWHUL": {
+          "text": "Extraer los restos atascados de la última comida de la criatura"
+        },
+        "vfBIpap4xZzoFJ0Y": {
+          "text": "Ahuyentar al rival de la criatura"
+        },
+        "vLmXRw0uBzpnKGLU": {
+          "text": "Realizar movimientos que imiten la danza de apareamiento del monstruo"
+        }
+      }
     },
     "tcoeOozeDesires0": {
-      "name": "Deseos de cienos"
+      "name": "Deseos de cienos",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un cieno.</p>",
+      "results": {
+        "0NvWbtVprk2fsvs8": {
+          "text": "Huesos o metal, que el cieno absorbe de inmediato"
+        },
+        "9vDGXYlel38kTcf4": {
+          "text": "Una tela impregnada de un olor nauseabundo"
+        },
+        "pO2oimx8tS5ZlTz4": {
+          "text": "Un galón de cualquier líquido efervescente"
+        },
+        "zFhpEvxXdMPGaSZF": {
+          "text": "Un vial de líquidos putrefactos"
+        }
+      }
     },
     "tcoeOriginOfTheB": {
       "name": "Origen de la bestia",
@@ -730,7 +910,22 @@
       "name": "Origen del grupo"
     },
     "tcoePlantDesires": {
-      "name": "Deseos de plantas"
+      "name": "Deseos de plantas",
+      "description": "<p>Algunas opciones de ofrendas que podría desear una planta.</p>",
+      "results": {
+        "BM0tvOJCIDJAajbc": {
+          "text": "Eliminar la vegetación invasora del territorio de la criatura"
+        },
+        "e7K13C2ayn9IlwcG": {
+          "text": "Destruir todas las hachas y herramientas para encender fuego que lleve el grupo"
+        },
+        "NAr5jhoTbOmalbzX": {
+          "text": "Agua de un manantial imbuido de energía de Feywild"
+        },
+        "Vd9V7DExpwSo7JOd": {
+          "text": "Una libra de mantillo"
+        }
+      }
     },
     "tcoePrimalFruitE": {
       "name": "Efectos del fruto primordial"
@@ -1149,7 +1344,22 @@
       "name": "Chucherías"
     },
     "tcoeUndeadDesire": {
-      "name": "Deseos de muertos vivientes"
+      "name": "Deseos de muertos vivientes",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un muerto viviente.</p>",
+      "results": {
+        "6ktI7Da68laZrPWd": {
+          "text": "Un vial de sangre"
+        },
+        "L0FJKHfXj4akiE6V": {
+          "text": "Completar una tarea que la criatura no pudo terminar en vida"
+        },
+        "po7TB0qfHaxH8ZhA": {
+          "text": "Un recuerdo personal del pasado de la criatura"
+        },
+        "rOjCCs5JzlQwiYdC": {
+          "text": "Materiales, herramientas o conocimientos para proteger del sol un mausoleo en ruinas"
+        }
+      }
     },
     "tcoeUnearthlyRoa": {
       "name": "Llaves de caminos sobrenaturales"
