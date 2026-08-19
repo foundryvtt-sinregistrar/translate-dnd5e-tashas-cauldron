@@ -124,9 +124,39 @@
       }
     },
     "tcoeBeastDesires": { "name": "Deseos de bestias" },
-    "tcoeBeingContact": { "name": "Contacto del ser ancestral" },
-    "tcoeBeingQuests0": { "name": "Misiones de los seres ancestrales" },
-    "tcoeBeingTypes00": { "name": "Ser ancestral" },
+    "tcoeBeingContact": {
+      "name": "Contacto del ser ancestral",
+      "results": {
+        "AJj05tBVO9hwZgtQ": "<strong>Chanchulleros de trastienda.</strong> La entrada a una zona exclusiva de un local aparentemente normal requiere una contraseña o un identificador. Allí podréis reuniros con los oscuros agentes del patrón y hablar con ellos.",
+        "d32vg2QhWSPnCuDU": "<strong>Visiones.</strong> El patrón no usa intermediarios, sino que habla al grupo en sueños, presagios o visiones. El ser aparece en vuestra mente mientras dormís y se hace con el control de vuestros sueños para daros instrucciones que resultan difíciles de ignorar.",
+        "fQ7SvCngwS7v7oEC": "<strong>Eco efímero.</strong> El contacto nunca se muestra físicamente. Quizás sea el fantasma de una persona muerta, una entidad que se aparece fuera del flujo del tiempo o la ilusión proyectada de un ser que nunca abandona el santuario oculto del patrón.",
+        "jKWZLQzRsAQ8sVkK": "<strong>Empleador.</strong> Un respetado miembro de la sociedad actúa como intermediario entre el grupo y su patrón y proporciona la tapadera de un empleo legítimo. Puede ser un posadero, un comerciante, un funcionario local o un noble.",
+        "OyjEsLZCNiyGvrEN": "<strong>El portavoz.</strong> La voz del ser ancestral habla entre susurros a través de los labios de una persona corriente. Vuestro patrón podría poseer el cuerpo de un extraño o de un miembro del grupo para hablar con vosotros.",
+        "XhvMaRZedJJrzxrm": "<strong>Buzón de mensajes mágicos.</strong> Los mensajes del contacto o el patrón, grabados mágicamente, aparecen en los lugares más insospechados. El grupo sabe que tiene que mirar en un sitio determinado, como una grieta en un monolito antiguo o una tumba concreta, para recibir sus instrucciones."
+      }
+    },
+    "tcoeBeingQuests0": {
+      "name": "Misiones de los seres ancestrales",
+      "results": {
+        "4QSQthUJgDXbLfye": "<strong>Asalto astral.</strong> Un poderoso rival de vuestro patrón guarda sus secretos en una cámara mental del Plano Astral. Eso implica que no se le puede engañar ni coaccionar para que revele nada, ni es posible leer sus pensamientos. Debéis encontrar la cámara y viajar a través de los recuerdos mortales del enemigo para descubrir los conocimientos que desea obtener vuestro patrón.",
+        "cKh1KisW5vmG9lre": "<strong>Rescate.</strong> Un agente descarriado ha desaparecido mientras recopilaba información o materiales. Debéis descubrir qué ha sido de él y recuperar tanto al agente como sus hallazgos.",
+        "dstcyPkfm0U7g7Ff": "<strong>Sabotaje.</strong> Debéis acabar con algún aspecto de la organización de un rival, ya sea asesinar a un adlátere clave o destrozar un objeto crítico.",
+        "N2eHeTP2qZpXnkfk": "<strong>Traición.</strong> Un servidor de alto perfil de otro personaje importante está dispuesto a traicionar a su superior, lo que beneficiaría a vuestro patrón. Debéis convencerle de que se pase a vuestra organización o sacarlo de un territorio en el que ahora corre peligro.",
+        "QeMXHunIZZhQtaIU": "<strong>Sacrificio.</strong> Un respetado agente de vuestro patrón (probablemente un aliado o un mentor del grupo) supone un peligro. Quizás vaya a desertar para unirse a un rival e intentar hacerse con el poder del ser ancestral. Sea como sea, debéis atraparlo y poner fin a la amenaza que presenta.",
+        "z6B7eP6VaKS1Sh9w": "<strong>Artificio.</strong> Vuestras habilidades especializadas son cruciales para reunir los componentes de un poderoso ritual o un objeto mágico."
+      }
+    },
+    "tcoeBeingTypes00": {
+      "name": "Ser ancestral",
+      "results": {
+        "6DqtJ8jCMtdsFEF8": "<strong>Guardián celestial.</strong> Un ángel u otra poderosa criatura celestial se interesa por una región concreta del Plano Material. Para conseguir sus objetivos, crea una red de criaturas mortales que le sirven de informantes y agentes.",
+        "DQmMkm6M9YlkY9YH": "<strong>Dragón vetusto.</strong> Un dragón ancestral busca conocimiento o poder. Quiere ampliar aún más su tesoro, ya que su ambición aumenta conforme cumple años.",
+        "M2azde1zFdzCTHYk": "<strong>Infernal vinculado.</strong> Este infernal está vinculado a un lugar, puede que con su forma verdadera o como un espíritu de posesión. La influencia del infernal, atrapado en un círculo irrompible de sellos vinculantes o encerrado en una estatua gigantesca, es la que dirige al grupo.",
+        "SqxZJk6eJtlWtm7t": "<strong>El Eterno.</strong> Esta criatura ha vivido muchas vidas porque no puede morir (al menos no permanentemente). El motivo de su desaparición es irrelevante: siempre vuelve. A simple vista, es un ser mortal que está vivo, pero controla los recursos de los que dispone un inmortal.",
+        "w9ikQ4ZtoduBXfnC": "<strong>Manifestación primigenia.</strong> Su mera existencia desafía el entendimiento de los mortales: simplemente, existe. Podría tratarse de una fuerza primordial de la naturaleza que ha tomado conciencia de su ser y ahora habita en el plano terrenal, o de una inteligencia alienígena que se comunica a través de representantes, presagios e ídolos.",
+        "yZIkafNmrLNFumA0": "<strong>Liche.</strong> El grupo está al servicio de un lanzador de conjuros muerto viviente de inmenso poder. Sus intereses son extrañamente variados y aparentemente benignos. ¿Quizás no sea tan malvado como sugiere la sabiduría popular aventurera?"
+      }
+    },
     "tcoeBlessedRadia": { "name": "Efectos de resplandor bendito" },
     "tcoeCelestialDes": { "name": "Deseos de celestiales" },
     "tcoeConstructDes": { "name": "Deseos de constructos" },
