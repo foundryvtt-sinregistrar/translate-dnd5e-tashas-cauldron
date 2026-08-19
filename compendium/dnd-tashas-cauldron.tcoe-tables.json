@@ -853,7 +853,67 @@
       }
     },
     "tcoeInfestedEffe": {
-      "name": "Efectos de infestación"
+      "name": "Efectos de infestación",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural infestada.</p>",
+      "results": {
+        "0DvYXm5TyNq3qdG9": {
+          "text": "El suelo se abre bajo una criatura al azar y crea un pozo de arenas movedizas (consulta la Guía del Dungeon Master)."
+        },
+        "5ZlXV6vIW0B6lw5s": {
+          "text": "Comienza una migración masiva de insectos, con oleadas de bichos Diminutos que reptan sobre todo lo que hay en la región. Las criaturas no pueden realizar descansos cortos ni largos en la región durante las próximas 24 horas."
+        },
+        "7qlFVaVuGK2mceOQ": {
+          "text": "Una criatura con forma de grillo y las estadísticas de un gato salta hasta una criatura al azar y la sigue como una mascota cariñosa durante 24 horas antes de alejarse correteando."
+        },
+        "51yzP2pkIasFm7zR": {
+          "text": "Un grupo de [[/r 1d4 + 2]] larvas que emiten un tenue resplandor aparece en un espacio desocupado a 30 pies o menos del grupo. Cualquier criatura que consuma una de estas suculentas larvas recibe los beneficios de una @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{poción de curación}."
+        },
+        "aPVnbp1rzewG7IzX": {
+          "text": "Unos zumbidos o chirridos intensos llenan la región durante las próximas 24 horas. Salvo sonidos verdaderamente cacofónicos, las criaturas solo pueden oír voces y ruidos originados a 10 pies o menos de ellas."
+        },
+        "b45mxeRy7zcYLAKC": {
+          "text": "Un enjambre de moscas bioluminiscentes converge sobre una criatura al azar de la región. Durante el próximo minuto, la criatura proyecta luz tenue en un radio de 10 pies, cualquier ataque contra ella tiene ventaja si el atacante puede verla y la criatura no puede beneficiarse de estar &amp;Reference[invisible]."
+        },
+        "eD3bLBltCcCRytqO": {
+          "text": "Una masa de termitas brota del suelo junto con docenas de huesos y un tesoro a elección del DM (consulta «Tesoro aleatorio» en la Guía del Dungeon Master)."
+        },
+        "hZE0h40dIAVoRp2t": {
+          "text": "Incontables insectos diminutos chupadores de sangre infestan la región durante las próximas [[/r 1d6]] horas. Cada hora, toda criatura de la región debe superar una tirada de salvación de [[/save constitution dc=10]] o ganar 1 nivel de &amp;Reference[exhaustion]. Los insectos no afectan a las criaturas inmunes a las enfermedades."
+        },
+        "Ifnvhp0jMwPH9EvU": {
+          "text": "Uno de los personajes de la región debe superar una tirada de salvación de [[/save wisdom dc=15]] o transformarse en una @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.v99wOosUJjUgcUNF]{araña gigante}, como mediante el conjuro @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polimorfar}. El conjuro dura 1 hora o hasta que sea disipado."
+        },
+        "M7riuPSWqKMVFkzW": {
+          "text": "Una larva enorme e hinchada emerge del suelo a 10 pies o menos del grupo y revienta, cubriendo el suelo de icor en un cuadrado de 10 pies centrado en ella. Esta zona queda afectada por el conjuro @UUID[Compendium.dnd5e.spells.Item.etgcR9wqmrhyZ0tx]{grasa} (tirada de salvación de [[/save dex dc=13]]) durante 1 minuto."
+        },
+        "mWj6UhcLLRPA7CJv": {
+          "text": "Una criatura al azar de la región debe superar una tirada de salvación de [[/save constitution dc=16]] o convertirse en huésped de una tenia especialmente agresiva. La criatura afectada no obtiene ningún beneficio de comer hasta recibir un tratamiento que elimine una enfermedad. Una criatura inmune a las enfermedades supera automáticamente esta tirada de salvación."
+        },
+        "pEMXcmcRjwFu4CRV": {
+          "text": "Casi todas las superficies quedan cubiertas de caparazones desechados semejantes a los de las cigarras, que crujen con fuerza al pisarlos e imponen desventaja en las pruebas de Destreza (Sigilo) realizadas al moverse sobre ellos. Los caparazones desaparecen tras 1 hora."
+        },
+        "RkIaGvaj6bg5nhpy": {
+          "text": "Unos insectos del color del estiércol cubren el suelo. Las criaturas que se muevan a la mitad de su velocidad caminando normal pueden ignorarlos. Las que se muevan más rápido deben superar una tirada de salvación de [[/save constitution dc=16]] o quedar &amp;Reference[poisoned] hasta el comienzo de su siguiente turno. Una criatura envenenada de este modo ve reducida su velocidad a 0, abrumada por el hedor de los insectos aplastados. Las criaturas que no necesiten respirar superan automáticamente esta tirada de salvación."
+        },
+        "uL0SoXG6Q5e1HJVf": {
+          "text": "Una criatura al azar de la región debe superar una tirada de salvación de [[/save constitution dc=16]] o su equipo queda infestado de voraces pececillos de plata. La infestación se descubre la próxima vez que la criatura termina un descanso corto o largo. Si posee algún material de papel, los pececillos de plata destruyen al azar un libro u otro objeto de papel que no sea mágico."
+        },
+        "WxMVQbMS4cs0OlWd": {
+          "text": "Una criatura al azar de la región debe superar una tirada de salvación de [[/save constitution dc=16]] o contraer la enfermedad podredumbre de la vista (consulta la Guía del Dungeon Master) a causa de unos parásitos diminutos."
+        },
+        "XH2vnykyvqKFSoI7": {
+          "text": "La región queda obstruida por tenues telarañas, que cuentan como &amp;Reference[difficult-terrain]."
+        },
+        "Xp0C3tUUwjwf7rTu": {
+          "text": "Unos ácaros mordedores infestan las ropas de las criaturas de la región. Cualquier criatura que vista armadura media o pesada tiene desventaja en las tiradas de ataque, pruebas de característica y tiradas de salvación durante las próximas 24 horas."
+        },
+        "y7IXvs1DCaWVYzol": {
+          "text": "Unos arácnidos diminutos invaden los espacios desatendidos. La próxima vez que una criatura al azar de la región se ponga la ropa o la armadura después de terminar un descanso largo, debe superar una tirada de salvación de [[/save constitution dc=16]] o recibir [[/damage 2d10 type=poison average=true]]."
+        },
+        "YmOWNNVztuXt0paI": {
+          "text": "Una gran polilla de colores psicodélicos vuela sobre el grupo y espolvorea a los personajes con un polvo extraño. Las criaturas sobre las que pase deben superar una tirada de salvación de [[/save constitution dc=16]] o quedar &amp;Reference[charmed] por todas las criaturas durante 1 hora."
+        }
+      }
     },
     "tcoeMagicMushroo": {
       "name": "Efectos de hongos mágicos",
