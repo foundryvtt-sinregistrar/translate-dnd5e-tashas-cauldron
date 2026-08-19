@@ -330,9 +330,39 @@
     "tcoePlantDesires": { "name": "Deseos de plantas" },
     "tcoePrimalFruitE": { "name": "Efectos del fruto primordial" },
     "tcoePsychicReson": { "name": "Efectos de resonancia psíquica" },
-    "tcoeReligiousCon": { "name": "Contacto de la orden religiosa" },
-    "tcoeReligiousQue": { "name": "Misiones de las órdenes religiosas" },
-    "tcoeReligiousTyp": { "name": "Tipos de órdenes religiosas" },
+    "tcoeReligiousCon": {
+      "name": "Contacto de la orden religiosa",
+      "results": {
+        "bNcSDWD1egNdtCwO": "<strong>Sanador querido.</strong> Un célebre sanador os manda allá donde más os necesitan, incluso si hasta vuestra llegada al lugar no se esclarecen los motivos de la visita.",
+        "OuPvxyrsXqNoLXiW": "<strong>Voz de la divinidad.</strong> Mensajes de otro mundo os encomiendan misiones divinas.",
+        "P3WTeCByniYJn6rw": "<strong>Inquisidor inclemente.</strong> Un recto jerarca os manda que purifiquéis de maldad una región, la orden a la que sirve o vuestras propias personas.",
+        "QXbGPBza4f1taq0Y": "<strong>Confidente en la sombra.</strong> Un misterioso portavoz de la orden os dicta los siguientes pasos, pero teme que le descubra una poderosa fe rival.",
+        "RipursIUuVg1fJUs": "<strong>Texto misterioso.</strong> La traducción gradual de un texto sagrado secreto os conduce hacia los siguientes pasos de un destino divino.",
+        "TAdKuZslNOWClqRE": "<strong>Creador genial.</strong> Un talentoso artesano se encarga de comunicar la voluntad de la divinidad a través de canciones u obras de arte proféticas."
+      }
+    },
+    "tcoeReligiousQue": {
+      "name": "Misiones de las órdenes religiosas",
+      "results": {
+        "5TemBEWu93wsC3P0": "<strong>Evitar la profecía.</strong> Una orden rival está a punto de cumplir una profecía con consecuencias mortales. Vuestro objetivo es acabar con su blasfemo plan.",
+        "c5iWb36riMBr9F8c": "<strong>Huida segura.</strong> Un grupo de fieles se ha adentrado en un territorio hostil para los de vuestra orden. Tenéis que encontrarlos y ponerlos a salvo.",
+        "ePqtYt9VgsQqR2Cm": "<strong>Recuperación de una reliquia.</strong> Buscáis un símbolo perdido de la orden descubierto en un lugar peligroso o que se encuentra en manos del enemigo.",
+        "n79RZTqQhgaSVIEu": "<strong>Exterminación de la herejía.</strong> Buscáis el origen de la blasfemia que ha arraigado en la orden.",
+        "OrFgBuzOMUzSCMRA": "<strong>Peregrinación temeraria.</strong> Protegéis a algunos miembros de la orden en una peregrinación que los lleva por tierras repletas de peligros.",
+        "y02MxdmNSpRZEUvJ": "<strong>Persecución de un culto.</strong> Dais caza a un grupo de extremistas que son peligrosos para la orden o para el resto de los mortales en general."
+      }
+    },
+    "tcoeReligiousTyp": {
+      "name": "Tipos de órdenes religiosas",
+      "results": {
+        "8ezG7smfcmv9aaYX": "<strong>Misioneros caritativos.</strong> Con el convencimiento de que la religión ayuda a mejorar a cualquier civilización, esta orden viaja hasta los destinos más remotos para ayudar a pueblos oprimidos y atraer nuevos fieles inspirados por su ejemplo.",
+        "fhETmLuNmlvXbiUG": "<strong>Evangelistas apocalípticos.</strong> Esta orden no tiene dudas de que el mundo está a punto de acabar. Creen firmemente que, si convencen al resto del mundo de que esto es cierto, tendrán alguna posibilidad de evitar el desastre.",
+        "H8lUgDMUSjaQRRA2": "<strong>Cazadores de muertos vivientes.</strong> Esta comunidad de eruditos y cazadores de monstruos investiga con tesón a los muertos que no descansan, localiza sus guaridas y los sume en un descanso eterno.",
+        "OgxTAUu4W5cGBQG2": "<strong>Coleccionistas de reliquias.</strong> Esta orden de monjes arqueólogos pretende llenar de reliquias sagradas su templo con aspecto de museo.",
+        "SoXAWEdCJEVoWS6L": "<strong>Eruditos devotos.</strong> Esta congregación valora el conocimiento y los textos relativos a su dios. Coleccionan libros sagrados raros y dejan constancia de las hazañas de profetas milagrosos.",
+        "yFrAvYiRvlYErZF0": "<strong>Inquisidores dogmáticos.</strong> Este grupo jerárquico tremendamente dogmático pretende acabar con cualquier amenaza para sus creencias."
+      }
+    },
     "tcoeSoulsOfTheTa": {
       "name": "Almas del Tarokka",
       "description": "<p><strong>Prisioneros del destino.</strong> Siempre que usas la propiedad «Giro del destino», existe la posibilidad de que una de las almas atrapadas en el mazo escape. Tira [[/r d100]] y consulta la tabla Almas del Tarokka. Si el resultado es una de las cartas mayores, el alma asociada con ella escapará. Puedes encontrar su perfil en el Monster Manual. Si el resultado es un alma que ya haya escapado, vuelve a tirar.</p><section class=\"secret\" id=\"secret-8ZYxRNidEnMZvkji\"><p><strong>Nota de Foundry</strong></p><p>Esta tabla está configurada para extraer resultados <em>sin</em> reemplazo, representando así la fuga de las almas de las cartas mayores. Sin embargo, el resultado que representa todas las demás cartas, 15-100, siempre se repondrá mediante la funcionalidad incluida en el módulo.</p></section><p>El alma liberada aparece en un lugar aleatorio a [[/r 10d10#Miles]] millas o menos de ti y aterroriza a los vivos. Hasta que el alma liberada es destruida, obtiene el beneficio de <strong>bienestar</strong> de la propiedad Giro del destino de la baraja, y tanto tú como el objetivo original del Giro del destino sufrís el efecto de <strong>aflicción</strong>.</p>",
