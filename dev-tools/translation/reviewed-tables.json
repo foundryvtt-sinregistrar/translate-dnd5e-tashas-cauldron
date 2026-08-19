@@ -240,9 +240,39 @@
         "msF5vo2R3VnAPf0E": "Calavera"
       }
     },
-    "tcoeMilitaryCont": { "name": "Oficial al mando" },
-    "tcoeMilitaryQues": { "name": "Misiones militares" },
-    "tcoeMilitaryType": { "name": "Tipos de fuerza militar" },
+    "tcoeMilitaryCont": {
+      "name": "Oficial al mando",
+      "results": {
+        "4UZ4gNkYDzq6ooGg": "<strong>Oficial protector.</strong> Un oficial amable que siempre tiene dudas a la hora de enviaros a misiones peligrosas y que no deja de recordaros que tengáis cuidado.",
+        "dScnvedEojxsgRUf": "<strong>Soldado amargado.</strong> Vuestro oficial al mando se la tiene jurada a las fuerzas enemigas. Aprovecha cualquier oportunidad para ir a por ellas, incluso si eso supone poner en peligro al grupo.",
+        "GvFFbkbEGDPTAKFw": "<strong>Líder devoto.</strong> Vuestro oficial al mando es una persona con una gran fe. A su juicio, vuestro éxito o vuestro fracaso dependen totalmente de la voluntad divina y cree que sois un instrumento más de ella.",
+        "kRVa1EeuGQZmtKGD": "<strong>Supervisor duro.</strong> Este oficial con muy mal carácter grita cada una de sus órdenes, os echa la bronca por el más mínimo error y está convencido de que vais a fracasar en todas vuestras misiones. Puede que sea uno de esos amores que matan... o a lo mejor solo de los que duelen.",
+        "qMtz5P82RHthTUY3": "<strong>Superior esperanzado.</strong> Este oficial optimista sabe que se avecina una nueva etapa de paz. Una vez que acabéis esas últimas pocas misiones que quedan, todo habrá terminado.",
+        "tuYHWiMwsCW9vQUl": "<strong>Veterano curtido.</strong> Vuestro superior es un oficial curtido en mil batallas que ha sufrido toda clase de horrores en combate. Para mitigar el dolor que le producen sus recuerdos o heridas, tiene que recurrir a una vía de escape, desde la prosa de su escritor favorito hasta un vicio que le mantiene distraído."
+      }
+    },
+    "tcoeMilitaryQues": {
+      "name": "Misiones militares",
+      "results": {
+        "9IO4tamwqKiqvGbr": "<strong>Operaciones de defensa.</strong> Debéis mantener la seguridad de un enclave importante, por ejemplo, un núcleo de población civil, un almacén de suministros o un puente o un puerto críticos desde el punto de vista estratégico.",
+        "A6wIt9kbiFS0mzQ5": "<strong>Reconocimiento.</strong> Recopiláis distintos datos sobre el enemigo: sus números, sus emplazamientos, sus movimientos o sus almacenes y rutas de abastecimiento.",
+        "A7n3U67egzmC8gux": "<strong>Fuerza de choque.</strong> Lanzáis un ataque rápido, estratégico y devastador contra una fuerza enemiga.",
+        "cnapsUyy4ojhphim": "<strong>Fuerzas especiales.</strong> Os han enviado a una operación encubierta tras las líneas enemigas. Es una tarea similar al trabajo de un espía o un asesino, pero con un enfoque más amplio. Os dedicáis a sabotear algún equipo o a ejecutar ataques dirigidos contra objetivos de gran valor.",
+        "VSG4fr3lHW11IpQK": "<strong>Localizar y eliminar.</strong> Sois responsables de dar caza a objetivos concretos peligrosos y de gran valor, entre los que hay desertores, posibles fuerzas especiales enemigas o máquinas de guerra mágicas descontroladas.",
+        "ZBOEyoTaRDW2shkH": "<strong>Asedio.</strong> Vuestra misión consiste en comenzar un asedio a una fortaleza enemiga o en ayudar a poner fin a uno que sufra algún aliado."
+      }
+    },
+    "tcoeMilitaryType": {
+      "name": "Tipos de fuerza militar",
+      "results": {
+        "bWVQryfuWMIu9snb": "<strong>Ejército oficial.</strong> Un ejército oficial es el guardián estructurado y muy disciplinado de una provincia o nación. Sus estrictos niveles de mando garantizan la coordinación entre las distintas facciones de esta fuerza.",
+        "MmBoiXpT6CHJgXJK": "<strong>Reclutas planares.</strong> Esta fuerza militar lucha por causas cósmicas en planetas lejanos del multiverso o contra una invasión extraplanar en el Plano Material. Sus guerreros incluyen reclutas obligados a luchar en la Guerra de la Sangre, custodiados por despiadados mercenarios yugoloth, y también a miembros de un grupo de celestiales gloriosos que se defienden contra una incursión infernal.",
+        "mptARndPvUq1VKYz": "<strong>Horda.</strong> La horda es prácticamente una fuerza de la naturaleza y lo que le falta de disciplina le sobra de valentía. No tiene una estructura de mando rígida, sino que funciona como una pirámide de ejércitos más pequeños. Los comandantes de cada horda son leales a sus superiores más fuertes, y así hasta llegar al señor de la guerra.",
+        "plpai0ZRk5nUva4E": "<strong>Grupo de mercenarios.</strong> Veteranos curtidos en multitud de conflictos, los mercenarios trabajan para alguien movidos por el dinero más que por la lealtad.",
+        "QCT6EqZL3SokBKzw": "<strong>Guerreros de los cielos.</strong> Esta fuerza militar se compone de criaturas aladas que vuelan gracias a la magia o manejan naves como una armada de los cielos. Los métodos de defensa tradicionales son inútiles frente a sus ataques desde el aire, por lo que los guerreros de los cielos pueden ser un enemigo temible o unos mercenarios caros y codiciados.",
+        "wbG4j0extTyMXmHN": "<strong>Fuerza expedicionaria.</strong> Esta fuerza militar se encuentra lejos de casa y lucha tras las líneas enemigas o explora tierras salvajes aún sin colonizar. Debe ser rápida y autosuficiente y mostrarse diplomática o resolutiva, según las circunstancias, para garantizar su supervivencia."
+      }
+    },
     "tcoeMirrorZoneEf": { "name": "Efectos de zona especular" },
     "tcoeMonstrosityD": { "name": "Deseos de monstruosidades" },
     "tcoeOozeDesires0": { "name": "Deseos de cienos" },
