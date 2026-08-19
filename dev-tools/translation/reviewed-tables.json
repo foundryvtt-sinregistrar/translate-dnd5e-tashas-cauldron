@@ -428,9 +428,39 @@
         "uaryuuvU5lb62kwH": "Fantasma"
       }
     },
-    "tcoeSovereignCon": { "name": "Contacto del soberano" },
-    "tcoeSovereignQue": { "name": "Misiones del soberano" },
-    "tcoeSovereignTyp": { "name": "Tipos de soberano" },
+    "tcoeSovereignCon": {
+      "name": "Contacto del soberano",
+      "results": {
+        "cGrMIhFzJhv7JRic": "<strong>Maestro de espías.</strong> Un operativo de inteligencia se encarga del trabajo sucio de la nación para que el soberano no se manche las manos.",
+        "dQWEpxkDr6FJWPS3": "<strong>Asamblea espectral.</strong> Un consejo fantasmagórico de los anteriores regentes de la nación se manifiesta para evitar desastres.",
+        "dsxluprwRWfYtpk8": "<strong>Asistente ejecutivo.</strong> Las responsabilidades de un riguroso mayordomo o de cualquier otro miembro del servicio doméstico de la casa real se quedan cortas para todo lo que hace.",
+        "hxtGcbk5hVWINi4K": "<strong>Administrador.</strong> Este recto burócrata no está de acuerdo con muchas de las políticas del soberano, pero su lealtad puede más que su opinión.",
+        "iAjkkmXqIXV0C9vL": "<strong>Confidente íntimo.</strong> Puede tratarse de un amigo o de un amante del soberano que pretende ayudarle sea como sea.",
+        "XaO0PhoMdVKrFc0t": "<strong>Emisario.</strong> Un embajador semijubilado y hedonista os da instrucciones, entre sugerencias e indirectas."
+      }
+    },
+    "tcoeSovereignQue": {
+      "name": "Misiones del soberano",
+      "results": {
+        "04ljqKklDuZ4vHbK": "<strong>Poner a prueba al heredero.</strong> Preparáis al heredero del soberano para el desafío de ascender al trono.",
+        "KrgbqZDSFSLuntue": "<strong>Diplomacia a la desesperada.</strong> Tratáis de firmar la paz con una fuerza o una entidad que podría acabar con vuestra nación.",
+        "Pv1dYsN2Wxbtz1KF": "<strong>Azote de la corrupción.</strong> Ayudáis al soberano a reformar el gobierno, para lo que hay que acabar con algunos malos hábitos institucionales.",
+        "WIygHgi5YZivU3uO": "<strong>Espionaje internacional.</strong> El objetivo es robar información secreta, símbolos nacionales o una superarma de una potencia enemiga.",
+        "YC8FbhUA27qQlIy8": "<strong>Desgastar al enemigo.</strong> Queréis debilitar o acabar con un rival que se enfrenta al gobierno del regente, el cual puede ser un general, un archidruida o un noble que quiere hacerse con el trono.",
+        "zTNTWZSBt39UtGls": "<strong>Ocultar la vergüenza.</strong> El soberano se ha visto envuelto en un escándalo y no debe quedar rastro."
+      }
+    },
+    "tcoeSovereignTyp": {
+      "name": "Tipos de soberano",
+      "results": {
+        "5ghhMyWXp6Saqidj": "<strong>Anciano de la aldea.</strong> El marchito líder de una comunidad que ofrece liderazgo cívico y moral.",
+        "bHUY7wYN5CRY8TCh": "<strong>Poder oculto.</strong> Una figura misteriosa manipula al líder de la nación, que no es más que su marioneta, y dicta las verdaderas intenciones del gobierno.",
+        "DzPdjHQXjOnU2hdM": "<strong>Gobernador a la deriva.</strong> Un líder desesperado lucha por mantener vivo a su pueblo en un lugar inhóspito para el que les falta lo necesario para sobrevivir.",
+        "K8721fd2zhNYQZ4G": "<strong>Rey verdadero.</strong> El legítimo heredero al trono lucha por recuperar el poder de un impostor exacto.",
+        "pqnQFA4GJih1TSiK": "<strong>Líder resucitado.</strong> El venerado líder de una tribu ha vuelto de entre los muertos y quiere resucitar su gloria de antaño.",
+        "Vnef9ctI9isJiymq": "<strong>Joven noble.</strong> Un noble ambicioso que pretende ansiosamente reformar la sociedad de acuerdo con sus principios."
+      }
+    },
     "tcoeStarMapForm0": {
       "name": "Mapa estelar",
       "description": "<p>Has creado un mapa estelar como parte de tus estudios del firmamento. Es un objeto Diminuto y puede servir como canalizador mágico para tus conjuros de druida. Escoge su forma de entre las de esta tabla o tira un dado para decidirlo.</p>",
