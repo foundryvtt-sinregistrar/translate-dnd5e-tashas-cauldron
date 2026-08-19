@@ -57,12 +57,72 @@
         "wJi5wKbGl20anxjT": "Tatuaje absorbente plateado"
       }
     },
-    "tcoeAcademyConta": { "name": "Contacto en la academia" },
-    "tcoeAcademyQuest": { "name": "Misiones de la academia" },
-    "tcoeAcademyTypes": { "name": "Tipo de academia" },
-    "tcoeAristocratCo": { "name": "Contacto del aristócrata" },
-    "tcoeAristocratQu": { "name": "Misiones de los aristócratas" },
-    "tcoeAristocratTy": { "name": "Tipos de aristócrata" },
+    "tcoeAcademyConta": {
+      "name": "Contacto en la academia",
+      "results": {
+        "9vhJD2ZLvKNchevh": "<strong>Atrezo vetusto.</strong> Una bibliotecaria con más años que el sol y que todo el mundo daba por muerta os transmite vuestros encargos desde un mostrador de préstamos que nunca abandona.",
+        "99CblkGJwUCpJXHh": "<strong>Fragmento espectral.</strong> Un elemento encantado de la colección de la academia os incita a continuar su investigación secreta.",
+        "aC5J9S3WoXsHpC9f": "<strong>Observador distante.</strong> Un patrocinador misterioso fomenta vuestra investigación desde la distancia para evitar llamar la atención de los viles poderes que gobiernan la burocracia de la academia.",
+        "bOZJ1hGCM5P86AdV": "<strong>Instructor célebre.</strong> Pese a la maraña de asistentes ambiciosos que le rodea, un investigador famoso considera a vuestro grupo su ojito derecho.",
+        "IXjFWKNUDRy1Mh7K": "<strong>Funcionario agobiado.</strong> Un secretario desinteresado transmite al grupo mensajes escritos de un importante miembro del profesorado muy ocupado o distante.",
+        "xHN2lTPVyphXugda": "<strong>Turista obnubilado.</strong> Un académico de intercambio a quien le encanta coquetear considera cada informe y descubrimiento que donáis un regalo a su persona."
+      }
+    },
+    "tcoeAcademyQuest": {
+      "name": "Misiones de la academia",
+      "results": {
+        "7wYEpws2pt5MOsgl": "<strong>Divinidad evolutiva.</strong> Os atrevéis a explorar aquello que ningún mortal debería conocer: el origen de lo divino.",
+        "aDazlQIJouP0Q7sE": "<strong>Búsqueda y captura de antigüedades.</strong> Seguís pistas que os llevan hasta artefactos saqueados para luego devolvérselos a sus legítimos dueños.",
+        "h0mhAP87QFA8m0sy": "<strong>Zoología aberrante.</strong> Emprendéis expediciones para documentar, capturar y explicar la existencia de seres que desafían al orden natural.",
+        "j64WXGdIC9QmVe6T": "<strong>Criptogeografía.</strong> Buscáis pruebas de la existencia de una tierra oculta o de que el mundo no está estructurado como se asume habitualmente.",
+        "tNDbwcyDiQmRAYqm": "<strong>Arcanodinámica.</strong> Investigáis cómo la existencia se apoya en la magia, para lo que exploráis sus senderos y caminos para aprovechar sus nexos de unión.",
+        "xAQs4aZz2CrMLLQr": "<strong>Historia prohibida.</strong> Reveláis las verdades perdidas de las épocas más oscuras del mundo y os adentráis en la historia de episodios tabú o premeditadamente ocultos."
+      }
+    },
+    "tcoeAcademyTypes": {
+      "name": "Tipo de academia",
+      "results": {
+        "1KDevIpHaYObvC86": "<strong>Museo de los sueños.</strong> La comunicación mágica o los paisajes oníricos compartidos conectan a una red de expertos de amplio espectro.",
+        "4ddBd00lmUEU9sus": "<strong>Cámara de los secretos.</strong> Una organización conspirativa que trata de conservar o erradicar todo el conocimiento sobre una verdad concreta.",
+        "ANnEtgySqQsXLD6T": "<strong>Internado.</strong> Los estudiantes y el profesorado disfrutan de una relación familiar en un campus independiente.",
+        "BhNNnxgMfc5cAxRt": "<strong>Monasterio secreto.</strong> Los que habitan este lugar se centran en el estudio contemplativo de secretos eternos y en la formación rigurosa.",
+        "Q0vJuwU9eEA9RYEU": "<strong>Enclave arcano.</strong> Unidos en torno a la erudición mágica más avanzada, los residentes del enclave están ansiosos por descubrir secretos, reactivos y temas.",
+        "utNWhHHOl7rhyhdO": "<strong>Instituto elitista.</strong> Esta institución dedicada al arte o la ciencia, en la que la competencia es despiadada, solo admite a la flor y nata de la sociedad y del talento."
+      }
+    },
+    "tcoeAristocratCo": {
+      "name": "Contacto del aristócrata",
+      "results": {
+        "aNG6n8HYVjeGYfYE": "<strong>Enlace con intereses íntimos.</strong> Un confidente o amante de vuestro patrón de origen plebeyo os ayudará a crear el clima propicio para promover los intereses de la familia noble.",
+        "ed92wkeVat7Ior7o": "<strong>Contacto común.</strong> Un siervo con aspiraciones a conseguir un título trabaja como enlace entre el grupo y su patrón.",
+        "h9ra13Mvwzh5PNII": "<strong>Extraño influyente.</strong> Una misteriosa entidad manipula el destino de una familia noble. A través de vuestro patrón, os contrata para que le ayudéis a guiar a la familia escogida durante siglos.",
+        "MFY8yj5SNRGGrS4t": "<strong>Mediador de la familia.</strong> Un ingenuo aristócrata designado por el patrón solicita vuestra ayuda para mantener la paz entre los miembros díscolos de la familia, lo cual no es una prioridad para el patrón.",
+        "RV720P77Y9avo6LH": "<strong>Informador desterrado.</strong> Un noble marginado que cuenta con el favor de vuestro patrón y que colabora con el grupo para mantener los intereses de la familia pese a su exilio.",
+        "SbqmEZk8CGneLsbf": "<strong>Profesional.</strong> Un consejero juicioso o uno de los encargados de los negocios del patrón os da instrucciones para que mantengáis a salvo a su temerario jefe."
+      }
+    },
+    "tcoeAristocratQu": {
+      "name": "Misiones de los aristócratas",
+      "results": {
+        "cGW3beuXxdct4685": "<strong>Unión nobiliaria.</strong> Trabajáis con varias facciones nobles para unir a distintas familias rivales.",
+        "di2esZbYEAXx1pLq": "<strong>La nueva nobleza.</strong> Recreáis el extraordinario evento que concedió a las familias nobles actuales su estatus especial, lo que permite el ascenso de nuevos nobles.",
+        "g85RiJbaLiXL2YWL": "<strong>Linaje perdido.</strong> Buscáis pruebas de la existencia de una rama perdida de una familia noble o evidencias de que alguna persona no tiene en realidad orígenes aristocráticos.",
+        "P2xCORae0INrmX1l": "<strong>Sabotear a un rival.</strong> Allanáis el negocio o la mansión de una familia noble enemiga y socaváis sus intereses políticos o profesionales.",
+        "SGxXVEBNoxua1ubp": "<strong>Filón empresarial.</strong> Localizáis y conseguís un elemento maravilloso que vuestro patrón considera que es la clave para su futuro económico.",
+        "TXgxGqlYoxAap4BL": "<strong>Origen de la nobleza.</strong> Reveláis el motivo secreto por el cual algunas personas alcanzaron el estatus de nobles y cómo lograrán cumplir sus objetivos muy pronto."
+      }
+    },
+    "tcoeAristocratTy": {
+      "name": "Tipos de aristócrata",
+      "results": {
+        "je9mKYPmB3vB4LdV": "<strong>Genio comerciante.</strong> Este líder de una familia con negocios por todo el mundo posee reputación, riqueza y poder a partes iguales.",
+        "SZZL1GgUdFcPficy": "<strong>Agente doble.</strong> El líder de una familia noble se ha vuelto en contra de su nación y se opone en secreto a su señor feudal para su propio beneficio o por motivos éticos.",
+        "Ubn7pExGkkbH2Wca": "<strong>Principito nómada.</strong> A este principito no hay nada que le guste más que los tesoros. Su caravana de mercaderes no deja de crecer y ya se extiende tras su palanquín hasta donde alcanza la vista.",
+        "vYESoEVSVtbfaKRP": "<strong>Futuro gobernante.</strong> Este joven noble está destinado a gobernar, pero en la actualidad sus caprichos son volubles y peligrosos.",
+        "WXbAroqIXcX8nHFu": "<strong>Emprendedor ambicioso.</strong> Único heredero de una gran fortuna, este emprendedor busca aliados para aumentar su riqueza con un nuevo negocio con alcance internacional, global o planar.",
+        "XX9JleHE2HYqY43c": "<strong>Señor local.</strong> Convencido de que el poder y el prestigio le esperan a la vuelta de la esquina, este señor de bajo nivel aprovecha toda oportunidad para ascender en el escalafón."
+      }
+    },
     "tcoeBeastDesires": { "name": "Deseos de bestias" },
     "tcoeBeingContact": { "name": "Contacto del ser ancestral" },
     "tcoeBeingQuests0": { "name": "Misiones de los seres ancestrales" },
