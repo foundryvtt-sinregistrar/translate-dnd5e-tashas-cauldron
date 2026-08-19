@@ -1187,7 +1187,58 @@
       }
     },
     "tcoePsychicReson": {
-      "name": "Efectos de resonancia psíquica"
+      "name": "Efectos de resonancia psíquica",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural de resonancia psíquica.</p>",
+      "results": {
+        "CbrxNMv8tz9KkDNO": {
+          "text": "La compasión y la alegría llenan la mente de una criatura al azar de la región durante 1 minuto. Mientras dure el efecto, la criatura tiene ventaja en las tiradas de salvación de Inteligencia, Sabiduría y Carisma, y desventaja en las tiradas de ataque."
+        },
+        "cIilcyrg2PaeNrnH": {
+          "text": "Durante 1 minuto, en la posición 20 del orden de iniciativa (perdiendo todos los empates), una criatura al azar de la región debe superar una tirada de salvación de Inteligencia CD 15 o recibir 2d6 de daño psíquico."
+        },
+        "FbrY5t3YZtx6PceW": {
+          "text": "Una criatura al azar de la región obtiene la capacidad de lanzar una vez el conjuro telequinesis durante las próximas 24 horas (CD de salvación 15), sin requerir componentes. Inteligencia es su aptitud mágica para este conjuro."
+        },
+        "FeK1ScsfusUj2kd6": {
+          "text": "Una criatura al azar de la región obtiene la capacidad de lanzar una vez el conjuro detectar pensamientos durante las próximas 24 horas (CD de salvación 13), sin requerir componentes. Inteligencia es su aptitud mágica para este conjuro."
+        },
+        "FRFu1EqdqKm8c5em": {
+          "text": "Las criaturas de la región sufren pensamientos inconexos y dificultades para concentrarse durante 1 hora. Mientras dure el efecto, tienen desventaja en las pruebas de Inteligencia y en las tiradas de salvación de Constitución para mantener la concentración en conjuros."
+        },
+        "FrhQnP0fT1UTzWxS": {
+          "text": "El poder psíquico se acumula en la mente de una criatura al azar de la región. Una vez durante el próximo minuto, la criatura puede usar una acción adicional para asaltar mágicamente la mente de otra criatura que pueda ver. El objetivo debe superar una tirada de salvación de Inteligencia CD 14 o recibir 4d10 de daño psíquico."
+        },
+        "GI6eu15SZE3Zy1Xl": {
+          "text": "Los humanoides de la región padecen dolores de cabeza y hemorragias nasales, lo que les impone desventaja en las pruebas de Sabiduría (Percepción) durante 1 hora."
+        },
+        "jM3zkUPzXtq2HD9l": {
+          "text": "Una criatura al azar de la región oye susurros extraños en su mente. Los susurros son fragmentos de pensamientos de otras criaturas cercanas. La criatura tiene ventaja en las pruebas de Sabiduría (Perspicacia) durante 1 hora."
+        },
+        "MDk0Zhnlx15kU5dV": {
+          "text": "Los pensamientos de la región atraen energía psíquica ambiental, que forma campos protectores alrededor de las mentes de las criaturas. Las criaturas de la región obtienen resistencia al daño psíquico durante la próxima hora."
+        },
+        "muKsuPS9Q8giqbpW": {
+          "text": "Durante 1 hora, cada criatura de la región obtiene la capacidad de comunicarse telepáticamente con cualquier criatura que pueda ver a 60 pies o menos. Si el objetivo entiende algún idioma, puede responder telepáticamente."
+        },
+        "N9qDxn2Idg3ZkRYl": {
+          "text": "Durante 1 minuto, en la posición 20 del orden de iniciativa (perdiendo todos los empates), una fuerza invisible arroja los objetos Diminutos y Pequeños de la región que nadie vista ni lleve consigo. Una criatura al azar de la región debe superar una tirada de salvación de Destreza CD 15 o recibir 2d4 de daño contundente de los objetos arrojados."
+        },
+        "OXpoda70YsF68tQK": {
+          "text": "Los recuerdos se vuelven nítidos y claros durante 1 hora. Durante ese tiempo, cada criatura de la región añade el doble de su bonificador por competencia a las pruebas de Inteligencia realizadas para recordar información."
+        },
+        "Q8DTl1CkX6iIk7Xj": {
+          "text": "La mente de todas las bestias de la región se inunda de energía psíquica. Esta energía hace que la puntuación de Inteligencia de cada bestia pase a ser 10 si no era ya superior, y la bestia obtiene la capacidad de hablar común y silvano con fluidez. Estos cambios son permanentes."
+        },
+        "QwMbK3unlhkhAmHs": {
+          "text": "Una criatura al azar de la región queda afectada por el conjuro mente en blanco durante las próximas 24 horas."
+        },
+        "tF0dQZH0hovErsXw": {
+          "text": "Una criatura al azar de la región puede percibir la presencia de mentes cercanas durante 1 hora. Mientras dure el efecto, tiene ventaja en las pruebas de Sabiduría (Percepción) realizadas para localizar a otras criaturas a 120 pies o menos de ella, incluso si están tras cobertura completa."
+        },
+        "uom05q4FRwjacu85": {
+          "text": "Los temores latentes se convierten en pesadillas. Cualquier criatura que termine un descanso corto o largo en la región debe superar una tirada de salvación de Sabiduría CD 10 o no obtiene ningún beneficio por haberlo terminado."
+        }
+      }
     },
     "tcoeReligiousCon": {
       "name": "Contacto de la orden religiosa",
