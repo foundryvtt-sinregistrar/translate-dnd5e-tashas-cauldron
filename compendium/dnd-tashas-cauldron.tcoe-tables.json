@@ -433,7 +433,46 @@
       }
     },
     "tcoeEnchantedSpr": {
-      "name": "Efectos de manantial encantado"
+      "name": "Efectos de manantial encantado",
+      "description": "<p>Efectos que pueden producirse en un manantial encantado.</p>",
+      "results": {
+        "8dJkFWA2pysFJNw5": {
+          "text": "Bañarse en el manantial concede a una criatura los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.KJRVzeMQXPj8Gtyx]{trepar cual arácnido} durante 24 horas."
+        },
+        "45dLQ1yyxyPXE259": {
+          "text": "A una criatura que toca o bebe el agua de este manantial le crece la cola de su animal favorito. La criatura no controla la cola, que se mueve o reacciona según sus emociones. La cola desaparece al cabo de 24 horas."
+        },
+        "bp1lBbO3wKUZG6o5": {
+          "text": "A una criatura que toca o bebe el agua de este manantial le crecen orejas de burro. Las orejas le conceden ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído. Desaparecen al cabo de [[/r 1d4]] días."
+        },
+        "Bw4lruX8rY0115Gs": {
+          "text": "Bañarse en el manantial hace que crezcan [[/r 1d10]] flores de la cabeza de una criatura. Las flores tienen un aroma agradable y recuperan su vitalidad y fragancia cada día. Desaparecen al cabo de 7 días."
+        },
+        "djDGx4a2p4Cbr3v7": {
+          "text": "Bañarse en el manantial hace que a una criatura le aparezca un tercer ojo en la frente. El ojo concede a la criatura &amp;Reference[truesight]{visión verdadera} hasta 60 pies. Desaparece al cabo de 24 horas."
+        },
+        "eSvgKcWHHAMaVvZV": {
+          "text": "Bañarse en el manantial hace que la voz de una criatura suene siniestra. Durante las siguientes 24 horas, su voz le concede ventaja en las pruebas de Carisma (Intimidación) y desventaja en las de Carisma (Engaño) y Carisma (Persuasión)."
+        },
+        "N1CIFipEUEx9ZXYg": {
+          "text": "Cualquier criatura que toque o beba el agua de este manantial se siente bendecida. Obtiene los beneficios de un conjuro @UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{bendición} durante 1 hora."
+        },
+        "onIV6baZABlP435q": {
+          "text": "A una criatura que toca o bebe el agua de este manantial le crecen [[/r 1d4]] pedúnculos oculares. Estos le permiten ver en todas direcciones y le conceden ventaja en las pruebas de Sabiduría (Percepción) que dependan de la vista. Desaparecen al cabo de [[/r 1d4]] días."
+        },
+        "QOnfWA6ja0Oe7SpO": {
+          "text": "Una criatura que toca o bebe el agua de este manantial desarrolla un deseo irresistible de cantar. Cada frase que pronuncie durante las siguientes 24 horas resuena con esplendor lírico, lo que le concede ventaja en todas las pruebas de Carisma."
+        },
+        "rMeXkXWEWEci5UnI": {
+          "text": "Bañarse en el manantial cubre a una criatura con un brillante plumaje dorado. Mientras no lleve armadura, las plumas le conceden un bonificador de +1 a la CA. Desaparecen al cabo de [[/r 1d4]] días."
+        },
+        "SdXKBvaM2ZZO2FYf": {
+          "text": "Bañarse en el manantial concede a una criatura los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor}. Como efecto secundario, su piel, pelo y ojos adquieren un reluciente color dorado durante [[/r 1d4]] días."
+        },
+        "TVFcN66swPMxusId": {
+          "text": "Cualquier criatura con una puntuación de Inteligencia de 6 o más que toque o beba el agua de este manantial obtiene ventaja en las pruebas de Sabiduría (Perspicacia) y puede lanzar una vez el conjuro @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detectar pensamientos}, sin necesitar componentes. Los efectos del manantial terminan cuando se lanza el conjuro o transcurren 24 horas, lo que suceda primero."
+        }
+      }
     },
     "tcoeExperimental": {
       "name": "Elixir experimental",
