@@ -1825,7 +1825,309 @@
       }
     },
     "tcoeTrinkets0000": {
-      "name": "Chucherías"
+      "name": "Baratijas",
+      "results": {
+        "1f1jgDatQF9nHgXL": {
+          "text": "Un par de dados de tabas, cada uno con un símbolo de calavera en la cara donde normalmente habría seis puntos"
+        },
+        "1o0FQMfiHEyeZC9X": {
+          "text": "Una esfera de latón grabada con extrañas runas"
+        },
+        "2AHNyVygpG2i9SZo": {
+          "text": "Un pañuelo morado bordado con el nombre de un archimago poderoso"
+        },
+        "2mJqDpFy3MdaxzGR": {
+          "text": "Una caja de madera con base de cerámica que contiene un gusano vivo con una cabeza en cada extremo del cuerpo"
+        },
+        "2zpsc41Vpg9o4OgT": {
+          "text": "Una lata metálica sin abertura que suena como si estuviera llena de líquido, arena, arañas o vidrio roto (a tu elección)"
+        },
+        "3A8MbsYDWrJ7sZ8P": {
+          "text": "Una mano momificada de goblin"
+        },
+        "3qwuGrbTiLuBCfOW": {
+          "text": "Un trozo de tela de un viejo estandarte"
+        },
+        "4JdyZR458qJPfkWg": {
+          "text": "Un diminuto icono de plata con forma de cuervo"
+        },
+        "4rnHE6FKs3DgNMqe": {
+          "text": "Una diminuta caja de música creada por gnomos que reproduce una canción que recuerdas vagamente de tu infancia"
+        },
+        "4rRLmjfxfvwWflOw": {
+          "text": "Una urna de metal que contiene las cenizas de un héroe"
+        },
+        "5VrMcBYfIXhnQMFc": {
+          "text": "Un mapa del tesoro indescifrable"
+        },
+        "8j1PhkONd4NoPltm": {
+          "text": "Una tabaquera de plata vacía con una inscripción en la superficie que dice «sueños»"
+        },
+        "8lLCNwDx9b9Jb0Mh": {
+          "text": "Un gorro de dormir que, al llevarlo puesto, te proporciona sueños agradables"
+        },
+        "9DyI8ThKgzmSyBZY": {
+          "text": "Una insignia de plata con forma de estrella de cinco puntas"
+        },
+        "12JQ3lfr6EhrF9Is": {
+          "text": "Un diario escrito en un idioma que no conoces"
+        },
+        "38JpyVHZmKfu5Vwn": {
+          "text": "Una diminuta jaula sin puerta"
+        },
+        "61dK3p9UJ9tFEKaj": {
+          "text": "Un collar de cuerda del que cuelgan cuatro dedos de elfo momificados"
+        },
+        "91RGj0WB5AsGSZF4": {
+          "text": "Una invitación a una fiesta donde ocurrió un asesinato"
+        },
+        "aCTgJY1zDHP98rkW": {
+          "text": "Un ojo de vidrio"
+        },
+        "As8GCtpAgB2J2cZK": {
+          "text": "Una flecha antigua de diseño élfico"
+        },
+        "AsOQP24kojUv7STD": {
+          "text": "Un pendiente de plata en forma de lágrima hecho con una lágrima auténtica"
+        },
+        "AxHAbNdijk0rIvsn": {
+          "text": "Un anillo de latón que nunca se empaña"
+        },
+        "B1yJPsAXgujuE5hJ": {
+          "text": "Una aguja que nunca se dobla"
+        },
+        "B8LV0fb60u65Cnh5": {
+          "text": "Un par de calcetines viejos"
+        },
+        "BOeO0F5T1XQIxOVf": {
+          "text": "Un frasco de vidrio que contiene un extraño trozo de carne flotando en líquido de conservación"
+        },
+        "BWGXp2ep9kEjkkjJ": {
+          "text": "Una hoja de pergamino sobre la que se ha dibujado un complejo artilugio mecánico"
+        },
+        "Bzz9Ims29e5w8f6T": {
+          "text": "Un tarro de vidrio que contiene manteca con una etiqueta que dice: «Grasa de grifo»"
+        },
+        "C9Yw2F5RRortnigh": {
+          "text": "Una antigua carta de adivinación con tu retrato"
+        },
+        "cGiIH2AgGQa2kKkW": {
+          "text": "Una bandera pirata negra adornada con una calavera de dragón y tibias cruzadas"
+        },
+        "ClOnkzCi2fyGMbte": {
+          "text": "Un bloque de 1 onza hecho de un material desconocido"
+        },
+        "dAUuHZfpJukFyxno": {
+          "text": "La cáscara de un huevo pintada con escenas de sufrimiento humano representadas con detalles perturbadores"
+        },
+        "DkXUR1lJR4O2G5HZ": {
+          "text": "Un símbolo sagrado de hierro dedicado a un dios desconocido"
+        },
+        "EDKtlKeCdHobbTjJ": {
+          "text": "Un trébol de cuatro hojas prensado dentro de un libro sobre modales y etiqueta"
+        },
+        "eLT9eOo7W7YTdirm": {
+          "text": "La escritura de propiedad de una parcela de tierra en un reino desconocido para ti"
+        },
+        "EmndF58nO0smJ2Jc": {
+          "text": "Una llave antigua"
+        },
+        "eTZEsBU0pSKIUm5j": {
+          "text": "Un único abrojo hecho de hueso"
+        },
+        "EUo8WTWUAyHeaMLv": {
+          "text": "Un fragmento de una hermosa canción, escrito como notas musicales en dos trozos de pergamino"
+        },
+        "Eva5jF0qSbukutgn": {
+          "text": "Una insignia de rango de un legionario de una legión perdida"
+        },
+        "fkYqwAqluqwwAFhW": {
+          "text": "Un fragmento de obsidiana que siempre se siente cálido al tacto"
+        },
+        "G0BcVsi0SJ9LhcC4": {
+          "text": "Un pentáculo de bronce con un grabado de la cabeza de una rata en el centro"
+        },
+        "gIO8ZeR93EFfwszz": {
+          "text": "Un huevo de 1 libra con una cáscara de color rojo brillante"
+        },
+        "GlEtZf8txhWDTOlm": {
+          "text": "Una enorme escama, quizá de dragón"
+        },
+        "HHN81FWfK8oA4m6i": {
+          "text": "Un diminuto cangrejo o araña mecánica que se mueve cuando no está siendo observado"
+        },
+        "IjEEyv2owfB32bP7": {
+          "text": "Un escarabajo muerto del tamaño de tu mano"
+        },
+        "ijfwd7CmxmlMXiwJ": {
+          "text": "Un cuchillo que perteneció a un pariente"
+        },
+        "IX914RdhqpEHBv0r": {
+          "text": "Un vial de vidrio vacío que huele a perfume cuando se abre"
+        },
+        "j0CuUle5MUlLCYtv": {
+          "text": "Un conjunto de flautas de hueso"
+        },
+        "J0rfpTnqxke8Ze4M": {
+          "text": "Una pequeña caja llena de botones de distintos tamaños"
+        },
+        "J2w4CwLMjTgU3x2x": {
+          "text": "Un camafeo tallado con la efigie de una persona horrible"
+        },
+        "J69VJe9roszQhWOI": {
+          "text": "Dos soldados de juguete, uno de ellos sin cabeza"
+        },
+        "Jf4EWpIEcrCa65SR": {
+          "text": "La montura de un monóculo de oro sin lente"
+        },
+        "JNA4iEmGwsQJuhO4": {
+          "text": "Un dispositivo metálico rectangular con dos pequeñas copas metálicas en un extremo que produce chispas cuando se moja"
+        },
+        "JPJyXd1PMikID56Z": {
+          "text": "Una pirámide de incienso negro y pegajoso que huele muy mal"
+        },
+        "k0wwZmj6GOwk9mR8": {
+          "text": "Un abanico que, al desplegarse, muestra un gato dormido"
+        },
+        "kIgP9EDA2jD75IjE": {
+          "text": "Una tesela de mosaico con una superficie vidriada multicolor"
+        },
+        "kvTm4JAmDxAvpzBU": {
+          "text": "Un fragmento de cristal que brilla tenuemente a la luz de la luna"
+        },
+        "M1NlCVDtCCCEsBeW": {
+          "text": "Un libro en blanco cuyas páginas se niegan a retener tinta, tiza, grafito o cualquier otra sustancia o marca"
+        },
+        "MLg7cm07DkKXqv0L": {
+          "text": "Un duendecillo muerto dentro de una botella de vidrio transparente"
+        },
+        "N98qxIYLxFPQcji2": {
+          "text": "Una cuchara de plata con una M grabada en el mango"
+        },
+        "nh2en9tmQU9YTyzi": {
+          "text": "Una vieja pieza de ajedrez hecha de vidrio"
+        },
+        "NMlCnTdr2j3Uay24": {
+          "text": "Una pata de conejo"
+        },
+        "NSbRFK8zx2qhNIOI": {
+          "text": "Una botella de vino vacía con una hermosa etiqueta que dice: «The Wizard of Wines Winery, Red Dragon Crush, 331422-W»"
+        },
+        "NspSIEnSRdSMHJ04": {
+          "text": "Una moneda de oro acuñada en una tierra desconocida"
+        },
+        "nzraNl4PEKT4NC9e": {
+          "text": "Un diminuto cofre tallado para que parezca tener numerosas patas en la base"
+        },
+        "o70ejNtAWLTfvvYN": {
+          "text": "Una garra huesuda de dragón colgada de un sencillo collar de cuero"
+        },
+        "ol4QlAMBHaNAY4hl": {
+          "text": "Un libro que narra el ascenso y la caída de un héroe legendario y al que le falta el último capítulo"
+        },
+        "OP1y80rnnFZbmjFu": {
+          "text": "Una vaina ornamentada en la que no encaja ninguna hoja que hayas encontrado hasta ahora"
+        },
+        "oxhx3mS1VGzle6DX": {
+          "text": "Un trozo de tela doblado que, al desplegarse, se convierte en una elegante gorra"
+        },
+        "PafnrFXlZoK8gNkh": {
+          "text": "Una vela que no puede encenderse"
+        },
+        "PaJ7D03IexCbg564": {
+          "text": "Un diario al que le faltan siete páginas"
+        },
+        "PGJJr8NcuXKe3g8l": {
+          "text": "Un pequeño bloque de piedra sin peso"
+        },
+        "pRRLbArbkaqFytcS": {
+          "text": "Un pequeño ídolo que representa a una criatura de pesadilla y que te provoca sueños inquietantes cuando duermes cerca de él"
+        },
+        "QGu3o6KClBYE8LAQ": {
+          "text": "Un guante blanco con lentejuelas del tamaño adecuado para un humano"
+        },
+        "QhPu0OHu6KnhpPSR": {
+          "text": "Un canario mecánico dentro de una lámpara fabricada por gnomos"
+        },
+        "qLeKUIuPYjxEFtxK": {
+          "text": "Una pequeña estatuilla de madera de un mediano con aire autosatisfecho"
+        },
+        "RBp8S8NhGOHq1ZSx": {
+          "text": "Un silbato hecho de madera de color dorado"
+        },
+        "RthlMjHLEQiTeWdo": {
+          "text": "La mitad del plano de planta de un templo, un castillo u otra estructura"
+        },
+        "SocDQSM5UDFwu177": {
+          "text": "Una esfera de vidrio llena de humo en movimiento"
+        },
+        "sUdH7AaXAte1acfI": {
+          "text": "Una esfera de vidrio llena de agua en la que nada un pez dorado mecánico"
+        },
+        "sykdipI2yrjjYjq1": {
+          "text": "Un ratón petrificado"
+        },
+        "TkvcoDwmEy0bFBcQ": {
+          "text": "Una pequeña muñeca de tela atravesada por agujas"
+        },
+        "tN9IxMVSM2vJMU1e": {
+          "text": "Una gema que parece un trozo de carbón cuando la examina cualquiera que no seas tú"
+        },
+        "UVaUUQDqESrLHNU9": {
+          "text": "Un broche ornamentado de diseño enano"
+        },
+        "X4jgJUqYaONf79mH": {
+          "text": "Una pipa que sopla burbujas"
+        },
+        "xpeQ2TwQnKgOhEg3": {
+          "text": "Un diente de una bestia desconocida"
+        },
+        "xUp3YPtHoE3Gdt0x": {
+          "text": "Un recibo de depósito de un banco situado en una ciudad remota"
+        },
+        "XvvtXP8xQWZFC3bO": {
+          "text": "Una diminuta campana de plata sin badajo"
+        },
+        "xx4SlkIAKingvnkQ": {
+          "text": "Un pequeño paquete lleno de polvo rosa"
+        },
+        "xzfrwMdm9nbh7Dtp": {
+          "text": "Un chaleco con cien diminutos bolsillos"
+        },
+        "Y0ymTo3EIsAzTB8c": {
+          "text": "Un vial de sangre de dragón"
+        },
+        "yAzSn2zXbgTQnUUS": {
+          "text": "Un vial de vidrio lleno de recortes de uñas"
+        },
+        "yFvGeC7DlhNOBlTR": {
+          "text": "La empuñadura de una espada rota"
+        },
+        "YfwE5lBN8Fbu3bBC": {
+          "text": "Una calavera de plata del tamaño de una moneda"
+        },
+        "YOJdLwTXFSH3ffhI": {
+          "text": "Un cubo de 1 pulgada con cada cara pintada de un color diferente"
+        },
+        "Z4Zjf08QPTIBk6GF": {
+          "text": "Un diminuto retrato a carboncillo de un goblin"
+        },
+        "Zj9ExRB2WZwr2jjl": {
+          "text": "Un pomo de cristal procedente de una puerta"
+        },
+        "zJsE5ALLNMxQE8nx": {
+          "text": "Una bolsa que contiene cuarenta y siete dientes de humanoide, uno de ellos podrido"
+        },
+        "ZL128G4JHRyRIQVi": {
+          "text": "Un disco de piedra multicolor"
+        },
+        "zno8w1USsdab8LTJ": {
+          "text": "Una máscara de alabastro"
+        },
+        "ZsC70IzMBo8V8Z0F": {
+          "text": "Una pluma de color verde brillante"
+        }
+      }
     },
     "tcoeUndeadDesire": {
       "name": "Deseos de muertos vivientes",
