@@ -1870,7 +1870,70 @@
       }
     },
     "tcoeUnravelingMa": {
-      "name": "Efectos de magia desatada"
+      "name": "Efectos de magia desatada",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural de magia desatada.</p>",
+      "results": {
+        "0lb3TgSxAh4L465d": {
+          "text": "Todo el fuego de la región se congela y se convierte en hielo que emite una luz azul equivalente a la iluminación que proporcionaba normalmente. Además, la región irradia frío extremo (consulta la Guía del Dungeon Master) durante 1 día."
+        },
+        "0nIVvye4ZoSanor9": {
+          "text": "Un relámpago forma una línea de 5 pies de ancho entre dos criaturas de la región que estén a 30 pies o menos entre sí y no se encuentren tras cobertura completa. Cada criatura de la línea (incluidas ambas) debe realizar una tirada de salvación de [[/save dexterity dc=13]]; recibe [[/damage 4d6 type=lightning]] si falla o la mitad si tiene éxito."
+        },
+        "2fl4y3wWrceKmMcv": {
+          "text": "Una criatura al azar de la región que posea espacios de conjuro se convierte en un foco de magia ambiental durante 1 hora. Al final de cada uno de sus turnos, las demás criaturas situadas a 10 pies o menos deben superar una tirada de salvación de [[/save dexterity]] contra la CD de salvación de conjuros del lanzador o recibir [[/damage 1d6 type=force]]."
+        },
+        "4f8jM87ix91Sh4Mx": {
+          "text": "Una energía arremolinada rodea a una criatura al azar de la región durante 24 horas. Mientras dure el efecto, obtiene resistencia al daño de fuerza y su velocidad se reduce en 10 pies."
+        },
+        "8L76sBGsLbai2cjN": {
+          "text": "Unos destellos de energía mágica recorren la región durante 1 minuto. Mientras dure el efecto, cada asalto en la posición 20 del orden de iniciativa (perdiendo todos los empates), una criatura al azar de la región recibe 2d4 de daño de un tipo determinado mediante [[/r 1d6]]: 1, [[/damage 2d4 type=acid]]{ácido}; 2, [[/damage 2d4 type=cold]]{frío}; 3, [[/damage 2d4 type=fire]]{fuego}; 4, [[/damage 2d4 type=force]]{fuerza}; 5, [[/damage 2d4 type=lightning]]{relámpago}; o 6, [[/damage 2d4 type=thunder]]{trueno}."
+        },
+        "8UlIgRxp0IKpNdq3": {
+          "text": "El conjuro @UUID[Compendium.dnd5e.spells.Item.FjYE214HTERCRZNm]{esfera de llamas} ([[/save dexterity dc=15]]) se activa espontáneamente en un espacio desocupado a 5 pies o menos del grupo. En la posición 20 del orden de iniciativa (perdiendo todos los empates), la esfera se mueve 30 pies hacia la criatura más cercana. Desaparece tras 1 minuto."
+        },
+        "beUftEVmMOukOLyw": {
+          "text": "Cada personaje de la región aprende magia repentinamente. Aprende un truco de mago de su elección y lo conoce durante [[/r 1d8]] días."
+        },
+        "BXLy1EB2lacBLWAJ": {
+          "text": "Una criatura al azar de la región que haya gastado espacios de conjuro recupera uno de un nivel al azar."
+        },
+        "FLdRi15Nm6s8u2QD": {
+          "text": "Las armas sencillas o marciales no mágicas de la región crepitan de poder. Durante 1 hora se convierten en armas mágicas que conceden un bonificador de +1 a las tiradas de ataque y daño realizadas con ellas."
+        },
+        "h1loajHNroEu5LiQ": {
+          "text": "La región se convierte en una zona de magia muerta durante 1 hora. Mientras dure el efecto, toda ella queda afectada por el conjuro @UUID[Compendium.dnd5e.spells.Item.Eon0jzGzQRNluTPQ]{campo antimagia}."
+        },
+        "hsFPj7DvEarlrVJQ": {
+          "text": "En la posición 20 del orden de iniciativa (perdiendo todos los empates), dos criaturas al azar de la región deben realizar sendas tiradas de salvación de [[/save charisma dc=15]]. Si alguna falla, las criaturas se teletransportan mágicamente e intercambian sus posiciones. Si ambas tienen éxito, no se teletransportan."
+        },
+        "jjXbaMyTAOMyZWV9": {
+          "text": "Una criatura al azar de la región crepita con chispas de luz durante 1 hora. Mientras dure el efecto, proyecta mágicamente luz brillante en un radio de 10 pies y luz tenue 10 pies más allá. Además, cualquier criatura a la que toque (lo que requiere un ataque sin armas si el objetivo no está dispuesto) recibe [[/damage 1d6 type=force]]."
+        },
+        "jWpV8S4vth5cC9gI": {
+          "text": "Durante las próximas 24 horas, la primera vez que una criatura de la región elija a otra criatura como objetivo de un conjuro, el lanzador debe realizar una tirada de salvación CD 11 usando su aptitud mágica. Si falla, el conjuro elige al lanzador como objetivo. Si tiene éxito, funciona con normalidad. Entonces este efecto termina."
+        },
+        "kn2RZ1auyNeWKEjl": {
+          "text": "Una criatura al azar de la región deshace conjuros durante 1 hora. Siempre que alguien situado a 20 pies o menos de ella lance un conjuro, el lanzador debe superar una tirada de salvación CD 15 usando su aptitud mágica o el conjuro se disipa sin efecto. El espacio de conjuro, carga o uso del rasgo que lo alimentaba se desperdicia."
+        },
+        "Nqo4ZU39v4HB0DVi": {
+          "text": "Uno de los personajes de la región debe superar una tirada de salvación de [[/save wisdom dc=15]] o transformarse en un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.jOANE6M0My6UJF4e]{perro intermitente}, como mediante el conjuro @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polimorfar}. El conjuro dura 1 hora o hasta que sea disipado."
+        },
+        "tzbmxkA7C6E8BdM6": {
+          "text": "Una criatura al azar de la región que posea espacios de conjuro gasta uno de un nivel al azar en una inofensiva lluvia de chispas y sonidos."
+        },
+        "winZohSivvtYaj9L": {
+          "text": "El conjuro @UUID[Compendium.dnd5e.spells.Item.ERCv7yuRkQ0YjGx6]{invertir gravedad} ([[/save dexterity dc=18]]) se activa durante 1 minuto, centrado en el suelo bajo una criatura al azar de la región."
+        },
+        "wmdFNENbTD3nYCiH": {
+          "text": "Todos los objetos mágicos de la región pierden temporalmente sus propiedades mágicas y se vuelven no mágicos durante 1 hora. Los artefactos no se ven afectados. Cuando los objetos recuperan su magia, también se restablece la sintonización de las criaturas con ellos."
+        },
+        "WPZfO6I8cERrzLhE": {
+          "text": "Una criatura al azar de la región debe superar una tirada de salvación de [[/save dexterity dc=15]] o quedar encerrada en la @UUID[Compendium.dnd5e.spells.Item.1ADstb0Xec6HHRcU]{esfera elástica} de Otiluke durante 1 minuto."
+        },
+        "XwL2UoYrf3sAzlZm": {
+          "text": "Una criatura al azar de la región puede lanzar repentinamente una vez el conjuro @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} durante el próximo minuto. Vuelve a tirar si has obtenido este efecto en las últimas 24 horas."
+        }
+      }
     },
     "tcoeWildMagicEru": {
       "name": "Magia salvaje",
