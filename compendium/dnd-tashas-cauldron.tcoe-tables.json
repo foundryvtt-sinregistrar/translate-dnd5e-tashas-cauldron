@@ -832,7 +832,70 @@
       }
     },
     "tcoeHauntedEffec": {
-      "name": "Efectos de lugares encantados"
+      "name": "Efectos de lugares encantados",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural encantada.</p>",
+      "results": {
+        "0N0CkvtWLHRmS1T7": {
+          "text": "Una criatura al azar de la región se convierte en objetivo del conjuro @UUID[Compendium.dnd5e.spells.Item.MRxldJd6C4bsBo3O]{levitar} (CD de salvación 15) durante 1 minuto."
+        },
+        "1BkOlhjYXSFJpqZe": {
+          "text": "Toda luz brillante se debilita y se convierte en luz tenue durante 24 horas. Las fuentes que proporcionan luz tenue, como las velas, no proyectan ninguna luz."
+        },
+        "6HhOXibiDN5Alym3": {
+          "text": "Un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.qoFEjfrANBdrCP6m]{fantasma} inofensivo pero inquietante —quizá una mascota, un niño propenso a los accidentes o un dedo gordo cercenado— aparece y sigue a una criatura al azar durante 24 horas antes de desaparecer. El fantasma desaparece si queda reducido a 0 puntos de golpe."
+        },
+        "8n71A1BevPYal1WF": {
+          "text": "Tras la siguiente puesta de sol, este no vuelve a salir durante 36 horas. Durante ese tiempo, el cielo sobre la región podría mostrar una luna carmesí, quedar oculto por una niebla turbulenta o exhibir estrellas alienígenas parpadeantes."
+        },
+        "Aqc4njHZCyCgR9tP": {
+          "text": "Durante las próximas 24 horas, cualquier humanoide que muera en la región se descompone rápidamente y se alza como un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.nU8GN8La8DCt8SDb]{esqueleto} [[/r 1d10]] minutos después de morir."
+        },
+        "d2u1Oal7XNzN0Pr1": {
+          "text": "Un ataúd o pequeño espacio cerrado de la región —quizá una caja antigua, un túmulo de piedras o un tocón sellado con rocas— irradia una malicia palpable. La primera vez que una criatura lo abre, tira un dado ([[/r 1d2]]). Si obtienes un número par, la criatura recibe una visión terrible y queda &amp;Reference[frightened] de todas las criaturas durante las próximas 24 horas. Si obtienes un número impar, aparece un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.XiSWKZzAUxdmFOLL]{avatar de la muerte} y ataca como si hubiera sido convocado por la carta Calavera de una baraja de muchas cosas."
+        },
+        "E7thyu0PD019CddI": {
+          "text": "Durante la próxima noche, una criatura dormida al azar desaparece y reaparece aproximadamente 1 pie por debajo de donde dormía, normalmente enterrada en tierra intacta o en un espacio bajo las tablas del suelo. La criatura u otra persona puede liberarla superando una prueba de [[/check skill=ath dc=13]]."
+        },
+        "GAQPwyCpg3HAIwxm": {
+          "text": "Durante las próximas 24 horas, cada vez que una criatura resulte herida, su sangre (o un fluido similar) se extiende para formar un mensaje breve o una escena macabra."
+        },
+        "icpikgsENntGyhBk": {
+          "text": "Durante la próxima noche, un personaje dormido de la región recibe una visión como si fuera el objetivo del conjuro @UUID[Compendium.dnd5e.spells.Item.kSPRpeIx3w3nihrF]{sueño}. El sueño es breve e inquietante, revela algún elemento de la historia del entorno y sitúa al personaje en el lugar de alguien que sufrió allí un destino funesto."
+        },
+        "IJJuFK7NbyUaatnv": {
+          "text": "Un espíritu habita el arma sencilla o marcial de un personaje y la convierte en un objeto mágico consciente hasta que el personaje abandone la región. Genera al azar las propiedades del objeto como se describe en la sección «Objetos mágicos conscientes» de la Guía del Dungeon Master."
+        },
+        "LGOICbxExL5Khfsj": {
+          "text": "Una niebla misteriosa surge de las sombras. Esta niebla densa oculta mucho todo lo que se encuentre en una esfera de 50 pies de radio alrededor de una criatura al azar de la región. Cualquier criatura que comience su turno en la niebla debe superar una tirada de salvación de [[/save constitution dc=10]] o ganar 1 nivel de &amp;Reference[exhaustion]. Este agotamiento no puede eliminarse mientras la criatura esté en la niebla. Además, las criaturas perciben escenas inquietantes a través de ella, como ruinas ominosas o siluetas silenciosas que huyen de sus perseguidores. Ningún viento puede dispersar la niebla, pero se desvanece tras 1 minuto."
+        },
+        "Mjch7kOdtBuGFIty": {
+          "text": "Una fuerza espectral se manifiesta ante un personaje de la región y le permite formular una pregunta y recibir una respuesta breve como mediante el conjuro @UUID[Compendium.dnd5e.spells.Item.4v2H3hHb3Ph9XLNd]{augurio}. La fuerza se manifiesta como una plancheta que se mueve sobre una tabla espiritista, escritura sobre cristal empañado o insectos que forman mensajes al agruparse."
+        },
+        "opxT3t6oIgocQiHZ": {
+          "text": "Comienza una tormenta eléctrica violenta centrada sobre la región. No termina hasta que el grupo abandona la región."
+        },
+        "p1QjbkGQzcvS2kiS": {
+          "text": "El aspecto de un personaje jugador cambia durante las próximas 24 horas para reflejar la historia encantada de la región. Por ejemplo, podría manifestar la característica cicatriz facial asociada a un tirano infame que murió en ella."
+        },
+        "rHw260RGWQkwvjcA": {
+          "text": "Una parte corriente del entorno de un personaje al azar —quizá el tronco de un árbol o la cabeza disecada de un animal— se anima durante 1 minuto y susurra una advertencia o amenaza con revelar uno de los secretos del personaje."
+        },
+        "S74NWVLlDIqymabZ": {
+          "text": "Durante 24 horas, un jirón luminoso de vapor flota sobre un cadáver o una tumba de la región. Si se introduce en un recipiente, una criatura que sostenga este puede lanzar una vez el conjuro @UUID[Compendium.dnd5e.spells.Item.jhhT9PsHy5A7EojO]{resurrección} sin requerir componentes, lo que hace desaparecer el jirón. Cualquier criatura devuelta a la vida de este modo experimenta sueños extraños."
+        },
+        "WEtYlFKDk8se8i2s": {
+          "text": "La temperatura de la región desciende 10 grados Fahrenheit cada hora durante las próximas [[/r 1d6]] horas, tras lo cual vuelve a la normalidad. Si hace suficiente frío, se forman cristales de hielo con patrones siniestros."
+        },
+        "WggrOI0F3rOdTjoQ": {
+          "text": "La sombra de una criatura al azar actúa de forma independiente durante las próximas 24 horas. Actúa desincronizada de su dueño y quizá finja estrangularlo dramáticamente o intente asesinar a otra sombra."
+        },
+        "x7dMf4vkpItj1HY5": {
+          "text": "Durante las próximas 24 horas, cada vez que una criatura de la región recupere puntos de golpe gracias a un conjuro, la magia curativa dejará cicatrices. Esto podría ir acompañado de una purga de bilis negra o de una fuerza espectral que se libere violentamente de la criatura. Estas cicatrices solo pueden eliminarse mediante @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} o @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo}."
+        },
+        "yoENy4y1NUHfkUSh": {
+          "text": "Un edificio al azar de la región obtiene los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.yw0tYQkOMCgKZ8Ur]{guardas y custodias} (CD de salvación 13) durante las próximas 24 horas."
+        }
+      }
     },
     "tcoeHumanoidDesi": {
       "name": "Deseos de humanoides",
