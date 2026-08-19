@@ -199,7 +199,7 @@
         "ZpYbjrUUKCYnXuHy": "Aparecen [[/gmr 2d4#Imps]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.dLQiESMsfsXijD5c]{diablillos} y [[/gmr 2d4#Quasits]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.bwtkdzavdNHISgp4]{quasits}."
       }
     },
-    "tcoeFarRealmCrea": { "name": "Efectos del Reino Lejano: criaturas" },
+    "tcoeFarRealmCrea": { "name": "Efectos del Reino Lejano: criaturas", "description": "<p>Opciones que pueden ocurrir como parte de un @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeFarRealmEffe]{efecto del Reino Lejano}.</p>", "results": { "75yonW4k9w1LiA1R": "Un conjuro @UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{plaga de insectos} se centra en una criatura al azar de la región.", "c432Q6shOySDza14": "Se reúnen [[/r 1d4]] enjambres de @UUID[Compendium.dnd5e.monsters.Actor.LPdX5YLlwci0NDZx]{cuervos} y [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.8ihbbjkaOFTPbI73]{enjambres de ratas}, que atacan a cualquier otra criatura de la región.", "PLzhHyvMWFTw3P59": "Ataca un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.NB6wUgVqeOQtsQKu]{ent} (en terreno boscoso) o un galeb duhr (en terreno rocoso)." } },
     "tcoeFarRealmEffe": { "name": "Efectos del Reino Lejano" },
     "tcoeFeyDesires00": { "name": "Deseos de feéricos", "description": "<p>Algunas opciones de ofrendas que podría desear un feérico.</p>", "results": { "e1IPPpUTYvU9ZJq3": "Un objeto de gran valor sentimental para ti", "pJPSTcT85R4Z5S4V": "El recuerdo de tu primer beso", "qd87vEHT8k47EWkH": "Recitar un poema sublime", "TXFA6125pvLmdAmw": "El color de tus ojos" } },
     "tcoeFeywildGifts": {
@@ -356,7 +356,7 @@
         "PHx0XvpHMDpKNu9h": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeChaoticEssen]{Caótica.}</strong> Eliges una criatura que recibirá el daño del conjuro. El objetivo tendrá desventaja en las tiradas de ataque y las pruebas de característica que realice antes del principio de tu siguiente turno."
       }
     },
-    "tcoePartyOrigin0": { "name": "Origen del grupo" },
+    "tcoePartyOrigin0": { "name": "Origen del grupo", "results": { "CKINlu0RPb6rzATc": "Los personajes se han unido para vencer a un enemigo.", "dWwkMqAKXhDi3McP": "Los personajes se encuentran atrapados juntos.", "jVYZosWUdin47vEs": "Un benefactor común que desea patrocinar sus aventuras ha reunido a los personajes.", "QnDIOspVhcB1Z7Le": "Un funeral reúne a los personajes.", "sBINQRTPJXdldrn5": "Un festival reúne a los personajes.", "YUVnYFBctMfB93mv": "Los personajes crecieron en el mismo lugar y se conocen desde hace años." } },
     "tcoePlantDesires": { "name": "Deseos de plantas", "description": "<p>Algunas opciones de ofrendas que podría desear una planta.</p>", "results": { "BM0tvOJCIDJAajbc": "Eliminar la vegetación invasora del territorio de la criatura", "e7K13C2ayn9IlwcG": "Destruir todas las hachas y herramientas para encender fuego que lleve el grupo", "NAr5jhoTbOmalbzX": "Agua de un manantial imbuido de energía de Feywild", "Vd9V7DExpwSo7JOd": "Una libra de mantillo" } },
     "tcoePrimalFruitE": { "name": "Efectos del fruto primordial" },
     "tcoePsychicReson": { "name": "Efectos de resonancia psíquica" },
@@ -543,7 +543,7 @@
     },
     "tcoeTrinkets0000": { "name": "Chucherías" },
     "tcoeUndeadDesire": { "name": "Deseos de muertos vivientes", "description": "<p>Algunas opciones de ofrendas que podría desear un muerto viviente.</p>", "results": { "6ktI7Da68laZrPWd": "Un vial de sangre", "L0FJKHfXj4akiE6V": "Completar una tarea que la criatura no pudo terminar en vida", "po7TB0qfHaxH8ZhA": "Un recuerdo personal del pasado de la criatura", "rOjCCs5JzlQwiYdC": "Materiales, herramientas o conocimientos para proteger del sol un mausoleo en ruinas" } },
-    "tcoeUnearthlyRoa": { "name": "Llaves de caminos sobrenaturales" },
+    "tcoeUnearthlyRoa": { "name": "Llaves de caminos sobrenaturales", "description": "<p>Opciones para acceder a distintos caminos sobrenaturales.</p>", "results": { "4wiUoSbnESaSUnlX": "Ser descendiente de un héroe legendario", "CdulYOLO9wEAVnQi": "Lanzar un orbe de plata a través de un arco antiguo", "FeXVO0ZfBfNSnsvC": "Derramar una pinta de sangre de humanoide", "JF0T6Ad9RSc54eVS": "Sacrificar para siempre un recuerdo feliz", "khdmXAFVew26YNw9": "Pronunciar tres veces el nombre de un archifata concreto", "XqPogoNZcaXH5ym6": "Vestir las insignias de una dinastía real desaparecida" } },
     "tcoeUnravelingMa": { "name": "Efectos de magia desatada" },
     "tcoeWildMagicEru": {
       "name": "Magia salvaje",

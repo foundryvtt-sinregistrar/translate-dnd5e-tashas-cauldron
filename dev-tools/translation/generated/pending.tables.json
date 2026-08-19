@@ -242,35 +242,6 @@
     "legacySource": "Any creature with an Intelligence score of 6 or higher that touches or drinks the water of this spring gains advantage on Wisdom (Insight) checks and can cast the @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detect thoughts} spell once, requiring no components. The effects of the spring fade when either the spell is used or 24 hours pass, whichever happens first."
   },
   {
-    "entryId": "tcoeFarRealmCrea",
-    "path": "description",
-    "source": "<p>Options that can occur as part of a @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeFarRealmEffe]{Far Realm Effect}.</p>"
-  },
-  {
-    "entryId": "tcoeFarRealmCrea",
-    "resultId": "75yonW4k9w1LiA1R",
-    "range": "1-2",
-    "path": "results.75yonW4k9w1LiA1R.text",
-    "source": "An @UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{insect plague} spell is centered on one random creature in the region.",
-    "legacySource": "An @UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{insect plague} spell is centered on one random creature in the region."
-  },
-  {
-    "entryId": "tcoeFarRealmCrea",
-    "resultId": "c432Q6shOySDza14",
-    "range": "3-4",
-    "path": "results.c432Q6shOySDza14.text",
-    "source": "[[/r 1d4]] swarms of @UUID[Compendium.dnd5e.monsters.Actor.LPdX5YLlwci0NDZx]{ravens} and [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.8ihbbjkaOFTPbI73]{swarms of rats} gather and attack any other creatures in the region.",
-    "legacySource": "[[/r 1d4]] swarms of @UUID[Compendium.dnd5e.monsters.Actor.LPdX5YLlwci0NDZx]{ravens} and [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.8ihbbjkaOFTPbI73]{swarms of rats} gather and attack any other creatures in the region."
-  },
-  {
-    "entryId": "tcoeFarRealmCrea",
-    "resultId": "PLzhHyvMWFTw3P59",
-    "range": "5-6",
-    "path": "results.PLzhHyvMWFTw3P59.text",
-    "source": "A @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.NB6wUgVqeOQtsQKu]{treant} (in forested terrain) or a galeb duhr (in rockier terrain) attacks.",
-    "legacySource": "A @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.NB6wUgVqeOQtsQKu]{treant} (in forested terrain) or a galeb duhr (in rockier terrain) attacks."
-  },
-  {
     "entryId": "tcoeFarRealmEffe",
     "path": "description",
     "source": "<p>An effect that can occur when in a supernatural Far Realm region.</p>"
@@ -998,54 +969,6 @@
     "path": "results.YyPdzp88viW1rcvy.text",
     "source": "The @UUID[Compendium.dnd5e.spells.Item.sTIkQK7KuQNOyY0C]{hallucinatory terrain} spell ([[/check skill=investigation dc=15]]) affects the natural terrain of the region, changing it into a different kind of terrain (DM’s choice).",
     "legacySource": "The @UUID[Compendium.dnd5e.spells.Item.sTIkQK7KuQNOyY0C]{hallucinatory terrain} spell ([[/check skill=investigation dc=15]]) affects the natural terrain of the region, changing it into a different kind of terrain (DM’s choice)."
-  },
-  {
-    "entryId": "tcoePartyOrigin0",
-    "resultId": "CKINlu0RPb6rzATc",
-    "range": "2-2",
-    "path": "results.CKINlu0RPb6rzATc.text",
-    "source": "The characters have united to overcome a foe.",
-    "legacySource": "The characters have united to overcome a foe."
-  },
-  {
-    "entryId": "tcoePartyOrigin0",
-    "resultId": "dWwkMqAKXhDi3McP",
-    "range": "6-6",
-    "path": "results.dWwkMqAKXhDi3McP.text",
-    "source": "The characters find themselves trapped together.",
-    "legacySource": "The characters find themselves trapped together."
-  },
-  {
-    "entryId": "tcoePartyOrigin0",
-    "resultId": "jVYZosWUdin47vEs",
-    "range": "3-3",
-    "path": "results.jVYZosWUdin47vEs.text",
-    "source": "The characters were brought together by a common benefactor who wishes to sponsor their adventures.",
-    "legacySource": "The characters were brought together by a common benefactor who wishes to sponsor their adventures."
-  },
-  {
-    "entryId": "tcoePartyOrigin0",
-    "resultId": "QnDIOspVhcB1Z7Le",
-    "range": "4-4",
-    "path": "results.QnDIOspVhcB1Z7Le.text",
-    "source": "A funeral brings the characters together.",
-    "legacySource": "A funeral brings the characters together."
-  },
-  {
-    "entryId": "tcoePartyOrigin0",
-    "resultId": "sBINQRTPJXdldrn5",
-    "range": "5-5",
-    "path": "results.sBINQRTPJXdldrn5.text",
-    "source": "A festival brings the characters together.",
-    "legacySource": "A festival brings the characters together."
-  },
-  {
-    "entryId": "tcoePartyOrigin0",
-    "resultId": "YUVnYFBctMfB93mv",
-    "range": "1-1",
-    "path": "results.YUVnYFBctMfB93mv.text",
-    "source": "The characters grew up in the same place and have known each other for years.",
-    "legacySource": "The characters grew up in the same place and have known each other for years."
   },
   {
     "entryId": "tcoePrimalFruitE",
@@ -2048,59 +1971,6 @@
     "path": "results.ZsC70IzMBo8V8Z0F.text",
     "source": "A bright green feather",
     "legacySource": "A bright green feather"
-  },
-  {
-    "entryId": "tcoeUnearthlyRoa",
-    "path": "description",
-    "source": "<p>Options to access various unearthly roads.</p>"
-  },
-  {
-    "entryId": "tcoeUnearthlyRoa",
-    "resultId": "4wiUoSbnESaSUnlX",
-    "range": "6-6",
-    "path": "results.4wiUoSbnESaSUnlX.text",
-    "source": "Being the descendant of a legendary hero",
-    "legacySource": "Being the descendant of a legendary hero"
-  },
-  {
-    "entryId": "tcoeUnearthlyRoa",
-    "resultId": "CdulYOLO9wEAVnQi",
-    "range": "1-1",
-    "path": "results.CdulYOLO9wEAVnQi.text",
-    "source": "Throwing a silver orb through an ancient arch",
-    "legacySource": "Throwing a silver orb through an ancient arch"
-  },
-  {
-    "entryId": "tcoeUnearthlyRoa",
-    "resultId": "FeXVO0ZfBfNSnsvC",
-    "range": "2-2",
-    "path": "results.FeXVO0ZfBfNSnsvC.text",
-    "source": "Spilling a pint of humanoid blood",
-    "legacySource": "Spilling a pint of humanoid blood"
-  },
-  {
-    "entryId": "tcoeUnearthlyRoa",
-    "resultId": "JF0T6Ad9RSc54eVS",
-    "range": "5-5",
-    "path": "results.JF0T6Ad9RSc54eVS.text",
-    "source": "Permanently sacrificing a memory of joy",
-    "legacySource": "Permanently sacrificing a memory of joy"
-  },
-  {
-    "entryId": "tcoeUnearthlyRoa",
-    "resultId": "khdmXAFVew26YNw9",
-    "range": "3-3",
-    "path": "results.khdmXAFVew26YNw9.text",
-    "source": "Calling the name of a specific archfey three times",
-    "legacySource": "Calling the name of a specific archfey three times"
-  },
-  {
-    "entryId": "tcoeUnearthlyRoa",
-    "resultId": "XqPogoNZcaXH5ym6",
-    "range": "4-4",
-    "path": "results.XqPogoNZcaXH5ym6.text",
-    "source": "Wearing the regalia of a lost royal dynasty",
-    "legacySource": "Wearing the regalia of a lost royal dynasty"
   },
   {
     "entryId": "tcoeUnravelingMa",

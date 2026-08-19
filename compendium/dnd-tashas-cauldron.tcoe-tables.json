@@ -490,7 +490,19 @@
       }
     },
     "tcoeFarRealmCrea": {
-      "name": "Efectos del Reino Lejano: criaturas"
+      "name": "Efectos del Reino Lejano: criaturas",
+      "description": "<p>Opciones que pueden ocurrir como parte de un @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeFarRealmEffe]{efecto del Reino Lejano}.</p>",
+      "results": {
+        "75yonW4k9w1LiA1R": {
+          "text": "Un conjuro @UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{plaga de insectos} se centra en una criatura al azar de la región."
+        },
+        "c432Q6shOySDza14": {
+          "text": "Se reúnen [[/r 1d4]] enjambres de @UUID[Compendium.dnd5e.monsters.Actor.LPdX5YLlwci0NDZx]{cuervos} y [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.8ihbbjkaOFTPbI73]{enjambres de ratas}, que atacan a cualquier otra criatura de la región."
+        },
+        "PLzhHyvMWFTw3P59": {
+          "text": "Ataca un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.NB6wUgVqeOQtsQKu]{ent} (en terreno boscoso) o un galeb duhr (en terreno rocoso)."
+        }
+      }
     },
     "tcoeFarRealmEffe": {
       "name": "Efectos del Reino Lejano"
@@ -907,7 +919,27 @@
       }
     },
     "tcoePartyOrigin0": {
-      "name": "Origen del grupo"
+      "name": "Origen del grupo",
+      "results": {
+        "CKINlu0RPb6rzATc": {
+          "text": "Los personajes se han unido para vencer a un enemigo."
+        },
+        "dWwkMqAKXhDi3McP": {
+          "text": "Los personajes se encuentran atrapados juntos."
+        },
+        "jVYZosWUdin47vEs": {
+          "text": "Un benefactor común que desea patrocinar sus aventuras ha reunido a los personajes."
+        },
+        "QnDIOspVhcB1Z7Le": {
+          "text": "Un funeral reúne a los personajes."
+        },
+        "sBINQRTPJXdldrn5": {
+          "text": "Un festival reúne a los personajes."
+        },
+        "YUVnYFBctMfB93mv": {
+          "text": "Los personajes crecieron en el mismo lugar y se conocen desde hace años."
+        }
+      }
     },
     "tcoePlantDesires": {
       "name": "Deseos de plantas",
@@ -1362,7 +1394,28 @@
       }
     },
     "tcoeUnearthlyRoa": {
-      "name": "Llaves de caminos sobrenaturales"
+      "name": "Llaves de caminos sobrenaturales",
+      "description": "<p>Opciones para acceder a distintos caminos sobrenaturales.</p>",
+      "results": {
+        "4wiUoSbnESaSUnlX": {
+          "text": "Ser descendiente de un héroe legendario"
+        },
+        "CdulYOLO9wEAVnQi": {
+          "text": "Lanzar un orbe de plata a través de un arco antiguo"
+        },
+        "FeXVO0ZfBfNSnsvC": {
+          "text": "Derramar una pinta de sangre de humanoide"
+        },
+        "JF0T6Ad9RSc54eVS": {
+          "text": "Sacrificar para siempre un recuerdo feliz"
+        },
+        "khdmXAFVew26YNw9": {
+          "text": "Pronunciar tres veces el nombre de un archifata concreto"
+        },
+        "XqPogoNZcaXH5ym6": {
+          "text": "Vestir las insignias de una dinastía real desaparecida"
+        }
+      }
     },
     "tcoeUnravelingMa": {
       "name": "Efectos de magia desatada"
