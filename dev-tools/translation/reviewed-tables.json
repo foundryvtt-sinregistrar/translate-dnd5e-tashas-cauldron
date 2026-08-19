@@ -208,9 +208,39 @@
       }
     },
     "tcoeGiantDesires": { "name": "Deseos de gigantes" },
-    "tcoeGuildContact": { "name": "Contacto del gremio" },
-    "tcoeGuildQuests0": { "name": "Misiones del gremio" },
-    "tcoeGuildTypes00": { "name": "Tipos de gremio" },
+    "tcoeGuildContact": {
+      "name": "Contacto del gremio",
+      "results": {
+        "4pdtZUO2YspdmJpM": "<strong>Supervisor atento.</strong> Un representante del gremio se interesa personalmente por las tareas del grupo. Está al día de vuestras hazañas y sabe cómo han ido vuestras aventuras antes de que vayáis a rendirle cuentas. Pese a que resulta un poco inquietante que sepa tanto, parece que su interés por guiar vuestro trabajo es genuino.",
+        "GEqgyzvMVFbQSMep": "<strong>Benefactor oculto.</strong> Sea quien sea vuestro contacto, no se comunica con vosotros directamente, sino que envía sus mensajes a través de mensajeros o cartas. Nadie del gremio sabe quién es el contacto o, si alguien lo sabe, no os lo cuenta. No obstante, la información del contacto es buena y los pagos siempre llegan puntuales.",
+        "heDsFhcA8bIzHCYS": "<strong>El perfeccionista.</strong> El contacto es un creador habilidoso pero obsesivo que invierte todo su tiempo en crear algo perfecto que defina la obra de toda su vida y garantice su legado. En su búsqueda de los materiales más selectos y las mejores oportunidades, pierde el sentido del bien y del mal.",
+        "rWNqxwjQGjMBXhCO": "<strong>Musa caída.</strong> El contacto es una celestial caída. Ya sea porque se arrepiente de sus pecados o porque tiene sed de venganza, os sirve de guía e inspiración divina tanto a vosotros como al gremio. De alguna forma, el grupo y el gremio inspiran su esperanza de ascensión.",
+        "tOT8ufDBcFmLKq0E": "<strong>Mentor exigente.</strong> Da igual lo bien que lo hagáis o lo perfectas que sean vuestras creaciones: nada está a la altura para este contacto. Señala cualquier mínimo defecto y toda oportunidad perdida. ¿Es un amargado que atormenta a todos los que le rodean o ha visto vuestro potencial y quiere que lleguéis a lo más alto?",
+        "XebHDtFm7Hn3ReTn": "<strong>Guía gólem.</strong> El contacto en el gremio es el alma de un artesano que murió hace muchísimo tiempo y que reside en el cuerpo de un autómata. Es un gólem sabio y con un gran bagaje, pero le resulta difícil comprender el paso del tiempo y la época actual en comparación con aquella en la que vivió."
+      }
+    },
+    "tcoeGuildQuests0": {
+      "name": "Misiones del gremio",
+      "results": {
+        "ebsluT7yWFXXHFat": "<strong>Hora de pagar la factura.</strong> El líder del gremio ha conseguido estar donde está gracias a un trato con el más allá. Ahora toca pagar el precio acordado y quiere evitarlo a toda costa. Debéis vencer a cualquier cosa que intente cobrar su deuda o encontrar una alternativa de pago aceptable.",
+        "eV8AZFBvyasRBCRt": "<strong>Entrega de mercancías.</strong> Tenéis que entregar un pedido a un cliente o a un socio importante del gremio. El plazo de la entrega es inamovible y es necesario cumplirlo aunque alguien o algo trate de impedirlo.",
+        "KFGepCsd7YhOTrBU": "<strong>Acabar con un rival.</strong> El gremio ya ha soportado bastantes humillaciones de un miembro de la competencia, por lo que es hora de decir basta. El grupo tiene la tarea de garantizar que este rival no vuelva a manchar la reputación del gremio. ¿Conseguiréis engañarlo para que caiga en desgracia para siempre o deberéis optar por métodos más directos?",
+        "lmU6qk1gyW3GacwJ": "<strong>Adquisición de material.</strong> El gremio necesita materiales raros y difíciles de conseguir, que pueden ser para un proyecto propio o para un cliente. El grupo deberá conseguir los componentes que falten en un lugar peligroso o de un proveedor complicado, al tiempo que os adelantáis a un rival para conseguirlos.",
+        "Mip7q9L0WE9KdbwA": "<strong>El coleccionista.</strong> Al gremio se le encomienda que cree o adquiera una pieza maravillosa para la colección de un cliente tan rico como misterioso. Los miembros del gremio que no han sido capaces de cumplir su encargo han desaparecido. El coleccionista promete devolveros a los colegas desaparecidos si le dais lo que busca, pero si falláis, pasaréis a formar parte de su colección.",
+        "VaUBuW1tgNtYf40X": "<strong>La obra de arte.</strong> Ha desaparecido una obra de arte sublime destinada a un cliente muy importante. Puede ser que la haya creado el gremio o que se la hayáis comprado a algún agente. Debéis encontrarla y haceros con ella antes de que se acabe el plazo y el gremio se enfrente a una penalización."
+      }
+    },
+    "tcoeGuildTypes00": {
+      "name": "Tipos de gremio",
+      "results": {
+        "0mpglL6SxRBRY2nq": "<strong>Cambistas.</strong> Estos mercaderes comercian con todo tipo de moneda y actúan como banqueros, prestamistas y punto de contacto principal para aventureros y otras criaturas que manejan grandes sumas de dinero. Cambian monedas por piedras preciosas con la misma facilidad que encuentran compradores para reliquias históricas y obras de arte recuperadas.",
+        "aaYaSgysbuiHPo9y": "<strong>Consorcio de mercaderes.</strong> Estos emprendedores no fabrican las mercancías que venden, sino que son expertos en buscar nuevos dueños para sus productos. Si no los tienen, los encuentran.",
+        "BMbM7SRvw1gZDsPJ": "<strong>Asociación de milagreros.</strong> Los artesanos de este gremio, con afición por la magia, son expertos en imbuir de magia objetos físicos. Se rumorea que son capaces de sacar la magia de artículos encantados que ya existen y que podrían estar dispuestos a comprar o vender los botines de los aventureros.",
+        "Ff0VPY74kAIT3qBS": "<strong>Gremio de artesanos.</strong> Esta asociación de artesanos comparte recursos e influencias para garantizar que sus productos adquieren un buen precio.",
+        "qNwQ8eiPNsvCK19b": "<strong>Facción filosófica.</strong> Se trata de un grupo de personas con ideas afines que siguen una doctrina concreta y difunden su pericia a través de sus servicios y de la formación y el entrenamiento que imparten.",
+        "S4P8rYlmpZnS5lt1": "<strong>Comerciantes de identidades.</strong> Estos enigmáticos comerciantes compran documentos, recuerdos y los entresijos de toda una vida y se los venden a aquellos que necesitan empezar de cero."
+      }
+    },
     "tcoeHauntedEffec": { "name": "Efectos de lugares encantados" },
     "tcoeHumanoidDesi": { "name": "Deseos de humanoides" },
     "tcoeInfestedEffe": { "name": "Efectos de infestación" },
