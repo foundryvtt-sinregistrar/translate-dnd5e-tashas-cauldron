@@ -724,7 +724,39 @@
       "name": "Efectos de hongos mágicos"
     },
     "tcoeMagicThemes0": {
-      "name": "Temáticas mágicas"
+      "name": "Temáticas mágicas",
+      "results": {
+        "0FFV8ofqpJBz0SZk": {
+          "text": "Páginas de libros, figuras de origami, plumas y tinta, acompañadas por sonidos de papel y aromas de biblioteca"
+        },
+        "2MpaTeljjpXwMYzc": {
+          "text": "Formas de tiburones, medusas, pulpos y otras criaturas marinas con olor a salmuera"
+        },
+        "6sUhgJo7NgIgugyi": {
+          "text": "Manifestaciones de emociones profundas, como las tenues cadenas de la melancolía, los tonos sepia de la nostalgia o explosiones de afecto en forma de corazón"
+        },
+        "BtvHWvXE0kHCkx73": {
+          "text": "Armas y armaduras transparentes, máquinas de guerra en miniatura y soldados fantasmales"
+        },
+        "K0eSqrm2MIi6jSfs": {
+          "text": "Alimentos o utensilios que desprenden el aroma de la cocina de la tierra natal del lanzador"
+        },
+        "P9EhPP51eeVOKVVP": {
+          "text": "Rayos dorados que transmiten un calor tenue y un atisbo de arena arrastrada por el viento"
+        },
+        "PExqGbTEPGMLxnjI": {
+          "text": "Intensos aromas a cobre acompañados de lo que parecen ser los humores desequilibrados del propio lanzador"
+        },
+        "prqIplx7CCTBa9Y5": {
+          "text": "Pequeños seres extravagantes o aterradores procedentes de los sueños recurrentes e inevitables del lanzador"
+        },
+        "PXJLRM4R4ntNQENm": {
+          "text": "Salpicaduras y pinceladas de acuarela pintadas por un pincel invisible"
+        },
+        "uXIeNob9sIvC8ry8": {
+          "text": "Bulliciosos animales de granja acompañados por los cálidos olores de corrales y establos"
+        }
+      }
     },
     "tcoeManifestatio": {
       "name": "Manifestaciones del orden",
@@ -960,7 +992,34 @@
       }
     },
     "tcoePrimalFruitE": {
-      "name": "Efectos del fruto primordial"
+      "name": "Efectos del fruto primordial",
+      "description": "<p>Efectos que pueden producirse al interactuar con frutos primordiales.</p>",
+      "results": {
+        "2ig235hIPbpgGsE7": {
+          "text": "Visiones eufóricas de luz brillante inundan la mente de la criatura. Esta obtiene los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.VtCXMdyM6mAdIJZb]{guarda contra la muerte} durante 8 horas y debe superar una tirada de salvación de Constitución [[/save constitution dc=13]] o queda &amp;Reference[poisoned]{envenenada} durante ese tiempo."
+        },
+        "6aXjcMMeYiUTJGPe": {
+          "text": "La criatura no necesita comer, beber ni dormir durante [[/r 1d4]] días. Durante ese tiempo, la magia no puede dormirla y sus sueños invaden sus pensamientos conscientes, lo que le impone desventaja en las pruebas de Sabiduría (Percepción)."
+        },
+        "EL2SQP1LLVRToqiF": {
+          "text": "La piel de la criatura hormiguea levemente. Durante 1 hora, obtiene resistencia a un tipo de daño elegido por el DM."
+        },
+        "LO2btgzgUkJQrM0t": {
+          "text": "Unos susurros invaden la mente de la criatura durante 24 horas. Durante ese tiempo, puede comunicarse telepáticamente con cualquier criatura que vea a 120 pies o menos. Si la otra criatura comprende al menos un idioma, puede responder telepáticamente."
+        },
+        "MEmPeWHGWZkqdgHO": {
+          "text": "Oleadas de vitalidad recorren a la criatura. Sus puntos de golpe máximos aumentan en [[/r 2d10]] y obtiene la misma cantidad de puntos de golpe. El aumento dura hasta que termina un descanso largo, momento en el que debe superar una tirada de salvación de Carisma [[/save charisma dc=15]] o queda maldita con una forma aleatoria de licantropía (consulta «Licántropos» en el Monster Manual)."
+        },
+        "NfqFoEpkCuHWV8vi": {
+          "text": "Un tenue zumbido acompaña todo lo que oye la criatura durante 1 hora; durante ese tiempo tiene ventaja en las tiradas de salvación contra conjuros."
+        },
+        "Rlp3kOOg7PQbNz3o": {
+          "text": "La criatura recupera [[/r 3d8 + 4]] puntos de golpe y su piel emite luz brillante en un radio de 5 pies y luz tenue 5 pies más durante 1 hora."
+        },
+        "zvZLNmaW4PPBHfXL": {
+          "text": "La criatura siente una oleada de poder. Durante 1 hora, tiene ventaja en las tiradas de ataque que usen Fuerza, las pruebas de Fuerza y las tiradas de salvación de Fuerza. Cuando termina el efecto, la criatura obtiene 1 nivel de &amp;Reference[exhaustion]{cansancio}."
+        }
+      }
     },
     "tcoePsychicReson": {
       "name": "Efectos de resonancia psíquica"
