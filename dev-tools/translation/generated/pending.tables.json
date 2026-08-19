@@ -875,43 +875,6 @@
     "legacySource": "Performing a dance from the elemental’s home plane"
   },
   {
-    "entryId": "tcoeElementalEss",
-    "path": "description",
-    "source": "<p>Use this table to determine a @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{shard's} essence and property. When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use that property.</p>"
-  },
-  {
-    "entryId": "tcoeElementalEss",
-    "resultId": "qBXxaflvH9Jc757j",
-    "range": "2-2",
-    "path": "results.qBXxaflvH9Jc757j.text",
-    "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEarthEssence]{Earth.}</strong> You gain &amp;Reference[damageresistance]{resistance} to a damage type of your choice until the start of your next turn.",
-    "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEarthEssence]{Earth.}</strong> You gain &amp;Reference[damageresistance]{resistance} to a damage type of your choice until the start of your next turn."
-  },
-  {
-    "entryId": "tcoeElementalEss",
-    "resultId": "RsljOTtT61i2vvVi",
-    "range": "4-4",
-    "path": "results.RsljOTtT61i2vvVi.text",
-    "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeWaterEssence]{Water.}</strong> You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes [[/damage 2d6 type=cold]] damage and must succeed on a [[/save ability=str]] saving throw against your spell save DC or be pushed 10 feet away from you and fall &amp;Reference[prone].",
-    "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeWaterEssence]{Water.}</strong> You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes [[/damage 2d6 type=cold]] damage and must succeed on a [[/save ability=str]] saving throw against your spell save DC or be pushed 10 feet away from you and fall &amp;Reference[prone]."
-  },
-  {
-    "entryId": "tcoeElementalEss",
-    "resultId": "UdbjLWCDmcyMnfXx",
-    "range": "1-1",
-    "path": "results.UdbjLWCDmcyMnfXx.text",
-    "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAirEssenceSh]{Air.}</strong> You can immediately fly up to 60 feet without provoking opportunity attacks.",
-    "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAirEssenceSh]{Air.}</strong> You can immediately fly up to 60 feet without provoking opportunity attacks."
-  },
-  {
-    "entryId": "tcoeElementalEss",
-    "resultId": "xdgUD0YbcflWVMyV",
-    "range": "3-3",
-    "path": "results.xdgUD0YbcflWVMyV.text",
-    "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeFireEssenceS]{Fire.}</strong> One target of the spell that you can see catches fire. The burning target takes [[/damage 2d10 type=fire]] damage at the start of its next turn, and then the flames go out.",
-    "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeFireEssenceS]{Fire.}</strong> One target of the spell that you can see catches fire. The burning target takes [[/damage 2d10 type=fire]] damage at the start of its next turn, and then the flames go out."
-  },
-  {
     "entryId": "tcoeEnchantedSpr",
     "path": "description",
     "source": "<p>Effects that can occur in an enchanted spring.</p>"
@@ -1011,75 +974,6 @@
     "path": "results.TVFcN66swPMxusId.text",
     "source": "Any creature with an Intelligence score of 6 or higher that touches or drinks the water of this spring gains advantage on Wisdom (Insight) checks and can cast the @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detect thoughts} spell once, requiring no components. The effects of the spring fade when either the spell is used or 24 hours pass, whichever happens first.",
     "legacySource": "Any creature with an Intelligence score of 6 or higher that touches or drinks the water of this spring gains advantage on Wisdom (Insight) checks and can cast the @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detect thoughts} spell once, requiring no components. The effects of the spring fade when either the spell is used or 24 hours pass, whichever happens first."
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "path": "description",
-    "source": "<p><strong>Failing Matrix.</strong> Whenever the Crook of Rao’s Absolute Banishment property is used, or when its last charge is expended, roll on the Extraplanar Reversal table. Any creatures conjured as a result of this effect appear in random unoccupied spaces within 60 feet of you and are not under your control.</p>"
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "resultId": "0FySap008rhNAfhk",
-    "range": "81-85",
-    "path": "results.0FySap008rhNAfhk.text",
-    "source": "1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.1zzRQps9jZdLZGqI]{ice devil} and 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.egsSDYbqoLCelb0J]{marilith} appear.",
-    "legacySource": "1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.1zzRQps9jZdLZGqI]{ice devil} and 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.egsSDYbqoLCelb0J]{marilith} appear."
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "resultId": "8O8y96iYHfn4dTO3",
-    "range": "86-90",
-    "path": "results.8O8y96iYHfn4dTO3.text",
-    "source": "1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.uZ8NrRenwYZ4qNf6]{balor} and 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.RCv5y7iWlfNxkinx]{pit fiend} appear. At the DM’s discretion, a portal opens into the presence of an archdevil or demon lord instead, then closes after 5 minutes.",
-    "legacySource": "1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.uZ8NrRenwYZ4qNf6]{balor} and 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.RCv5y7iWlfNxkinx]{pit fiend} appear. At the DM’s discretion, a portal opens into the presence of an archdevil or demon lord instead, then closes after 5 minutes."
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "resultId": "bHFPfG5OMtWGCHyi",
-    "range": "61-70",
-    "path": "results.bHFPfG5OMtWGCHyi.text",
-    "source": "[[/gmr 1d10#Barbed devils]] barbed devils and [[/gmr 1d10#Vrocks]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.6oc29m5uzzzb0pk3]{vrocks} appear.",
-    "legacySource": "[[/gmr 1d10#Barbed devils]] barbed devils and [[/gmr 1d10#Vrocks]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.6oc29m5uzzzb0pk3]{vrocks} appear."
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "resultId": "ct9kh2h7kP39QIsN",
-    "range": "46-60",
-    "path": "results.ct9kh2h7kP39QIsN.text",
-    "source": "[[/gmr 1d8]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.VmdyZDjqAc8vdncY]{succubi}/@UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeIncubus00000]{incubi}} appear.",
-    "legacySource": "[[/gmr 1d8]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.VmdyZDjqAc8vdncY]{succubi}/@UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeIncubus00000]{incubi}} appear."
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "resultId": "CtfLdWOHWiA6cPsk",
-    "range": "91-100",
-    "path": "results.CtfLdWOHWiA6cPsk.text",
-    "source": "Iggwilv’s Curse (see the Iggwilv’s Curse property).",
-    "legacySource": "Iggwilv’s Curse (see the Iggwilv’s Curse property)."
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "resultId": "FHs2BGaD1mcMhVbF",
-    "range": "71-80",
-    "path": "results.FHs2BGaD1mcMhVbF.text",
-    "source": "1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeArcanaloth00]{arcanaloth}, 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.xvh2UOKv1bh03Gih]{night hag}, and 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.qXzMsRTHEodqO8l2]{rakshasa} appear.",
-    "legacySource": "1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeArcanaloth00]{arcanaloth}, 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.xvh2UOKv1bh03Gih]{night hag}, and 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.qXzMsRTHEodqO8l2]{rakshasa} appear."
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "resultId": "YDdAMV4A2o9vtnHj",
-    "range": "1-25",
-    "path": "results.YDdAMV4A2o9vtnHj.text",
-    "source": "A portal to a random plane opens. The portal closes after 5 minutes.",
-    "legacySource": "A portal to a random plane opens. The portal closes after 5 minutes."
-  },
-  {
-    "entryId": "tcoeExtraplanarR",
-    "resultId": "ZpYbjrUUKCYnXuHy",
-    "range": "26-45",
-    "path": "results.ZpYbjrUUKCYnXuHy.text",
-    "source": "[[/gmr 2d4#Imps]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.dLQiESMsfsXijD5c]{imps} and [[/gmr 2d4#Quasits]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.bwtkdzavdNHISgp4]{quasits} appear.",
-    "legacySource": "[[/gmr 2d4#Imps]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.dLQiESMsfsXijD5c]{imps} and [[/gmr 2d4#Quasits]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.bwtkdzavdNHISgp4]{quasits} appear."
   },
   {
     "entryId": "tcoeFarRealmCrea",
@@ -2348,43 +2242,6 @@
     "path": "results.zFhpEvxXdMPGaSZF.text",
     "source": "A vial of putrid liquids",
     "legacySource": "A vial of putrid liquids"
-  },
-  {
-    "entryId": "tcoeOuterPlaneEs",
-    "path": "description",
-    "source": "<p>Use this table to determine a @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeOuterEssence]{shard's} essence and property. When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use that property.</p>"
-  },
-  {
-    "entryId": "tcoeOuterPlaneEs",
-    "resultId": "2cOBqzcNUOHcMUoh",
-    "range": "1-1",
-    "path": "results.2cOBqzcNUOHcMUoh.text",
-    "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLawfulEssenc]{Lawful.}</strong> You can end one of the following conditions affecting yourself or one creature you can see within 30 feet of you: charmed, blinded, deafened, frightened, poisoned, or stunned.",
-    "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLawfulEssenc]{Lawful.}</strong> You can end one of the following conditions affecting yourself or one creature you can see within 30 feet of you: charmed, blinded, deafened, frightened, poisoned, or stunned."
-  },
-  {
-    "entryId": "tcoeOuterPlaneEs",
-    "resultId": "AG8KWBVYnAmEut5l",
-    "range": "4-4",
-    "path": "results.AG8KWBVYnAmEut5l.text",
-    "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEvilEssenceS]{Evil.}</strong> Choose one creature who takes damage from the spell. That target takes an extra 3d6 necrotic damage.",
-    "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEvilEssenceS]{Evil.}</strong> Choose one creature who takes damage from the spell. That target takes an extra 3d6 necrotic damage."
-  },
-  {
-    "entryId": "tcoeOuterPlaneEs",
-    "resultId": "oS1FrFPMXCEmsRft",
-    "range": "3-3",
-    "path": "results.oS1FrFPMXCEmsRft.text",
-    "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGoodEssenceS]{Good.}</strong> You or one creature of your choice that you can see within 30 feet of you gains 3d6 temporary hit points.",
-    "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGoodEssenceS]{Good.}</strong> You or one creature of your choice that you can see within 30 feet of you gains 3d6 temporary hit points."
-  },
-  {
-    "entryId": "tcoeOuterPlaneEs",
-    "resultId": "PHx0XvpHMDpKNu9h",
-    "range": "2-2",
-    "path": "results.PHx0XvpHMDpKNu9h.text",
-    "source": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeChaoticEssen]{Chaotic.}</strong> Choose one creature who takes damage from the spell. That target has disadvantage on attack rolls and ability checks made before the start of your next turn.",
-    "legacySource": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeChaoticEssen]{Chaotic.}</strong> Choose one creature who takes damage from the spell. That target has disadvantage on attack rolls and ability checks made before the start of your next turn."
   },
   {
     "entryId": "tcoePartyOrigin0",

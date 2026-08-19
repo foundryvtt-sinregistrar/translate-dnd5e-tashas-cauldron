@@ -113,7 +113,22 @@
       "name": "Deseos de elementales"
     },
     "tcoeElementalEss": {
-      "name": "Esencia y propiedad elemental"
+      "name": "Esencia y propiedad elemental",
+      "description": "<p>Usa esta tabla para determinar la esencia y la propiedad de una @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{esquirla}. Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar esa propiedad.</p>",
+      "results": {
+        "qBXxaflvH9Jc757j": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEarthEssence]{Tierra.}</strong> Obtienes &amp;Reference[damageresistance]{resistencia} a un tipo de daño de tu elección hasta el principio de tu siguiente turno."
+        },
+        "RsljOTtT61i2vvVi": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeWaterEssence]{Agua.}</strong> Creas una ola de agua que se expande desde ti en un radio de 10 pies. Cada criatura de tu elección que puedas ver en esa zona recibirá [[/damage 2d6 type=cold]] de daño de frío y deberá superar una tirada de salvación de Fuerza [[/save ability=str]] contra tu CD de salvación de conjuros o será empujada a 10 pies de ti y quedará &amp;Reference[prone]{derribada}."
+        },
+        "UdbjLWCDmcyMnfXx": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAirEssenceSh]{Aire.}</strong> Puedes volar inmediatamente hasta 60 pies sin provocar ataques de oportunidad."
+        },
+        "xdgUD0YbcflWVMyV": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeFireEssenceS]{Fuego.}</strong> Un objetivo del conjuro que puedas ver comienza a arder. El objetivo en llamas sufre [[/damage 2d10 type=fire]] de daño de fuego al principio de su siguiente turno y luego las llamas se apagan."
+        }
+      }
     },
     "tcoeEnchantedSpr": {
       "name": "Efectos de manantial encantado"
@@ -143,7 +158,34 @@
       }
     },
     "tcoeExtraplanarR": {
-      "name": "Inversión extraplanar"
+      "name": "Inversión extraplanar",
+      "description": "<p><strong>Matriz imperfecta.</strong> Siempre que uses la propiedad «Destierro absoluto» del Cayado de Rao, o cuando gastes su última carga, tira en la tabla Inversión extraplanar. Las criaturas invocadas como resultado de este efecto aparecerán en espacios sin ocupar aleatorios a 60 pies o menos de ti y no estarán bajo tu control.</p>",
+      "results": {
+        "0FySap008rhNAfhk": {
+          "text": "Aparecen 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.1zzRQps9jZdLZGqI]{diablo gélido} y 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.egsSDYbqoLCelb0J]{marilith}."
+        },
+        "8O8y96iYHfn4dTO3": {
+          "text": "Aparecen 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.uZ8NrRenwYZ4qNf6]{balor} y 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.RCv5y7iWlfNxkinx]{diablo de la sima}. Como alternativa, el DM puede decidir que aparezca un portal del que salga un archidiablo o un señor demoníaco y que se cerrará 5 minutos después."
+        },
+        "bHFPfG5OMtWGCHyi": {
+          "text": "Aparecen [[/gmr 1d10#Barbed devils]] diablos punzantes y [[/gmr 1d10#Vrocks]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.6oc29m5uzzzb0pk3]{vrocks}."
+        },
+        "ct9kh2h7kP39QIsN": {
+          "text": "Aparecen [[/gmr 1d8]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.VmdyZDjqAc8vdncY]{súcubos}/@UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeIncubus00000]{íncubos}}."
+        },
+        "CtfLdWOHWiA6cPsk": {
+          "text": "Maldición de Iggwilv (consulta la propiedad «Maldición de Iggwilv»)."
+        },
+        "FHs2BGaD1mcMhVbF": {
+          "text": "Aparecen 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeArcanaloth00]{arcanaloth}, 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.xvh2UOKv1bh03Gih]{saga de la noche} y 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.qXzMsRTHEodqO8l2]{rakshasa}."
+        },
+        "YDdAMV4A2o9vtnHj": {
+          "text": "Se abre un portal a un plano aleatorio. El portal se cierra al cabo de 5 minutos."
+        },
+        "ZpYbjrUUKCYnXuHy": {
+          "text": "Aparecen [[/gmr 2d4#Imps]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.dLQiESMsfsXijD5c]{diablillos} y [[/gmr 2d4#Quasits]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.bwtkdzavdNHISgp4]{quasits}."
+        }
+      }
     },
     "tcoeFarRealmCrea": {
       "name": "Efectos del Reino Lejano: criaturas"
@@ -335,7 +377,22 @@
       }
     },
     "tcoeOuterPlaneEs": {
-      "name": "Esencia y propiedad exterior"
+      "name": "Esencia y propiedad exterior",
+      "description": "<p>Usa esta tabla para determinar la esencia y la propiedad de una @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeOuterEssence]{esquirla}. Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar esa propiedad.</p>",
+      "results": {
+        "2cOBqzcNUOHcMUoh": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLawfulEssenc]{Legal.}</strong> Puedes hacer que acabe uno de los siguientes estados que os afecten a ti o a una criatura que puedas ver a 30 pies o menos de ti: hechizado, cegado, ensordecido, asustado, envenenado o aturdido."
+        },
+        "AG8KWBVYnAmEut5l": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEvilEssenceS]{Malvada.}</strong> Eliges una criatura que recibirá el daño del conjuro. El objetivo recibirá 3d6 de daño necrótico adicional."
+        },
+        "oS1FrFPMXCEmsRft": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGoodEssenceS]{Buena.}</strong> Tú o una criatura de tu elección que puedas ver a 30 pies o menos de ti obtenéis 3d6 puntos de golpe temporales."
+        },
+        "PHx0XvpHMDpKNu9h": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeChaoticEssen]{Caótica.}</strong> Eliges una criatura que recibirá el daño del conjuro. El objetivo tendrá desventaja en las tiradas de ataque y las pruebas de característica que realice antes del principio de tu siguiente turno."
+        }
+      }
     },
     "tcoePartyOrigin0": {
       "name": "Origen del grupo"
