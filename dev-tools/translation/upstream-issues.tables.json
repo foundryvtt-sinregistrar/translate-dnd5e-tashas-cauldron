@@ -6,5 +6,13 @@
     "officialPdfPart": 132,
     "issue": "The exported Foundry table assigns ranges 5-10 to Yellow, Black, Violet, Silver, Gold, and Orange. The official book assigns those ranges to Black, Silver, Gold, Yellow, Orange, and Violet.",
     "decision": "Translate the exported result names without changing their IDs or ranges so the translation module does not alter upstream mechanics."
+  },
+  {
+    "entryId": "tcoeTeethOfDehlv",
+    "resultId": "75ed5M76SMGmqOfS",
+    "name": "Legendry of Phantoms and Ghosts",
+    "officialPdfPart": 123,
+    "issue": "The official table identifies result 10 as Legendry of Phantoms and Ghosts, but the exported Obsidian Human Molar item duplicates the Beyond the Rock of Bral content.",
+    "decision": "Use the official Spanish table title, Leyendas de fantasmas y espectros, for the RollTable result. Keep the duplicated item mechanics unchanged because they originate upstream."
   }
 ]
