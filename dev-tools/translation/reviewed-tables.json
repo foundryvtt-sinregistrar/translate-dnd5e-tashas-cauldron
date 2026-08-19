@@ -453,9 +453,39 @@
         "LRsr9gGmzpul7QIE": "Pájaros revoloteando"
       }
     },
-    "tcoeSyndicateCon": { "name": "Contacto del sindicato" },
-    "tcoeSyndicateQue": { "name": "Misiones del sindicato criminal" },
-    "tcoeSyndicateTyp": { "name": "Tipos de sindicato" },
+    "tcoeSyndicateCon": {
+      "name": "Contacto del sindicato",
+      "results": {
+        "E1CAsjjgxr35a90n": "<strong>Vividor.</strong> El dueño de un garito local donde impera el vicio (en forma de juego, droga u otros placeres) os echa una mano cuando no está inmerso en su propio desenfreno.",
+        "hvf0SuoaudYBj32d": "<strong>Guardia retirado.</strong> Vuestro contacto era (o quizás todavía lo sea) un miembro de los cuerpos de seguridad locales. Conoce al dedillo el funcionamiento de la ley en vuestra zona y, como consecuencia de ello, muestra una buena dosis de paranoia.",
+        "Juqkyqc6fbcTZ0h2": "<strong>Mentor personal.</strong> Este antiguo miembro del sindicato acogió a alguien del grupo bajo su protección cuando era joven y se ha convertido en una figura paterna.",
+        "N7WKEOyxf7Rww9Sa": "<strong>Nobleza criminal.</strong> Aunque la mayoría lo ignora, vuestro contacto es un miembro de la nobleza o la realeza local. El porqué de su relación con el sindicato es un misterio inquietante.",
+        "Sjet8R8J0dFThN5z": "<strong>Traidor.</strong> Os consta que vuestro contacto ha traicionado al sindicato, pero aún tiene suficiente influencia como para que no os atreváis a contrariarlo (de momento).",
+        "Z32dOB3ZBcfvQpDz": "<strong>Rata callejera.</strong> Alguien poco llamativo, un mendigo o un trabajador humilde, pero que conoce a todo el que importa y comparte sus contactos con el grupo."
+      }
+    },
+    "tcoeSyndicateQue": {
+      "name": "Misiones del sindicato criminal",
+      "results": {
+        "0jmvVOXg7j8LnV8C": "<strong>Magnicidio.</strong> Liquidáis a gente importante, de esa que tiene un montón de guardaespaldas y sistemas de seguridad muy sofisticados.",
+        "4MI9HhgLtUpz3bW2": "<strong>Atracos.</strong> Planificáis y ejecutáis robos elaborados que requieren la combinación de habilidades del equipo.",
+        "6BJvyjSx9Hg2KvVy": "<strong>Derrocar a los poderosos.</strong> Formáis parte de un sindicato criminal y sus métodos son ilegales, pero sus fines son lícitos. Ayudáis a gente indefensa contra la explotación a la que la someten los poderosos.",
+        "6Dp9wNFq3SJU7qCt": "<strong>Guerra de bandas.</strong> Os aseguráis de que ningún otro sindicato criminal consiga poder en vuestro territorio.",
+        "EcKjuzJVhpaQDMIY": "<strong>Disciplina interna.</strong> Mantenéis a raya a los miembros corruptos, tercos o avariciosos de la organización y obligáis a que cumplan las normas y los objetivos del sindicato.",
+        "Gmt06I0czJn6AC3c": "<strong>Adquisición y recuperación.</strong> El grupo adquiere activos para el sindicato. Robáis documentos importantes o despejáis lugares para usarlos como escondite."
+      }
+    },
+    "tcoeSyndicateTyp": {
+      "name": "Tipos de sindicato",
+      "results": {
+        "AQZNb9OKMZIsVIXw": "<strong>Flota pirata.</strong> Esta alianza de capitanes piratas está unida bajo las órdenes de un capitán o un almirante común y cumple un estricto código de honor. Solo se congregan como respuesta a una amenaza externa.",
+        "dQWXJk4AYQvsa09P": "<strong>Gremio de ladrones.</strong> Un grupo dispar de ladrones, espías, contrabandistas y otros sinvergüenzas controla la actividad criminal de una zona de la ciudad.",
+        "irbeuTxWRzf7ufTQ": "<strong>Ladrones de pensamientos.</strong> Estos delincuentes psíquicos se infiltran en la mente de sus víctimas para robarles secretos y camuflar su existencia.",
+        "JmCIgJs6ngSzkIeV": "<strong>Círculo de asesinos.</strong> La muerte es el medio de vida de esta red. Sus miembros perfeccionan sus habilidades como asesinos, envenenadores, expertos en eliminación de cadáveres y cualquier otra labor relacionada con poner fin a las vidas de otros. Las motivaciones de este círculo pueden ir desde el simple dinero a una causa más importante.",
+        "qsNv7bk5UQ7OroFF": "<strong>Ladrones de cuerpos.</strong> Este sindicato está compuesto sobre todo, si no en su totalidad, por criaturas que poseen a otras personas o se hacen pasar por ellas. Su objetivo es sustituir a gente con influencia de todas las capas de la sociedad por integrantes de su grupo.",
+        "SSv8ZgTB9GesDbSo": "<strong>Traficantes de armas mágicas.</strong> El sindicato ha acaparado el mercado de los dispositivos mágicos mortales. Ofrecen sus productos y servicios a cambio de un precio y consiguen un poder mágico asombroso para aquellos que cumplen sus peticiones."
+      }
+    },
     "tcoeTeethOfDehlv": {
       "name": "Dientes de Dahlver-Nar",
       "results": {
