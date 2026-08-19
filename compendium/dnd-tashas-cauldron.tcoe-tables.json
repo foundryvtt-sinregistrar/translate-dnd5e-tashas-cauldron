@@ -721,7 +721,40 @@
       "name": "Efectos de infestación"
     },
     "tcoeMagicMushroo": {
-      "name": "Efectos de hongos mágicos"
+      "name": "Efectos de hongos mágicos",
+      "description": "<p>Efectos que pueden producirse al interactuar con hongos mágicos.</p>",
+      "results": {
+        "6JUoEepC2HyegJbj": {
+          "text": "La criatura obtiene los beneficios del conjuro telepatía durante las siguientes 24 horas."
+        },
+        "8qL4gnlxaYT60I6I": {
+          "text": "La criatura recupera [[/r 5d8 + 20]] puntos de golpe."
+        },
+        "BxHzfQRSGY4v0W4w": {
+          "text": "La criatura puede entender y hablar todos los idiomas durante [[/r 1d4]] días."
+        },
+        "eNEAYuClyxNCROU3": {
+          "text": "De los ojos y oídos de la criatura brotan nieblas mágicas que actúan como un conjuro @UUID[Compendium.dnd5e.spells.Item.IBJmWjzbQGu7M4UX]{nube de oscurecimiento} durante 1 hora, centrado en la criatura y desplazándose con ella."
+        },
+        "Hi1jFgraYdMwkmQR": {
+          "text": "La criatura lanza de inmediato el conjuro @UUID[Compendium.dnd5e.spells.Item.JYuRBwxpoFhXduvD]{parar el tiempo} sin necesitar componentes. Constitución es la aptitud mágica para este conjuro."
+        },
+        "jAsuAXMX0STt2xkA": {
+          "text": "La criatura solo puede cacarear y cloquear como una gallina. También puede entender y hablar con las gallinas. Esta maldición dura 1 hora, salvo que termine mediante un conjuro @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición} o magia similar."
+        },
+        "MKqJX2Q4YbGAM8uX": {
+          "text": "La criatura lanza de inmediato el conjuro @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detectar pensamientos} sin necesitar componentes. Constitución es la aptitud mágica para este conjuro."
+        },
+        "Pjhzl5EHq0tYdvLN": {
+          "text": "La criatura obtiene el efecto de agrandar o reducir (un 50 % de probabilidad para cada uno) del conjuro @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir} durante 1 hora."
+        },
+        "qqFBYEv3ddRHjUwn": {
+          "text": "La criatura obtiene los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.2VXGS206tuChoeXy]{hablar con las plantas} durante 8 horas."
+        },
+        "SA1FlftMLy6QRJ44": {
+          "text": "La piel de la criatura adopta un color inusual. Tira [[/r 1d4]]: 1, morada con manchas amarillas; 2, naranja brillante con rayas de tigre; 3, verde de rana arbórea con garabatos rojos; 4, rosa intenso con lunares amarillos. El cambio es permanente, salvo que se elimine mediante un conjuro @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} o magia similar."
+        }
+      }
     },
     "tcoeMagicThemes0": {
       "name": "Temáticas mágicas",
