@@ -1966,7 +1966,160 @@
       }
     },
     "tcoeWildMagicSur": {
-      "name": "Sobrecarga de magia salvaje"
+      "name": "Oleada de magia salvaje",
+      "description": "<p>Si el resultado es un conjuro, es demasiado salvaje para que tu Metamagia lo afecte y, si normalmente requiere concentración, en este caso no la requiere; el conjuro dura toda su duración.</p>",
+      "results": {
+        "0q9jyUMexZGd2vTr": {
+          "text": "Estás &amp;Reference[frightened] por la criatura más cercana hasta el final de tu siguiente turno."
+        },
+        "5gijK22yali2AiX0": {
+          "text": "Un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.G9PENY6nw0xRxCJW]{unicornio} controlado por el DM aparece en un espacio a 5 pies o menos de ti y desaparece 1 minuto después."
+        },
+        "8RkrLCYBFVrd3qzU": {
+          "text": "Obtienes &amp;Reference[damageresistance]{resistencia} a todo el daño durante el próximo minuto."
+        },
+        "A6zi9kjE86qZAGiN": {
+          "text": "Eres inmune a emborracharte con alcohol durante los próximos [[/r 5d6]] días."
+        },
+        "banwSIcdwORl8Ssd": {
+          "text": "Un escudo espectral flota cerca de ti durante el próximo minuto, lo que te concede un bonificador de +2 a la CA e inmunidad a @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{proyectil mágico}."
+        },
+        "bF0pWpqDIY7Vwl9O": {
+          "text": "Te transformas en una planta en maceta hasta el comienzo de tu siguiente turno. Mientras seas una planta, estás &amp;Reference[incapacitated] y tienes vulnerabilidad a todo el daño. Si quedas reducido a 0 puntos de golpe, la maceta se rompe y recuperas tu forma."
+        },
+        "BLIdLTkLCh2GUvzV": {
+          "text": "Las criaturas tienen desventaja en las tiradas de salvación contra el siguiente conjuro que lances durante el próximo minuto y que implique una tirada de salvación."
+        },
+        "BQrN9zRtRk24QouK": {
+          "text": "Tu tamaño aumenta en una categoría durante el próximo minuto."
+        },
+        "brT92gGuhYbi075n": {
+          "text": "Tira [[/r d10]]. Tu altura cambia tantas pulgadas como el resultado. Si es impar, encoges; si es par, creces."
+        },
+        "cbSnXJT8maDoGGoc": {
+          "text": "Tú y todas las criaturas situadas a 30 pies o menos de ti obtenéis &amp;Reference[damagevulnerability]{vulnerabilidad} al daño perforante durante el próximo minuto."
+        },
+        "CoaKzJXVMEsY9nOS": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego} como conjuro de nivel 3 centrado en ti.<hr />Tirada de salvación: [[/save dex dc=@attributes.spelldc]]<br />Daño: [[/damage 8d6 type=fire]]"
+        },
+        "DLdBHYNYbS6sIcy2": {
+          "text": "Durante el próximo minuto, debes gritar cuando hables."
+        },
+        "DXaAQ6CfYGnxB6Wd": {
+          "text": "Eres transportado al Plano Astral hasta el final de tu siguiente turno, tras lo cual regresas al espacio que ocupabas o al espacio desocupado más cercano si aquel está ocupado."
+        },
+        "eUjwFSKWu2PcpmB1": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.MRxldJd6C4bsBo3O]{levitar} sobre ti."
+        },
+        "EwS4NL75ip9mj6br": {
+          "text": "Te vuelves &amp;Reference[invisible] durante el próximo minuto. Durante ese tiempo, las demás criaturas no pueden oírte. La invisibilidad termina si atacas o lanzas un conjuro."
+        },
+        "FaYYRPOCuSrieDkF": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.etgcR9wqmrhyZ0tx]{grasa} centrado en ti.<hr />Tirada de salvación: [[/save dex dc=@attributes.spelldc]]"
+        },
+        "fTDu5VrecDvx6JiF": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.yfbK8gZqESlaoY5t]{volar} sobre una criatura al azar situada a 60 pies o menos de ti."
+        },
+        "GjAwnr0TyV9u1uEz": {
+          "text": "Recuperas tu espacio de conjuro gastado de menor nivel."
+        },
+        "GkNgwX7tE36Rr3tb": {
+          "text": "<p>Tu piel adquiere un tono azul intenso. Un conjuro @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{quitar maldición} puede terminar este efecto.</p>"
+        },
+        "gOceOHWZzOy5xGIW": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.X4c8xCkmF8U9HUMz]{imagen múltiple}."
+        },
+        "HRe9SM4UdgRsDbAA": {
+          "text": "Cada criatura situada a 30 pies o menos de ti se vuelve &amp;Reference[invisible] durante el próximo minuto. La invisibilidad termina para una criatura cuando ataca o lanza un conjuro."
+        },
+        "iRrtPkxKenBnX81t": {
+          "text": "Mariposas ilusorias y pétalos de flores revolotean en el aire a 10 pies o menos de ti durante el próximo minuto."
+        },
+        "lNrHY6eYnilUDMcg": {
+          "text": "Hasta tres criaturas de tu elección situadas a 30 pies o menos de ti reciben [[/damage 4d10 type=lightning]]."
+        },
+        "M3BbIDGZPmsckFcc": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.IBJmWjzbQGu7M4UX]{nube de oscurecimiento} centrado en ti."
+        },
+        "ME7ldS106QBVFA9F": {
+          "text": "No puedes hablar durante el próximo minuto. Cada vez que lo intentas, salen flotando burbujas rosas de tu boca."
+        },
+        "MISpvvZWyllR0lS1": {
+          "text": "Una tenue música etérea te rodea durante el próximo minuto."
+        },
+        "MReYVmm9o7v5zr3Z": {
+          "text": "Puedes realizar una acción adicional inmediatamente."
+        },
+        "Ne9D07SIt4zjzQZw": {
+          "text": "Cada criatura situada a 30 pies o menos de ti recibe [[/damage 1d10 type=necrotic]]. Recuperas tantos puntos de golpe como la suma del daño necrótico infligido."
+        },
+        "oicA3EVJRs1N0Z12": {
+          "text": "Te crece una larga barba de plumas que permanece hasta que estornudas, momento en que las plumas salen despedidas de tu cara."
+        },
+        "P8Y1PNGfgpVG2vBb": {
+          "text": "Recuperas [[/healing 2d10 type=healing]]{2d10 puntos de golpe}."
+        },
+        "pzH7n5oUZ7VjcdVv": {
+          "text": "Durante el próximo minuto, recuperas [[/healing 5 type=healing]]{5 puntos de golpe} al comienzo de cada uno de tus turnos."
+        },
+        "q9lHtvBQnnMFRO9Y": {
+          "text": "Se te cae el pelo, pero vuelve a crecer en 24 horas."
+        },
+        "qiQkP5folTlXe0e5": {
+          "text": "[[/r 1d6]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeFlumph000000]{flumphs} controlados por el DM aparecen en espacios desocupados a 60 pies o menos de ti y están &amp;Reference[frightened] por ti. Desaparecen tras 1 minuto."
+        },
+        "qrNV5LCzDgknPe3H": {
+          "text": "Un ojo aparece en tu frente durante el próximo minuto. Durante ese tiempo, tienes ventaja en las pruebas de &amp;Reference[perception]{Sabiduría (Percepción)} que dependan de la vista."
+        },
+        "reFs8LV9VCoJddOE": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{proyectil mágico} como conjuro de nivel 5.<hr />Dardos: 7<br />Daño: [[/damage 1d4+1 type=force]]"
+        },
+        "rN7uepYHxqFlXoPC": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.9hQXdMSmerkTsHDe]{confusión} centrado en ti.<hr />Tirada de salvación: [[/save wis dc=@attributes.spelldc]]"
+        },
+        "rtExAbs3VpYhLmnL": {
+          "text": "Tira en esta tabla al comienzo de cada uno de tus turnos durante el próximo minuto, ignorando este resultado en tiradas posteriores."
+        },
+        "RWUXKVeRyAgWeXcI": {
+          "text": "Una criatura al azar situada a 60 pies o menos de ti queda &amp;Reference[poisoned] durante [[/r 1d4]] horas."
+        },
+        "RzcAjwEYMAuyxy5A": {
+          "text": "Durante el próximo minuto, todos tus conjuros con un tiempo de lanzamiento de 1 acción tienen un tiempo de lanzamiento de 1 acción adicional."
+        },
+        "u3iC848898sKppg8": {
+          "text": "Tira [[/r d10]]. Tu edad cambia tantos años como el resultado. Si es impar, rejuveneces (hasta un mínimo de 1 año); si es par, envejeces."
+        },
+        "wAPMC8mJJgXLNovl": {
+          "text": "Recuperas todos tus puntos de hechicería gastados."
+        },
+        "WezPwDjW3SM7b3lL": {
+          "text": "Irradias luz brillante en un radio de 30 pies durante el próximo minuto. Cualquier criatura que termine su turno a 5 pies o menos de ti queda &amp;Reference[blinded] hasta el final de su siguiente turno."
+        },
+        "wrZtNd8kARX6Q2O8": {
+          "text": "Maximiza el daño del siguiente conjuro que inflija daño que lances durante el próximo minuto."
+        },
+        "XC0AnZnEa1IEfYCM": {
+          "text": "Un modron elegido y controlado por el DM aparece en un espacio desocupado a 5 pies o menos de ti y desaparece 1 minuto después."
+        },
+        "xc6606L0NiEqWORg": {
+          "text": "Durante el próximo minuto, puedes teletransportarte hasta 20 pies como acción adicional en cada uno de tus turnos."
+        },
+        "xGUOT9jRm1QUDkUK": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polimorfar} sobre ti. Si fallas la tirada de salvación, te transformas en una oveja mientras dure el conjuro.<hr />Tirada de salvación: [[/save wis dc=@attributes.spelldc]]"
+        },
+        "xQxTRhwFYy1LEnZz": {
+          "text": "Durante el próximo minuto, puedes ver a cualquier criatura &amp;Reference[invisible] si tienes línea de visión hasta ella."
+        },
+        "Yr7AYoqA0AqM40So": {
+          "text": "Durante el próximo minuto, cualquier objeto inflamable que toques y que otra criatura no vista ni lleve consigo estalla en llamas."
+        },
+        "zhMPhbRnIfOkKN7N": {
+          "text": "Si mueres durante el próximo minuto, vuelves a la vida inmediatamente como mediante el conjuro @UUID[Compendium.dnd5e.spells.Item.zMEo5DKK8uxsuWnq]{reencarnar}."
+        },
+        "zwlUILwQHZ9pQs0g": {
+          "text": "Te teletransportas hasta 60 pies a un espacio desocupado de tu elección que puedas ver."
+        }
+      }
     }
   }
 }
