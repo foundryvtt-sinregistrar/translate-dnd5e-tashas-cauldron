@@ -580,20 +580,6 @@
     "source": "Credits & License"
   },
   {
-    "entryId": "tcoeCredits00000",
-    "pageId": "VpoUc0Eu4wWKZrJS",
-    "pageName": "Wizards of the Coast Credits",
-    "path": "name",
-    "source": "Wizards of the Coast Credits"
-  },
-  {
-    "entryId": "tcoeCredits00000",
-    "pageId": "VpoUc0Eu4wWKZrJS",
-    "pageName": "Wizards of the Coast Credits",
-    "path": "text",
-    "source": "<p><strong>Lead Designer:</strong> Jeremy Crawford</p><p><strong>Art Director:</strong> Kate Irwin</p><p><strong>Design:</strong> Dan Dillon, Ben Petrisor, F. Wesley Schneider, Elisa Teague</p><p><strong>Additional Design:</strong> Bill Benham, Adam Lee, Ari Levitch, Christopher Perkins, Taymoor Rehman, Kate Welch, Ray Winninger</p><p><strong>Rules Development:</strong> Jeremy Crawford, Dan Dillon, Ben Petrisor, Taymoor Rehman</p><p><strong>Editing:</strong> Michele Carter, Christopher Perkins, Jessica Ross, F. Wesley Schneider, James Wyatt</p><p><strong>Lead Graphic Designer:</strong> Trish Yochum</p><p><strong>Graphic Designers:</strong> Trystan Falcone, Emi Tanji</p><p><strong>Cover Illustrators:</strong> Wylie Beckert, Magali Villeneuve</p><p><strong>Interior Illustrators:</strong> Mark Behm, Eric Belisle, Zoltan Boros, Christopher Burdett, Sidharth Chaturvedi, David René Christensen, Nikki Dawes, Olga Drebas, Caroline Gariba, Sam Keiser, Julian Kok, Titus Lunter, Andrew Mar, Marcela Medeiros, Brynn Metheney, Robson Michel, Scott Murphy, Irina Nordsol, Robin Olausson, Claudio Pozas, Livia Prima, April Prime, David Sladek, Crystal Sully, Brian Valeza, Svetlin Velinov, Anna Veltkamp, Shawn Wood, Zuzanna Wuzyk, Kieran Yanner</p><p><strong>Concept Illustrator:</strong> Shawn Wood</p><p><strong>Project Engineer:</strong> Cynda Callaway</p><p><strong>Imaging Technicians:</strong> Kevin Yee</p><p><strong>Prepress Specialist:</strong> Jefferson Dunlap</p><h2>D&amp;D Game Studio</h2><p><strong>Executive Producer:</strong> Ray Winninger</p><p><strong>Principal Designers:</strong> Jeremy Crawford, Christopher Perkins</p><p><strong>Design Manager:</strong> Steve Scott</p><p><strong>Design Department:</strong> F. Wesley Schneider, Dan Dillon, Adam Lee, Ari Levitch, Ben Petrisor</p><p><strong>Senior Art Director:</strong> Richard Whitters</p><p><strong>Art Department:</strong> Kate Irwin, Emi Tanji, Trish Yochum, Shawn Wood</p><p><strong>Senior Producer:</strong> Dan Tovar</p><p><strong>Producers:</strong> Bill Benham, Lea Heleotis</p><p><strong>Director of Product Management:</strong> Liz Schuh</p><p><strong>Licensing Manager:</strong> Hilary Ross</p><p><strong>Product Managers:</strong> Natalie Egan, Chris Lindsay, Hilary Ross</p><p><strong>Brand Manager:</strong> Shelly Mazzanoble</p><p><strong>Publicity:</strong> Greg Tito</p><p><strong>Community Management:</strong> Brandy Camel</p><figure class=\"center\"><img src=\"modules/dnd-tashas-cauldron/assets/portraits/homunculus-03.webp\" style=\"max-width:400px\" /></figure><p>This book contains some content that originally appeared in Sword Coast Adventurer’s Guide (2015), Guildmasters’ Guide to Ravnica (2018), Eberron: Rising from the Last War (2019), and Mythic Odysseys of Theros (2020).</p>"
-  },
-  {
     "entryId": "tcoeCriminalSynd",
     "path": "name",
     "source": "Criminal Syndicate"
@@ -612,20 +598,6 @@
     "entryId": "tcoeFeats0000000",
     "path": "name",
     "source": "Feats"
-  },
-  {
-    "entryId": "tcoeFeats0000000",
-    "pageId": "KHdPpVOwnWijwaHr",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeFeats0000000",
-    "pageId": "KHdPpVOwnWijwaHr",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p>New feats are presented here in alphabetical order for groups that use them.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatArtifice]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatArtifice caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatChef0000]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatChef0000 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatCrusher0]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatCrusher0 caption=false cite=false]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.wk1PFJTEbobAgdrD caption=false classes=\"right three\"]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatEldritch]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatEldritch caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatFeyTouch]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatFeyTouch caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatFighting]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatFighting caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatGunner00]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatGunner00 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatMetamagi]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatMetamagi caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatPiercer0]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatPiercer0 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatPoisoner]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatPoisoner caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatShadowTo]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatShadowTo caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatSkillExp]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatSkillExp caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatSlasher0]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatSlasher0 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatTelekine]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatTelekine caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatTelepath]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeatTelepath caption=false cite=false]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.nAdEfYQgnMlo0mOH caption=false]</p>"
   },
   {
     "entryId": "tcoeFighter00000",
@@ -772,20 +744,6 @@
     "source": "Ranger"
   },
   {
-    "entryId": "tcoeRanger000000",
-    "pageId": "f68l9dkaCkbF8g6D",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeRanger000000",
-    "pageId": "f68l9dkaCkbF8g6D",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.ipGeK4t9lSayAMtf caption=false classes=\"right three\"]</p><p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a ranger. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><p>If you take a feature that replaces another feature, you gain no benefit from the replaced one and don’t qualify for anything in the game that requires it.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranDeftExplo]{Deft Explorer}</h3><p>1st-level ranger feature, which replaces the Natural Explorer feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranDeftExplo caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranFavoredFo]{Favored Foe}</h3><p>1st-level ranger feature, which replaces the Favored Enemy feature and works with the Foe Slayer feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranFavoredFo caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranSpells000]{Additional Ranger Spells}</h3><p>2nd-level ranger feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranSpells000 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranFightingS]{Fighting Style Options}</h3><p>2nd-level ranger feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranFightingS caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranSpellcast]{Spellcasting Focus}</h3><p>2nd-level ranger feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranSpellcast caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranPrimalAwa]{Primal Awareness}</h3><p>3rd-level ranger feature, which replaces the Primeval Awareness feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranPrimalAwa caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranMartialVe]{Martial Versatility}</h3><p>4th-level ranger feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranMartialVe caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranNaturesVe]{Nature's Veil}</h3><p>10th-level ranger feature, which replaces the Hide in Plain Sight feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranNaturesVe caption=false cite=false]</p><hr />"
-  },
-  {
     "entryId": "tcoeReligiousOrd",
     "path": "name",
     "source": "Religious Order"
@@ -875,20 +833,6 @@
     "entryId": "tcoeSpells000000",
     "path": "name",
     "source": "Spells"
-  },
-  {
-    "entryId": "tcoeSpells000000",
-    "pageId": "INWfoeGvE7GKjp3J",
-    "pageName": "Personalizing Spells",
-    "path": "name",
-    "source": "Personalizing Spells"
-  },
-  {
-    "entryId": "tcoeSpells000000",
-    "pageId": "INWfoeGvE7GKjp3J",
-    "pageName": "Personalizing Spells",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>When I first learned magic from Baba Yaga, I couldn’t help but add spectral chicken legs to all my spells. She said she wasn’t a fan, but I caught her grinning a few times. So of course I still add those legs. What use is magic if you can’t harness it to amuse your mom?</p><p><cite>Tasha</cite></p></blockquote><p>Just as every performer lends their art a personal flair and every warrior asserts their fighting styles through the lens of their own training, so too can a spellcaster use magic to express their individuality. Regardless of what type of spellcaster you’re playing, you can customize the cosmetic effects of your character’s spells. Perhaps you wish the effects of your caster’s spells to appear in their favorite color, to suggest the training they received from a celestial mentor, or to exhibit their connection to a season of the year. The possibilities for how you might cosmetically customize your character’s spells are endless. However, such alterations can’t change the effects of a spell. They also can’t make one spell seem like another—you can’t, for example, make a @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{magic missile} look like a @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{fireball}.</p><p>When customizing your spellcaster’s magic, consider developing a theme—often, the broader and more versatile the better. You may describe your caster’s magic whenever you wish, particularly when it makes an interesting addition to a story. You may also use it to reinforce other choices you’ve made for your character, like making a bard’s spells tied more closely to their favored art form or a cleric’s spells themed around their deity.</p><p>For example, the fireball of a wizard with a fondness for storms might erupt to look like burning clouds or a burst of red lightning (without affecting the spell’s damage type), while the same wizard’s @UUID[Compendium.dnd5e.spells.Item.Szvk5FEVQW3uhJi5]{haste} spell might limn the target in faint thunderheads.</p><p>Alternatively, a cleric who serves a moon god might radiate faint moonlight around their hands when they cast @UUID[Compendium.dnd5e.spells.Item.uUWb1wZgtMou0TVP]{cure wounds}, or their @UUID[Compendium.dnd5e.spells.Item.jZ6JNykRtdQ90MOo]{shield of faith} might surround the target with glimmering crescent moons.</p><p>Further still, a druid could choose a cherry blossom theme for their magic, causing delicate branches and pink leaves to grow when they cast @UUID[Compendium.dnd5e.spells.Item.gMrWeG8fMDPRFiVe]{entangle} or @UUID[Compendium.dnd5e.spells.Item.VzgFzcmocr1X1cp4]{shillelagh}, and their @UUID[Compendium.dnd5e.spells.Item.nqBDWkVOfcGZt4YU]{faerie fire} spell could appear more like wind-tossed petals than flames.</p><p>The Magic Themes table offers just a few suggestions that might inspire you while personalizing your character’s spells.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMagicThemes0 caption=false]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh3ArtHandou.JournalEntryPage.s5TfYGjX3eDqVYOu]</p>"
   },
   {
     "entryId": "tcoeSpells000000",
