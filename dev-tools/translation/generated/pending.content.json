@@ -48,20 +48,6 @@
   },
   {
     "entryId": "tcoeAdditionalRu",
-    "pageId": "exQFvdblDkAhYNrw",
-    "pageName": "Quicksand",
-    "path": "name",
-    "source": "Quicksand"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "exQFvdblDkAhYNrw",
-    "pageName": "Quicksand",
-    "path": "text",
-    "source": "<p>A quicksand pit covers the ground in roughly a 10-foot-square area and is usually 10 feet deep. When a creature enters the area, it sinks [[/r 1d4 + 1]] feet into the quicksand and becomes &amp;Reference[restrained]. At the start of each of the creature’s turns, it sinks another [[/r 1d4]] feet. As long as the creature isn’t completely submerged in quicksand, it can escape by using its action and succeeding on a [[/check strength]] Strength check. The DC is 10 plus the number of feet the creature has sunk into the quicksand. A creature that is completely submerged in quicksand can’t breathe (see the @UUID[.eDala3nUx9zZtGQn]{suffocation} rules).</p><p>A creature can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check. The DC is 5 plus the number of feet the target creature has sunk into the quicksand.</p>"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
     "pageId": "qH2uIPpJP5IJm5hc",
     "pageName": "Sight Rot",
     "path": "name",
@@ -791,20 +777,6 @@
   },
   {
     "entryId": "tcoeCredits00000",
-    "pageId": "hX2cMPh7dAMlJEYc",
-    "pageName": "License",
-    "path": "name",
-    "source": "License"
-  },
-  {
-    "entryId": "tcoeCredits00000",
-    "pageId": "hX2cMPh7dAMlJEYc",
-    "pageName": "License",
-    "path": "text",
-    "source": "<p>DUNGEONS &amp; DRAGONS, D&amp;D, Wizards of the Coast, the dragon ampersand, Forgotten Realms, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, all other Wizards of the Coast product names, their respective logos, and The World’s Greatest Roleplaying Game are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. The materials described in this statement are protected under the copyright laws of the United States of America and around the world under international intellectual property treaties. Any reproduction or unauthorized use of the materials contained herein or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.</p>"
-  },
-  {
-    "entryId": "tcoeCredits00000",
     "pageId": "VpoUc0Eu4wWKZrJS",
     "pageName": "Wizards of the Coast Credits",
     "path": "name",
@@ -821,20 +793,6 @@
     "entryId": "tcoeCriminalSynd",
     "path": "name",
     "source": "Criminal Syndicate"
-  },
-  {
-    "entryId": "tcoeCriminalSynd",
-    "pageId": "HBITP6nmRZoUPbhe",
-    "pageName": "Types of Criminal Syndicates",
-    "path": "name",
-    "source": "Types of Criminal Syndicates"
-  },
-  {
-    "entryId": "tcoeCriminalSynd",
-    "pageId": "HBITP6nmRZoUPbhe",
-    "pageName": "Types of Criminal Syndicates",
-    "path": "text",
-    "source": "<p>Criminal syndicates range from the local thieves’ guild, to a corrupt consortium of merchant princes, to a ring of otherworldly invaders infiltrating all levels of society for a nefarious purpose. Whatever form it takes, the syndicate is largely concerned with increasing wealth for its members at the expense of society at large.</p><p>Conversely, the syndicate could be an underground organization of good-hearted people fighting against a wicked power structure. Criminal syndicates with a heroic bent include the band of plucky outlaws who hijack taxes from the cruel baron and return them to the downtrodden and a hard-bitten ring of deserters who fight their homeland’s invaders.</p><p>Roll or pick from the Syndicate Types table to determine what type of criminal organization you serve.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSyndicateTyp]</p>"
   },
   {
     "entryId": "tcoeCriminalSynd",
@@ -1342,37 +1300,9 @@
     "source": "Rogue"
   },
   {
-    "entryId": "tcoeRogue0000000",
-    "pageId": "WmVu1Lnyt8IMKtOV",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeRogue0000000",
-    "pageId": "WmVu1Lnyt8IMKtOV",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.ux11zjPeYhe7fxA0 classes=\"right three\" caption=false]</p><p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers an additional feature that you can gain as a rogue. Unlike the features in the Player’s Handbook, you don’t gain the feature here automatically. Consulting with your DM, you decide whether to gain the feature in this section if you meet the level requirement noted in the feature’s description.</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoerogSteadyAim]{Steady Aim}</h3><p><em>3rd-level rogue feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoerogSteadyAim caption=false cite=false]</p>"
-  },
-  {
     "entryId": "tcoeSocialIntera",
     "path": "name",
     "source": "Social Interaction Rules"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "6bDxUhuCAZqXNzZz",
-    "pageName": "Changing Attitude",
-    "path": "name",
-    "source": "Changing Attitude"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "6bDxUhuCAZqXNzZz",
-    "pageName": "Changing Attitude",
-    "path": "text",
-    "source": "<p>The attitude of a creature might change over the course of a conversation. If the adventurers say or do the right things during an interaction (perhaps by touching on a creature’s ideal, bond, or flaw), they can make a hostile creature temporarily indifferent, or make an indifferent creature temporarily friendly. Likewise, a gaffe, insult, or harmful deed might make a friendly creature temporarily indifferent or turn an indifferent creature hostile.</p><p>Whether the adventurers can shift a creature’s attitude is up to you. You decide whether the adventurers have successfully couched their statements in terms that matter to the creature. Typically, a creature’s attitude can’t shift more than one step during a single interaction, whether temporarily or permanently.</p>"
   },
   {
     "entryId": "tcoeSocialIntera",
@@ -1467,20 +1397,6 @@
     "pageName": "Sovereign Perks",
     "path": "text",
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.OmM9b8zoYnfWHpd9 caption=false classes=\"right three\"]</p><p>With the sovereign as your group’s patron, you gain the following perks.</p><p><em><strong>Elite Access.</strong></em> While in service to the sovereign, you have access to the highest echelons of society. With your patron’s permission, you can gain access to the halls of power, from national capitols and military headquarters to noble estates and troves of state secrets. You can also request that the sovereign grant you access to perks of their position, like access to diplomatic receptions or use of the royal guards.</p><p><em><strong>Expenses.</strong></em> Your patron reimburses you for extraordinary expenses incurred as part of your work. You are required to account for your expenses and must explain any extraordinary expenditures, but routine travel, ordinary equipment, and basic services don’t draw a second glance.</p><p><em><strong>Immunity.</strong></em> As long as you remain in the sovereign’s good graces, you are nearly immune to prosecution under the laws within their sphere of influence. When you are carrying out your orders, you have a great deal of leeway in how you choose to go about that, and the law isn’t an obstacle. Committing serious crimes—especially if they are unrelated or unnecessary for the assigned work—is a sure way to fall out of your patron’s good graces, however.</p><p><em><strong>Salary.</strong></em> Your employment under a sovereign patron brings an income of 1 gp per day, or enough to maintain a modest lifestyle. At the DM’s discretion, your salary increases or decreases depending on the sovereign’s nature, the type of work you perform, and the length of your employment.</p>"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "MTwMNSUbQJQ5MVJw",
-    "pageName": "Sovereign Quests",
-    "path": "name",
-    "source": "Sovereign Quests"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "MTwMNSUbQJQ5MVJw",
-    "pageName": "Sovereign Quests",
-    "path": "text",
-    "source": "<p>The services you provide a sovereign largely depend on the nature of your group patron and their nation. While some of your missions involve official tasks—missions undertaken in the sovereign’s name—others might be covert, making your patron’s identity a highly guarded secret. Political rivals, enemy countries, and natural disasters all pose dangers to the sovereign’s nation. Yet a sovereign who sows chaos, enacts tyrannical decrees, or jeopardizes a population’s way of life is likely to inspire rebellions. In such cases, a sovereign’s agents must decide where their loyalties lie.</p><p>The Sovereign Quests table presents a few of the sorts of missions you undertake for your liege.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSovereignQue]</p>"
   },
   {
     "entryId": "tcoeSovereign000",

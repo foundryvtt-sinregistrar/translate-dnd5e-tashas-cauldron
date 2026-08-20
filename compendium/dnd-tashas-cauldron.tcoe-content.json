@@ -48,6 +48,10 @@
           "name": "Asfixia",
           "text": "<p>Una criatura puede contener la respiración durante tantos minutos como 1 + su modificador por Constitución (mínimo 30 segundos).</p><p>Cuando se queda sin aire o se está asfixiando, puede sobrevivir tantos asaltos como su modificador por Constitución (mínimo 1 asalto). Al comienzo de su siguiente turno, queda reducida a 0 puntos de golpe y está muriendo; no puede recuperar puntos de golpe ni ser estabilizada hasta que vuelva a respirar.</p><p>Por ejemplo, una criatura con Constitución 14 puede contener la respiración durante 3 minutos. Si comienza a asfixiarse, dispone de 2 asaltos para alcanzar una fuente de aire antes de quedar reducida a 0 puntos de golpe.</p>"
         },
+        "exQFvdblDkAhYNrw": {
+          "name": "Arenas movedizas",
+          "text": "<p>Un pozo de arenas movedizas cubre una zona aproximadamente cuadrada de 10 pies de lado y suele tener 10 pies de profundidad. Cuando una criatura entra en la zona, se hunde [[/r 1d4 + 1]] pies en las arenas movedizas y queda &amp;Reference[restrained]. Al principio de cada uno de sus turnos, se hunde otros [[/r 1d4]] pies. Mientras no esté completamente sumergida, puede escapar usando su acción y superando una prueba de Fuerza [[/check strength]]. La CD es 10 más el número de pies que se haya hundido. Una criatura completamente sumergida en arenas movedizas no puede respirar (consulta las reglas de @UUID[.eDala3nUx9zZtGQn]{asfixia}).</p><p>Una criatura puede sacar de un pozo de arenas movedizas a otra criatura que tenga a su alcance usando su acción y superando una prueba de Fuerza. La CD es 5 más el número de pies que se haya hundido el objetivo.</p>"
+        },
         "G8W2MyCHlyech5kL": {
           "name": "Frío extremo",
           "text": "<p>Cuando la temperatura es de 0 grados Fahrenheit o inferior, una criatura expuesta al frío debe superar una tirada de salvación de [[/save con dc=10]] al final de cada hora o ganar un nivel de &amp;Reference[exhaustion]. Las criaturas con resistencia o inmunidad al daño de frío superan automáticamente la tirada de salvación, al igual que las que lleven equipo para clima frío (abrigos gruesos, guantes y similares) y las que estén adaptadas de forma natural a climas fríos.</p>"
@@ -228,10 +232,21 @@
         }
       }
     },
-    "tcoeCredits00000": {},
+    "tcoeCredits00000": {
+      "pages": {
+        "hX2cMPh7dAMlJEYc": {
+          "name": "Licencia",
+          "text": "<p>DUNGEONS &amp; DRAGONS, D&amp;D, Wizards of the Coast, el símbolo del ampersand con forma de dragón, Forgotten Realms, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, todos los demás nombres de productos de Wizards of the Coast, sus respectivos logotipos y The World’s Greatest Roleplaying Game son marcas comerciales de Wizards of the Coast en Estados Unidos y otros países. Todos los personajes y sus apariencias distintivas son propiedad de Wizards of the Coast. Los materiales descritos en esta declaración están protegidos por las leyes de derechos de autor de Estados Unidos y de todo el mundo conforme a los tratados internacionales de propiedad intelectual. Queda prohibida la reproducción o el uso no autorizado de los materiales o ilustraciones aquí contenidos sin el permiso expreso por escrito de Wizards of the Coast.</p>"
+        }
+      }
+    },
     "tcoeCriminalSynd": {
       "folder": "Patrones de ejemplo",
       "pages": {
+        "HBITP6nmRZoUPbhe": {
+          "name": "Tipos de sindicatos criminales",
+          "text": "<p>Los sindicatos criminales abarcan desde el gremio de ladrones local hasta un consorcio corrupto de príncipes mercaderes o una red de invasores de otros mundos que se infiltra en todos los estratos de la sociedad con fines perversos. Adopte la forma que adopte, el sindicato se preocupa principalmente por aumentar la riqueza de sus miembros a costa del conjunto de la sociedad.</p><p>Por el contrario, podría ser una organización clandestina de gente de buen corazón que lucha contra una estructura de poder malvada. Entre los sindicatos criminales de inclinación heroica se cuentan una banda de intrépidos forajidos que roba los impuestos del cruel barón para devolvérselos a los oprimidos y un curtido grupo de desertores que combate a los invasores de su patria.</p><p>Tira o elige en la tabla Tipos de sindicatos para determinar a qué clase de organización criminal servís.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSyndicateTyp]</p>"
+        },
         "nc0B9hQpxxLlg42O": {
           "name": "Misiones del sindicato criminal",
           "text": "<p>Tu trabajo como miembro del sindicato implica mucho más que simples estafas callejeras o carterismo. Alguien con tus habilidades coopera con otros para alcanzar objetivos mayores que ofrecen riesgos peligrosos y espléndidas recompensas. La ley del lugar es vuestro enemigo más persistente, pero otros sindicatos criminales también os desafían o se convierten en vuestros objetivos.</p><p>La tabla Misiones del sindicato criminal explora qué tipo de trabajo realizáis para la organización.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSyndicateQue]</p>"
@@ -474,12 +489,20 @@
         },
         "juZQMOZMV9oTg0Xj": {
           "name": "Cuchilla anímica"
+        },
+        "WmVu1Lnyt8IMKtOV": {
+          "name": "Rasgos de clase opcionales",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.ux11zjPeYhe7fxA0 classes=\"right three\" caption=false]</p><p>Obtienes rasgos de clase del Player’s Handbook cuando alcanzas determinados niveles en tu clase. Esta sección ofrece un rasgo adicional que puedes obtener como pícaro. A diferencia de los rasgos del Player’s Handbook, no consigues automáticamente el que aparece aquí. Tras consultarlo con tu DM, decides si obtienes este rasgo cuando cumples el requisito de nivel indicado en su descripción.</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoerogSteadyAim]{Puntería firme}</h3><p><em>Rasgo de pícaro de nivel 3</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoerogSteadyAim caption=false cite=false]</p>"
         }
       }
     },
     "tcoeSocialIntera": {
       "folder": "Reglas y referencias adicionales",
       "pages": {
+        "6bDxUhuCAZqXNzZz": {
+          "name": "Cambiar la actitud",
+          "text": "<p>La actitud de una criatura puede cambiar a lo largo de una conversación. Si los aventureros dicen o hacen lo apropiado durante una interacción, quizá apelando al ideal, vínculo o defecto de la criatura, pueden lograr que una criatura hostil se vuelva indiferente temporalmente o que una indiferente pase a ser amistosa durante un tiempo. Del mismo modo, una metedura de pata, un insulto o un acto dañino pueden hacer que una criatura amistosa se vuelva indiferente temporalmente o que una indiferente se torne hostil.</p><p>Tú decides si los aventureros pueden cambiar la actitud de una criatura. Determinas si han logrado expresar sus argumentos en términos que le importen. Por lo general, la actitud de una criatura no puede cambiar más de un grado durante una sola interacción, ya sea de forma temporal o permanente.</p>"
+        },
         "GUnJnHv8keGbJDmh": {
           "name": "4. ¿Repetir?",
           "text": "<p>Una vez realizada una prueba de Carisma, los nuevos intentos de influir en el objetivo de la interacción podrían resultar inútiles o correr el riesgo de molestarlo o enfurecerlo, lo que podría desplazar su actitud hacia la hostilidad. Usa tu criterio. Por ejemplo, si el pícaro del grupo dice algo que cambia la actitud de un noble de indiferente a hostil, otro personaje podría apaciguar su hostilidad mediante una interpretación ingeniosa y una prueba de [[/check per]] con éxito.</p>"
@@ -527,6 +550,10 @@
         "j6Jp0Qh9zj4BRFtP": {
           "name": "Contacto del soberano",
           "text": "<p>Podríais beneficiaros de mantener contacto directo con el patrón del grupo. Esto puede incluir audiencias o reuniones secretas con el soberano, según la naturaleza de vuestro trabajo. También es posible que el soberano quiera mantener las distancias deliberadamente, ya sea por su apretada agenda o para conservar una negación plausible respecto a vuestras actividades. En esos casos, un consejero o funcionario supervisa los encargos y actúa como contacto principal entre vosotros y el soberano.</p><p>Tira o elige en la tabla Contacto del soberano para determinar quién gestiona la relación entre vosotros y el trono, si no lo hace el soberano en persona.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSovereignCon]</p>"
+        },
+        "MTwMNSUbQJQ5MVJw": {
+          "name": "Misiones del soberano",
+          "text": "<p>Los servicios que prestáis a un soberano dependen en gran medida de la naturaleza del patrón del grupo y de su nación. Algunas misiones son encargos oficiales realizados en nombre del soberano, mientras que otras pueden ser operaciones encubiertas que convierten la identidad de vuestro patrón en un secreto celosamente guardado. Los rivales políticos, los países enemigos y los desastres naturales amenazan a la nación del soberano. Sin embargo, un soberano que siembra el caos, promulga decretos tiránicos o pone en peligro el modo de vida de la población probablemente provoque rebeliones. En esos casos, sus agentes deben decidir dónde reside su lealtad.</p><p>La tabla Misiones del soberano presenta algunos de los encargos que podéis emprender para vuestro señor.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSovereignQue]</p>"
         }
       }
     },
