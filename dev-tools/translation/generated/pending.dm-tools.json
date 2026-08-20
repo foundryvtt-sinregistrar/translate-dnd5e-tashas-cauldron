@@ -275,20 +275,6 @@
   },
   {
     "entryId": "tcoeEnvironmenta",
-    "pageId": "1TuzKNbPDi6jMUjM",
-    "pageName": "Magical Phenomena",
-    "path": "name",
-    "source": "Magical Phenomena"
-  },
-  {
-    "entryId": "tcoeEnvironmenta",
-    "pageId": "1TuzKNbPDi6jMUjM",
-    "pageName": "Magical Phenomena",
-    "path": "text",
-    "source": "<p>Magic has the ability to make even the most serene natural settings unpredictable. Whether the result of magical calamities, otherworldly influences, or nexuses of inexplicable forces, the subsequent effects range from whimsical to deadly.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.SmmUe6TfgaGl67Zb caption=false]</p><h2>Phenomena Types</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMagicalPheno.JournalEntryPage.9WfjGcqYMiAeUmhj]{Eldritch Storms}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMagicalPheno.JournalEntryPage.Wmm89x2zAZGWfL6J]{Emotional Echoes}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMagicalPheno.JournalEntryPage.FK6xV9fuP6pXf1NU]{Enchanted Springs}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMagicalPheno.JournalEntryPage.sTfSTVqgfGMOORHC]{Magic Mushrooms}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMagicalPheno.JournalEntryPage.btxSnRSXcuqZYyxt]{Mimic Colonies}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMagicalPheno.JournalEntryPage.O92wf7tdUDO6Kj00]{Primal Fruit}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMagicalPheno.JournalEntryPage.2oxQhfkyZuc5HiCd]{Unearthly Roads}</p>"
-  },
-  {
-    "entryId": "tcoeEnvironmenta",
     "pageId": "e2Zey7QTtxsfpWC4",
     "pageName": "Supernatural Regions",
     "path": "name",
@@ -368,20 +354,6 @@
     "entryId": "tcoeFourElements",
     "path": "folder",
     "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeFourElements",
-    "pageId": "C8AiBrrhurYVtHUb",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeFourElements",
-    "pageId": "C8AiBrrhurYVtHUb",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p><em>Difficulty: Hard</em></p><p>This puzzle might appear anywhere elementals of earth, air, fire, and water serve as guardians. If the puzzle isn’t solved correctly, one or more of these guardian elementals magically transform from statues and attack the characters.</p><section class=\"fvtt narrative\"><p>The door slams behind you as you enter this hexagonal room. Four of the walls are covered in mosaics, each depicting the destructive force of one of the four elements. Four nine-foot-tall, stone statues of elementals line the far wall across from the closed door. Above the statues is a row of square tiles with triangular symbols painted on them. Four of these tiles have fallen off and lie strewn upon the floor, which bears the following inscription:</p><p></p><p><em>Four elementals trapped in stone,</em></p><p><em>Their elements ordered to lock their home.</em></p><p><em>Even patterns against all odd,</em></p><p><em>A tile misplaced awakens its god.</em></p><p><em>In proper order safely seal these four,</em></p><p><em>Or best one of each to open the door.</em></p></section><p>Once the characters enter this room, the door behind them slams shut. It can be opened only by completing this puzzle, and there are no other exits.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.2Ty47c1QmPMmkUPn caption=false]</p>"
   },
   {
     "entryId": "tcoeFourElements",
@@ -555,20 +527,6 @@
     "entryId": "tcoeMaterialComp",
     "path": "folder",
     "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "pageId": "HKIBZfprLBZFKZu4",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "pageId": "HKIBZfprLBZFKZu4",
-    "pageName": "Puzzle Features",
-    "path": "text",
-    "source": "<p>The wizard’s study is filled with spell components, books, potions, and various odds and ends. While the various supplies might help characters solve the puzzle, the only item the characters need is the parchment. If the puzzle is giving them grief, they can take the parchment with them and find others who can help them solve it.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.GjsgFPB4aC5d7U03 caption=false classes=\"right three\"]</p><h2>Bookcases</h2><p>All around the wizard’s study are shelves and cases filled with books, scrolls, and other supplies. A character who makes a successful [[/check skill=arc dc=12]] check notices a spell component with no gp value from the list (such as a chip of mica or a bit of bat fur).</p><h2>Lists</h2><p>The parchment has a list of spells and a list of material components. However, the components to the right don’t match with the adjacent spells to the left. The parchment itself doesn’t have any magical qualities, but the word it reveals potentially does.</p><p>Wizards and other spellcasters can identify the correct spell components for any spell they know, but they must succeed on the Intelligence (Arcana) checks noted in the @UUID[.Yx6PS1CnQ8jY0dgE]{Hint Checks} section below to recall the correct material components for any less familiar spells.</p>"
   },
   {
     "entryId": "tcoeMembersOnly0",
@@ -918,20 +876,6 @@
     "pageName": "Gaining a Sidekick Class",
     "path": "text",
     "source": "<p>When you create a sidekick, you choose the class it will have for the rest of its career: Expert, Spellcaster, or Warrior, each of which is detailed below. If a sidekick class contains a choice, you may make the choice or let the players make it.</p><h2>Starting Level</h2><p>The starting level of a sidekick is the same as the average level of the group. For example, if a 1st-level group starts out with a sidekick, that sidekick is also 1st level, but if a 10th-level group invites a sidekick to join them, that sidekick starts at 10th level.</p><h2>Leveling Up a Sidekick</h2><p>Whenever a group’s average level goes up, the sidekick gains a level. It doesn’t matter how much of the group’s recent adventures the sidekick experienced; the sidekick levels up because of a combination of the adventures it shared with the group and its own training.</p><h2>Hit Points</h2><p>Whenever the sidekick gains a level, it gains one Hit Die, and its hit point maximum increases. To determine the amount of the increase, roll the Hit Die (the type of die appears in the sidekick’s stat block), and add its Constitution modifier. It gains a minimum of 1 hit point per level.</p><p>If the sidekick drops to 0 hit points and isn’t killed outright, it falls &amp;Reference[unconscious] and subsequently makes death saving throws, just like a player character.</p><h2>Proficiency Bonus</h2><p>The sidekick’s proficiency bonus is determined by its level in its class, as shown in the class’s table.</p><p>Whenever the sidekick’s proficiency bonus increases by 1, add 1 to the to-hit modifier of all the attacks in its stat block, and increase the DCs in its stat block by 1.</p><h2>Ability Score Increases</h2><p>Whenever the sidekick gains the Ability Score Improvement feature, adjust anything in its stat block that relies on an ability modifier that you increase. For example, if the sidekick has an attack that uses its Strength modifier, increase the attack’s modifiers to hit and damage if the Strength modifier increases.</p><p>If it’s unclear whether a melee attack in the stat block uses Strength or Dexterity, the attack can use either.</p>"
-  },
-  {
-    "entryId": "tcoeSidekicks000",
-    "pageId": "ZT3X8xkeiEeqOvCi",
-    "pageName": "Creating a Sidekick",
-    "path": "name",
-    "source": "Creating a Sidekick"
-  },
-  {
-    "entryId": "tcoeSidekicks000",
-    "pageId": "ZT3X8xkeiEeqOvCi",
-    "pageName": "Creating a Sidekick",
-    "path": "text",
-    "source": "<p>A sidekick can be any type of creature with a stat block in the Monster Manual or another D&amp;D book, but the challenge rating in its stat block must be 1/2 or lower. You take that stat block and add to it, as explained in the @UUID[.JCq7zTMZxaj1uXwI]{Gaining a Sidekick Class} section.</p><p>To join the adventurers, the sidekick must be the friend of at least one of them. This friendship might be connected to a character’s backstory or to events that have transpired in play. For example, a sidekick could be a childhood friend or pet, or it might be a creature the adventurers saved. As DM, you determine whether there is sufficient trust established for the creature to join the group.</p><p>You decide who plays the sidekick. Here are some options:</p><ul><li><p>A player plays the sidekick as their second character—ideal when you have only one or two players.</p></li><li><p>A player plays the sidekick as their only character—ideal for a player who wants a character who’s simpler than a typical player character.</p></li><li><p>The players jointly play the sidekick.</p></li><li><p>You play the sidekick.</p></li></ul><p>There’s no limit on the number of sidekicks in a group, but having more than one per player character can noticeably slow down the game. And when estimating the difficulty of an upcoming encounter, count each sidekick as a character.</p>"
   },
   {
     "entryId": "tcoeSkeletonKeys",
