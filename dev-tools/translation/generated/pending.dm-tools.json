@@ -443,20 +443,6 @@
   },
   {
     "entryId": "tcoeMagicalPheno",
-    "pageId": "2oxQhfkyZuc5HiCd",
-    "pageName": "Unearthly Roads",
-    "path": "name",
-    "source": "Unearthly Roads"
-  },
-  {
-    "entryId": "tcoeMagicalPheno",
-    "pageId": "2oxQhfkyZuc5HiCd",
-    "pageName": "Unearthly Roads",
-    "path": "text",
-    "source": "<p>Currents of magic run through the world—invisible, artery-like networks that exert subtle influence and connect disparate lands. The greatest of these magical streams are persistent paths, often known by colloquial names or simply as unearthly roads. An unearthly road acts like a sort of planar portal that stretches from one place to another, be they sites on the same world or on different planes of existence. Unearthly roads allow creatures to cross great distances rapidly, moving from an entrance gate to an exit gate or visa versa. These paths operate like long tunnels, and a creature that travels on an unearthly road progresses 21 miles of distance in the time it would normally take it to travel 1 mile. While on the road, glimpses of the world beyond might be visible in blurred or distorted visions of scenery or especially prominent landmarks. Creatures or specific details are not visible beyond an unearthly road.</p><p>Some unearthly roads serve as trade routes or secret connections between distant lands. Others shift locations at noteworthy times or in response to external phenomena, like on specific anniversaries or in response to the phases of the moon. Some might also require a particular item, ritual, or action to open their gates. The Unearthly Road Keys table offers suggestions on how to enter an unearthly road.</p><h2>Unearthly Road Keys</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeUnearthlyRoa caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeMagicalPheno",
     "pageId": "9WfjGcqYMiAeUmhj",
     "pageName": "Eldritch Storms",
     "path": "name",
@@ -482,13 +468,6 @@
     "pageName": "Mimic Colonies",
     "path": "text",
     "source": "<p>Mimics imitate terrain and dungeon dressing to hunt for food. Rare specimens develop a deeper understanding of the world and can communicate with other creatures. In extremely rare cases, groups of these creatures band together, creating colonies. These bonded mimics cooperate to create larger objects than any lone mimic could approximate. A mimic colony can work together to form buildings, bridges, crystal formations, cliff faces, statues, and nearly anything it desires. Entire villages appearing out of nowhere might be composed of mimics!</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.cfaNpuqEqEWCsUbT caption=false]</p><h2>Mimic Communication</h2><p>Members of the colony develop telepathy and the ability to speak. While within 10 miles of the colony, any mimic can communicate telepathically with other creatures within 120 feet of it and can speak Common and Undercommon fluently (or two other languages of the DM’s choice). The colony’s offspring gain these abilities innately and can use them even away from the colony, as shown in the @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeJuvenileMimi]{Juvenile Mimic} stat block.</p><h2>Confronting a Colony</h2><p>A mimic colony’s primary goal is survival. If threatened by a force the mimics can’t overcome, they are willing to bargain. Mimic colonies have learned that adventurers they can’t defeat can be bought off with information about nearby creatures or locations, hidden treasure (which the colony obtained from prior “food”), or even one of their own young.</p><p>If the colony’s survival is threatened and it thinks it has a chance of surviving a fight, it can leverage its combined might using special lair actions. On initiative count 20 (losing all ties), the mimic colony takes a lair action, causing one of the following effects; it can’t use the same effect two rounds in a row:</p><ul><li><p>The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a [[/save strength dc=15]] saving throw or have its speed reduced to 0 until initiative count 20 on the following round, as pieces of the environment grasp the target. If a target fails the save by 5 or more, it is &amp;Reference[restrained] instead for that duration.</p></li><li><p>The mimic colony uses the Help action, aiding a creature of its choice within 300 feet of it.</p></li><li><p>The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a [[/save dexterity dc=15]] saving throw or take [[/damage 3d8 type=acid average=true]] damage, as orifices appear on surfaces in the environment and launch caustic spittle.</p></li><li><p>The mimic colony chooses a cube of nonmagical, inanimate material in physical contact with it. The cube can be up to 15 feet on a side. The colony reshapes that material however it likes. This transformation lasts for 1 hour.</p></li></ul><p>When determining the difficulty of an encounter with a hostile mimic colony, consider the colony to be one additional creature of challenge rating 2.</p>"
-  },
-  {
-    "entryId": "tcoeMagicalPheno",
-    "pageId": "O92wf7tdUDO6Kj00",
-    "pageName": "Primal Fruit",
-    "path": "text",
-    "source": "<p>In wild places brimming with nature’s power, gardens meticulously tended by eccentric wizards, and blessed groves touched by divine providence, plants can sometimes produce fruit bursting with primal magic. Not every fruit-bearing plant holds this stored magic, but those that do bear obvious signs: their colors are more vibrant or shift randomly, their skin sparkles in the light or glows in the dark, soft hums emanate from them, or they feel peculiar to the touch.</p><p>A fruit-bearing plant that is suffused with magic might produce [[/r 1d6]] pieces of @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoePrimalFruit0]{primal fruit} every week. Primal fruit remains potent for 1 week, after which it loses its magical properties but remains edible.</p><p>As an action, a creature can eat a piece of primal fruit to gain its effects. This fruit can be squeezed into juice or cooked into a dish and retains its magic. Choose an effect or roll on the @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoePrimalFruitE]{Primal Fruit Effects} table to determine what happens when a piece of the fruit is consumed. An @UUID[Compendium.dnd5e.spells.Item.3OZnNhunvRtPOQmH]{identify} spell or similar magic reveals the beneficial effect of a piece of fruit before it is eaten, but it doesn’t reveal a curse or side effect.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.w2TIUUwUNd2MqkW1 caption=false]</p><h2>Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoePrimalFruitE caption=false]</p>"
   },
   {
     "entryId": "tcoeMagicalPheno",
@@ -884,20 +863,6 @@
     "source": "Environmental Hazards"
   },
   {
-    "entryId": "tcoeSupernatural",
-    "pageId": "VPjXTC2bovhRMt9g",
-    "pageName": "Infested",
-    "path": "name",
-    "source": "Infested"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "pageId": "VPjXTC2bovhRMt9g",
-    "pageName": "Infested",
-    "path": "text",
-    "source": "<p>On many worlds, the biomass of insects radically outweighs that of higher organisms. Mass migrations and deadly insect species can imperil larger creatures, but most insects remain nothing more than an annoyance. However, through wild population booms, magical manipulation, supernatural growth, interbreeding with otherworldly species, or stranger circumstances, insects can overrun an entire region. Swarms of insects become the dominant species in an area, consuming plants and animals, creating elaborate hives or tunnels, and infesting structures and the earth.</p><p>The following effects represent a region overrun by insects or hives of similar creatures, likely manipulated by magic, otherworldly intelligence, or environmental factors to infest an area in countless numbers and drive out all competing life.</p><p>Consider rolling on the Infested Effects table when the following circumstances occur in the region:</p><ul><li><p>Webs, cocoons, hives, anthills, or other insect dwellings are disturbed.</p></li><li><p>A creature attacks an insect swarm or a Small or larger insect, such as a giant centipede or giant spider, in the region.</p></li><li><p>A creature begins a short or long rest.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.w1MTF57foL4hTg2l caption=false]</p><h2>Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeInfestedEffe caption=false]</p>"
-  },
-  {
     "entryId": "tcoeWhatsOnTheMe",
     "path": "name",
     "source": "What's on the Menu"
@@ -906,19 +871,5 @@
     "entryId": "tcoeWhatsOnTheMe",
     "path": "folder",
     "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "pageId": "90tqDy1iql6dg7UE",
-    "pageName": "Customizing the Puzzle",
-    "path": "name",
-    "source": "Customizing the Puzzle"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "pageId": "90tqDy1iql6dg7UE",
-    "pageName": "Customizing the Puzzle",
-    "path": "text",
-    "source": "<p>“Chimera” might not be the password but rather a reference to something or someone else in the tavern. Characters who solve the puzzle and succeed on a [[/check skill=prc dc=15]] check might notice another patron wearing a cloak pin shaped like a chimera, or spot a shield emblazoned with a chimera hanging on a wall that conceals a secret door. Only after speaking to the patron or seeing what’s on the other side of the secret door do the characters obtain the actual password, which can be anything you want.</p><p>You can easily change “chimera” to something else by swapping out menu items, choosing different letters within the replacement items, and adjusting the prices accordingly.</p><h2>Lowering the Difficulty</h2><p>Other tavern patrons can provide additional hints by talking among themselves in places where the characters can overhear them. A patron might say something like, “This inn keeps getting more expensive. With these fancy new meals, I’m surprised they aren’t charging a copper per letter!”</p><p>A too-helpful barmaid might take pity on the struggling characters and walk them through the various menu items in the order that would allow them to skip the anagram (ale and cheese pastry, brandied ham and carrots, corn and lentil soup, dragonfire mead, grilled fish and carrots, rabbit stew, and seared boar and potatoes). She might even recommend that the characters “start with the ale and cheese pastry, and continue on from there.”</p>"
   }
 ]
