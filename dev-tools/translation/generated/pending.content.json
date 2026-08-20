@@ -43,20 +43,6 @@
     "source": "Aristocrat"
   },
   {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "1AKNsyu9p2TTy3b5",
-    "pageName": "Aristocrat Perks",
-    "path": "name",
-    "source": "Aristocrat Perks"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "1AKNsyu9p2TTy3b5",
-    "pageName": "Aristocrat Perks",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.2pLN7LLIeB6LGAhY caption=false classes=\"right three\"]</p><p>With an aristocrat as your group’s patron, you gain the following perks.</p><p><em><strong>Expenses.</strong></em> Your patron reimburses you for extraordinary expenses incurred as part of your work. You are required to account for your expenses and must explain any extraordinary expenditures, but routine travel, ordinary equipment, and basic services don’t draw a second glance.</p><p><em><strong>Immunity.</strong></em> As long as you remain in the aristocrat’s good graces, you are nearly immune to prosecution under the laws within the aristocrat’s sphere of influence. When you are carrying out your orders, you have a great deal of leeway in how you choose to go about that, and the law isn’t an obstacle. Committing serious crimes—especially if they are unrelated or unnecessary for the assigned work—is a sure way to fall out of your patron’s good graces, however.</p><p><em><strong>Luxury.</strong></em> Your patron deigns to host you at their home or in other luxurious accommodations for a brief period as reward for a job well done. Such a stay typically lasts for no longer than two weeks per year, during which you maintain an aristocratic lifestyle for no cost. You must defend the locale if necessary, but you’re largely afforded time to relax as you please. However, poor (or outright destructive) guests rarely receive invitations to stay again.</p><p><em><strong>Salary.</strong></em> Your employment under an aristocratic patron brings an income of 1 gp per day, or enough to maintain a modest lifestyle. At the DM’s discretion, your salary increases or decreases depending on the aristocrat’s nature, the type of work, and the length of your employment.</p>"
-  },
-  {
     "entryId": "tcoeArtificer000",
     "pageId": "gHzW0fogl9fIGGck",
     "pageName": "Artificer Class",
@@ -821,20 +807,6 @@
     "source": "Guild"
   },
   {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "lwtp3NPFk8lS2Yab",
-    "pageName": "Guild Perks",
-    "path": "name",
-    "source": "Guild Perks"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "lwtp3NPFk8lS2Yab",
-    "pageName": "Guild Perks",
-    "path": "text",
-    "source": "<p>With a guild as your group’s patron, you gain the following perks. These perks require an annual contribution of 15 gp paid to the guild (replacing the 5 gp per month cost for characters with the Guild Artisan background). These dues fund the guild’s services and activities.</p><p><em><strong>Accommodations.</strong></em> You can stay at your organization’s guildhall. The rooms are comparable to those in a comfortable inn, but at a modest price (5 sp per day).</p><p><em><strong>Equipment.</strong></em> You can requisition the use of specialized tools, laboratories, libraries, or other crafting space and equipment to use within the guildhall. When you make an ability check with a set of artisan’s tools using the guild’s equipment, add double your normal proficiency bonus to the check.</p><p><em><strong>Resources.</strong></em> You can leverage the guild’s extensive contacts to locate exotic materials for crafting, spell components, or magic items, or buyers for them (a @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.WTgThIDXBP3BhTJK#downtime-activities]{downtime activity} in the Dungeon Master's Guide and Xanathar's Guide to Everything). You can locate or sell legal commodities using the guild’s resources, and any prices tip in your favor by 10 percent.</p><p><em><strong>Training.</strong></em> The guild retains knowledgeable tutors in subjects pertinent to its interests. When you undertake the @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.WTgThIDXBP3BhTJK#training]{training} downtime activity (as described in the Player's Handbook and Xanathar's Guide to Everything), the training takes half as long if you are studying a subject the guild specializes in. The DM decides if the guild has tutors available for a given subject.</p>"
-  },
-  {
     "entryId": "tcoeMagicalMisce",
     "path": "name",
     "source": "Overview"
@@ -988,37 +960,9 @@
     "source": "Sorcerer"
   },
   {
-    "entryId": "tcoeSorcerer0000",
-    "pageId": "qf29rFaG1KNs5cbB",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeSorcerer0000",
-    "pageId": "qf29rFaG1KNs5cbB",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a sorcerer. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorSpells000]{Additional Sorcerer Spells}</h3><p><em>1st-level sorcerer feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorSpells000 caption=false cite=false]</p><hr /><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.AxK2ibQLLMQNuiGL caption=false classes=\"right three\"]</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorMetamagic]{Metamagic Options}</h3><p><em>3rd-level sorcerer feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorMetamagic caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorSorcerous]{Sorcerous Versatility}</h3><p><em>4th-level sorcerer feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorSorcerous caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorMagicalGu]{Magical Guidance}</h3><p><em>5th-level sorcerer feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorMagicalGu caption=false cite=false]</p><hr /><p></p>"
-  },
-  {
     "entryId": "tcoeSovereign000",
     "path": "name",
     "source": "Sovereign"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "FGzyl4vUhPcVJpsI",
-    "pageName": "Sovereign Perks",
-    "path": "name",
-    "source": "Sovereign Perks"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "FGzyl4vUhPcVJpsI",
-    "pageName": "Sovereign Perks",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.OmM9b8zoYnfWHpd9 caption=false classes=\"right three\"]</p><p>With the sovereign as your group’s patron, you gain the following perks.</p><p><em><strong>Elite Access.</strong></em> While in service to the sovereign, you have access to the highest echelons of society. With your patron’s permission, you can gain access to the halls of power, from national capitols and military headquarters to noble estates and troves of state secrets. You can also request that the sovereign grant you access to perks of their position, like access to diplomatic receptions or use of the royal guards.</p><p><em><strong>Expenses.</strong></em> Your patron reimburses you for extraordinary expenses incurred as part of your work. You are required to account for your expenses and must explain any extraordinary expenditures, but routine travel, ordinary equipment, and basic services don’t draw a second glance.</p><p><em><strong>Immunity.</strong></em> As long as you remain in the sovereign’s good graces, you are nearly immune to prosecution under the laws within their sphere of influence. When you are carrying out your orders, you have a great deal of leeway in how you choose to go about that, and the law isn’t an obstacle. Committing serious crimes—especially if they are unrelated or unnecessary for the assigned work—is a sure way to fall out of your patron’s good graces, however.</p><p><em><strong>Salary.</strong></em> Your employment under a sovereign patron brings an income of 1 gp per day, or enough to maintain a modest lifestyle. At the DM’s discretion, your salary increases or decreases depending on the sovereign’s nature, the type of work you perform, and the length of your employment.</p>"
   },
   {
     "entryId": "tcoeSpellLists00",
