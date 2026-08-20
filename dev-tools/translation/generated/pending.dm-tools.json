@@ -260,20 +260,6 @@
     "source": "Environmental Hazards"
   },
   {
-    "entryId": "tcoeEnvironmenta",
-    "pageId": "e2Zey7QTtxsfpWC4",
-    "pageName": "Supernatural Regions",
-    "path": "name",
-    "source": "Supernatural Regions"
-  },
-  {
-    "entryId": "tcoeEnvironmenta",
-    "pageId": "e2Zey7QTtxsfpWC4",
-    "pageName": "Supernatural Regions",
-    "path": "text",
-    "source": "<p>Not all lands thrive as nature intended. Magical forces, strange interlopers, or tragic events can alter an area’s destiny, fundamentally changing the land. While the flora, fauna, structures, and inhabitants might remain unaffected, the land’s innate character takes on new qualities.</p><p>A supernatural region is permeated by a preternatural force in an area as large or small as you wish. In the affected area, certain effects and brief encounters reinforce an underlying theme. These effects occur as characters traverse an influenced region or add interest to a specific affected location.</p><p>The descriptions of the following supernatural regions summarize the region, present a table of potential effects within the affected area, and note triggers for a random effect. Feel free to customize the effects of each region to suit any adventure.</p><p>The effects of a region occur whenever you please, at the time each description suggests, or under one or more of the following circumstances:</p><ul><li><p>Soon after the party first enters the region</p></li><li><p>When a creature loses more than half its hit points</p></li><li><p>When a creature casts a spell of 1st level or higher</p></li><li><p>When a creature activates a magic item</p></li><li><p>When a creature makes an exceptionally loud noise or otherwise attracts attention</p></li><li><p>When the party spends at least 30 minutes in the same region</p></li></ul><h2>Region Types</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.7NUhPUfyNWrZIf13]{Blessed Radiance}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.dJtm8Sm4nxc0uduK]{Far Realm}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.BaXQRO6aQsWipRGy]{Haunted}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.VPjXTC2bovhRMt9g]{Infested}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.GsO5gVa3sQp5NpnW]{Mirror Zone}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.zslXkBNXTlQ3P97j]{Psychic Resonance}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.uUngWEqAzcs40iGg]{Unraveling Magic}</p><p></p>"
-  },
-  {
     "entryId": "tcoeExactChange0",
     "path": "name",
     "source": "Exact Change"
@@ -446,20 +432,6 @@
     "entryId": "tcoeMembersOnly0",
     "path": "folder",
     "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "pageId": "8eNLpwHY881tKoHH",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "pageId": "8eNLpwHY881tKoHH",
-    "pageName": "Puzzle Features",
-    "path": "text",
-    "source": "<p>Even after observing the building from all angles, characters only see members entering through the one door after speaking to the guard.</p><h2>Door</h2><p>The door is made of oak reinforced with 3-inch-wide iron bars. Three deadbolts secure the door, which is also barred from the inside, so there are no locks that can be picked from the outside.</p><h2>Guard</h2><p>A guard stands on the other side of the door around the clock, and the only way to speak with the guard is through the door’s slide window. The guard can be any sort of talking creature, such as an assassin, a cult fanatic, or a thug. More monstrous options include a bugbear, wereboar, or nycaloth.</p><p>If a character knocks on the door, the guard slides open the window and gruffly gives a number, expecting the proper response. The guard gives a different number each time someone knocks. Any proper response grants a single character entry, and the guard only allows one member to enter at a time.</p><p>Characters who provide incorrect answers and attempt to enter again must disguise themselves in some way or be refused entry. The guard only willingly opens the door for someone who speaks the correct password. The guard raises the alarm if unauthorized people try to open or bypass the door, calling six more guards to help defend the entrance.</p><h2>Members</h2><p>If the characters continue watching the door, they see up to four more visitors approach it. To eavesdrop on each exchange, the characters must succeed on a [[/check skill=stealth dc=12]] group check to remain hidden; if the group check fails, the visitor notices they’re being observed and speaks quietly enough that their answer can’t be overheard.</p><p><strong>Second Visitor.</strong> The guard opens the window and says, “Twelve.” The visitor responds with “Six” and is allowed inside.</p><p><strong>Third Visitor.</strong> The guard opens the window and says, “Ten.” The visitor responds with “Five” and is turned away.</p><p><strong>Fourth Visitor.</strong> The guard opens the window and says, “Seven.” The visitor responds with “Five” and is allowed inside.</p><p><strong>Fifth Visitor.</strong> The guard opens the window and says, “Zero.” The visitor responds with “One” and is turned away.</p>"
   },
   {
     "entryId": "tcoeNaturalHazar",
