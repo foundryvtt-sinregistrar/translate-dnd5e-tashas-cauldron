@@ -90,34 +90,6 @@
   },
   {
     "entryId": "tcoeAdditionalRu",
-    "pageId": "84zQ9Ikw87OxoHPO",
-    "pageName": "Extreme Heat",
-    "path": "name",
-    "source": "Extreme Heat"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "84zQ9Ikw87OxoHPO",
-    "pageName": "Extreme Heat",
-    "path": "text",
-    "source": "<p>When the temperature is at or above 100 degrees Fahrenheit, a creature exposed to the heat and without access to drinkable water must succeed on a [[/save constitution]] saving throw at the end of each hour or gain one level of &amp;Reference[exhaustion]. The DC is 5 for the first hour and increases by 1 for each additional hour. Creatures wearing medium or heavy armor, or who are clad in heavy clothing, have disadvantage on the saving throw. Creatures with resistance or immunity to fire damage automatically succeed on the saving throw, as do creatures naturally adapted to hot climates.</p>"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "eDala3nUx9zZtGQn",
-    "pageName": "Suffocating",
-    "path": "name",
-    "source": "Suffocating"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "eDala3nUx9zZtGQn",
-    "pageName": "Suffocating",
-    "path": "text",
-    "source": "<p>A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).</p><p>When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can't regain hit points or be stabilized until it can breathe again.</p><p>For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to reach air before it drops to 0 hit points.</p>"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
     "pageId": "exQFvdblDkAhYNrw",
     "pageName": "Quicksand",
     "path": "name",
@@ -148,20 +120,6 @@
     "entryId": "tcoeAncientBeing",
     "path": "name",
     "source": "Ancient Being"
-  },
-  {
-    "entryId": "tcoeAncientBeing",
-    "pageId": "aESEKKujRlVOl8Jr",
-    "pageName": "Ancient Being Quests",
-    "path": "name",
-    "source": "Ancient Being Quests"
-  },
-  {
-    "entryId": "tcoeAncientBeing",
-    "pageId": "aESEKKujRlVOl8Jr",
-    "pageName": "Ancient Being Quests",
-    "path": "text",
-    "source": "<p>Though their work remains mysterious, ancient beings send their agents to exact their will in myriad ways. Servants of other powerful beings try to stymie your patron’s plans, while misguided (or entirely justified) monster hunters seek to rid the world of their ancient foe. An ancient being’s lengthy history inspires unusual and potent enemies.</p><p>The Ancient Being Quests table presents a few options for the sorts of work your patron expects from you.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingQuests0]</p>"
   },
   {
     "entryId": "tcoeAncientBeing",
@@ -226,20 +184,6 @@
   },
   {
     "entryId": "tcoeAristocrat00",
-    "pageId": "MabM76HuG5zWJ3zL",
-    "pageName": "Types of Aristocrat",
-    "path": "name",
-    "source": "Types of Aristocrat"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "MabM76HuG5zWJ3zL",
-    "pageName": "Types of Aristocrat",
-    "path": "text",
-    "source": "<p>From the heads of scheming merchant families to immortal sorcerer-queens, each member of the aristocracy holds a measure of wealth and power—and they desire more. The rulers of a barony could struggle to reclaim the influence they once held, while the new head of a business dynasty might seek to catapult their fortunes to new heights. By aligning with such patrons, you stand to benefit enormously from the fruits of their ambition.</p><p>Roll or pick from the Aristocrat Types table to determine what kind of noble you serve.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAristocratTy]</p>"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
     "pageId": "T2SGeq1GJZppEq4L",
     "pageName": "Overview",
     "path": "name",
@@ -251,20 +195,6 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<blockquote class=\"tasha\"><p>There’s a Bandit Kingdoms saying that I’m forgetting—something like “those who rub against money are closest when the collectors come.” I don’t remember the specifics, but it seems applicable here.</p><p><cite>Tasha</cite></p></blockquote><p>Your group serves at the pleasure of a member of the nobility. Motivated by money, power, and politics, your patron uses your group to further their agenda without dirtying their hands, or perhaps they send you to the palaces of their enemies as envoys of peace. In exchange for loyalty and discretion, your patron is a powerful ally whose favor bestows far more than gold.</p>"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "U9WZOg2mdX1QweSu",
-    "pageName": "Aristocrat Quests",
-    "path": "name",
-    "source": "Aristocrat Quests"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "U9WZOg2mdX1QweSu",
-    "pageName": "Aristocrat Quests",
-    "path": "text",
-    "source": "<p>A missive from your patron proffers a different kind of mission each time. For one assignment, you act as an envoy during delicate trade negotiations; the next, you’re sent trekking through mountain passes to gather a favorite flower for a party. Foes are endless, and yesterday’s ally might be tomorrow’s target. The only things that are certain are the variety of your patron’s whims and that tomorrow there will surely be more.</p><p>The Aristocrat Quests table presents the sorts of work you might conduct at your highborn patron’s request.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAristocratQu]</p>"
   },
   {
     "entryId": "tcoeAristocrat00",
@@ -892,20 +822,6 @@
     "source": "<h2>Features and Enhancements</h2>\n<h3>Rune Knight (Fighter) Options <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1129\">#1129</a></h3>\n<p>Corrects and upgrades all Rune Carver options with the following:</p>\n<ul>\n<li>Removes item uses and consumption from Rune items.</li>\n<li>Changes enchantment item limit to <code>@scale.rune-knight.uses</code>, which automatically improves at certain levels.</li>\n<li>Enchant activities now provide the rune's \"invoke\" activity to the item being enchanted (i.e. inscribing the rune) with limited uses per short rest.</li>\n<li>Adds skill check advantage Active Effects to appropriate runes, which will also be applied to the actor when the rune is inscribed.</li>\n</ul>\n<h2>Bug Fixes and Corrections</h2>\n<ul>\n<li>Corrects error during sheet rendering related to Optional Advancements. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1127\">#1127</a></li>\n<li>Corrects error in Tattoo sheet rendering preventing modifications. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1128\">#1128</a></li>\n<li>Adds needed metadata to Tattoo item data, allowing for proper filtering by rarity in the Compendium Browswer. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1249\">#1249</a></li>\n<li>Corrects scale value target used in Armor Modifications' Active Effect. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1138\">#1138</a></li>\n<li>Corrects Replicate Magic Item's enchantment activity to allow for magical item targets. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1145\">#1145</a></li>\n<li>Corrects spell link in entry 23-24 of the Wild Magic Surge roll table. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/834\">#834</a></li>\n</ul>"
   },
   {
-    "entryId": "tcoeChangelog000",
-    "pageId": "rqbhTR5dkJYm69ma",
-    "pageName": "1.3.0",
-    "path": "name",
-    "source": "1.3.0"
-  },
-  {
-    "entryId": "tcoeChangelog000",
-    "pageId": "rqbhTR5dkJYm69ma",
-    "pageName": "1.3.0",
-    "path": "text",
-    "source": "<h2>Feature Enhancements</h2><ul><li><p>Updated the Succubus' token/subject with a higher quality version. This may require you to update the Token and Subject scale if you had already imported the Succubus.</p></li><li><p>Configured source book value for an improved Compendium Browser experience.</p></li><li><p>Configured spell lists.</p></li><li><p>Updated the Tattoo data model and added support for Activities.</p></li><li><p>Updated the Tattoo app to use V2 styles.</p></li></ul><h2>Bug Fixes</h2><ul><li><p>Updated formulas to not use ternary operators which are no longer valid syntax.</p></li></ul>"
-  },
-  {
     "entryId": "tcoeCleric000000",
     "path": "name",
     "source": "Cleric"
@@ -1003,20 +919,6 @@
     "pageName": "Criminal Syndicate Members",
     "path": "text",
     "source": "<p>Whether you’re a lifelong scoundrel or an ambitious upstart, you seek to gain wealth, fame, and influence within a criminal syndicate. A syndicate is motivated by profit, employing agents with all manner of talents. Nimbleness and novelty prove vital not just to exploiting untapped prospects but to avoiding the law. You embody rare experience and skill, positioned at the forefront of daring new criminal ventures.</p><p>The Criminal Syndicate Member Roles suggests positions you might fill in the organization and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"CriminalSyndicateMemberRoles\" data-content-chunk-id=\"d8cc0886-caea-40f1-96d7-4dec2fad4a75\">Criminal Syndicate Member Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Burglar</td><td>Criminal, Folk Hero, Noble, Outlander, Urchin</td></tr><tr><td>Muscle</td><td>Criminal, Entertainer, Outlander, Sailor, Soldier</td></tr><tr><td>Con Artist</td><td>Acolyte, Charlatan, Criminal, Entertainer, Noble, Urchin</td></tr><tr><td>Cleaner</td><td>Acolyte, Charlatan, Guild Artisan, Noble, Soldier</td></tr><tr><td>Mastermind</td><td>Acolyte, Criminal, Folk Hero, Noble, Sage</td></tr><tr><td>Mole</td><td>Any</td></tr></tbody></table>"
-  },
-  {
-    "entryId": "tcoeCriminalSynd",
-    "pageId": "QsFNoBIOJllYux35",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeCriminalSynd",
-    "pageId": "QsFNoBIOJllYux35",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>Crime—what’s the point? Why steal from someone when you can simply outwit them or turn them into a toad?</p><p><cite>Tasha</cite></p></blockquote><p>A network of criminals employs your group. You could be full-fledged members in good standing with the syndicate or probationary inductees looking to make your mark and earn its trust. Perhaps your group works for the syndicate against your will: you owe them big for a job gone wrong, for killing the wrong person, or simply for being born into a family that’s already in conflict with powerful, unscrupulous people.</p>"
   },
   {
     "entryId": "tcoeCriminalSynd",
@@ -1263,20 +1165,6 @@
   },
   {
     "entryId": "tcoeGuild0000000",
-    "pageId": "cUjcs47e3v6nhFFD",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "cUjcs47e3v6nhFFD",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>There’s power in groups. One bee’s a pest, but nobody messes with the swarm.</p><p><cite>Tasha</cite></p></blockquote><p>Your group has ties to a powerful consortium of professionals who work together for mutual benefit. You might be long-time members of such a guild, descended from a family of crafters or merchants from which you inherited membership, or perhaps you’re working to earn entrance on your own merits. If you serve the guild’s interests well, it promises to take care of you. Guilds hate to waste valuable assets, after all—that’s just bad business.</p>"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
     "pageId": "dJ6dgGzWaWwy6NOk",
     "pageName": "Guild Representatives",
     "path": "name",
@@ -1316,20 +1204,6 @@
     "pageName": "Guild Perks",
     "path": "text",
     "source": "<p>With a guild as your group’s patron, you gain the following perks. These perks require an annual contribution of 15 gp paid to the guild (replacing the 5 gp per month cost for characters with the Guild Artisan background). These dues fund the guild’s services and activities.</p><p><em><strong>Accommodations.</strong></em> You can stay at your organization’s guildhall. The rooms are comparable to those in a comfortable inn, but at a modest price (5 sp per day).</p><p><em><strong>Equipment.</strong></em> You can requisition the use of specialized tools, laboratories, libraries, or other crafting space and equipment to use within the guildhall. When you make an ability check with a set of artisan’s tools using the guild’s equipment, add double your normal proficiency bonus to the check.</p><p><em><strong>Resources.</strong></em> You can leverage the guild’s extensive contacts to locate exotic materials for crafting, spell components, or magic items, or buyers for them (a @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.WTgThIDXBP3BhTJK#downtime-activities]{downtime activity} in the Dungeon Master's Guide and Xanathar's Guide to Everything). You can locate or sell legal commodities using the guild’s resources, and any prices tip in your favor by 10 percent.</p><p><em><strong>Training.</strong></em> The guild retains knowledgeable tutors in subjects pertinent to its interests. When you undertake the @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.WTgThIDXBP3BhTJK#training]{training} downtime activity (as described in the Player's Handbook and Xanathar's Guide to Everything), the training takes half as long if you are studying a subject the guild specializes in. The DM decides if the guild has tutors available for a given subject.</p>"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "zLUUr3X5Tp6K1DFP",
-    "pageName": "Guild Quests",
-    "path": "name",
-    "source": "Guild Quests"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "zLUUr3X5Tp6K1DFP",
-    "pageName": "Guild Quests",
-    "path": "text",
-    "source": "<p>As a member of the guild, you’re called on to ply your skills in the organization’s service. You are required to undertake various tasks, either for the guild’s benefit or on behalf of an influential client. Competition is fierce in the business world, and the challenges presented by rivals or circumstances can pressure you into dealings you find distasteful.</p><p>The Guild Quests table presents a few options for the sorts of work the guild requires of you.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeGuildQuests0]</p>"
   },
   {
     "entryId": "tcoeMagicalMisce",
@@ -1545,20 +1419,6 @@
     "entryId": "tcoeReligiousOrd",
     "path": "name",
     "source": "Religious Order"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "9PHZOYFcP3He0jiT",
-    "pageName": "Religious Order Contact",
-    "path": "name",
-    "source": "Religious Order Contact"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "9PHZOYFcP3He0jiT",
-    "pageName": "Religious Order Contact",
-    "path": "text",
-    "source": "<p>Your established order enjoys a robust following. It might be a cloister of priestly scholars who use your group as the adventuring arm of the organization, or perhaps a legion of paladins who call on your group’s finesse where swords and shields fail. You might receive orders directly from the immortal entity you worship or through an earthly agent, such as a high priest or an archdruid.</p><p>Roll or pick from the Religious Order Contact table to determine who relays messages to and from your order’s deity.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeReligiousCon]</p>"
   },
   {
     "entryId": "tcoeReligiousOrd",

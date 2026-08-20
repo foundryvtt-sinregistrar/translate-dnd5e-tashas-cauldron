@@ -22,9 +22,17 @@
       "name": "Reglas y referencias adicionales",
       "folder": "Reglas y referencias adicionales",
       "pages": {
+        "84zQ9Ikw87OxoHPO": {
+          "name": "Calor extremo",
+          "text": "<p>Cuando la temperatura es de 100 grados Fahrenheit o superior, una criatura expuesta al calor y sin acceso a agua potable debe superar una tirada de salvación de [[/save constitution]] al final de cada hora o ganar un nivel de &amp;Reference[exhaustion]. La CD es 5 durante la primera hora y aumenta en 1 por cada hora adicional. Las criaturas que lleven armadura media o pesada, o ropas gruesas, tienen desventaja en la tirada de salvación. Las criaturas con resistencia o inmunidad al daño de fuego superan automáticamente la tirada, al igual que las adaptadas de forma natural a climas cálidos.</p>"
+        },
         "BwUFIRscnGdjZYV8": {
           "name": "Resumen",
           "text": "<p>Este diario contiene algunas reglas y referencias adicionales procedentes de fuentes externas que hemos recibido permiso para incluir:</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeFirearmRules]{Reglas de armas de fuego}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSocialIntera]{Reglas de interacción social}</p>"
+        },
+        "eDala3nUx9zZtGQn": {
+          "name": "Asfixia",
+          "text": "<p>Una criatura puede contener la respiración durante tantos minutos como 1 + su modificador por Constitución (mínimo 30 segundos).</p><p>Cuando se queda sin aire o se está asfixiando, puede sobrevivir tantos asaltos como su modificador por Constitución (mínimo 1 asalto). Al comienzo de su siguiente turno, queda reducida a 0 puntos de golpe y está muriendo; no puede recuperar puntos de golpe ni ser estabilizada hasta que vuelva a respirar.</p><p>Por ejemplo, una criatura con Constitución 14 puede contener la respiración durante 3 minutos. Si comienza a asfixiarse, dispone de 2 asaltos para alcanzar una fuente de aire antes de quedar reducida a 0 puntos de golpe.</p>"
         },
         "G8W2MyCHlyech5kL": {
           "name": "Frío extremo",
@@ -43,6 +51,10 @@
     "tcoeAncientBeing": {
       "folder": "Patrones de ejemplo",
       "pages": {
+        "aESEKKujRlVOl8Jr": {
+          "name": "Misiones del ser ancestral",
+          "text": "<p>Aunque su labor sigue siendo misteriosa, los seres ancestrales envían a sus agentes para imponer su voluntad de innumerables formas. Los sirvientes de otros seres poderosos intentan frustrar los planes de vuestro patrón, mientras que cazadores de monstruos equivocados (o completamente justificados) pretenden librar al mundo de su antiguo enemigo. La larga historia de un ser ancestral da lugar a enemigos inusuales y poderosos.</p><p>La tabla Misiones del ser ancestral presenta algunas opciones para los tipos de trabajo que vuestro patrón espera de vosotros.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingQuests0]</p>"
+        },
         "Q0Swt9d9dkuAx8Z2": {
           "name": "Contacto del ser ancestral",
           "text": "<p>El contacto de la organización que entrega los encargos o transmite la palabra de vuestro patrón puede ser desde prosaico hasta sobrenatural. Tira o elige en la tabla Contacto del ser ancestral para determinar quién o qué transmite la voluntad de vuestro patrón.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingContact]</p>"
@@ -56,9 +68,17 @@
     "tcoeAristocrat00": {
       "folder": "Patrones de ejemplo",
       "pages": {
+        "MabM76HuG5zWJ3zL": {
+          "name": "Tipos de aristócratas",
+          "text": "<p>Desde los jefes de intrigantes familias mercantiles hasta reinas hechiceras inmortales, cada miembro de la aristocracia posee cierta riqueza y poder, y desea más. Los gobernantes de una baronía podrían luchar por recuperar la influencia que tuvieron, mientras que el nuevo dirigente de una dinastía empresarial podría intentar elevar su fortuna a nuevas cotas. Al aliaros con estos patrones, podéis beneficiaros enormemente de los frutos de su ambición.</p><p>Tira o elige en la tabla Tipos de aristócratas para determinar a qué clase de noble servís.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAristocratTy]</p>"
+        },
         "mzoVoUlwqJnIMdmY": {
           "name": "Contacto del aristócrata",
           "text": "<p>Salvo contadas excepciones, los aristócratas prefieren que otra persona se encargue de comunicarse con sus empleados. Por ello, os comunicáis con un intermediario que actúa como enlace en vuestros tratos con el patrón.</p><p>Tira o elige en la tabla Contacto del aristócrata para determinar quién actúa como representante de vuestro patrón.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAristocratCo]</p>"
+        },
+        "U9WZOg2mdX1QweSu": {
+          "name": "Misiones del aristócrata",
+          "text": "<p>Cada misiva de vuestro patrón propone una misión diferente. En un encargo actuáis como enviados durante delicadas negociaciones comerciales; en el siguiente, os manda a atravesar pasos de montaña para recoger su flor favorita para una fiesta. Los enemigos son inagotables, y el aliado de ayer podría ser el objetivo de mañana. Lo único seguro es la variedad de caprichos de vuestro patrón y que mañana habrá más.</p><p>La tabla Misiones del aristócrata presenta los tipos de trabajo que podríais realizar a petición de vuestro patrón de alta cuna.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAristocratQu]</p>"
         }
       }
     },
@@ -154,6 +174,10 @@
           "name": "1.0.1",
           "text": "<p><strong>No es necesario volver a importar nada; esta revisión solo modifica código.</strong> Próximamente publicaremos una actualización mayor de corrección de errores.</p><h2>Correcciones de errores</h2><ul><li>La actualización <a href=\"https://github.com/foundryvtt/dnd5e/releases/tag/release-3.2.1\">3.2.1</a> del sistema de juego D&amp;D 5E publicada esta mañana cambió el nombre de un método (<code>prepareDerivedEquippableData</code> -&gt; <code>prepareFinalEquippableData</code>), lo que exigió un pequeño cambio en nuestro código personalizado para subobjetos de tatuaje.</li></ul>"
         },
+        "rqbhTR5dkJYm69ma": {
+          "name": "1.3.0",
+          "text": "<h2>Mejoras de funcionalidad</h2><ul><li><p>Se actualizó el token/sujeto de la súcubo con una versión de mayor calidad. Esto podría requerir actualizar la escala del token y el sujeto si ya habías importado la súcubo.</p></li><li><p>Se configuró el valor del libro de origen para mejorar la experiencia del navegador de compendios.</p></li><li><p>Se configuraron las listas de conjuros.</p></li><li><p>Se actualizó el modelo de datos de tatuajes y se añadió compatibilidad con actividades.</p></li><li><p>Se actualizó la aplicación de tatuajes para usar los estilos V2.</p></li></ul><h2>Correcciones de errores</h2><ul><li><p>Se actualizaron las fórmulas para que no utilicen operadores ternarios, cuya sintaxis ya no es válida.</p></li></ul>"
+        },
         "RQPU7m5gufbKfm3s": {
           "name": "1.0.0",
           "text": "<p>Versión inicial.</p>"
@@ -189,6 +213,10 @@
         "nc0B9hQpxxLlg42O": {
           "name": "Misiones del sindicato criminal",
           "text": "<p>Tu trabajo como miembro del sindicato implica mucho más que simples estafas callejeras o carterismo. Alguien con tus habilidades coopera con otros para alcanzar objetivos mayores que ofrecen riesgos peligrosos y espléndidas recompensas. La ley del lugar es vuestro enemigo más persistente, pero otros sindicatos criminales también os desafían o se convierten en vuestros objetivos.</p><p>La tabla Misiones del sindicato criminal explora qué tipo de trabajo realizáis para la organización.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSyndicateQue]</p>"
+        },
+        "QsFNoBIOJllYux35": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>El crimen, ¿para qué? ¿Por qué robar a alguien cuando puedes limitarte a superarlo con astucia o convertirlo en sapo?</p><p><cite>Tasha</cite></p></blockquote><p>Una red de criminales emplea a vuestro grupo. Podríais ser miembros de pleno derecho y respetados del sindicato, o iniciados a prueba que intentan dejar huella y ganarse su confianza. Quizá trabajéis para el sindicato contra vuestra voluntad: le debéis mucho por un trabajo que salió mal, por matar a la persona equivocada o simplemente por haber nacido en una familia que ya está enfrentada a personas poderosas y sin escrúpulos.</p>"
         }
       }
     },
@@ -282,9 +310,17 @@
     "tcoeGuild0000000": {
       "folder": "Patrones de ejemplo",
       "pages": {
+        "cUjcs47e3v6nhFFD": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>Los grupos tienen poder. Una abeja es una molestia, pero nadie se mete con el enjambre.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo tiene vínculos con un poderoso consorcio de profesionales que colaboran para obtener un beneficio mutuo. Podríais ser miembros veteranos del gremio, descendientes de una familia de artesanos o mercaderes de la que heredasteis la afiliación, o quizá estéis trabajando para ingresar por méritos propios. Si servís bien a sus intereses, el gremio promete cuidar de vosotros. Al fin y al cabo, los gremios odian desperdiciar recursos valiosos: sería un mal negocio.</p>"
+        },
         "MrGzcFybgYpuHHPo": {
           "name": "Contacto del gremio",
           "text": "<p>Aunque seas un miembro respetado del gremio, no puedes presentarte sin más ante el maestro del gremio y exigir su atención. Tus superiores gestionan contratos de trabajo, solicitan el uso de recursos del gremio y facilitan que vuestro grupo contacte con las personas adecuadas para favorecer sus intereses.</p><p>Tira o elige en la tabla Contacto del gremio para determinar vuestro contacto inmediato dentro del gremio.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeGuildContact]</p>"
+        },
+        "zLUUr3X5Tp6K1DFP": {
+          "name": "Misiones del gremio",
+          "text": "<p>Como miembro del gremio, se te pide que pongas tus habilidades al servicio de la organización. Debes realizar diversas tareas, ya sea en beneficio del gremio o en nombre de un cliente influyente. La competencia es feroz en el mundo de los negocios, y los desafíos de rivales o circunstancias pueden empujarte a acuerdos que te resulten desagradables.</p><p>La tabla Misiones del gremio presenta algunas opciones para los trabajos que el gremio exige de ti.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeGuildQuests0]</p>"
         }
       }
     },
@@ -371,6 +407,10 @@
     "tcoeReligiousOrd": {
       "folder": "Patrones de ejemplo",
       "pages": {
+        "9PHZOYFcP3He0jiT": {
+          "name": "Contacto de la orden religiosa",
+          "text": "<p>Vuestra orden establecida cuenta con numerosos seguidores. Podría ser un claustro de eruditos sacerdotales que utiliza al grupo como brazo aventurero de la organización, o una legión de paladines que recurre a vuestra sutileza allí donde fallan las espadas y los escudos. Podríais recibir órdenes directamente de la entidad inmortal a la que veneráis o a través de un agente terrenal, como un sumo sacerdote o un archidruida.</p><p>Tira o elige en la tabla Contacto de la orden religiosa para determinar quién transmite los mensajes entre vosotros y la deidad de la orden.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeReligiousCon]</p>"
+        },
         "BTu7PScmDkoRLMU6": {
           "name": "Resumen",
           "text": "<blockquote class=\"tasha\"><p>Claro, sirve a esa orden religiosa y pronto estarás lavando mil coladas de tu sumo sacerdote porque, casualmente, es la voluntad divina.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo actúa al servicio de una institución religiosa. Sin embargo, el patrocinio de una orden religiosa no consiste simplemente en que todos los miembros del grupo compartan la misma fe. La administración de la fe, con sus propios recursos, objetivos y dirigentes, patrocina y guía directamente vuestras aventuras.</p>"
