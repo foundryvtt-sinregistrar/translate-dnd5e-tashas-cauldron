@@ -5,20 +5,6 @@
     "source": "Academy"
   },
   {
-    "entryId": "tcoeAcademy00000",
-    "pageId": "wRF8ElVVhTqtJNhR",
-    "pageName": "Academy Perks",
-    "path": "name",
-    "source": "Academy Perks"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
-    "pageId": "wRF8ElVVhTqtJNhR",
-    "pageName": "Academy Perks",
-    "path": "text",
-    "source": "<p>With an academy as your group’s patron, you gain the following perks.</p><p><em><strong>Compensation.</strong></em> The academy pays for the work you do on its behalf. The nature of your employment influences your compensation. On average, the academy pays each member of your group 1 gp per day, or enough to sustain a modest lifestyle. Alternatively, you receive a bounty (at least 250 gp) for each artifact or relevant discovery you bring back from your adventures and donate to the academy.</p><p><em><strong>Documentation.</strong></em> Each member of your group has identification denoting your affiliation with the academy. This association carries clout in scholarly or artistic circles. The academy also secures documentation, letters of introduction, and traveling papers if your work requires them. Such documents grant you special status, such as access to forbidden regions or neutral standing in embattled areas. Such identification isn’t always a boon, though. In a land frequently plundered by foreigners, your documents could mark you as nothing more than aggrandized looters to some.</p><p><em><strong>Research.</strong></em> Research is part of your group’s job, but your patron also has abundant resources to facilitate such efforts. You can call in a favor to delegate the work of @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.WTgThIDXBP3BhTJK#researching]{researching lore} to a colleague, contact, librarian, or research assistant. You’re responsible for covering expenses incurred as part of this research, and the DM determines its success or failure.</p><p><em><strong>Resources.</strong></em> Academies host libraries, museums, record repositories, and training facilities, and you can use them to further your work. You can call in a favor from faculty members to access resources not available to the public—dangerous relics or magic items, spellbooks, gear, and the like. Additionally, you can consult with the faculty of your academy as the experts in various fields.</p><p><em><strong>Training.</strong></em> Because you’re associated with the academy, you receive a discount on any education you wish to pursue. When you undergo @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.WTgThIDXBP3BhTJK#training]{training} as a downtime activity, you pay half the normal cost, assuming the academy teaches that subject. Training in languages, musical instruments, and other tools is also available, at the DM’s discretion. In addition, you can gain proficiency in the &amp;Reference[Arcana], &amp;Reference[History], &amp;Reference[Nature], or &amp;Reference[Religion] skills by this method, as if you were learning a language. A character can learn only one of these skills in this way.</p>"
-  },
-  {
     "entryId": "tcoeAncientBeing",
     "path": "name",
     "source": "Ancient Being"
@@ -704,20 +690,6 @@
     "source": "Overview"
   },
   {
-    "entryId": "tcoeGroupPatrons",
-    "pageId": "FG4srdGOG7Jrek4P",
-    "pageName": "How Patrons Work",
-    "path": "name",
-    "source": "How Patrons Work"
-  },
-  {
-    "entryId": "tcoeGroupPatrons",
-    "pageId": "FG4srdGOG7Jrek4P",
-    "pageName": "How Patrons Work",
-    "path": "text",
-    "source": "<p>The following sections present several group patron options. The description of each patron provides an overview of the types of organizations the group patron represents, perks of membership, and quests the patron encourages adventurers to undertake.</p><p>With the input of your DM, you can customize these patrons to reflect specific establishments in your campaign world or to serve as a launchpad tailored for organizations of your design. For example, the guild group patron could represent the Harpers or the Zhentarim of the Forgotten Realms, the Clifftop Adventurers’ Guild in Eberron, or a homebrew league of caravan guards. Or perhaps a criminal syndicate, military force, or other category of patron better fits the party’s goals. Choose and customize the group patron that works best for your party and the types of adventures you want to explore.</p><h2>Group Assistance</h2><p>Having a group patron gives an adventuring group a common purpose, which inspires better coordination in the form of guidance and encouragement. As a result of this unity, each member of the party can grant advantage to an ability check, an attack roll, or a saving throw of another member of the party. To grant advantage in this way, a character and the chosen target must be able to see or hear each other, and neither can be incapacitated. Once a party member grants this advantage, that individual can’t do so again until they finish a long rest.</p><h2>Perks</h2><p>A group patron offers your party a number of perks for your service. These range from standard business arrangements, such as a steady wage and access to staff facilities, to extraordinary boons, such as audiences with powerful figures or exceptions from certain laws. Specific perks are presented in the description of each group patron.</p><p>The DM should not feel limited to providing only the perks noted in each group patron’s description. Patrons give a party access to solutions and support they wouldn’t have otherwise, and a patron can use their varied resources to guide their agents or prepare them for greater adventures.</p><h2>Assignments</h2><p>A more hands-off patron can still significantly motivate your group. Maybe you seek adventures based on what pleases your patron, possibly earning status and rewards within your organization. An academy, for example, might not organize particular missions, so you hunt down ancient artifacts knowing that your patron will reward you for bringing them back. You have the freedom to chart your own destiny, while letting the patron shape the nature of your group and the adventures you undertake.</p>"
-  },
-  {
     "entryId": "tcoeGuild0000000",
     "path": "name",
     "source": "Guild"
@@ -726,20 +698,6 @@
     "entryId": "tcoeMagicalMisce",
     "path": "name",
     "source": "Overview"
-  },
-  {
-    "entryId": "tcoeMagicalMisce",
-    "pageId": "u8OUu6ZSuDkohrmQ",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeMagicalMisce",
-    "pageId": "u8OUu6ZSuDkohrmQ",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p>Magic is everywhere in D&amp;D. Many creatures in the D&amp;D multiverse exist solely because of the influence of magic, spellcasters harness magical energy every day in the form of spells, and supernatural power thrums at the heart of the magic items sought by adventurers. This chapter is all about those last two things—spells and magic items.</p><p>The chapter first presents new spells for player characters and monsters to use. Those spells are followed by suggestions on customizing the look of your spells. The chapter then offers a selection of new magic items, including artifacts of mythic power and magic items that can be printed on one’s body in the form of tattoos.</p><p>The DM decides how the options in this chapter appear in a campaign and may choose to use some, all, or none of them, so make sure to let your DM know which options you’d most like to use in play.</p><h2>Table of Contents</h2><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSpells000000]{Spells}</h3><p>This section contains new spells that the DM may add to a campaign, making them available to player character and monster spellcasters alike. The Spells table lists the new spells, ordering them by level. The table also notes the school of magic of a spell, whether it requires concentration, whether it bears the ritual tag, and which classes have access to it.</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSpells000000.JournalEntryPage.INWfoeGvE7GKjp3J]{Personalizing Spells}</h3><p>Just as every performer lends their art a personal flair and every warrior asserts their fighting styles through the lens of their own training, so too can a spellcaster use magic to express their individuality. Regardless of what type of spellcaster you’re playing, you can customize the cosmetic effects of your character’s spells.</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeMagicItems00]{Magic Items}</h3><p>This section presents magic items that can be introduced into any campaign. Here you’ll find items of all rarities, including artifacts. Magic spellcasting focuses for every spellcasting class are also available here. And some of the items in this section represent a new type of wondrous item: magic tattoos.</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeMagicTattoos]{Magic Tattoos}</h3><p>Blending magic and artistry with ink and needles, magic tattoos imbue their bearers with wondrous abilities. Magic tattoos are initially bound to magic needles, which transfer their magic to a creature.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh3ArtHandou.JournalEntryPage.a8S6LuBORaltpaRu]</p>"
   },
   {
     "entryId": "tcoeMagicItems00",
@@ -841,20 +799,6 @@
     "entryId": "tcoeSocialIntera",
     "path": "name",
     "source": "Social Interaction Rules"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "zs5ib2lIjJ6On1sx",
-    "pageName": "3. Charisma Check",
-    "path": "name",
-    "source": "3. Charisma Check"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "zs5ib2lIjJ6On1sx",
-    "pageName": "3. Charisma Check",
-    "path": "text",
-    "source": "<p>When the adventurers get to the point of their request, demand, or suggestion — or if you decide the conversation has run its course — call for a [[/check charisma]] check. Any character who has actively participated in the conversation can make the check. Depending on how the adventurers handled the conversation, the [[/check skill=per]], [[/check skill=dec]], or [[/check skill=itm]] skill might apply to the check. The creature’s current attitude determines the DC required to achieve a specific reaction, as shown in the Conversation Reaction table below.</p><table><caption>Conversation Reaction: Friendly Creature</caption><thead><tr><th><p>DC</p></th><th><p>Friendly Creature's Reaction</p></th></tr></thead><tbody><tr><td><p>0</p></td><td><p>The creature does as asked without taking risks or making sacrifices.</p></td></tr><tr><td><p>10</p></td><td><p>The creature accepts a minor risk or sacrifice to do as asked.</p></td></tr><tr><td><p>20</p></td><td><p>The creature accepts a significant risk or sacrifice to do as asked.</p></td></tr></tbody></table><table><caption>Conversation Reaction: Indifferent Creature</caption><thead><tr><th><p>DC</p></th><th><p>Indifferent Creature's Reaction</p></th></tr></thead><tbody><tr><td><p>0</p></td><td><p>The creature offers no help but does no harm.</p></td></tr><tr><td><p>10</p></td><td><p>The creature does as asked as long as no risks or sacrifices are involved.</p></td></tr><tr><td><p>20</p></td><td><p>The creature accepts a minor risk or sacrifice to do as asked.</p></td></tr></tbody></table><table><caption>Conversation Reaction: Hostile Creature</caption><thead><tr><th><p>DC</p></th><th><p>Hostile Creature's Reaction</p></th></tr></thead><tbody><tr><td><p>0</p></td><td><p>The creature opposes the adventurers’ actions and might take risks to do so.</p></td></tr><tr><td><p>10</p></td><td><p>The creature offers no help but does no harm.</p></td></tr><tr><td><p>20</p></td><td><p>The creature does as asked as long as no risks or sacrifices are involved.</p></td></tr></tbody></table><h4>Aiding the Check</h4><p>Other characters who make substantial contributions to the conversation can help the character making the check. If a helping character says or does something that would influence the interaction in a positive way, the character making the Charisma check can do so with advantage. If the other character inadvertently says something counterproductive or offensive, the character making the Charisma check has disadvantage on that check.</p><h4>Multiple Checks</h4><p>Certain situations might call for more than one check, particularly if the adventurers come into the interaction with multiple goals.</p>"
   },
   {
     "entryId": "tcoeSorcerer0000",
