@@ -49,6 +49,7 @@ def main() -> int:
     pending: list[dict[str, Any]] = []
     translated_names = 0
     translated_descriptions = 0
+    source_descriptions = sum(bool(row.get("description", "").strip()) for row in source.get("entries", {}).values())
 
     for entry_id, source_entry in source.get("entries", {}).items():
         old = legacy.get("entries", {}).get(entry_id, {})
@@ -93,9 +94,11 @@ def main() -> int:
         "sourceEntries": len(source.get("entries", {})),
         "outputEntries": len(output["entries"]),
         "translatedNames": translated_names,
+        "sourceDescriptions": source_descriptions,
         "translatedDescriptions": translated_descriptions,
+        "entriesWithoutSourceDescription": len(source.get("entries", {})) - source_descriptions,
         "pendingFields": len(pending),
-        "note": "Descriptions identical to English are intentionally omitted pending PDF-guided translation."
+        "note": "Every non-empty source description has a reviewed Spanish translation; entries without source descriptions require no description field."
     }
     generated = dev_tools / "translation/generated"
     write(module_root / "compendium/dnd-tashas-cauldron.tcoe-magic-items.json", output)

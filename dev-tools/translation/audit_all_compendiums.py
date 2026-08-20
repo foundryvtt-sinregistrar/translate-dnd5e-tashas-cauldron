@@ -76,6 +76,23 @@ def main() -> int:
         if extra_pages:
             issues.append({"type": "extra-page-ids", "pack": pack, "pages": extra_pages})
 
+        nested_field = {"tcoe-tables": "results", "tcoe-actors": "items"}.get(pack)
+        source_nested = output_nested = 0
+        missing_nested: list[dict[str, str]] = []
+        extra_nested: list[dict[str, str]] = []
+        if nested_field:
+            for entry_id in sorted(source_ids & output_ids):
+                source_nested_ids = set(source["entries"][entry_id].get(nested_field, {}))
+                output_nested_ids = set(output["entries"][entry_id].get(nested_field, {}))
+                source_nested += len(source_nested_ids)
+                output_nested += len(output_nested_ids)
+                missing_nested.extend({"entryId": entry_id, "id": nested_id} for nested_id in sorted(source_nested_ids - output_nested_ids))
+                extra_nested.extend({"entryId": entry_id, "id": nested_id} for nested_id in sorted(output_nested_ids - source_nested_ids))
+        if missing_nested:
+            issues.append({"type": f"missing-{nested_field}-ids", "pack": pack, "rows": missing_nested})
+        if extra_nested:
+            issues.append({"type": f"extra-{nested_field}-ids", "pack": pack, "rows": extra_nested})
+
         mojibake = [path for path, value in strings(output) if MOJIBAKE.search(value)]
         if mojibake:
             issues.append({"type": "mojibake", "pack": pack, "paths": mojibake})
@@ -87,6 +104,11 @@ def main() -> int:
             "extraEntries": len(extra),
             "missingPages": len(missing_pages),
             "extraPages": len(extra_pages),
+            "nestedField": nested_field,
+            "sourceNestedDocuments": source_nested,
+            "outputNestedDocuments": output_nested,
+            "missingNestedDocuments": len(missing_nested),
+            "extraNestedDocuments": len(extra_nested),
             "mojibakeFields": len(mojibake),
         })
 

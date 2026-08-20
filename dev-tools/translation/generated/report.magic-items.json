@@ -3,7 +3,9 @@
   "sourceEntries": 143,
   "outputEntries": 143,
   "translatedNames": 143,
+  "sourceDescriptions": 130,
   "translatedDescriptions": 130,
+  "entriesWithoutSourceDescription": 13,
   "pendingFields": 0,
-  "note": "Descriptions identical to English are intentionally omitted pending PDF-guided translation."
+  "note": "Every non-empty source description has a reviewed Spanish translation; entries without source descriptions require no description field."
 }
