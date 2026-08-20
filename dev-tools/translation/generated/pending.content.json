@@ -33,20 +33,6 @@
     "source": "<p>If you have an academy as your patron, you are likely engaged in a scholarly pursuit or support someone who is. Consider being a promising student or a new member of the faculty. While you have a modest course load that you handle behind the scenes (or using any of a variety of downtime activities), your primary interests involve aiding your contact in their research. Alternatively, you might work to further the academy’s efforts in another way, perhaps related to security or funding.</p><p>The Academy Factotum Roles table provides suggestions for functions you perform within an academy and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"AcademyFactotumRoles\" data-content-chunk-id=\"08ddc860-8ea3-430b-87d0-aebc5274da0d\">Academy Factotum Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Student</td><td>Acolyte, Guild Artisan, Noble, Outlander, Sage, Urchin</td></tr><tr><td>Groundskeeper</td><td>Charlatan, Hermit, Outlander, Soldier, Urchin</td></tr><tr><td>Professor</td><td>Acolyte, Entertainer, Folk Hero, Noble, Sage</td></tr><tr><td>Researcher</td><td>Acolyte, Charlatan, Guild Artisan, Hermit, Sage</td></tr><tr><td>Financier</td><td>Charlatan, Criminal, Noble, Sailor, Urchin</td></tr><tr><td>Expert Speaker</td><td>Any</td></tr></tbody></table>"
   },
   {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "qH2uIPpJP5IJm5hc",
-    "pageName": "Sight Rot",
-    "path": "name",
-    "source": "Sight Rot"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "qH2uIPpJP5IJm5hc",
-    "pageName": "Sight Rot",
-    "path": "text",
-    "source": "<p>This painful infection causes bleeding from the eyes and eventually blinds the victim.</p><p>A beast or humanoid that drinks water tainted by sight rot must succeed on a [[/save con dc=15]] saving throw or become infected. One day after infection, the creature’s vision starts to become blurry. The creature takes a -1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches -5, the victim is &amp;Reference[blinded] until its sight is restored by magic such as @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{lesser restoration} or @UUID[Compendium.dnd5e.spells.Item.qcYitWoSMTnKkzM1]{heal}.</p><p>Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an @UUID[Compendium.dnd5e.items.Item.i89okN7GFTWHsvPy]{herbalism kit} can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.</p>"
-  },
-  {
     "entryId": "tcoeAncientBeing",
     "path": "name",
     "source": "Ancient Being"
@@ -697,20 +683,6 @@
   },
   {
     "entryId": "tcoeChangelog000",
-    "pageId": "hXWmCdR5C3Zv7a6T",
-    "pageName": "1.1.0",
-    "path": "name",
-    "source": "1.1.0"
-  },
-  {
-    "entryId": "tcoeChangelog000",
-    "pageId": "hXWmCdR5C3Zv7a6T",
-    "pageName": "1.1.0",
-    "path": "text",
-    "source": "<h2>Feature Enhancements</h2><ul><li><p>Added a consumable flask for the Experimental Elixir feature to utilize. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/568\">[#568]</a></p></li><li><p>Configured Soul Trinkets to be consumable items that are destroyed on use for easier tracking. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/569\">[#569]</a></p></li><li><p>Added a mapping flag to Tasha's for dynamic token subject paths and adjusted a few Actors which feature wildcard options to utilize it.</p></li></ul><h2>Bug Fixes</h2><ul><li><p>Resolved a number of issues with incorrect token/subject images. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/566\">[#566]</a></p></li><li><p>Removed duplicate Blood Fury tattoo issue. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/570\">[#570]</a></p></li><li><p>Moved the Coiling Grasp tattoo to the Magic Tattoos folder.</p></li><li><p>Corrected the Telepath feature for Aberrant Mind Sorcerers to correctly use their level scale (@classes.sorcerer.levels).</p></li><li><p>Removed unnecessary module-side @Embed styling now that those styles are in the system.</p></li></ul>"
-  },
-  {
-    "entryId": "tcoeChangelog000",
     "pageId": "OGwhKR08kvBYmd6d",
     "pageName": "3.0.0",
     "path": "name",
@@ -984,20 +956,6 @@
     "source": "<p>The following sections present several group patron options. The description of each patron provides an overview of the types of organizations the group patron represents, perks of membership, and quests the patron encourages adventurers to undertake.</p><p>With the input of your DM, you can customize these patrons to reflect specific establishments in your campaign world or to serve as a launchpad tailored for organizations of your design. For example, the guild group patron could represent the Harpers or the Zhentarim of the Forgotten Realms, the Clifftop Adventurers’ Guild in Eberron, or a homebrew league of caravan guards. Or perhaps a criminal syndicate, military force, or other category of patron better fits the party’s goals. Choose and customize the group patron that works best for your party and the types of adventures you want to explore.</p><h2>Group Assistance</h2><p>Having a group patron gives an adventuring group a common purpose, which inspires better coordination in the form of guidance and encouragement. As a result of this unity, each member of the party can grant advantage to an ability check, an attack roll, or a saving throw of another member of the party. To grant advantage in this way, a character and the chosen target must be able to see or hear each other, and neither can be incapacitated. Once a party member grants this advantage, that individual can’t do so again until they finish a long rest.</p><h2>Perks</h2><p>A group patron offers your party a number of perks for your service. These range from standard business arrangements, such as a steady wage and access to staff facilities, to extraordinary boons, such as audiences with powerful figures or exceptions from certain laws. Specific perks are presented in the description of each group patron.</p><p>The DM should not feel limited to providing only the perks noted in each group patron’s description. Patrons give a party access to solutions and support they wouldn’t have otherwise, and a patron can use their varied resources to guide their agents or prepare them for greater adventures.</p><h2>Assignments</h2><p>A more hands-off patron can still significantly motivate your group. Maybe you seek adventures based on what pleases your patron, possibly earning status and rewards within your organization. An academy, for example, might not organize particular missions, so you hunt down ancient artifacts knowing that your patron will reward you for bringing them back. You have the freedom to chart your own destiny, while letting the patron shape the nature of your group and the adventures you undertake.</p>"
   },
   {
-    "entryId": "tcoeGroupPatrons",
-    "pageId": "YqbybRGAsF2g8dB2",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeGroupPatrons",
-    "pageId": "YqbybRGAsF2g8dB2",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p>Each adventuring group is bound together by the quests it embarks on and by the dangers its members face together. This chapter offers another way to bind your party together: a group patron. These patrons provide a strong binding element: an individual or an organization that unites a party as a team in service to a greater purpose. A group patron can help set the tone of your party’s entire campaign. For example, a group whose patron is an academic institution is likely to have a very different story from a group that serves a military. A patron can influence characters’ relationships, their backstories, and the types of dangers they face.</p><p>During character creation, every player has the opportunity to weave connections between their character and the other members of their party. Rather than (or in addition to) creating a web of established relationships, players can work with the DM to choose a group patron. And if you’re interested in being your own patron, see the “@UUID[.DHfja8iFOUtJcz8K]{Being Your Own Patron}” section at the end of the chapter.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.yHOCopMdeE6ZJWF1]</p>"
-  },
-  {
     "entryId": "tcoeGuild0000000",
     "path": "name",
     "source": "Guild"
@@ -1015,20 +973,6 @@
     "pageName": "Guild Representatives",
     "path": "text",
     "source": "<p>As a guild member, you might be a professional who works directly toward the guild’s specialty or whose fortunes align with the guild’s interests. Alternatively, you could provide the guild with services to which their members aren’t suited. For example, guards, explorers, negotiators, and spies can be useful to a guild, whether its interests lie in trade goods, entertainment, or more questionable ventures. Whether a guild operates entirely within the law and how public its interests are also influences which of your skills it deems most valuable.</p><p>The Guild Representative Roles table suggests positions you might fill in a guild and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"GuildRepresentativeRoles\" data-content-chunk-id=\"38c73c34-79c7-4a36-a3bc-b7f13d439690\">Guild Representative Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Researcher</td><td>Acolyte, Entertainer, Guild Artisan, Sage</td></tr><tr><td>Negotiator</td><td>Charlatan, Entertainer, Guild Artisan, Noble, Sailor</td></tr><tr><td>Saboteur</td><td>Charlatan, Criminal, Guild Artisan, Soldier, Urchin</td></tr><tr><td>Guard</td><td>Criminal, Folk Hero, Outlander, Sailor, Soldier</td></tr><tr><td>Explorer</td><td>Acolyte, Folk Hero, Guild Artisan, Outlander, Sailor</td></tr><tr><td>Expert</td><td>Any</td></tr></tbody></table>"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "gKSxkhc9fzmBwy0g",
-    "pageName": "Types of Guild",
-    "path": "name",
-    "source": "Types of Guild"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "gKSxkhc9fzmBwy0g",
-    "pageName": "Types of Guild",
-    "path": "text",
-    "source": "<p>The guild structure covers a swath of business ventures, differentiated by their specialty. A conglomerate of blacksmiths, jewelers, carpenters, tailors, alchemists, scribes, and sages all could organize as a guild. Whatever their trade, these experts share contacts, exchange resources such as materials or tools, and leverage their collective influence to affect politics for their benefit. Alternatively, merchants and other business owners might also organize into guilds. Merchant barons who effectively rule a city or nation through iron-clad control of the economy or a network of innkeepers who share news and supply routes could both represent guild patrons. A guild could even embody a more sinister group, such as one that deals in terrifying wares like deadly monsters, dangerous knowledge, or souls.</p><p>Roll or pick from the Guild Types table to determine the general sort of organization you operate within.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeGuildTypes00]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.hVuMIThlNM6NLlyD]</p>"
   },
   {
     "entryId": "tcoeGuild0000000",
@@ -1230,20 +1174,6 @@
     "entryId": "tcoeReligiousOrd",
     "path": "name",
     "source": "Religious Order"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "IxmGaogFNGfvhRzU",
-    "pageName": "Religious Order Member",
-    "path": "name",
-    "source": "Religious Order Member"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "IxmGaogFNGfvhRzU",
-    "pageName": "Religious Order Member",
-    "path": "text",
-    "source": "<p>Your primary duty to a religious order is to further your god’s reach. That obligation ranges from proselytizing or performing religious services to meting out divine punishments or recovering lost relics. Beyond that, the needs of your order vary widely. Your patron relies on your group due to your particular skills or, perhaps, because it’s divine whim.</p><p>The Religious Order Member Roles table suggests positions you might fill in an order and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"ReligiousOrderMemberRoles\" data-content-chunk-id=\"a629da1d-279d-47c3-af1a-a4376d18a389\">Religious Order Member Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Councilor</td><td>Acolyte, Folk Hero, Hermit, Sage, Urchin</td></tr><tr><td>Defender</td><td>Acolyte, Criminal, Folk Hero, Outlander, Soldier</td></tr><tr><td>Ascetic</td><td>Acolyte, Entertainer, Hermit, Sage, Soldier</td></tr><tr><td>Inquisitor</td><td>Acolyte, Criminal, Noble, Sailor, Soldier</td></tr><tr><td>Emissary</td><td>Acolyte, Charlatan, Entertainer, Noble, Sailor</td></tr><tr><td>Chosen One</td><td>Any</td></tr></tbody></table>"
   },
   {
     "entryId": "tcoeRogue0000000",

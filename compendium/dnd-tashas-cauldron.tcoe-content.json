@@ -67,6 +67,10 @@
         "maERBREpgZcdEMGW": {
           "name": "Tabla de baratijas",
           "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeTrinkets0000]</p>"
+        },
+        "qH2uIPpJP5IJm5hc": {
+          "name": "Podredumbre de la vista",
+          "text": "<p>Esta dolorosa infección provoca hemorragias oculares y termina cegando a la víctima.</p><p>Una bestia o humanoide que beba agua contaminada con podredumbre de la vista debe superar una tirada de salvación [[/save con dc=15]] o contraerá la infección. Un día después, su visión empieza a volverse borrosa. La criatura sufre un penalizador de -1 a las tiradas de ataque y pruebas de característica que dependan de la vista. Al final de cada descanso largo posterior a la aparición de los síntomas, el penalizador empeora en 1. Cuando alcanza -5, la víctima queda &amp;Reference[blinded] hasta que recupere la vista mediante magia como @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o @UUID[Compendium.dnd5e.spells.Item.qcYitWoSMTnKkzM1]{sanar}.</p><p>La podredumbre de la vista puede curarse con una flor rara llamada eufrasia, que crece en algunos pantanos. En una hora, un personaje competente con un @UUID[Compendium.dnd5e.items.Item.i89okN7GFTWHsvPy]{kit de herborista} puede convertir la flor en una dosis de ungüento. Aplicada en los ojos antes de un descanso largo, una dosis impide que la enfermedad empeore tras ese descanso. Después de tres dosis, el ungüento cura la enfermedad por completo.</p>"
         }
       }
     },
@@ -200,6 +204,10 @@
     },
     "tcoeChangelog000": {
       "pages": {
+        "hXWmCdR5C3Zv7a6T": {
+          "name": "1.1.0",
+          "text": "<h2>Mejoras de funcionalidad</h2><ul><li><p>Se añadió un frasco consumible para utilizarlo con el rasgo Elixir experimental. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/568\">[#568]</a></p></li><li><p>Se configuraron las baratijas de alma como objetos consumibles que se destruyen al usarlos para facilitar su seguimiento. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/569\">[#569]</a></p></li><li><p>Se añadió a Tasha una marca de mapeo para las rutas dinámicas de sujetos de token y se ajustaron algunos actores con opciones de comodín para utilizarla.</p></li></ul><h2>Correcciones de errores</h2><ul><li><p>Se resolvieron varios problemas con imágenes incorrectas de tokens y sujetos. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/566\">[#566]</a></p></li><li><p>Se eliminó el duplicado del tatuaje Furia sangrienta. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/570\">[#570]</a></p></li><li><p>Se movió el tatuaje Agarre serpenteante a la carpeta Tatuajes mágicos.</p></li><li><p>Se corrigió el rasgo Telepatía de los hechiceros de Mente aberrante para que utilice correctamente su escala de nivel (@classes.sorcerer.levels).</p></li><li><p>Se eliminaron estilos innecesarios de @Embed del módulo, pues ahora se encuentran en el sistema.</p></li></ul>"
+        },
         "PEoSpAeebOA9TtKu": {
           "name": "1.0.1",
           "text": "<p><strong>No es necesario volver a importar nada; esta revisión solo modifica código.</strong> Próximamente publicaremos una actualización mayor de corrección de errores.</p><h2>Correcciones de errores</h2><ul><li>La actualización <a href=\"https://github.com/foundryvtt/dnd5e/releases/tag/release-3.2.1\">3.2.1</a> del sistema de juego D&amp;D 5E publicada esta mañana cambió el nombre de un método (<code>prepareDerivedEquippableData</code> -&gt; <code>prepareFinalEquippableData</code>), lo que exigió un pequeño cambio en nuestro código personalizado para subobjetos de tatuaje.</li></ul>"
@@ -357,6 +365,10 @@
         "hTd63PiCIQxevcyv": {
           "name": "Patrones de ejemplo",
           "text": "<p>Estos son algunos de los patrones más probables para un grupo de aventureros. Presentados en orden alfabético, pueden servirte de inspiración para crear los tuyos:</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeAcademy00000]{Academia}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeAncientBeing]{Ser ancestral}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeAristocrat00]{Aristócrata}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCriminalSynd]{Sindicato criminal}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeGuild0000000]{Gremio}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeMilitaryForc]{Fuerza militar}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeReligiousOrd]{Orden religiosa}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSovereign000]{Soberano}</p>"
+        },
+        "YqbybRGAsF2g8dB2": {
+          "name": "Resumen",
+          "text": "<p>Todo grupo de aventureros está unido por las misiones que emprende y los peligros que sus miembros afrontan juntos. Este capítulo ofrece otra forma de cohesionar al grupo: un patrón grupal. Estos patrones proporcionan un poderoso vínculo, una persona u organización que une al grupo como equipo al servicio de un propósito mayor. Un patrón puede ayudar a establecer el tono de toda la campaña. Por ejemplo, un grupo patrocinado por una institución académica probablemente viva una historia muy distinta a la de otro que sirva a un ejército. El patrón puede influir en las relaciones y trasfondos de los personajes y en los tipos de peligros a los que se enfrentan.</p><p>Durante la creación de personajes, cada jugador tiene la oportunidad de tejer conexiones entre su personaje y los demás miembros del grupo. En lugar de crear una red de relaciones previas, o además de hacerlo, los jugadores pueden colaborar con el DM para elegir un patrón grupal. Si os interesa ser vuestro propio patrón, consultad la sección «@UUID[.DHfja8iFOUtJcz8K]{Ser vuestro propio patrón}» al final del capítulo.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.yHOCopMdeE6ZJWF1]</p>"
         }
       }
     },
@@ -366,6 +378,10 @@
         "cUjcs47e3v6nhFFD": {
           "name": "Resumen",
           "text": "<blockquote class=\"tasha\"><p>Los grupos tienen poder. Una abeja es una molestia, pero nadie se mete con el enjambre.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo tiene vínculos con un poderoso consorcio de profesionales que colaboran para obtener un beneficio mutuo. Podríais ser miembros veteranos del gremio, descendientes de una familia de artesanos o mercaderes de la que heredasteis la afiliación, o quizá estéis trabajando para ingresar por méritos propios. Si servís bien a sus intereses, el gremio promete cuidar de vosotros. Al fin y al cabo, los gremios odian desperdiciar recursos valiosos: sería un mal negocio.</p>"
+        },
+        "gKSxkhc9fzmBwy0g": {
+          "name": "Tipos de gremios",
+          "text": "<p>La estructura de un gremio abarca una gran variedad de empresas que se distinguen por su especialidad. Herreros, joyeros, carpinteros, sastres, alquimistas, escribas y sabios podrían organizarse como gremio. Sea cual sea su oficio, estos expertos comparten contactos, intercambian recursos como materiales o herramientas y aprovechan su influencia colectiva para orientar la política en beneficio propio. Los mercaderes y otros propietarios de negocios también podrían organizarse en gremios. Tanto unos barones mercantes que gobiernen de hecho una ciudad o nación mediante un control férreo de la economía como una red de posaderos que comparta noticias y rutas de suministro podrían actuar como patrones. Un gremio podría incluso encarnar un grupo más siniestro que comercie con mercancías aterradoras, como monstruos mortíferos, conocimientos peligrosos o almas.</p><p>Tira o elige en la tabla Tipos de gremios para determinar la clase general de organización en la que operáis.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeGuildTypes00]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.hVuMIThlNM6NLlyD]</p>"
         },
         "MrGzcFybgYpuHHPo": {
           "name": "Contacto del gremio",
@@ -475,6 +491,10 @@
         "BTu7PScmDkoRLMU6": {
           "name": "Resumen",
           "text": "<blockquote class=\"tasha\"><p>Claro, sirve a esa orden religiosa y pronto estarás lavando mil coladas de tu sumo sacerdote porque, casualmente, es la voluntad divina.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo actúa al servicio de una institución religiosa. Sin embargo, el patrocinio de una orden religiosa no consiste simplemente en que todos los miembros del grupo compartan la misma fe. La administración de la fe, con sus propios recursos, objetivos y dirigentes, patrocina y guía directamente vuestras aventuras.</p>"
+        },
+        "IxmGaogFNGfvhRzU": {
+          "name": "Miembro de una orden religiosa",
+          "text": "<p>Tu principal deber para con una orden religiosa es extender la influencia de tu dios. Esta obligación puede abarcar desde hacer proselitismo u oficiar servicios religiosos hasta imponer castigos divinos o recuperar reliquias perdidas. Más allá de eso, las necesidades de la orden son muy variadas. El patrón confía en vuestro grupo por sus aptitudes particulares o, quizá, por capricho divino.</p><p>La tabla Funciones de los miembros de una orden religiosa sugiere puestos que podrías ocupar y los trasfondos asociados habitualmente a cada uno.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"ReligiousOrderMemberRoles\" data-content-chunk-id=\"a629da1d-279d-47c3-af1a-a4376d18a389\">Funciones de los miembros de una orden religiosa</h5></caption><thead><tr><th>Función</th><th>Trasfondos</th></tr></thead><tbody><tr><td>Consejero</td><td>Acólito, héroe del pueblo, ermitaño, sabio, huérfano</td></tr><tr><td>Defensor</td><td>Acólito, criminal, héroe del pueblo, forastero, soldado</td></tr><tr><td>Asceta</td><td>Acólito, artista, ermitaño, sabio, soldado</td></tr><tr><td>Inquisidor</td><td>Acólito, criminal, noble, marinero, soldado</td></tr><tr><td>Emisario</td><td>Acólito, charlatán, artista, noble, marinero</td></tr><tr><td>Elegido</td><td>Cualquiera</td></tr></tbody></table>"
         },
         "TUP1nCfYybsd4tmY": {
           "name": "Misiones de la orden religiosa",
