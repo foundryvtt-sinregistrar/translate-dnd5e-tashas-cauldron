@@ -16,6 +16,7 @@
   },
   "entries": {
     "tcoeAcademy00000": {
+      "name": "Academia",
       "folder": "Patrones de ejemplo",
       "pages": {
         "HQJtTlhlSkSnMQNv": {
@@ -83,6 +84,7 @@
       }
     },
     "tcoeAncientBeing": {
+      "name": "Ser ancestral",
       "folder": "Patrones de ejemplo",
       "pages": {
         "aESEKKujRlVOl8Jr": {
@@ -112,6 +114,7 @@
       }
     },
     "tcoeAristocrat00": {
+      "name": "Aristócrata",
       "folder": "Patrones de ejemplo",
       "pages": {
         "1AKNsyu9p2TTy3b5": {
@@ -151,6 +154,9 @@
         "D4HiVlSX3VkEDjW0": {
           "name": "Armero"
         },
+        "gHzW0fogl9fIGGck": {
+          "name": "Clase de artífice"
+        },
         "GVrTiuOaiAYlmktt": {
           "name": "Forjabatallas"
         },
@@ -167,6 +173,7 @@
       }
     },
     "tcoeBarbarian000": {
+      "name": "Bárbaro",
       "folder": "Clases y subclases",
       "pages": {
         "CZPOS6IiBi4PO7oV": {
@@ -186,6 +193,7 @@
       }
     },
     "tcoeBard00000000": {
+      "name": "Bardo",
       "folder": "Clases y subclases",
       "pages": {
         "9fswlU4ovlHmYUXn": {
@@ -205,27 +213,239 @@
       }
     },
     "tcoeCh1ArtHandou": {
+      "name": "Ilustraciones del capítulo 1",
       "folder": "Opciones de personaje",
       "pages": {
+        "1q7vlsEVZJehxUh7": {
+          "name": "Brujo humano del Insondable"
+        },
+        "2pcj4JvZ8ewOlqA4": {
+          "name": "Druida con compañero salvaje"
+        },
+        "4j3oQOqiJelqVvUI": {
+          "name": "Monje orco de los Cuatro Elementos"
+        },
+        "5PzKotemd6f3R3sa": {
+          "name": "Druida"
+        },
+        "5zlsuGmk8pK5UrYZ": {
+          "name": "Bárbaro humano de la Bestia"
+        },
+        "6EW1TRbRwwlnLwjV": {
+          "name": "Artífice combatiendo con un cañón sobrenatural"
+        },
+        "6tKNVBHJpLoOkuV1": {
+          "name": "Fantasma tiefling"
+        },
+        "7E9GG01iZRzaf40E": {
+          "name": "Guerrero psiónico alto elfo"
+        },
+        "8HgMNIpDx5cTTffm": {
+          "name": "Bardo del Colegio de la Creación"
+        },
+        "9jpbyuuSCxJWfhkc": {
+          "name": "Alma mecánica humana"
+        },
+        "27lv0PWo5rHvjLZL": {
+          "name": "Mago"
+        },
+        "abz4xvX5KZi9in3U": {
+          "name": "Pícaro"
+        },
+        "ACJGQJBWXSC9Ipz8": {
+          "name": "Bardo drow de la Elocuencia"
+        },
+        "aHQZoHUueMHTeLfU": {
+          "name": "Bárbaro elfo silvano de Magia Salvaje"
+        },
+        "AxK2ibQLLMQNuiGL": {
+          "name": "Un hechicero usa Conjuro transmutado"
+        },
+        "BZQGBZnDK514luKG": {
+          "name": "Monje"
+        },
+        "cKdmgnxbbULO8Qgf": {
+          "name": "Artífices armeros drow y tiefling"
+        },
+        "cmaUODjbJPF5DuPH": {
+          "name": "Guerrero"
+        },
         "Cn0cErlgKiuJOr33": {
           "name": "Artífice"
         },
+        "dYeiytHkYV1dZmNO": {
+          "name": "Tasha escribiendo"
+        },
+        "eniyUpGVyqsygpF3": {
+          "name": "Caballero Rúnico orco"
+        },
+        "fA1h8E6dyOn2jqDo": {
+          "name": "Bardo"
+        },
+        "fcGx5wCmFMs4wAxF": {
+          "name": "Monje elfo silvano de la Misericordia"
+        },
+        "FghIByn2pP7k0sIl": {
+          "name": "Paladín"
+        },
+        "fxRdNAdtzBdhTIAu": {
+          "name": "Una drow y un alto elfo Cantores de la Hoja"
+        },
+        "hOjDZL9TfdqQ3zVM": {
+          "name": "Explorador"
+        },
+        "HWxprm59XjY0hYBf": {
+          "name": "Soldado de asalto"
+        },
+        "I5tDI7EN0bfWIQFP": {
+          "name": "Sirvientes homúnculos"
+        },
+        "ipGeK4t9lSayAMtf": {
+          "name": "Una exploradora mediana recorre las tierras salvajes"
+        },
+        "JruNYNWVlxkMBkl9": {
+          "name": "Un joven paladín busca orientación divina"
+        },
+        "LZhmSSjGVYm1Be9a": {
+          "name": "Artillero humano"
+        },
+        "mjX1ct8fyXYQAMXL": {
+          "name": "Hechicero"
+        },
+        "n9u7OEMOsk9SszKw": {
+          "name": "Tiefling del Pacto del Talismán"
+        },
+        "nAdEfYQgnMlo0mOH": {
+          "name": "A lomos de un unicornio, una barda telepática inspira a su compañera maga"
+        },
+        "Oe8cs8IVR8IipkzP": {
+          "name": "Monje dracónido del Yo Astral"
+        },
+        "qo0HrmGa1cSTLXDo": {
+          "name": "Alquimista enano"
+        },
+        "r9vwUjI8lbjEAG20": {
+          "name": "Druida gnomo de las Esporas"
+        },
+        "RAEJtaUca1vMs7Ey": {
+          "name": "Brujo"
+        },
+        "rjmqGPjzDFz7vlZH": {
+          "name": "Clérigo humano de la Paz"
+        },
+        "RtxEHjHLEtsYFppk": {
+          "name": "Errante Feérico humano"
+        },
+        "sVdwDpQsuoSoyxnL": {
+          "name": "Clérigo"
+        },
+        "tLtVP2IFAhQwHs0M": {
+          "name": "Druida enano del Fuego Salvaje"
+        },
+        "tVB601ueje3undDR": {
+          "name": "Mago humano de la Orden de los Escribas"
+        },
+        "U9UeyFBFLesMYcSq": {
+          "name": "Paladín enano de los Vigilantes"
+        },
+        "UOfWXmJ1vYkH5QpW": {
+          "name": "Mente Aberrante tiefling"
+        },
+        "UVB5FwypZ0J1wKRJ": {
+          "name": "Druida tiefling de las Estrellas"
+        },
+        "ux11zjPeYhe7fxA0": {
+          "name": "Una pícara drow apunta"
+        },
+        "V08rMlXOGRLeVeQs": {
+          "name": "Paladín tiefling de Gloria"
+        },
+        "v9RHHDZcW7x0fC6r": {
+          "name": "Un brujo usa la vasija de un genio para luchar contra un cíclope"
+        },
+        "vYeJPsHbwUsyojy6": {
+          "name": "Herrero de batalla gnomo"
+        },
+        "w0Per6HYAb84kCy0": {
+          "name": "Un clérigo canaliza poder divino"
+        },
         "wk1PFJTEbobAgdrD": {
           "name": "Adepto Arcano"
+        },
+        "wLkstZZm04KmeyNs": {
+          "name": "Un joven guerrero entrena con un instructor"
+        },
+        "WR7MSOfxUskhGbsH": {
+          "name": "Clérigo humano del Crepúsculo"
+        },
+        "WYjJYubqhI1yXSMm": {
+          "name": "Clérigo dracónido del Orden"
+        },
+        "XnuJbUH9yEnsot5B": {
+          "name": "Bárbaro"
+        },
+        "XPx1KoSMu01Nqb5F": {
+          "name": "Guardaenjambres gnomo"
+        },
+        "yeUsele0D1R86Jz6": {
+          "name": "Tasha estudia magia al aire libre"
+        },
+        "zoXF320nlVkAFV63": {
+          "name": "Rebanaalmas mediano"
         }
       }
     },
     "tcoeCh2ArtHandou": {
-      "folder": "Patrones de grupo"
+      "name": "Ilustraciones del capítulo 2",
+      "folder": "Patrones de grupo",
+      "pages": {
+        "2pLN7LLIeB6LGAhY": {
+          "name": "Un aristócrata elfo silvano"
+        },
+        "63MyPPi3MHpV3d4Z": {
+          "name": "Ott Piesdeacero"
+        },
+        "EAM1ofjpQQBIvPiT": {
+          "name": "Ser tu propio patrón"
+        },
+        "hVuMIThlNM6NLlyD": {
+          "name": "Un héroe lucha contra un bullywug sobre un carruaje"
+        },
+        "IPfdFutlfTcmnY2P": {
+          "name": "Mensajero dracónido"
+        },
+        "MPcXlfdTPMrfN7gj": {
+          "name": "Novios magos descansando"
+        },
+        "OmM9b8zoYnfWHpd9": {
+          "name": "Un soberano tritón"
+        },
+        "v53DFGctCNxQU7U9": {
+          "name": "Acólitos preparando un festival de couatls"
+        },
+        "YBWMpgQm17YR92hp": {
+          "name": "Azalin, el liche, espía el castillo Ravenloft"
+        },
+        "yHOCopMdeE6ZJWF1": {
+          "name": "Unos magos juran lealtad a Tasha"
+        }
+      }
     },
     "tcoeCh3ArtHandou": {
+      "name": "Ilustraciones del capítulo 3",
       "folder": "Miscelánea mágica",
       "pages": {
         "2p0syMyKUGyjMi2j": {
           "name": "Fortaleza del intelecto"
         },
+        "a8S6LuBORaltpaRu": {
+          "name": "Tasha conversa con Graz'zt"
+        },
         "ApBcbybCXS1QUM0i": {
           "name": "Invocar celestial"
+        },
+        "ib9ZAIazl2winHcV": {
+          "name": "Una tatuadora trabajando"
         },
         "OcUV9YSShnxfXJ4V": {
           "name": "Latigazo mental de Tasha"
@@ -233,13 +453,20 @@
         "R7OvJjcOElbyfTNr": {
           "name": "Invocar engendro sombrío"
         },
+        "s5TfYGjX3eDqVYOu": {
+          "name": "Un hechicero granjero lanza proyectiles mágicos"
+        },
         "V1uDO3Uln2xSvfUn": {
           "name": "Astilla Mental"
         }
       }
     },
     "tcoeChangelog000": {
+      "name": "Registro de cambios de Tasha",
       "pages": {
+        "3PJULQ1Qbg056sO0": {
+          "name": "2.0.0"
+        },
         "hXWmCdR5C3Zv7a6T": {
           "name": "1.1.0",
           "text": "<h2>Mejoras de funcionalidad</h2><ul><li><p>Se añadió un frasco consumible para utilizarlo con el rasgo Elixir experimental. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/568\">[#568]</a></p></li><li><p>Se configuraron las baratijas de alma como objetos consumibles que se destruyen al usarlos para facilitar su seguimiento. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/569\">[#569]</a></p></li><li><p>Se añadió a Tasha una marca de mapeo para las rutas dinámicas de sujetos de token y se ajustaron algunos actores con opciones de comodín para utilizarla.</p></li></ul><h2>Correcciones de errores</h2><ul><li><p>Se resolvieron varios problemas con imágenes incorrectas de tokens y sujetos. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/566\">[#566]</a></p></li><li><p>Se eliminó el duplicado del tatuaje Furia sangrienta. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/570\">[#570]</a></p></li><li><p>Se movió el tatuaje Agarre serpenteante a la carpeta Tatuajes mágicos.</p></li><li><p>Se corrigió el rasgo Telepatía de los hechiceros de Mente aberrante para que utilice correctamente su escala de nivel (@classes.sorcerer.levels).</p></li><li><p>Se eliminaron estilos innecesarios de @Embed del módulo, pues ahora se encuentran en el sistema.</p></li></ul>"
@@ -267,6 +494,7 @@
       }
     },
     "tcoeCleric000000": {
+      "name": "Clérigo",
       "folder": "Clases y subclases",
       "pages": {
         "1Tiz5GJn7aP4531T": {
@@ -289,6 +517,7 @@
       }
     },
     "tcoeCredits00000": {
+      "name": "Créditos y licencia",
       "pages": {
         "dtqA6TTb2PAbwRpm": {
           "name": "Créditos de la conversión a Foundry",
@@ -305,6 +534,7 @@
       }
     },
     "tcoeCriminalSynd": {
+      "name": "Sindicato criminal",
       "folder": "Patrones de ejemplo",
       "pages": {
         "HBITP6nmRZoUPbhe": {
@@ -334,6 +564,7 @@
       }
     },
     "tcoeDisclaimer00": {
+      "name": "Descargo de responsabilidad",
       "pages": {
         "V5vcJ8bQSQtF2bFE": {
           "name": "Aviso legal",
@@ -342,6 +573,7 @@
       }
     },
     "tcoeDruid0000000": {
+      "name": "Druida",
       "folder": "Clases y subclases",
       "pages": {
         "kPdP1QUNBJkUQyuI": {
@@ -364,6 +596,7 @@
       }
     },
     "tcoeFeats0000000": {
+      "name": "Dotes",
       "folder": "Opciones de personaje",
       "pages": {
         "KHdPpVOwnWijwaHr": {
@@ -373,6 +606,7 @@
       }
     },
     "tcoeFighter00000": {
+      "name": "Guerrero",
       "folder": "Clases y subclases",
       "pages": {
         "iVJ8nczkEUU7LJQO": {
@@ -381,6 +615,9 @@
         },
         "moOVqeyY1pT8V3qH": {
           "name": "Caballero rúnico"
+        },
+        "tUAppt6NwqRBcqc5": {
+          "name": "Creación de un Maestro del Combate"
         },
         "twKSnK1a5XVCAF8D": {
           "name": "Guerrero psiónico"
@@ -392,6 +629,7 @@
       }
     },
     "tcoeFirearmRules": {
+      "name": "Reglas de armas de fuego",
       "folder": "Reglas y referencias adicionales",
       "pages": {
         "27863221ec9HgWPG": {
@@ -425,15 +663,22 @@
       }
     },
     "tcoeGettingStart": {
+      "name": "Primeros pasos",
       "folder": "Opciones de personaje",
       "pages": {
         "kwpn2b5Vk6YqU9Uj": {
           "name": "Cambiar una habilidad",
           "text": "<p>A veces eliges una competencia en una habilidad que termina siendo poco útil en la campaña o que ya no encaja con la historia de tu personaje. En esos casos, habla con tu DM para sustituirla por otra competencia en una habilidad que tu clase ofrezca a nivel 1. Un momento adecuado para este cambio es cuando alcanzas un nivel que te concede el rasgo Mejora de Puntuación de Característica, lo que representa que tu personaje ha dedicado uno o dos niveles a estudiar la nueva habilidad y ha dejado que la anterior se oxide.</p>"
         },
+        "l649nwVCGediqZPu": {
+          "name": "Resumen"
+        },
         "LlecS7ZnaS5Nf20k": {
           "name": "Rasgos de clase opcionales",
           "text": "<p>A diferencia de los rasgos del Player’s Handbook, no obtienes automáticamente los que se presentan aquí. Tras consultarlo con tu DM, decides si obtienes un rasgo de esta sección cuando cumplas el requisito de nivel indicado en su descripción. Estos rasgos pueden elegirse por separado: puedes usar uno, varios o ninguno.</p>"
+        },
+        "mthh3is1OXIWGoVN": {
+          "name": "Personalizar tu origen"
         },
         "Q0VQK3YfbwAuIa6R": {
           "name": "Cambiar de subclase",
@@ -442,6 +687,7 @@
       }
     },
     "tcoeGroupPatrons": {
+      "name": "Resumen",
       "folder": "Patrones de grupo",
       "pages": {
         "DHfja8iFOUtJcz8K": {
@@ -463,6 +709,7 @@
       }
     },
     "tcoeGuild0000000": {
+      "name": "Gremio",
       "folder": "Patrones de ejemplo",
       "pages": {
         "cUjcs47e3v6nhFFD": {
@@ -492,6 +739,7 @@
       }
     },
     "tcoeMagicalMisce": {
+      "name": "Resumen",
       "folder": "Miscelánea mágica",
       "pages": {
         "u8OUu6ZSuDkohrmQ": {
@@ -501,9 +749,19 @@
       }
     },
     "tcoeMagicItems00": {
-      "folder": "Miscelánea mágica"
+      "name": "Objetos mágicos",
+      "folder": "Miscelánea mágica",
+      "pages": {
+        "Y7lwVG4Pe2N2ogOB": {
+          "name": "Objetos mágicos con descripciones"
+        },
+        "yYCrYxuC86LQSwoO": {
+          "name": "Resumen"
+        }
+      }
     },
     "tcoeMagicTattoos": {
+      "name": "Tatuajes mágicos",
       "folder": "Miscelánea mágica",
       "pages": {
         "5H3ANcfqyYEbWg4t": {
@@ -525,6 +783,7 @@
       }
     },
     "tcoeMilitaryForc": {
+      "name": "Fuerza militar",
       "folder": "Patrones de ejemplo",
       "pages": {
         "6scUr3LNtFt5NRmY": {
@@ -554,6 +813,7 @@
       }
     },
     "tcoeMonk00000000": {
+      "name": "Monje",
       "folder": "Clases y subclases",
       "pages": {
         "29gDgmr3txtYVbKZ": {
@@ -573,6 +833,7 @@
       }
     },
     "tcoePaladin00000": {
+      "name": "Paladín",
       "folder": "Clases y subclases",
       "pages": {
         "e0zaT4rFGgaRQ1JQ": {
@@ -592,6 +853,7 @@
       }
     },
     "tcoeRanger000000": {
+      "name": "Explorador",
       "folder": "Clases y subclases",
       "pages": {
         "AzaR6wo8GHqDANzJ": {
@@ -615,6 +877,7 @@
       }
     },
     "tcoeReligiousOrd": {
+      "name": "Orden religiosa",
       "folder": "Patrones de ejemplo",
       "pages": {
         "9PHZOYFcP3He0jiT": {
@@ -644,6 +907,7 @@
       }
     },
     "tcoeRogue0000000": {
+      "name": "Pícaro",
       "folder": "Clases y subclases",
       "pages": {
         "deolK7oQdhSdjQCx": {
@@ -663,6 +927,7 @@
       }
     },
     "tcoeSocialIntera": {
+      "name": "Reglas de interacción social",
       "folder": "Reglas y referencias adicionales",
       "pages": {
         "6bDxUhuCAZqXNzZz": {
@@ -704,6 +969,7 @@
       }
     },
     "tcoeSorcerer0000": {
+      "name": "Hechicero",
       "folder": "Clases y subclases",
       "pages": {
         "ARhekFrVkOMpbkeI": {
@@ -723,6 +989,7 @@
       }
     },
     "tcoeSovereign000": {
+      "name": "Soberano",
       "folder": "Patrones de ejemplo",
       "pages": {
         "6O2tSjh2tE9LGSbP": {
@@ -752,14 +1019,40 @@
       }
     },
     "tcoeSpellLists00": {
+      "name": "Listas de conjuros",
       "folder": "Opciones de personaje",
       "pages": {
         "btQIVPtSLQewCrTZ": {
           "name": "Artífice"
+        },
+        "EBBsBF8KCPL7NlXv": {
+          "name": "Conjuros opcionales de paladín"
+        },
+        "HgktirAKE31kSJ8a": {
+          "name": "Conjuros opcionales de hechicero"
+        },
+        "jq8G9NnSjnEBCP8j": {
+          "name": "Conjuros opcionales de clérigo"
+        },
+        "rHOKftL05MGoJQjT": {
+          "name": "Conjuros opcionales de mago"
+        },
+        "S7h7mJzR4AQK09ei": {
+          "name": "Conjuros opcionales de bardo"
+        },
+        "sbkRSmFhwCTQWrAU": {
+          "name": "Conjuros opcionales de druida"
+        },
+        "v7FEEIRGjDiO5kDq": {
+          "name": "Conjuros opcionales de explorador"
+        },
+        "X9fZ7m7cmAdN108q": {
+          "name": "Conjuros opcionales de brujo"
         }
       }
     },
     "tcoeSpells000000": {
+      "name": "Conjuros",
       "folder": "Miscelánea mágica",
       "pages": {
         "INWfoeGvE7GKjp3J": {
@@ -769,11 +1062,28 @@
         "Tq8BOjtWKwweU3wJ": {
           "name": "Resumen",
           "text": "<blockquote class=\"tasha\"><p>Vaya por dios. ¿Qué habrá sido de los conjuros Palmaditas Abundantes de Mordenkainen, Aire Caliente de Heward y todos los demás? Estoy segura de que entregué los conjuros que insistieron en incluir aquí. Parece que se perdieron entre el papeleo. Qué lástima.</p><p><cite>Tasha</cite></p></blockquote><p>Esta sección contiene nuevos conjuros que el DM puede añadir a una campaña para ponerlos a disposición de personajes jugadores y monstruos lanzadores. La tabla Conjuros los ordena por nivel e indica su escuela de magia, si requieren concentración, si poseen la etiqueta ritual y qué clases tienen acceso.</p><p>Si quieres utilizar alguno, habla con tu DM, que puede permitir algunos, todos o ninguno.</p><table><caption>Conjuros</caption><thead><tr><th>Nivel</th><th>Conjuro</th><th>Escuela</th><th>Conc.</th><th>Ritual</th><th>Clase</th></tr></thead><tbody><tr><td>0</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeBoomingBlade]{Hoja atronadora}</td><td>Evocación</td><td>No</td><td>No</td><td>Artífice, hechicero, brujo, mago</td></tr><tr><td>0</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeGreenflameBl]{Hoja de llama verde}</td><td>Evocación</td><td>No</td><td>No</td><td>Artífice, hechicero, brujo, mago</td></tr><tr><td>0</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeLightningLur]{Atraer con relámpago}</td><td>Evocación</td><td>No</td><td>No</td><td>Artífice, hechicero, brujo, mago</td></tr><tr><td>0</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeMindSliver00]{Astilla mental}</td><td>Encantamiento</td><td>No</td><td>No</td><td>Hechicero, brujo, mago</td></tr><tr><td>0</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSwordBurst00]{Estallido de espadas}</td><td>Conjuración</td><td>No</td><td>No</td><td>Artífice, hechicero, brujo, mago</td></tr><tr><td>1</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeTashasCausti]{Brebaje cáustico de Tasha}</td><td>Evocación</td><td>Sí</td><td>No</td><td>Artífice, hechicero, mago</td></tr><tr><td>2</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonBeast0]{Invocar bestia}</td><td>Conjuración</td><td>Sí</td><td>No</td><td>Druida, explorador</td></tr><tr><td>2</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeTashasMindWh]{Látigo mental de Tasha}</td><td>Encantamiento</td><td>No</td><td>No</td><td>Hechicero, mago</td></tr><tr><td>3</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeIntellectFor]{Fortaleza intelectual}</td><td>Abjuración</td><td>Sí</td><td>No</td><td>Artífice, bardo, hechicero, brujo, mago</td></tr><tr><td>3</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSpiritShroud]{Mortaja espiritual}</td><td>Nigromancia</td><td>Sí</td><td>No</td><td>Clérigo, paladín, brujo, mago</td></tr><tr><td>3</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonFey000]{Invocar feérico}</td><td>Conjuración</td><td>Sí</td><td>No</td><td>Druida, explorador, brujo, mago</td></tr><tr><td>3</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonShadow]{Invocar engendro sombrío}</td><td>Conjuración</td><td>Sí</td><td>No</td><td>Brujo, mago</td></tr><tr><td>3</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonUndead]{Invocar muerto viviente}</td><td>Nigromancia</td><td>Sí</td><td>No</td><td>Brujo, mago</td></tr><tr><td>4</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonAberra]{Invocar aberración}</td><td>Conjuración</td><td>Sí</td><td>No</td><td>Brujo, mago</td></tr><tr><td>4</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonConstr]{Invocar constructo}</td><td>Conjuración</td><td>Sí</td><td>No</td><td>Artífice, mago</td></tr><tr><td>4</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonElemen]{Invocar elemental}</td><td>Conjuración</td><td>Sí</td><td>No</td><td>Druida, explorador, mago</td></tr><tr><td>5</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonCelest]{Invocar celestial}</td><td>Conjuración</td><td>Sí</td><td>No</td><td>Clérigo, paladín</td></tr><tr><td>6</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeSummonFiend0]{Invocar infernal}</td><td>Conjuración</td><td>Sí</td><td>No</td><td>Brujo, mago</td></tr><tr><td>6</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeTashasOtherw]{Apariencia sobrenatural de Tasha}</td><td>Transmutación</td><td>Sí</td><td>No</td><td>Hechicero, brujo, mago</td></tr><tr><td>7</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeDreamOfTheBl]{Sueño del Velo Azul}</td><td>Conjuración</td><td>No</td><td>No</td><td>Bardo, hechicero, brujo, mago</td></tr><tr><td>9</td><td>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeBladeOfDisas]{Hoja del desastre}</td><td>Conjuración</td><td>Sí</td><td>No</td><td>Hechicero, brujo, mago</td></tr></tbody></table>"
+        },
+        "wXv3IeVcPqH1RXby": {
+          "name": "Lista completa de conjuros de Tasha"
         }
       }
     },
-    "tcoeUsingThisBoo": {},
+    "tcoeUsingThisBoo": {
+      "name": "Uso de este libro",
+      "pages": {
+        "DIAVZLzqQmytywdN": {
+          "name": "Portada"
+        },
+        "QnrU7PvgLZ7X10mQ": {
+          "name": "Resumen"
+        },
+        "U5nkMh7LpyG7Cxvq": {
+          "name": "Diez reglas que recordar"
+        }
+      }
+    },
     "tcoeWarlock00000": {
+      "name": "Brujo",
       "folder": "Clases y subclases",
       "pages": {
         "7yar1DK2WdiQpG3J": {
@@ -797,6 +1107,7 @@
       }
     },
     "tcoeWizard000000": {
+      "name": "Mago",
       "folder": "Clases y subclases",
       "pages": {
         "2t6WqU4PJhPbOrot": {
