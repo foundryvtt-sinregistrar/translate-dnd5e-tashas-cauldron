@@ -1047,20 +1047,6 @@
   },
   {
     "entryId": "tcoeMagicTattoos",
-    "pageId": "5H3ANcfqyYEbWg4t",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeMagicTattoos",
-    "pageId": "5H3ANcfqyYEbWg4t",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p>Blending magic and artistry with ink and needles, magic tattoos imbue their bearers with wondrous abilities. Magic tattoos are initially bound to magic needles, which transfer their magic to a creature.</p><p>Once inscribed on a creature’s body, damage or injury doesn’t impair the tattoo’s function, even if the tattoo is defaced. When applying a magic tattoo, a creature can customize the tattoo’s appearance. A magic tattoo can look like a brand, scarification, a birthmark, patterns of scale, or any other cosmetic alteration.</p><p>The rarer a magic tattoo is, the more space it typically occupies on a creature’s skin. The Magic Tattoo Coverage table offers guidelines for how large a given tattoo is.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh3ArtHandou.JournalEntryPage.ib9ZAIazl2winHcV]</p><table><caption>Magic Tattoo Coverage</caption><thead><tr><th>Tattoo Rarity</th><th>Area Covered</th></tr></thead><tbody><tr><td>Common</td><td>One hand or foot or a quarter of a limb</td></tr><tr><td>Uncommon</td><td>Half a limb or the scalp</td></tr><tr><td>Rare</td><td>One limb</td></tr><tr><td>Very Rare</td><td>Two limbs or the chest or upper back</td></tr><tr><td>Legendary</td><td>Two limbs and the torso</td></tr></tbody></table>"
-  },
-  {
-    "entryId": "tcoeMagicTattoos",
     "pageId": "PuOrz6JcGK0GMHGv",
     "pageName": "Tattoos",
     "path": "name",
@@ -1084,20 +1070,6 @@
     "entryId": "tcoeMilitaryForc",
     "path": "name",
     "source": "Military Force"
-  },
-  {
-    "entryId": "tcoeMilitaryForc",
-    "pageId": "f895W6nXH4djigsr",
-    "pageName": "Military Force Envoys",
-    "path": "name",
-    "source": "Military Force Envoys"
-  },
-  {
-    "entryId": "tcoeMilitaryForc",
-    "pageId": "f895W6nXH4djigsr",
-    "pageName": "Military Force Envoys",
-    "path": "text",
-    "source": "<p>You might join a military force for a wide range of reasons, or the military has reasons for seeking you out. Those with specialized skills contribute to a range of missions, from infiltration and mystical operations to diplomacy and strategy. Perhaps your past deeds or the will of your family pushes you toward military service, regardless of whether you believe you’re suited to such a life.</p><p>The Military Force Envoy Roles table suggests a variety of military roles you could fill and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"MilitaryForceEnvoyRoles\" data-content-chunk-id=\"2e2042cc-b296-4020-b3f3-aedacef4d24c\">Military Force Envoy Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Combatant</td><td>Criminal, Folk Hero, Outlander, Sailor, Soldier</td></tr><tr><td>Tactician</td><td>Acolyte, Folk Hero, Noble, Outlander, Sage, Soldier</td></tr><tr><td>Medic</td><td>Acolyte, Folk Hero, Hermit, Sage, Soldier</td></tr><tr><td>Scout</td><td>Hermit, Outlander, Sailor, Soldier, Urchin</td></tr><tr><td>Provocateur</td><td>Acolyte, Charlatan, Criminal, Entertainer, Noble</td></tr><tr><td>Spy</td><td>Any</td></tr></tbody></table>"
   },
   {
     "entryId": "tcoeMilitaryForc",
@@ -1201,20 +1173,6 @@
   },
   {
     "entryId": "tcoeSocialIntera",
-    "pageId": "gWVUCe79RgZcxUA3",
-    "pageName": "Social Interaction Rules",
-    "path": "name",
-    "source": "Social Interaction Rules"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "gWVUCe79RgZcxUA3",
-    "pageName": "Social Interaction Rules",
-    "path": "text",
-    "source": "<p>During a social interaction, the adventurers usually have a goal. They want to extract information, secure aid, win someone’s trust, escape punishment, avoid combat, negotiate a treaty, or achieve whatever other objective led to the interaction in the first place. The creatures they interact with also have agendas.</p><p>Some DMs prefer to run a social interaction as a free-form roleplaying exercise, where dice rarely come into play. Other DMs prefer to resolve the outcome of an interaction by having characters make Charisma checks. Either approach works, and most games fall somewhere in between, balancing player skill (roleplaying and persuading) with character skill (reflected by ability checks).</p><h2>Resolving Interactions</h2><p>The Player’s Handbook provides guidelines for balancing roleplaying and ability checks in a social interaction (see chapter 8, \"Adventuring\"). This section adds to that material by providing a structured way to resolve a social interaction. Much of this structure will be invisible to your players in play and isn’t meant to be a substitute for roleplaying.</p><h3>1. Starting Attitude</h3><p>Choose the starting attitude of a creature the adventurers are interacting with: friendly, indifferent, or hostile.</p>"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
     "pageId": "zs5ib2lIjJ6On1sx",
     "pageName": "3. Charisma Check",
     "path": "name",
@@ -1250,20 +1208,6 @@
     "entryId": "tcoeSovereign000",
     "path": "name",
     "source": "Sovereign"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "Bb4xRQrhHHPG5GFv",
-    "pageName": "Sovereign Proxies",
-    "path": "name",
-    "source": "Sovereign Proxies"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "Bb4xRQrhHHPG5GFv",
-    "pageName": "Sovereign Proxies",
-    "path": "text",
-    "source": "<p>You serve a sovereign out of national pride, out of tradition, or for your own practical reasons. The needs of a leader potentially embroil you directly in political intrigues, court maneuverings, or threats from national foes. It’s up to you and the sovereign to determine whether your work is publicly acknowledged or top secret—and if the latter, what happens if your work is exposed.</p><p>The Sovereign Proxy Roles table suggests ways you might serve a sovereign and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"SovereignProxyRoles\" data-content-chunk-id=\"2ecb29a1-0734-4647-941b-4cd4d4a26cec\">Sovereign Proxy Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Advisor</td><td>Acolyte, Folk Hero, Noble, Sage, Soldier</td></tr><tr><td>Ambassador</td><td>Charlatan, Folk Hero, Guild Artisan, Noble, Sailor</td></tr><tr><td>Secret Agent</td><td>Charlatan, Criminal, Entertainer, Soldier, Urchin</td></tr><tr><td>Champion</td><td>Criminal, Noble, Outlander, Soldier, Urchin</td></tr><tr><td>Jester</td><td>Charlatan, Criminal, Entertainer, Outlander, Urchin</td></tr><tr><td>Confidant</td><td>Any</td></tr></tbody></table>"
   },
   {
     "entryId": "tcoeSovereign000",
