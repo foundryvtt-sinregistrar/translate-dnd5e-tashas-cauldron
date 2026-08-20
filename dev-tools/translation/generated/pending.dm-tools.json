@@ -270,20 +270,6 @@
   },
   {
     "entryId": "tcoeDungeonMaste",
-    "pageId": "WXL0dwsr44ajQv9D",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeDungeonMaste",
-    "pageId": "WXL0dwsr44ajQv9D",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p>The Dungeon Master employs many tools when preparing and running a D&amp;D campaign. As a DM, your tools include your imagination, your ability to discern what entertains your players, your storytelling acumen, your sense of humor, your ability to listen well, your facility with the game’s rules, and more. This chapter adds to your toolbox with guidance and optional rules for a variety of situations. The chapter also includes a selection of ready-to-use puzzles, which you can drop into any campaign.</p><p>The tools herein build on the material in the Dungeon Master's Guide and the Monster Manual. You may use some, all, or none of these tools, and feel free to customize how they work. Your group’s enjoyment is paramount, so make these rules your own, aiming to match your group’s tastes.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.SzjGKvKUWXaUZ3Yl]</p>"
-  },
-  {
-    "entryId": "tcoeDungeonMaste",
     "pageId": "zldfCMV24jvdQ4nZ",
     "pageName": "Character and Party Creation",
     "path": "name",
@@ -462,20 +448,6 @@
     "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>Dolora can’t leave the hall and avoids the alcoves.</p><h2>Alcoves</h2><p>The hall is lined with six alcoves, each one with a unique numeral between 1 and 6 carved above it. A verse scratched into the back wall of each alcove is made visible by the candlelight. Each verse is presented below, accompanied by a parenthetical explanation that shouldn’t be shared with the players or their characters:</p><p><strong>Verse 1.</strong> “Not his keeper, nor he mine; loved and hated at the same time.” (This refers to Dolora’s brother, whose name was Sam.)</p><p><strong>Verse 2.</strong> “My first vision: her hazel eyes. My first sound: her lullabies.” (This refers to Dolora’s mother, whose name was Delia.)</p><p><strong>Verse 3.</strong> “Her lives she lost, all three by three, and through the dark this hunter sees.” (This refers to Dolora’s cat, whose name was Fifi.)</p><p><strong>Verse 4.</strong> “Lines in his face of life lived long; stories were his paternal song.” (This refers to Dolora’s grandfather, whose name was Tobias.)</p><p><strong>Verse 5.</strong> “Mentor and guide, her lessons learned. Knowledge measured by letters I earned.” (This refers to Dolora’s teacher, whose name was Johana.)</p><p><strong>Verse 6.</strong> “Loved to eat hay, just as her friends did; lived in one room with a shoat and a kid.” (This refers to Dolora’s horse, whose name was Alexia.)</p><p>Each verse describes someone who was close to Dolora. Once the characters determine who a verse is talking about, they may ask Dolora to provide the correct name. For example, “What is your cat’s name?” is a valid question for verse 3. The spirit then answers, “Fifi,” and she spells it aloud.</p><h2>Candles</h2><p>Each candle is a simple, 6-inch-tall wax taper. While in this hall, the candles never melt down and can’t be extinguished.</p><h2>Rag Doll</h2><p>If the characters examine the rag doll or ask Dolora about it, she imparts the following information:</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>“My doll knows all six—the first for the first, the second for the second, the third for the third, the fourth for the fourth, the fifth for the fifth, and the sixth for the sixth.”</p></section></section>"
-  },
-  {
-    "entryId": "tcoeHauntedHallw",
-    "pageId": "Iq5duwKU9V7UPOaH",
-    "pageName": "Hint Checks",
-    "path": "name",
-    "source": "Hint Checks"
-  },
-  {
-    "entryId": "tcoeHauntedHallw",
-    "pageId": "Iq5duwKU9V7UPOaH",
-    "pageName": "Hint Checks",
-    "path": "text",
-    "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=per dc=10]]. Dolora thinks of the character as her friend. When this character figures out the answer to a riddle, Dolora calls out the name of the person it’s about unprompted (for example, as soon as the character says “mother” aloud, Dolora calls out “Delia”).</p><p>[[/check skill=itm dc=15]]. The character frightens Dolora into divulging information. She tells the character that she remembers the names of people she knew. Dolora also reveals that it’s important that their names be spelled correctly, though she doesn’t say why.</p><p>[[/check skill=inv dc=15]]. The character interprets Dolora’s cryptic clue about the doll as follows: “all six” refers to the six letters of the doll’s name, which can be determined by gathering information from the verses in the six alcoves.</p>"
   },
   {
     "entryId": "tcoeHauntedHallw",
@@ -667,20 +639,6 @@
     "pageName": "Customizing the Puzzles",
     "path": "text",
     "source": "<p>While spells and components make easy to associate lists, you might also consider creating your own version of this puzzle using paired sets of monsters and creature types, planes of existence and their native inhabitants, famous figures in a setting and their homelands, and so forth.</p><h2>Lowering the Difficulty</h2><p>If your party doesn’t include characters with considerable magical expertise, consider adding art to the room’s walls or on decorative book covers that reveal connections between the listed spells and components. These images might give away a few connections between the lists or lower the DCs of the puzzle’s hint checks.</p><h2>Raising the Difficulty</h2><p>Rather than using common spells the characters might be familiar with, a more challenging version of this puzzle might feature lost spells or other lore the party has no way of knowing. Only by consulting experts, undertaking research, or further adventuring might the party reveal the connections between the two lists.</p>"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "pageId": "XNX5MkfGny3VaUsd",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "pageId": "XNX5MkfGny3VaUsd",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p><em>Difficulty: Medium</em></p><p>This puzzle might appear in a wizard’s workshop, study, or spellbook. The solution leads to a password that reveals new or rare spells (such as those in @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSpells000000]{chapter 3}). Alternatively, the password can be used for any other function that fits with your story.</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>You find an old piece of paper bearing a list of spells and components. Random letters are also scratched quickly on the paper between the two lists. A message at the top of the page says, “read untouched to gain new spells.”</p></section></section><p>Give the players a copy of <a>puzzle handout 5</a> (see below).</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.w3YiKFwkCp18D5zh caption=false]</p>"
   },
   {
     "entryId": "tcoeMembersOnly0",
@@ -1165,20 +1123,6 @@
   },
   {
     "entryId": "tcoeSupernatural",
-    "pageId": "GsO5gVa3sQp5NpnW",
-    "pageName": "Mirror Zone",
-    "path": "name",
-    "source": "Mirror Zone"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "pageId": "GsO5gVa3sQp5NpnW",
-    "pageName": "Mirror Zone",
-    "path": "text",
-    "source": "<p>A mirror zone occurs where planar and magical energies converge and create a place of reflections. Creatures, objects, and energy reflect, refract, duplicate, or are transported elsewhere. Such locations arise from the intrusion of a theorized Plane of Mirrors upon the Material Plane, or where powerful magic governing transition, protection, or divination had unexpected results.</p><p>Consider rolling on the Mirror Zone Effects table when the following circumstances occur in the region:</p><ul><li><p>A creature shatters a mirror.</p></li><li><p>A creature uses any teleportation magic.</p></li><li><p>An illusion appears.</p></li><li><p>A creature impersonates another creature.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.L4HHpNo3t0LW2FOh caption=false]</p><h2>Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMirrorZoneEf caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeSupernatural",
     "pageId": "uUngWEqAzcs40iGg",
     "pageName": "Unraveling Magic",
     "path": "name",
@@ -1270,19 +1214,5 @@
     "pageName": "Solution",
     "path": "text",
     "source": "<p>Arrange the menu items in alphabetical order, then count into each item by the number of letters indicated in its price, as shown in the What’s On the Menu Solution table below. Stringing the seven letters together forms the password: chimera.</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"WhatsontheMenuSolution\" data-content-chunk-id=\"7c9f8c1f-4579-47e6-bb0d-148c2f94527a\">What’s on the Menu Solution</h5></caption><thead><tr><th>Item (Price)</th><th>Letter</th></tr></thead><tbody><tr><td>Ale and cheese pastry (7 cp)</td><td>C (7th letter)</td></tr><tr><td>Brandied ham and carrots (9 cp)</td><td>H (9th letter)</td></tr><tr><td>Corn and lentil soup (12 cp)</td><td>I (12th letter)</td></tr><tr><td>Dragonfire mead (11 cp)</td><td>M (11th letter)</td></tr><tr><td>Grilled fish and carrots (6 cp)</td><td>E (6th letter)</td></tr><tr><td>Rabbit stew (1 cp)</td><td>R (1st letter)</td></tr><tr><td>Seared boar and potatoes (3 cp)</td><td>A (3rd letter)</td></tr></tbody></table></div><p>The characters can figure out the password without putting the menu items in alphabetical order. Once they get all seven letters, they must solve the anagram to get the password.</p><p>Speaking the correct password to Holda grants access to whatever secrets she’s keeping—fuel for the characters’ next adventure.</p>"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "pageId": "XWZq2kUqn6JEQFJF",
-    "pageName": "Hint Checks",
-    "path": "name",
-    "source": "Hint Checks"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "pageId": "XWZq2kUqn6JEQFJF",
-    "pageName": "Hint Checks",
-    "path": "text",
-    "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=itm dc=15]] or [[/check skill=per dc=15]]. The character convinces Holda to whisper the following hint: “Count your lucky coppers that we have seven choices on the menu for you.”</p><p>[[/check skill=stealth dc=15]]. The character blends in with the crowd to eavesdrop on another table, overhearing the patrons discussing how they must have gotten a misprinted menu because the prices don’t seem right, or bemoaning the fact that the menu doesn’t list items in alphabetical order.</p><p>[[/check skill=his dc=15]]. The character recalls stories of how secret messages used to be sent through taverns using common items anyone could access, such as menus.</p><p>[[/check skill=prc dc=15]]. The character notices the prices on the menu don’t make much sense. For example, why is rabbit stew so much cheaper than corn and lentil stew?</p>"
   }
 ]
