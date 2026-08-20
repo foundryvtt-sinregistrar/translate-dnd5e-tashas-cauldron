@@ -22,6 +22,10 @@
       "name": "Reglas y referencias adicionales",
       "folder": "Reglas y referencias adicionales",
       "pages": {
+        "BwUFIRscnGdjZYV8": {
+          "name": "Resumen",
+          "text": "<p>Este diario contiene algunas reglas y referencias adicionales procedentes de fuentes externas que hemos recibido permiso para incluir:</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeFirearmRules]{Reglas de armas de fuego}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSocialIntera]{Reglas de interacción social}</p>"
+        },
         "KBTfUAsE7fxUQuKp": {
           "name": "Tabla de oleadas de magia salvaje",
           "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeWildMagicSur]</p>"
@@ -80,6 +84,10 @@
     "tcoeBard00000000": {
       "folder": "Clases y subclases",
       "pages": {
+        "9fswlU4ovlHmYUXn": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.fA1h8E6dyOn2jqDo caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.WYZMEei2b0HZgWdu]{bardo} recibe nuevos rasgos y subclases en esta sección.</p>"
+        },
         "DMRsw9mF6eOpO7Xc": {
           "name": "Colegio de la Creación"
         },
@@ -139,6 +147,10 @@
         "e3iYfFD3PIXhXi2P": {
           "name": "Dominio del Orden"
         },
+        "Hpx6iP7YC4QCBHWu": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.sVdwDpQsuoSoyxnL caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.7xAozaqWq3Z6YTsf]{clérigo} recibe nuevos rasgos y subclases en esta sección.</p>"
+        },
         "Lhm3GpFBlbvWTcfX": {
           "name": "Dominio del Crepúsculo"
         }
@@ -154,6 +166,10 @@
       "pages": {
         "kPdP1QUNBJkUQyuI": {
           "name": "Círculo de las Esporas"
+        },
+        "kVKis0NuyEDl69q4": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.5PzKotemd6f3R3sa caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.0LfgSuMJmv7bf1JU]{druida} recibe nuevos rasgos y subclases en esta sección.</p>"
         },
         "o29S5QNjHD6BbnRR": {
           "name": "Círculo de las Estrellas"
@@ -174,6 +190,10 @@
         },
         "twKSnK1a5XVCAF8D": {
           "name": "Guerrero psiónico"
+        },
+        "W6NGJQVe42asP4Zx": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.cmaUODjbJPF5DuPH caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.ygdteO7FoWsKqfOD]{guerrero} recibe nuevos rasgos y subclases en esta sección.</p>"
         }
       }
     },
@@ -227,13 +247,23 @@
       }
     },
     "tcoeMilitaryForc": {
-      "folder": "Patrones de ejemplo"
+      "folder": "Patrones de ejemplo",
+      "pages": {
+        "CYMe9FDnY2G33UEa": {
+          "name": "Contacto de la fuerza militar",
+          "text": "<p>Vuestro contacto principal dentro de la jerarquía es vuestro oficial superior, la persona que os da órdenes y responde de vuestro éxito o fracaso.</p><p>Tira o elige en la tabla Oficial al mando para determinar quién os asigna las misiones.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMilitaryCont]</p>"
+        }
+      }
     },
     "tcoeMonk00000000": {
       "folder": "Clases y subclases",
       "pages": {
         "29gDgmr3txtYVbKZ": {
           "name": "Senda del Ser Astral"
+        },
+        "G8aijWl96Zi5dYpf": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.BZQGBZnDK514luKG caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.9lcffy0dOmFDaoKr]{monje} recibe nuevos rasgos y subclases en esta sección.</p>"
         },
         "ODdT12kwR2SuEe6u": {
           "name": "Senda de la Misericordia"
@@ -245,6 +275,10 @@
       "pages": {
         "e0zaT4rFGgaRQ1JQ": {
           "name": "Juramento de Gloria"
+        },
+        "xgVKLzrWWsXB0eKc": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.FghIByn2pP7k0sIl caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.doLlxoEonAEiIJM7]{paladín} recibe nuevos rasgos y subclases en esta sección.</p>"
         },
         "xXp7IBzyStv39tqa": {
           "name": "Juramento de los Vigilantes"
@@ -268,6 +302,10 @@
     "tcoeRogue0000000": {
       "folder": "Clases y subclases",
       "pages": {
+        "deolK7oQdhSdjQCx": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.abz4xvX5KZi9in3U cite=false caption=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.sgs4mhWwQev8JY03]{pícaro} recibe nuevos rasgos y subclases en esta sección.</p>"
+        },
         "EoDtYN3cTv9ZxUhL": {
           "name": "Fantasma"
         },
@@ -325,6 +363,10 @@
     "tcoeWizard000000": {
       "folder": "Clases y subclases",
       "pages": {
+        "a2r7dtY9ce8HqXIQ": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.27lv0PWo5rHvjLZL caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.cmkACLWa9Hq1S6Go]{mago} recibe nuevos rasgos y subclases en esta sección.</p>"
+        },
         "lOTW9mEvGRJCERBc": {
           "name": "Canto de Espadas"
         },

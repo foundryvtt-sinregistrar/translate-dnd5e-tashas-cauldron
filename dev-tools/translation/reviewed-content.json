@@ -9,7 +9,8 @@
     "tcoeAdditionalRu": {
       "pages": {
         "KBTfUAsE7fxUQuKp": { "name": "Tabla de oleadas de magia salvaje", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeWildMagicSur]</p>" },
-        "maERBREpgZcdEMGW": { "name": "Tabla de baratijas", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeTrinkets0000]</p>" }
+        "maERBREpgZcdEMGW": { "name": "Tabla de baratijas", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeTrinkets0000]</p>" },
+        "BwUFIRscnGdjZYV8": { "name": "Resumen", "text": "<p>Este diario contiene algunas reglas y referencias adicionales procedentes de fuentes externas que hemos recibido permiso para incluir:</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeFirearmRules]{Reglas de armas de fuego}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSocialIntera]{Reglas de interacción social}</p>" }
       }
     },
     "tcoeArtificer000": {
@@ -33,6 +34,51 @@
     "tcoeAncientBeing": {
       "pages": {
         "Q0Swt9d9dkuAx8Z2": { "name": "Contacto del ser ancestral", "text": "<p>El contacto de la organización que entrega los encargos o transmite la palabra de vuestro patrón puede ser desde prosaico hasta sobrenatural. Tira o elige en la tabla Contacto del ser ancestral para determinar quién o qué transmite la voluntad de vuestro patrón.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingContact]</p>" }
+      }
+    },
+    "tcoeMilitaryForc": {
+      "pages": {
+        "CYMe9FDnY2G33UEa": { "name": "Contacto de la fuerza militar", "text": "<p>Vuestro contacto principal dentro de la jerarquía es vuestro oficial superior, la persona que os da órdenes y responde de vuestro éxito o fracaso.</p><p>Tira o elige en la tabla Oficial al mando para determinar quién os asigna las misiones.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMilitaryCont]</p>" }
+      }
+    },
+    "tcoeBard00000000": {
+      "pages": {
+        "9fswlU4ovlHmYUXn": { "name": "Introducción", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.fA1h8E6dyOn2jqDo caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.WYZMEei2b0HZgWdu]{bardo} recibe nuevos rasgos y subclases en esta sección.</p>" }
+      }
+    },
+    "tcoeMonk00000000": {
+      "pages": {
+        "G8aijWl96Zi5dYpf": { "name": "Introducción", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.BZQGBZnDK514luKG caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.9lcffy0dOmFDaoKr]{monje} recibe nuevos rasgos y subclases en esta sección.</p>" }
+      }
+    },
+    "tcoeDruid0000000": {
+      "pages": {
+        "kVKis0NuyEDl69q4": { "name": "Introducción", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.5PzKotemd6f3R3sa caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.0LfgSuMJmv7bf1JU]{druida} recibe nuevos rasgos y subclases en esta sección.</p>" }
+      }
+    },
+    "tcoeRogue0000000": {
+      "pages": {
+        "deolK7oQdhSdjQCx": { "name": "Introducción", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.abz4xvX5KZi9in3U cite=false caption=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.sgs4mhWwQev8JY03]{pícaro} recibe nuevos rasgos y subclases en esta sección.</p>" }
+      }
+    },
+    "tcoeCleric000000": {
+      "pages": {
+        "Hpx6iP7YC4QCBHWu": { "name": "Introducción", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.sVdwDpQsuoSoyxnL caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.7xAozaqWq3Z6YTsf]{clérigo} recibe nuevos rasgos y subclases en esta sección.</p>" }
+      }
+    },
+    "tcoeWizard000000": {
+      "pages": {
+        "a2r7dtY9ce8HqXIQ": { "name": "Introducción", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.27lv0PWo5rHvjLZL caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.cmkACLWa9Hq1S6Go]{mago} recibe nuevos rasgos y subclases en esta sección.</p>" }
+      }
+    },
+    "tcoeFighter00000": {
+      "pages": {
+        "W6NGJQVe42asP4Zx": { "name": "Introducción", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.cmaUODjbJPF5DuPH caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.ygdteO7FoWsKqfOD]{guerrero} recibe nuevos rasgos y subclases en esta sección.</p>" }
+      }
+    },
+    "tcoePaladin00000": {
+      "pages": {
+        "xgVKLzrWWsXB0eKc": { "name": "Introducción", "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.FghIByn2pP7k0sIl caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.doLlxoEonAEiIJM7]{paladín} recibe nuevos rasgos y subclases en esta sección.</p>" }
       }
     }
   }
