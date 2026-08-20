@@ -46,13 +46,17 @@ def main() -> int:
     source = load(root / "dev-tools/export/data/dnd-tashas-cauldron.tcoe-content.en.json")
     legacy = load(root / "dev-tools/export/_data/dnd-tashas-cauldron.tcoe-content.json")
     reviewed = load(root / "dev-tools/translation/reviewed-content.json")
+    official_terms = load(root / "dev-tools/translation/official-content-terms.json")
     memory, memory_conflicts = translation_memory(generated)
     relevant_sources = set(source.get("folders", {}))
     for entry in source.get("entries", {}).values():
         relevant_sources.update(value for value in (entry.get("name"), entry.get("folder")) if value)
         for page in entry.get("pages", {}).values():
             relevant_sources.update(value for value in (page.get("name"), page.get("text")) if value)
-    relevant_memory_conflicts = [row for row in memory_conflicts if row["source"] in relevant_sources]
+    relevant_memory_conflicts = [
+        row for row in memory_conflicts
+        if row["source"] in relevant_sources and row["source"] not in official_terms
+    ]
 
     output: dict[str, Any] = {
         "label": "El Caldero de Tasha para Todo",
@@ -66,7 +70,7 @@ def main() -> int:
     memory_hits = 0
 
     for folder in source.get("folders", {}):
-        translated = reviewed.get("folders", {}).get(folder) or memory.get(folder)
+        translated = reviewed.get("folders", {}).get(folder) or official_terms.get(folder) or memory.get(folder)
         output["folders"][folder] = translated or folder
         if translated: memory_hits += int(folder in memory and folder not in reviewed.get("folders", {}))
         else: pending.append({"path": f"folders.{folder}", "source": folder})
@@ -76,7 +80,7 @@ def main() -> int:
         target: dict[str, Any] = {}
         for field in ("name", "folder"):
             original = entry.get(field, "")
-            translated = patch.get(field) or memory.get(original)
+            translated = patch.get(field) or official_terms.get(original) or memory.get(original)
             if translated:
                 target[field] = translated
                 memory_hits += int(original in memory and field not in patch)
@@ -92,7 +96,7 @@ def main() -> int:
             page_target: dict[str, str] = {}
             for field in ("name", "text"):
                 original = page.get(field, "")
-                translated = page_patch.get(field) or memory.get(original)
+                translated = page_patch.get(field) or official_terms.get(original) or memory.get(original)
                 if translated:
                     page_target[field] = translated
                     memory_hits += int(original in memory and field not in page_patch)

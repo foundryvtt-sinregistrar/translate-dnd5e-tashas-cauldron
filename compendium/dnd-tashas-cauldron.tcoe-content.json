@@ -7,23 +7,36 @@
     }
   },
   "folders": {
-    "Additional Rules & References": "Additional Rules & References",
-    "Character Options": "Character Options",
-    "Classes & Subclasses": "Classes & Subclasses",
-    "Example Patrons": "Example Patrons",
-    "Group Patrons": "Group Patrons",
-    "Magical Miscellany": "Magical Miscellany"
+    "Additional Rules & References": "Reglas y referencias adicionales",
+    "Character Options": "Opciones de personaje",
+    "Classes & Subclasses": "Clases y subclases",
+    "Example Patrons": "Patrones de ejemplo",
+    "Group Patrons": "Patrones de grupo",
+    "Magical Miscellany": "Miscelánea mágica"
   },
   "entries": {
-    "tcoeAcademy00000": {},
-    "tcoeAdditionalRu": {},
-    "tcoeAncientBeing": {},
-    "tcoeAristocrat00": {},
+    "tcoeAcademy00000": {
+      "folder": "Patrones de ejemplo"
+    },
+    "tcoeAdditionalRu": {
+      "name": "Reglas y referencias adicionales",
+      "folder": "Reglas y referencias adicionales"
+    },
+    "tcoeAncientBeing": {
+      "folder": "Patrones de ejemplo"
+    },
+    "tcoeAristocrat00": {
+      "folder": "Patrones de ejemplo"
+    },
     "tcoeArtificer000": {
       "name": "Artífice",
+      "folder": "Clases y subclases",
       "pages": {
         "D4HiVlSX3VkEDjW0": {
           "name": "Armero"
+        },
+        "GVrTiuOaiAYlmktt": {
+          "name": "Forjabatallas"
         },
         "Mq3cIPPCWXQLgkN3": {
           "name": "Alquimista"
@@ -34,13 +47,18 @@
       }
     },
     "tcoeBarbarian000": {
+      "folder": "Clases y subclases",
       "pages": {
+        "CZPOS6IiBi4PO7oV": {
+          "name": "Senda de la Magia Salvaje"
+        },
         "vMPC6wxO9BJUyxdZ": {
           "name": "Senda de la Bestia"
         }
       }
     },
     "tcoeBard00000000": {
+      "folder": "Clases y subclases",
       "pages": {
         "DMRsw9mF6eOpO7Xc": {
           "name": "Colegio de la Creación"
@@ -51,6 +69,7 @@
       }
     },
     "tcoeCh1ArtHandou": {
+      "folder": "Opciones de personaje",
       "pages": {
         "Cn0cErlgKiuJOr33": {
           "name": "Artífice"
@@ -60,8 +79,11 @@
         }
       }
     },
-    "tcoeCh2ArtHandou": {},
+    "tcoeCh2ArtHandou": {
+      "folder": "Patrones de grupo"
+    },
     "tcoeCh3ArtHandou": {
+      "folder": "Miscelánea mágica",
       "pages": {
         "2p0syMyKUGyjMi2j": {
           "name": "Fortaleza del intelecto"
@@ -82,6 +104,7 @@
     },
     "tcoeChangelog000": {},
     "tcoeCleric000000": {
+      "folder": "Clases y subclases",
       "pages": {
         "1Tiz5GJn7aP4531T": {
           "name": "Dominio de la Paz"
@@ -95,32 +118,74 @@
       }
     },
     "tcoeCredits00000": {},
-    "tcoeCriminalSynd": {},
+    "tcoeCriminalSynd": {
+      "folder": "Patrones de ejemplo"
+    },
     "tcoeDisclaimer00": {},
     "tcoeDruid0000000": {
+      "folder": "Clases y subclases",
       "pages": {
+        "kPdP1QUNBJkUQyuI": {
+          "name": "Círculo de las Esporas"
+        },
         "o29S5QNjHD6BbnRR": {
           "name": "Círculo de las Estrellas"
+        },
+        "Z7E1zbTs54ejnxeg": {
+          "name": "Círculo de las Llamas Salvajes"
         }
       }
     },
-    "tcoeFeats0000000": {},
-    "tcoeFighter00000": {},
-    "tcoeFirearmRules": {},
-    "tcoeGettingStart": {},
-    "tcoeGroupPatrons": {},
-    "tcoeGuild0000000": {},
-    "tcoeMagicalMisce": {},
-    "tcoeMagicItems00": {},
+    "tcoeFeats0000000": {
+      "folder": "Opciones de personaje"
+    },
+    "tcoeFighter00000": {
+      "folder": "Clases y subclases",
+      "pages": {
+        "moOVqeyY1pT8V3qH": {
+          "name": "Caballero rúnico"
+        },
+        "twKSnK1a5XVCAF8D": {
+          "name": "Guerrero psiónico"
+        }
+      }
+    },
+    "tcoeFirearmRules": {
+      "folder": "Reglas y referencias adicionales"
+    },
+    "tcoeGettingStart": {
+      "folder": "Opciones de personaje"
+    },
+    "tcoeGroupPatrons": {
+      "folder": "Patrones de grupo",
+      "pages": {
+        "hTd63PiCIQxevcyv": {
+          "name": "Patrones de ejemplo"
+        }
+      }
+    },
+    "tcoeGuild0000000": {
+      "folder": "Patrones de ejemplo"
+    },
+    "tcoeMagicalMisce": {
+      "folder": "Miscelánea mágica"
+    },
+    "tcoeMagicItems00": {
+      "folder": "Miscelánea mágica"
+    },
     "tcoeMagicTattoos": {
+      "folder": "Miscelánea mágica",
       "pages": {
         "X1JTXrJ119g1TNEQ": {
           "name": "Tatuaje hechizado"
         }
       }
     },
-    "tcoeMilitaryForc": {},
+    "tcoeMilitaryForc": {
+      "folder": "Patrones de ejemplo"
+    },
     "tcoeMonk00000000": {
+      "folder": "Clases y subclases",
       "pages": {
         "29gDgmr3txtYVbKZ": {
           "name": "Senda del Ser Astral"
@@ -131,6 +196,7 @@
       }
     },
     "tcoePaladin00000": {
+      "folder": "Clases y subclases",
       "pages": {
         "e0zaT4rFGgaRQ1JQ": {
           "name": "Juramento de Gloria"
@@ -140,17 +206,36 @@
         }
       }
     },
-    "tcoeRanger000000": {},
-    "tcoeReligiousOrd": {},
-    "tcoeRogue0000000": {
+    "tcoeRanger000000": {
+      "folder": "Clases y subclases",
       "pages": {
-        "EoDtYN3cTv9ZxUhL": {
-          "name": "Fantasma"
+        "PQluDzs7uC7SL4vT": {
+          "name": "Guardián del enjambre"
+        },
+        "vqqmpmSbCiyaYZVg": {
+          "name": "Vagabundo feérico"
         }
       }
     },
-    "tcoeSocialIntera": {},
+    "tcoeReligiousOrd": {
+      "folder": "Patrones de ejemplo"
+    },
+    "tcoeRogue0000000": {
+      "folder": "Clases y subclases",
+      "pages": {
+        "EoDtYN3cTv9ZxUhL": {
+          "name": "Fantasma"
+        },
+        "juZQMOZMV9oTg0Xj": {
+          "name": "Cuchilla anímica"
+        }
+      }
+    },
+    "tcoeSocialIntera": {
+      "folder": "Reglas y referencias adicionales"
+    },
     "tcoeSorcerer0000": {
+      "folder": "Clases y subclases",
       "pages": {
         "ARhekFrVkOMpbkeI": {
           "name": "Mente aberrante"
@@ -160,17 +245,23 @@
         }
       }
     },
-    "tcoeSovereign000": {},
+    "tcoeSovereign000": {
+      "folder": "Patrones de ejemplo"
+    },
     "tcoeSpellLists00": {
+      "folder": "Opciones de personaje",
       "pages": {
         "btQIVPtSLQewCrTZ": {
           "name": "Artífice"
         }
       }
     },
-    "tcoeSpells000000": {},
+    "tcoeSpells000000": {
+      "folder": "Miscelánea mágica"
+    },
     "tcoeUsingThisBoo": {},
     "tcoeWarlock00000": {
+      "folder": "Clases y subclases",
       "pages": {
         "oaxo3ds1hUqevNhv": {
           "name": "El Genio"
@@ -181,7 +272,11 @@
       }
     },
     "tcoeWizard000000": {
+      "folder": "Clases y subclases",
       "pages": {
+        "lOTW9mEvGRJCERBc": {
+          "name": "Canto de Espadas"
+        },
         "XIL1zIxzKXw2Oc3f": {
           "name": "Orden de los Escribas"
         }
