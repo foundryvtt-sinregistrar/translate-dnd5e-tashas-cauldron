@@ -137,20 +137,6 @@
   },
   {
     "entryId": "tcoeAncientBeing",
-    "pageId": "n8l0QnE7TglVZAwf",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeAncientBeing",
-    "pageId": "n8l0QnE7TglVZAwf",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>Any time an unfathomably powerful entity sweeps in and offers godlike rewards in return for just a few teensy favors, it’s a scam. Unless it’s me. I’d never lie to you, reader dearest.</p><p><cite>Tasha</cite></p></blockquote><p>Your group is bound to the designs of an ancient being of tremendous power and influence. You might serve as the creature’s eyes and ears in the world, carrying information back to it. Or perhaps you work as its direct agents, enacting its will. Whether you chose this arrangement or were tricked into it, you can count on the strange resources of your benefactor as long as you serve its purpose.</p>"
-  },
-  {
-    "entryId": "tcoeAncientBeing",
     "pageId": "tNw849BUxgswNTbW",
     "pageName": "Ancient Being Operatives",
     "path": "name",
@@ -181,20 +167,6 @@
     "pageName": "Aristocrat Perks",
     "path": "text",
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.2pLN7LLIeB6LGAhY caption=false classes=\"right three\"]</p><p>With an aristocrat as your group’s patron, you gain the following perks.</p><p><em><strong>Expenses.</strong></em> Your patron reimburses you for extraordinary expenses incurred as part of your work. You are required to account for your expenses and must explain any extraordinary expenditures, but routine travel, ordinary equipment, and basic services don’t draw a second glance.</p><p><em><strong>Immunity.</strong></em> As long as you remain in the aristocrat’s good graces, you are nearly immune to prosecution under the laws within the aristocrat’s sphere of influence. When you are carrying out your orders, you have a great deal of leeway in how you choose to go about that, and the law isn’t an obstacle. Committing serious crimes—especially if they are unrelated or unnecessary for the assigned work—is a sure way to fall out of your patron’s good graces, however.</p><p><em><strong>Luxury.</strong></em> Your patron deigns to host you at their home or in other luxurious accommodations for a brief period as reward for a job well done. Such a stay typically lasts for no longer than two weeks per year, during which you maintain an aristocratic lifestyle for no cost. You must defend the locale if necessary, but you’re largely afforded time to relax as you please. However, poor (or outright destructive) guests rarely receive invitations to stay again.</p><p><em><strong>Salary.</strong></em> Your employment under an aristocratic patron brings an income of 1 gp per day, or enough to maintain a modest lifestyle. At the DM’s discretion, your salary increases or decreases depending on the aristocrat’s nature, the type of work, and the length of your employment.</p>"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "T2SGeq1GJZppEq4L",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "T2SGeq1GJZppEq4L",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>There’s a Bandit Kingdoms saying that I’m forgetting—something like “those who rub against money are closest when the collectors come.” I don’t remember the specifics, but it seems applicable here.</p><p><cite>Tasha</cite></p></blockquote><p>Your group serves at the pleasure of a member of the nobility. Motivated by money, power, and politics, your patron uses your group to further their agenda without dirtying their hands, or perhaps they send you to the palaces of their enemies as envoys of peace. In exchange for loyalty and discretion, your patron is a powerful ally whose favor bestows far more than gold.</p>"
   },
   {
     "entryId": "tcoeAristocrat00",
@@ -1345,20 +1317,6 @@
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.IPfdFutlfTcmnY2P classes=\"right three\"]</p><p>With a military force as your group’s patron, you gain the following perks.</p><p><em><strong>Armory.</strong></em> You can purchase nonmagical weapons and armor at a 20 percent discount at a facility associated with your military force. You can buy magic items at the DM’s discretion, but you receive no discount.</p><p><em><strong>Chain of Command.</strong></em> You are part of a hierarchy that provides you with orders. If you cause trouble in your own nation, you answer to your officers, not local law enforcement.</p><p><em><strong>Official Access</strong></em>. Your rank in the military force grants you access to places that are off limits to civilians. With your commander’s permission, you can enter dangerous training grounds or military installations, like an army’s regional headquarters or a repository of top-secret intelligence. You can also request that your commander grant you authority to act in their name or provide access to experts or leaders higher in the chain of command.</p><p><em><strong>Orders.</strong></em> You undertake your missions at the direction of a commanding officer, who expects your absolute obedience. These missions have clear and precise goals, leading you on the path of adventure. In rare cases, you’re trusted with open-ended tasks that afford you leeway in interpreting orders.</p><p><em><strong>Salary.</strong></em> Each member of your group earns a regular salary or share of the military force’s spoils. The amount varies depending on your organization and your position within it, but at minimum you enjoy a modest lifestyle. You receive a small salary (as little as 1 sp per day) and food and housing on a military base. Or you receive 1 gp per day but rely on that money for room and board. With higher rank comes higher pay. As an officer, you maintain a comfortable lifestyle.</p>"
   },
   {
-    "entryId": "tcoeMilitaryForc",
-    "pageId": "QRhagRcAyKrvewV4",
-    "pageName": "Military Force Quests",
-    "path": "name",
-    "source": "Military Force Quests"
-  },
-  {
-    "entryId": "tcoeMilitaryForc",
-    "pageId": "QRhagRcAyKrvewV4",
-    "pageName": "Military Force Quests",
-    "path": "text",
-    "source": "<p>The wide-ranging work of a military unit calls for both power and subtlety. Your missions could run the risk of shattering a fragile peace recently established with a rival nation and plunging multiple nations back into war. Or perhaps your group’s missions pit you against rival combatants during an active engagement, as you influence the war effort. Rival mercenary companies, armed resistance fighters, and monsters drawn to the presence of bloodshed also present familiar threats.</p><p>The Military Quests table provides possible missions you’re tasked to accomplish.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMilitaryQues]</p>"
-  },
-  {
     "entryId": "tcoeMonk00000000",
     "path": "name",
     "source": "Monk"
@@ -1433,20 +1391,6 @@
     "pageName": "Religious Order Member",
     "path": "text",
     "source": "<p>Your primary duty to a religious order is to further your god’s reach. That obligation ranges from proselytizing or performing religious services to meting out divine punishments or recovering lost relics. Beyond that, the needs of your order vary widely. Your patron relies on your group due to your particular skills or, perhaps, because it’s divine whim.</p><p>The Religious Order Member Roles table suggests positions you might fill in an order and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"ReligiousOrderMemberRoles\" data-content-chunk-id=\"a629da1d-279d-47c3-af1a-a4376d18a389\">Religious Order Member Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Councilor</td><td>Acolyte, Folk Hero, Hermit, Sage, Urchin</td></tr><tr><td>Defender</td><td>Acolyte, Criminal, Folk Hero, Outlander, Soldier</td></tr><tr><td>Ascetic</td><td>Acolyte, Entertainer, Hermit, Sage, Soldier</td></tr><tr><td>Inquisitor</td><td>Acolyte, Criminal, Noble, Sailor, Soldier</td></tr><tr><td>Emissary</td><td>Acolyte, Charlatan, Entertainer, Noble, Sailor</td></tr><tr><td>Chosen One</td><td>Any</td></tr></tbody></table>"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "TUP1nCfYybsd4tmY",
-    "pageName": "Religious Order Quests",
-    "path": "name",
-    "source": "Religious Order Quests"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "TUP1nCfYybsd4tmY",
-    "pageName": "Religious Order Quests",
-    "path": "text",
-    "source": "<p>The services you provide your religious order vary depending on the deity you serve and your party’s aptitudes. Regardless, religious orders are opposed by antagonistic faiths, foes whose rivalry with your order emulates the conflict between your respective gods. Some religious orders also hunt and destroy fiends, undead, or other beings they consider abominations, seeking to rid the word of their influence. Others root out heretics, real or imagined, to demonstrate the primacy of their deity.</p><p>The Religious Order Quests table presents a few examples of how you can honor and serve your deity.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeReligiousQue]</p>"
   },
   {
     "entryId": "tcoeReligiousOrd",
@@ -1541,20 +1485,6 @@
     "pageName": "Social Interaction Rules",
     "path": "text",
     "source": "<p>During a social interaction, the adventurers usually have a goal. They want to extract information, secure aid, win someone’s trust, escape punishment, avoid combat, negotiate a treaty, or achieve whatever other objective led to the interaction in the first place. The creatures they interact with also have agendas.</p><p>Some DMs prefer to run a social interaction as a free-form roleplaying exercise, where dice rarely come into play. Other DMs prefer to resolve the outcome of an interaction by having characters make Charisma checks. Either approach works, and most games fall somewhere in between, balancing player skill (roleplaying and persuading) with character skill (reflected by ability checks).</p><h2>Resolving Interactions</h2><p>The Player’s Handbook provides guidelines for balancing roleplaying and ability checks in a social interaction (see chapter 8, \"Adventuring\"). This section adds to that material by providing a structured way to resolve a social interaction. Much of this structure will be invisible to your players in play and isn’t meant to be a substitute for roleplaying.</p><h3>1. Starting Attitude</h3><p>Choose the starting attitude of a creature the adventurers are interacting with: friendly, indifferent, or hostile.</p>"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "Zb2DH904iabsyixg",
-    "pageName": "Hostile",
-    "path": "name",
-    "source": "Hostile"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "Zb2DH904iabsyixg",
-    "pageName": "Hostile",
-    "path": "text",
-    "source": "<p>A <strong>hostile</strong> creature opposes the adventurers and their goals but doesn’t necessarily attack them on sight. For example, a condescending noble might wish to see a group of upstart adventurers fail so as to keep them from becoming rivals for the king’s attention, thwarting them with slander and scheming rather than direct threats and violence. The adventurers need to succeed on one or more challenging Charisma checks to convince a hostile creature to do anything on their behalf. That said, a hostile creature might be so ill-disposed toward the party that no Charisma check can improve its attitude, in which case any attempt to sway it through diplomacy fails automatically.</p>"
   },
   {
     "entryId": "tcoeSocialIntera",

@@ -55,6 +55,10 @@
           "name": "Misiones del ser ancestral",
           "text": "<p>Aunque su labor sigue siendo misteriosa, los seres ancestrales envían a sus agentes para imponer su voluntad de innumerables formas. Los sirvientes de otros seres poderosos intentan frustrar los planes de vuestro patrón, mientras que cazadores de monstruos equivocados (o completamente justificados) pretenden librar al mundo de su antiguo enemigo. La larga historia de un ser ancestral da lugar a enemigos inusuales y poderosos.</p><p>La tabla Misiones del ser ancestral presenta algunas opciones para los tipos de trabajo que vuestro patrón espera de vosotros.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingQuests0]</p>"
         },
+        "n8l0QnE7TglVZAwf": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>Siempre que una entidad de poder insondable aparece y ofrece recompensas dignas de un dios a cambio de unos favores diminutos, es una estafa. A menos que sea yo. Nunca te mentiría, queridísimo lector.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo está ligado a los designios de un ser ancestral de enorme poder e influencia. Podríais actuar como sus ojos y oídos en el mundo, llevándole información, o trabajar como sus agentes directos y ejecutar su voluntad. Tanto si elegisteis este acuerdo como si fuisteis engañados, podéis contar con los extraños recursos de vuestro benefactor mientras sirváis a sus propósitos.</p>"
+        },
         "Q0Swt9d9dkuAx8Z2": {
           "name": "Contacto del ser ancestral",
           "text": "<p>El contacto de la organización que entrega los encargos o transmite la palabra de vuestro patrón puede ser desde prosaico hasta sobrenatural. Tira o elige en la tabla Contacto del ser ancestral para determinar quién o qué transmite la voluntad de vuestro patrón.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingContact]</p>"
@@ -75,6 +79,10 @@
         "mzoVoUlwqJnIMdmY": {
           "name": "Contacto del aristócrata",
           "text": "<p>Salvo contadas excepciones, los aristócratas prefieren que otra persona se encargue de comunicarse con sus empleados. Por ello, os comunicáis con un intermediario que actúa como enlace en vuestros tratos con el patrón.</p><p>Tira o elige en la tabla Contacto del aristócrata para determinar quién actúa como representante de vuestro patrón.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAristocratCo]</p>"
+        },
+        "T2SGeq1GJZppEq4L": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>Hay un dicho de los Reinos Bandidos que no consigo recordar, algo así como «quienes se arriman al dinero son los que están más cerca cuando llegan los recaudadores». No recuerdo los detalles, pero parece aplicable aquí.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo sirve a voluntad de un miembro de la nobleza. Motivado por el dinero, el poder y la política, vuestro patrón utiliza al grupo para impulsar sus planes sin ensuciarse las manos, o quizá os envía a los palacios de sus enemigos como emisarios de paz. A cambio de lealtad y discreción, vuestro patrón es un aliado poderoso cuyo favor concede mucho más que oro.</p>"
         },
         "U9WZOg2mdX1QweSu": {
           "name": "Misiones del aristócrata",
@@ -352,6 +360,10 @@
         "CYMe9FDnY2G33UEa": {
           "name": "Contacto de la fuerza militar",
           "text": "<p>Vuestro contacto principal dentro de la jerarquía es vuestro oficial superior, la persona que os da órdenes y responde de vuestro éxito o fracaso.</p><p>Tira o elige en la tabla Oficial al mando para determinar quién os asigna las misiones.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMilitaryCont]</p>"
+        },
+        "QRhagRcAyKrvewV4": {
+          "name": "Misiones de la fuerza militar",
+          "text": "<p>El amplio abanico de trabajos de una unidad militar exige tanto poder como sutileza. Vuestras misiones podrían poner en peligro una paz frágil recién establecida con una nación rival y arrastrar de nuevo a varias naciones a la guerra. O quizá enfrenten al grupo con combatientes rivales durante un conflicto activo mientras influís en el esfuerzo bélico. Las compañías mercenarias rivales, los miembros armados de la resistencia y los monstruos atraídos por el derramamiento de sangre también representan amenazas habituales.</p><p>La tabla Misiones militares ofrece posibles encargos que debéis cumplir.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMilitaryQues]</p>"
         }
       }
     },
@@ -414,6 +426,10 @@
         "BTu7PScmDkoRLMU6": {
           "name": "Resumen",
           "text": "<blockquote class=\"tasha\"><p>Claro, sirve a esa orden religiosa y pronto estarás lavando mil coladas de tu sumo sacerdote porque, casualmente, es la voluntad divina.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo actúa al servicio de una institución religiosa. Sin embargo, el patrocinio de una orden religiosa no consiste simplemente en que todos los miembros del grupo compartan la misma fe. La administración de la fe, con sus propios recursos, objetivos y dirigentes, patrocina y guía directamente vuestras aventuras.</p>"
+        },
+        "TUP1nCfYybsd4tmY": {
+          "name": "Misiones de la orden religiosa",
+          "text": "<p>Los servicios que prestáis a vuestra orden religiosa varían según la deidad a la que servís y las aptitudes del grupo. En cualquier caso, las órdenes religiosas se enfrentan a credos antagonistas, enemigos cuya rivalidad con la orden reproduce el conflicto entre sus respectivos dioses. Algunas órdenes también cazan y destruyen infernales, muertos vivientes u otros seres que consideran abominaciones, tratando de librar al mundo de su influencia. Otras erradican a herejes, reales o imaginarios, para demostrar la primacía de su deidad.</p><p>La tabla Misiones de la orden religiosa presenta algunos ejemplos de cómo podéis honrar y servir a vuestra deidad.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeReligiousQue]</p>"
         }
       }
     },
@@ -446,6 +462,10 @@
         "Prk328joy79EA4gj": {
           "name": "2. Conversación",
           "text": "<p><strong>Interpretad la conversación.</strong> Deja que los aventureros expongan sus argumentos e intenten formular sus declaraciones en términos que resulten significativos para la criatura con la que interactúan.</p>"
+        },
+        "Zb2DH904iabsyixg": {
+          "name": "Hostil",
+          "text": "<p>Una criatura <strong>hostil</strong> se opone a los aventureros y sus objetivos, pero no necesariamente los ataca en cuanto los ve. Por ejemplo, un noble condescendiente podría querer que un grupo de aventureros advenedizos fracase para impedir que rivalicen por la atención del rey, y obstaculizarlos mediante calumnias e intrigas en vez de amenazas directas y violencia. Los aventureros deben superar una o más pruebas difíciles de Carisma para convencer a una criatura hostil de que haga algo por ellos. Sin embargo, una criatura podría estar tan mal predispuesta hacia el grupo que ninguna prueba de Carisma pueda mejorar su actitud; en ese caso, cualquier intento de persuadirla mediante diplomacia falla automáticamente.</p>"
         },
         "ZnjwPPSEMQ4zQ4cK": {
           "name": "Amistosa",
