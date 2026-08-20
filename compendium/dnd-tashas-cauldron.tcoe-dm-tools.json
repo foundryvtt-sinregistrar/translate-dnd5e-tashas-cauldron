@@ -1,1 +1,62 @@
-{"label":"Herramientas del Dungeon Master","mapping":{"name":"name"},"entries":{}}
+{
+  "label": "Herramientas del DM",
+  "mapping": {
+    "pages": {
+      "path": "pages",
+      "converter": "tcoeJournalPagesById"
+    }
+  },
+  "folders": {
+    "Environmental Hazards": "Environmental Hazards",
+    "Puzzles": "Puzzles"
+  },
+  "entries": {
+    "tcoeAllThatGlitt": {},
+    "tcoeCh4ArtHandou": {},
+    "tcoeCreaturePain": {},
+    "tcoeDungeonMaste": {},
+    "tcoeEnvironmenta": {},
+    "tcoeExactChange0": {},
+    "tcoeEyeOfTheBeho": {},
+    "tcoeFourByFour00": {},
+    "tcoeFourElements": {},
+    "tcoeHauntedHallw": {},
+    "tcoeIllusiveIsla": {},
+    "tcoeMagicalPheno": {
+      "pages": {
+        "O92wf7tdUDO6Kj00": {
+          "name": "Fruto primordial"
+        }
+      }
+    },
+    "tcoeMaterialComp": {},
+    "tcoeMembersOnly0": {},
+    "tcoeNaturalHazar": {},
+    "tcoeParleyingWit": {},
+    "tcoePuzzleArtHan": {},
+    "tcoePuzzles00000": {},
+    "tcoeRecklessStep": {},
+    "tcoeSidekicks000": {
+      "pages": {
+        "8iSpYPi1Tkc6PKeQ": {
+          "name": "Guerrero"
+        },
+        "B3qZEOG9aRcMRnvL": {
+          "name": "Experto"
+        },
+        "bbLailwUmMcSJAmg": {
+          "name": "Lanzador de conjuros: Prodigio"
+        },
+        "nRR0hMuorcc5GvEp": {
+          "name": "Lanzador de conjuros: Mago"
+        },
+        "q9AlOYy76BZJabc0": {
+          "name": "Lanzador de conjuros: Sanador"
+        }
+      }
+    },
+    "tcoeSkeletonKeys": {},
+    "tcoeSupernatural": {},
+    "tcoeWhatsOnTheMe": {}
+  }
+}

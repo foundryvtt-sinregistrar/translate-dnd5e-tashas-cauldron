@@ -40,13 +40,14 @@ def translation_memory(generated: Path) -> tuple[dict[str, str], list[dict[str, 
     return {source: next(iter(targets)) for source, targets in candidates.items() if len(targets) == 1}, conflicts
 
 
-def main() -> int:
+def build_pack(pack_name: str, slug: str, label: str) -> int:
     root = Path(__file__).resolve().parents[2]
     generated = root / "dev-tools/translation/generated"
-    source = load(root / "dev-tools/export/data/dnd-tashas-cauldron.tcoe-content.en.json")
-    legacy = load(root / "dev-tools/export/_data/dnd-tashas-cauldron.tcoe-content.json")
-    reviewed = load(root / "dev-tools/translation/reviewed-content.json")
-    official_terms = load(root / "dev-tools/translation/official-content-terms.json")
+    source = load(root / f"dev-tools/export/data/dnd-tashas-cauldron.{pack_name}.en.json")
+    legacy = load(root / f"dev-tools/export/_data/dnd-tashas-cauldron.{pack_name}.json")
+    reviewed = load(root / f"dev-tools/translation/reviewed-{slug}.json")
+    terms_path = root / f"dev-tools/translation/official-{slug}-terms.json"
+    official_terms = load(terms_path) if terms_path.exists() else {}
     memory, memory_conflicts = translation_memory(generated)
     relevant_sources = set(source.get("folders", {}))
     for entry in source.get("entries", {}).values():
@@ -59,7 +60,7 @@ def main() -> int:
     ]
 
     output: dict[str, Any] = {
-        "label": "El Caldero de Tasha para Todo",
+        "label": label,
         "mapping": {"pages": {"path": "pages", "converter": "tcoeJournalPagesById"}},
         "folders": {},
         "entries": {},
@@ -112,7 +113,7 @@ def main() -> int:
         output["entries"][entry_id] = target
 
     report = {
-        "pack": "dnd-tashas-cauldron.tcoe-content",
+        "pack": f"dnd-tashas-cauldron.{pack_name}",
         "sourceEntries": len(source.get("entries", {})),
         "sourcePages": sum(len(row.get("pages", {})) for row in source.get("entries", {}).values()),
         "outputEntries": len(output["entries"]),
@@ -123,14 +124,18 @@ def main() -> int:
         "translationMemoryConflicts": len(relevant_memory_conflicts),
         "protectedTokenIssues": len(token_issues),
     }
-    write(root / "compendium/dnd-tashas-cauldron.tcoe-content.json", output)
-    write(generated / "pending.content.json", pending)
-    write(generated / "alignment-warnings.content.json", alignment)
-    write(generated / "conflicts.content.json", relevant_memory_conflicts)
-    write(generated / "protected-token-issues.content.json", token_issues)
-    write(generated / "report.content.json", report)
+    write(root / f"compendium/dnd-tashas-cauldron.{pack_name}.json", output)
+    write(generated / f"pending.{slug}.json", pending)
+    write(generated / f"alignment-warnings.{slug}.json", alignment)
+    write(generated / f"conflicts.{slug}.json", relevant_memory_conflicts)
+    write(generated / f"protected-token-issues.{slug}.json", token_issues)
+    write(generated / f"report.{slug}.json", report)
     print(json.dumps(report, ensure_ascii=False, indent=2))
     return 2 if token_issues or alignment else 0
+
+
+def main() -> int:
+    return build_pack("tcoe-content", "content", "El Caldero de Tasha para Todo")
 
 
 if __name__ == "__main__":
