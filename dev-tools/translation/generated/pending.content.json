@@ -144,20 +144,6 @@
     "source": "Bard"
   },
   {
-    "entryId": "tcoeBard00000000",
-    "pageId": "eVBZW1N9164qkWeP",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeBard00000000",
-    "pageId": "eVBZW1N9164qkWeP",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a bard. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarSpells000]{Additional Bard Spells}</h3><p><em>1st-level bard feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarSpells000 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarMagicalIn]{Magical Inspiration}</h3><p><em>2nd-level bard feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarMagicalIn caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarBardicVer]{Bardic Versatility}</h3><p><em>4th-level bard feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarBardicVer caption=false cite=false]</p>"
-  },
-  {
     "entryId": "tcoeCh1ArtHandou",
     "path": "name",
     "source": "Art Handouts"
@@ -754,20 +740,6 @@
   },
   {
     "entryId": "tcoeCriminalSynd",
-    "pageId": "MRIDUJVbCJdnmCXG",
-    "pageName": "Criminal Syndicate Members",
-    "path": "name",
-    "source": "Criminal Syndicate Members"
-  },
-  {
-    "entryId": "tcoeCriminalSynd",
-    "pageId": "MRIDUJVbCJdnmCXG",
-    "pageName": "Criminal Syndicate Members",
-    "path": "text",
-    "source": "<p>Whether you’re a lifelong scoundrel or an ambitious upstart, you seek to gain wealth, fame, and influence within a criminal syndicate. A syndicate is motivated by profit, employing agents with all manner of talents. Nimbleness and novelty prove vital not just to exploiting untapped prospects but to avoiding the law. You embody rare experience and skill, positioned at the forefront of daring new criminal ventures.</p><p>The Criminal Syndicate Member Roles suggests positions you might fill in the organization and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"CriminalSyndicateMemberRoles\" data-content-chunk-id=\"d8cc0886-caea-40f1-96d7-4dec2fad4a75\">Criminal Syndicate Member Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Burglar</td><td>Criminal, Folk Hero, Noble, Outlander, Urchin</td></tr><tr><td>Muscle</td><td>Criminal, Entertainer, Outlander, Sailor, Soldier</td></tr><tr><td>Con Artist</td><td>Acolyte, Charlatan, Criminal, Entertainer, Noble, Urchin</td></tr><tr><td>Cleaner</td><td>Acolyte, Charlatan, Guild Artisan, Noble, Soldier</td></tr><tr><td>Mastermind</td><td>Acolyte, Criminal, Folk Hero, Noble, Sage</td></tr><tr><td>Mole</td><td>Any</td></tr></tbody></table>"
-  },
-  {
-    "entryId": "tcoeCriminalSynd",
     "pageId": "TbmVtTH4h9VJkhLK",
     "pageName": "Criminal Syndicate Perks",
     "path": "name",
@@ -1159,20 +1131,6 @@
   },
   {
     "entryId": "tcoeSocialIntera",
-    "pageId": "aCiKdUxcwZfI22FI",
-    "pageName": "Determining Characteristics",
-    "path": "name",
-    "source": "Determining Characteristics"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "aCiKdUxcwZfI22FI",
-    "pageName": "Determining Characteristics",
-    "path": "text",
-    "source": "<p>The adventurers don’t necessarily enter into a social interaction with a full understanding of a creature’s ideal, bond, or flaw. If they want to shift a creature’s attitude by playing on these characteristics, they first need to determine what the creature cares about. They can guess, but doing so runs the risk of shifting the creature’s attitude in the wrong direction if they guess badly.</p><p>After interacting with a creature long enough to get a sense of its personality traits and characteristics through conversation, an adventurer can attempt a [[/check skill=ins]] check to uncover one of the creature’s characteristics. You set the DC. A check that fails by 10 or more might misidentify a characteristic, so you should provide a false characteristic or invert one of the creature’s existing characteristics. For example, if an old sage’s flaw is that he is prejudiced against the uneducated, an adventurer who badly fails the check might be told that the sage enjoys personally seeing to the education of the downtrodden.</p><p>Given time, adventurers can also learn about a creature’s characteristics from other sources, including its friends and allies, personal letters, and publicly told stories. Acquiring such information might be the basis of an entirely different set of social interactions.</p>"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
     "pageId": "zs5ib2lIjJ6On1sx",
     "pageName": "3. Charisma Check",
     "path": "name",
@@ -1368,20 +1326,6 @@
     "entryId": "tcoeWarlock00000",
     "path": "name",
     "source": "Warlock"
-  },
-  {
-    "entryId": "tcoeWarlock00000",
-    "pageId": "7yar1DK2WdiQpG3J",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeWarlock00000",
-    "pageId": "7yar1DK2WdiQpG3J",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a warlock. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewarSpells000]{Additional Warlock Spells}</h3><p><em>1st-level warlock feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewarSpells000 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewarPactBoonO]{Pact Boon Option}</h3><p><em>3rd-level warlock feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewarPactBoonO caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewarEldritchV]{Eldritch Versatility}</h3><p><em>4th-level warlock feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewarEldritchV caption=false cite=false]</p>"
   },
   {
     "entryId": "tcoeWarlock00000",
