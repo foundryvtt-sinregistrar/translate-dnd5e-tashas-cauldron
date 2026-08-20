@@ -366,20 +366,6 @@
     "source": "Puzzles"
   },
   {
-    "entryId": "tcoeHauntedHallw",
-    "pageId": "f2zVXROd9Zo0A4KN",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
-    "entryId": "tcoeHauntedHallw",
-    "pageId": "f2zVXROd9Zo0A4KN",
-    "pageName": "Puzzle Features",
-    "path": "text",
-    "source": "<p>Dolora can’t leave the hall and avoids the alcoves.</p><h2>Alcoves</h2><p>The hall is lined with six alcoves, each one with a unique numeral between 1 and 6 carved above it. A verse scratched into the back wall of each alcove is made visible by the candlelight. Each verse is presented below, accompanied by a parenthetical explanation that shouldn’t be shared with the players or their characters:</p><p><strong>Verse 1.</strong> “Not his keeper, nor he mine; loved and hated at the same time.” (This refers to Dolora’s brother, whose name was Sam.)</p><p><strong>Verse 2.</strong> “My first vision: her hazel eyes. My first sound: her lullabies.” (This refers to Dolora’s mother, whose name was Delia.)</p><p><strong>Verse 3.</strong> “Her lives she lost, all three by three, and through the dark this hunter sees.” (This refers to Dolora’s cat, whose name was Fifi.)</p><p><strong>Verse 4.</strong> “Lines in his face of life lived long; stories were his paternal song.” (This refers to Dolora’s grandfather, whose name was Tobias.)</p><p><strong>Verse 5.</strong> “Mentor and guide, her lessons learned. Knowledge measured by letters I earned.” (This refers to Dolora’s teacher, whose name was Johana.)</p><p><strong>Verse 6.</strong> “Loved to eat hay, just as her friends did; lived in one room with a shoat and a kid.” (This refers to Dolora’s horse, whose name was Alexia.)</p><p>Each verse describes someone who was close to Dolora. Once the characters determine who a verse is talking about, they may ask Dolora to provide the correct name. For example, “What is your cat’s name?” is a valid question for verse 3. The spirit then answers, “Fifi,” and she spells it aloud.</p><h2>Candles</h2><p>Each candle is a simple, 6-inch-tall wax taper. While in this hall, the candles never melt down and can’t be extinguished.</p><h2>Rag Doll</h2><p>If the characters examine the rag doll or ask Dolora about it, she imparts the following information:</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>“My doll knows all six—the first for the first, the second for the second, the third for the third, the fourth for the fourth, the fifth for the fifth, and the sixth for the sixth.”</p></section></section>"
-  },
-  {
     "entryId": "tcoeIllusiveIsla",
     "path": "name",
     "source": "Illusive Island"
@@ -440,20 +426,6 @@
     "pageName": "Mimic Colonies",
     "path": "text",
     "source": "<p>Mimics imitate terrain and dungeon dressing to hunt for food. Rare specimens develop a deeper understanding of the world and can communicate with other creatures. In extremely rare cases, groups of these creatures band together, creating colonies. These bonded mimics cooperate to create larger objects than any lone mimic could approximate. A mimic colony can work together to form buildings, bridges, crystal formations, cliff faces, statues, and nearly anything it desires. Entire villages appearing out of nowhere might be composed of mimics!</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.cfaNpuqEqEWCsUbT caption=false]</p><h2>Mimic Communication</h2><p>Members of the colony develop telepathy and the ability to speak. While within 10 miles of the colony, any mimic can communicate telepathically with other creatures within 120 feet of it and can speak Common and Undercommon fluently (or two other languages of the DM’s choice). The colony’s offspring gain these abilities innately and can use them even away from the colony, as shown in the @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeJuvenileMimi]{Juvenile Mimic} stat block.</p><h2>Confronting a Colony</h2><p>A mimic colony’s primary goal is survival. If threatened by a force the mimics can’t overcome, they are willing to bargain. Mimic colonies have learned that adventurers they can’t defeat can be bought off with information about nearby creatures or locations, hidden treasure (which the colony obtained from prior “food”), or even one of their own young.</p><p>If the colony’s survival is threatened and it thinks it has a chance of surviving a fight, it can leverage its combined might using special lair actions. On initiative count 20 (losing all ties), the mimic colony takes a lair action, causing one of the following effects; it can’t use the same effect two rounds in a row:</p><ul><li><p>The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a [[/save strength dc=15]] saving throw or have its speed reduced to 0 until initiative count 20 on the following round, as pieces of the environment grasp the target. If a target fails the save by 5 or more, it is &amp;Reference[restrained] instead for that duration.</p></li><li><p>The mimic colony uses the Help action, aiding a creature of its choice within 300 feet of it.</p></li><li><p>The mimic colony chooses up to three creatures within 300 feet of it. Each target must succeed on a [[/save dexterity dc=15]] saving throw or take [[/damage 3d8 type=acid average=true]] damage, as orifices appear on surfaces in the environment and launch caustic spittle.</p></li><li><p>The mimic colony chooses a cube of nonmagical, inanimate material in physical contact with it. The cube can be up to 15 feet on a side. The colony reshapes that material however it likes. This transformation lasts for 1 hour.</p></li></ul><p>When determining the difficulty of an encounter with a hostile mimic colony, consider the colony to be one additional creature of challenge rating 2.</p>"
-  },
-  {
-    "entryId": "tcoeMagicalPheno",
-    "pageId": "Wmm89x2zAZGWfL6J",
-    "pageName": "Emotional Echoes",
-    "path": "name",
-    "source": "Emotional Echoes"
-  },
-  {
-    "entryId": "tcoeMagicalPheno",
-    "pageId": "Wmm89x2zAZGWfL6J",
-    "pageName": "Emotional Echoes",
-    "path": "text",
-    "source": "<p>Occasionally a place becomes infused with the powerful emotions of those who once dwelt, worked, celebrated, or suffered there. Areas with emotional echoes are typically associated with one common emotion, such as joy or sorrow. Such an area might be as small as a room in a house or as large as a forest. Once per day, if a creature within the area expresses even the faintest hint of the prevailing emotion, the land seeks to hold onto that creature and inspire it to produce more of the feeling tied to the emotional echo. The creature is targeted by a @UUID[Compendium.dnd5e.spells.Item.zMAWdyc8UVb37BK4]{suggestion} spell ([[/save wisdom dc=16]]), with the intent of making it linger in the area and perform an act related to its associated emotion. The effect lasts 24 hours.</p><p>The following list notes some of the most common emotional echoes, where they tend to appear, and how they typically influence creatures:</p><p><strong>Boldness:</strong> Appears in battlefields and echoing canyons, encouraging creatures to shout hidden truths and act out their greatest victories</p><p><strong>Doubt:</strong> Appears around cliffs or deserts and makes creatures hesitate, mistrusting their ability to climb or escape their current difficulties</p><p><strong>Fear:</strong> Appears in caves and ruins, overwhelming creatures with dread and urging them to give voice to their deepest fears</p><p><strong>Hatred:</strong> Appears in volcanic regions and provokes creatures to scream and destroy things</p><p><strong>Inspiration:</strong> Appears around memorials or natural wonders, causing creatures to create works of art on the spot and obsess over them</p><p><strong>Joy:</strong> Appears in glens or flowering fields, inspiring creatures to dance, relax, and sing</p><p><strong>Love:</strong> Appears along beaches or orchards and encourages creatures to confess their love to others and endlessly list their favorite things</p><p><strong>Sorrow:</strong> Appears in ruins and swamps, particularly around quicksand, and overwhelms creatures with sobbing and confessions of regret</p>"
   },
   {
     "entryId": "tcoeMaterialComp",
@@ -688,20 +660,6 @@
     "source": "Puzzles"
   },
   {
-    "entryId": "tcoePuzzles00000",
-    "pageId": "LRKBp1S8dsnr3ev9",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
-    "pageId": "LRKBp1S8dsnr3ev9",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>Why create a solvable puzzle? Just pose an enigmatic question without an answer and watch your trespassers squirm!</p><p><cite>Tasha</cite></p></blockquote><p>Devious traps and multifaceted mysteries might be staples of fantasy adventures, but they’re not the easiest challenges for a DM to present on the fly. This section presents a selection of puzzles designed to invite group participation and challenge adventurers of any stripe—from genius scholars to martial masters. Each puzzle is flexible enough to be included in your campaign as presented or customized to fit the needs of a specific adventure.</p><h2>Puzzles by Difficulty</h2><h3>Easy</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCreaturePain]{Creature Paintings}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeRecklessStep]{Reckless Steps}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSkeletonKeys]{Skeleton Keys}</p><h3>Medium</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeAllThatGlitt]{All That Glitters}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeEyeOfTheBeho]{Eye of the Beholder}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeFourByFour00]{Four by Four}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeIllusiveIsla]{Illusive Island}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMaterialComp]{Material Components}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMembersOnly0]{Members Only}</p><h3>Hard</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeExactChange0]{Exact Change}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeFourElements]{Four Elements}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeHauntedHallw]{Haunted Hallway}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeWhatsOnTheMe]{What's on the Menu}</p>"
-  },
-  {
     "entryId": "tcoeRecklessStep",
     "path": "name",
     "source": "Reckless Steps"
@@ -757,20 +715,6 @@
     "entryId": "tcoeSidekicks000",
     "path": "name",
     "source": "Sidekicks"
-  },
-  {
-    "entryId": "tcoeSidekicks000",
-    "pageId": "JCq7zTMZxaj1uXwI",
-    "pageName": "Gaining a Sidekick Class",
-    "path": "name",
-    "source": "Gaining a Sidekick Class"
-  },
-  {
-    "entryId": "tcoeSidekicks000",
-    "pageId": "JCq7zTMZxaj1uXwI",
-    "pageName": "Gaining a Sidekick Class",
-    "path": "text",
-    "source": "<p>When you create a sidekick, you choose the class it will have for the rest of its career: Expert, Spellcaster, or Warrior, each of which is detailed below. If a sidekick class contains a choice, you may make the choice or let the players make it.</p><h2>Starting Level</h2><p>The starting level of a sidekick is the same as the average level of the group. For example, if a 1st-level group starts out with a sidekick, that sidekick is also 1st level, but if a 10th-level group invites a sidekick to join them, that sidekick starts at 10th level.</p><h2>Leveling Up a Sidekick</h2><p>Whenever a group’s average level goes up, the sidekick gains a level. It doesn’t matter how much of the group’s recent adventures the sidekick experienced; the sidekick levels up because of a combination of the adventures it shared with the group and its own training.</p><h2>Hit Points</h2><p>Whenever the sidekick gains a level, it gains one Hit Die, and its hit point maximum increases. To determine the amount of the increase, roll the Hit Die (the type of die appears in the sidekick’s stat block), and add its Constitution modifier. It gains a minimum of 1 hit point per level.</p><p>If the sidekick drops to 0 hit points and isn’t killed outright, it falls &amp;Reference[unconscious] and subsequently makes death saving throws, just like a player character.</p><h2>Proficiency Bonus</h2><p>The sidekick’s proficiency bonus is determined by its level in its class, as shown in the class’s table.</p><p>Whenever the sidekick’s proficiency bonus increases by 1, add 1 to the to-hit modifier of all the attacks in its stat block, and increase the DCs in its stat block by 1.</p><h2>Ability Score Increases</h2><p>Whenever the sidekick gains the Ability Score Improvement feature, adjust anything in its stat block that relies on an ability modifier that you increase. For example, if the sidekick has an attack that uses its Strength modifier, increase the attack’s modifiers to hit and damage if the Strength modifier increases.</p><p>If it’s unclear whether a melee attack in the stat block uses Strength or Dexterity, the attack can use either.</p>"
   },
   {
     "entryId": "tcoeSkeletonKeys",
