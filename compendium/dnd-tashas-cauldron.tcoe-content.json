@@ -26,6 +26,10 @@
           "name": "Resumen",
           "text": "<p>Este diario contiene algunas reglas y referencias adicionales procedentes de fuentes externas que hemos recibido permiso para incluir:</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeFirearmRules]{Reglas de armas de fuego}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSocialIntera]{Reglas de interacción social}</p>"
         },
+        "G8W2MyCHlyech5kL": {
+          "name": "Frío extremo",
+          "text": "<p>Cuando la temperatura es de 0 grados Fahrenheit o inferior, una criatura expuesta al frío debe superar una tirada de salvación de [[/save con dc=10]] al final de cada hora o ganar un nivel de &amp;Reference[exhaustion]. Las criaturas con resistencia o inmunidad al daño de frío superan automáticamente la tirada de salvación, al igual que las que lleven equipo para clima frío (abrigos gruesos, guantes y similares) y las que estén adaptadas de forma natural a climas fríos.</p>"
+        },
         "KBTfUAsE7fxUQuKp": {
           "name": "Tabla de oleadas de magia salvaje",
           "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeWildMagicSur]</p>"
@@ -46,7 +50,13 @@
       }
     },
     "tcoeAristocrat00": {
-      "folder": "Patrones de ejemplo"
+      "folder": "Patrones de ejemplo",
+      "pages": {
+        "mzoVoUlwqJnIMdmY": {
+          "name": "Contacto del aristócrata",
+          "text": "<p>Salvo contadas excepciones, los aristócratas prefieren que otra persona se encargue de comunicarse con sus empleados. Por ello, os comunicáis con un intermediario que actúa como enlace en vuestros tratos con el patrón.</p><p>Tira o elige en la tabla Contacto del aristócrata para determinar quién actúa como representante de vuestro patrón.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAristocratCo]</p>"
+        }
+      }
     },
     "tcoeArtificer000": {
       "name": "Artífice",
@@ -75,6 +85,10 @@
       "pages": {
         "CZPOS6IiBi4PO7oV": {
           "name": "Senda de la Magia Salvaje"
+        },
+        "jWf2GeB3JwkN5eDN": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.XnuJbUH9yEnsot5B caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.lQ6qPkCfIyjIADY5]{bárbaro} recibe nuevos rasgos y subclases en esta sección.</p>"
         },
         "vMPC6wxO9BJUyxdZ": {
           "name": "Senda de la Bestia"
@@ -204,6 +218,10 @@
           "name": "Fuego en ráfaga",
           "text": "<p>Un arma que tenga la propiedad fuego en ráfaga puede realizar un ataque normal contra un único objetivo o rociar de proyectiles un área cúbica de 10 pies situada dentro de su alcance normal. Cada criatura del área debe superar una tirada de salvación de [[/save dc=15 dex]] o recibir el daño normal del arma. Esta acción consume diez unidades de munición.</p>"
         },
+        "JU785fajC0AIOUQY": {
+          "name": "Reglas de armas de fuego",
+          "text": "<p>Si quieres recrear el estilo de capa y espada de Los tres mosqueteros y relatos similares, puedes introducir en tu campaña armas de pólvora asociadas al Renacimiento. Del mismo modo, en una campaña donde se haya estrellado una nave espacial o existan elementos de la Tierra moderna podrían aparecer armas de fuego modernas o futuristas. La tabla Armas de fuego ofrece ejemplos de los tres periodos. Los objetos modernos y futuristas no tienen precio.</p>"
+        },
         "K6CjCPYdFOIUs7oR": {
           "name": "Propiedades",
           "text": "<p>Las armas de fuego utilizan @UUID[.lpOhD86CfDeKyHU4]{munición} especial, y algunas poseen la propiedad @UUID[.aPabcSX9GJUQqWO4]{fuego en ráfaga} o @UUID[.x4f1q2cZF6nzQC9t]{recarga}.</p>"
@@ -212,6 +230,10 @@
           "name": "Munición",
           "text": "<p>La munición de un arma de fuego se destruye al usarla. Las armas de fuego renacentistas y modernas utilizan balas. Las armas de fuego futuristas funcionan con un tipo especial de munición llamado célula de energía. Una célula de energía contiene potencia suficiente para todos los disparos que puede efectuar su arma.</p>"
         },
+        "n1aK52daLgmkSq5J": {
+          "name": "Competencia",
+          "text": "<p>Tú decides si un personaje tiene competencia con un arma de fuego. Los personajes de la mayoría de mundos de D&amp;D no poseerían dicha competencia. Durante su tiempo entre aventuras, pueden utilizar las reglas de entrenamiento del Player’s Handbook para adquirirla, suponiendo que tengan munición suficiente para mantener las armas operativas mientras dominan su uso.</p>"
+        },
         "x4f1q2cZF6nzQC9t": {
           "name": "Recarga",
           "text": "<p>Con un arma que tenga la propiedad recarga solo se puede realizar un número limitado de disparos. Después, un personaje debe recargarla usando una acción o una acción adicional (a elección del personaje).</p>"
@@ -219,7 +241,13 @@
       }
     },
     "tcoeGettingStart": {
-      "folder": "Opciones de personaje"
+      "folder": "Opciones de personaje",
+      "pages": {
+        "LlecS7ZnaS5Nf20k": {
+          "name": "Rasgos de clase opcionales",
+          "text": "<p>A diferencia de los rasgos del Player’s Handbook, no obtienes automáticamente los que se presentan aquí. Tras consultarlo con tu DM, decides si obtienes un rasgo de esta sección cuando cumplas el requisito de nivel indicado en su descripción. Estos rasgos pueden elegirse por separado: puedes usar uno, varios o ninguno.</p>"
+        }
+      }
     },
     "tcoeGroupPatrons": {
       "folder": "Patrones de grupo",
@@ -241,6 +269,10 @@
     "tcoeMagicTattoos": {
       "folder": "Miscelánea mágica",
       "pages": {
+        "6Gf7692g22JFl1C2": {
+          "name": "Sintonización con tatuajes",
+          "text": "<p>Para sintonizarte con un tatuaje mágico, sostienes la aguja contra la zona de tu piel donde quieres que aparezca y la mantienes presionada durante todo el proceso de sintonización. Cuando este termina, la aguja se convierte en la tinta que forma el tatuaje, que aparece sobre la piel.</p><p>Si termina tu sintonización con el tatuaje, este desaparece y la aguja reaparece en tu espacio.</p>"
+        },
         "X1JTXrJ119g1TNEQ": {
           "name": "Tatuaje hechizado"
         }
@@ -288,6 +320,10 @@
     "tcoeRanger000000": {
       "folder": "Clases y subclases",
       "pages": {
+        "gQQ68aXYBJQJnlTX": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.hOjDZL9TfdqQ3zVM caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.nLK08pRtyaLLuB4w]{explorador} recibe nuevos rasgos y subclases en esta sección.</p><p></p><p></p>"
+        },
         "PQluDzs7uC7SL4vT": {
           "name": "Guardián del enjambre"
         },
@@ -317,9 +353,17 @@
     "tcoeSocialIntera": {
       "folder": "Reglas y referencias adicionales",
       "pages": {
+        "jC1zexHhiX1UAHec": {
+          "name": "Indiferente",
+          "text": "<p>Una criatura <strong>indiferente</strong> podría ayudar o entorpecer al grupo según lo que considere más beneficioso. Su indiferencia no implica necesariamente que sea distante o desinteresada: podría ser educada y cordial, arisca e irritable o cualquier cosa intermedia. Los aventureros necesitan superar una prueba de Carisma para convencer a una criatura indiferente de que haga algo.</p>"
+        },
         "Prk328joy79EA4gj": {
           "name": "2. Conversación",
           "text": "<p><strong>Interpretad la conversación.</strong> Deja que los aventureros expongan sus argumentos e intenten formular sus declaraciones en términos que resulten significativos para la criatura con la que interactúan.</p>"
+        },
+        "ZnjwPPSEMQ4zQ4cK": {
+          "name": "Amistosa",
+          "text": "<p>Una criatura <strong>amistosa</strong> quiere ayudar a los aventureros y desea que tengan éxito. Para tareas o acciones que no impliquen riesgos, esfuerzos o costes especiales, las criaturas amistosas suelen ayudar sin hacer preguntas. Si existe algún riesgo personal, podría ser necesaria una prueba de Carisma con éxito para convencer a una criatura amistosa de que lo asuma.</p>"
         }
       }
     },
@@ -331,6 +375,10 @@
         },
         "k2b4DdClH0G470Ro": {
           "name": "Alma mecánica"
+        },
+        "sfqlGc6dc4sPARpl": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.mjX1ct8fyXYQAMXL caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.mh73MffZNiVCVxJV]{hechicero} recibe nuevos rasgos y subclases en esta sección.</p>"
         }
       }
     },
@@ -357,6 +405,10 @@
         },
         "veb15z5wfYwmWsOT": {
           "name": "Lo Insondable"
+        },
+        "VIsCS8TmNcuQ6pKw": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.RAEJtaUca1vMs7Ey caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.nBRkCAhWQOChx5qN]{brujo} recibe nuevos rasgos y subclases en esta sección.</p>"
         }
       }
     },

@@ -132,20 +132,6 @@
   },
   {
     "entryId": "tcoeAdditionalRu",
-    "pageId": "G8W2MyCHlyech5kL",
-    "pageName": "Extreme Cold",
-    "path": "name",
-    "source": "Extreme Cold"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "G8W2MyCHlyech5kL",
-    "pageName": "Extreme Cold",
-    "path": "text",
-    "source": "<p>Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a [[/save con dc=10]] saving throw at the end of each hour or gain one level of &amp;Reference[exhaustion]. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.</p>"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
     "pageId": "qH2uIPpJP5IJm5hc",
     "pageName": "Sight Rot",
     "path": "name",
@@ -268,20 +254,6 @@
   },
   {
     "entryId": "tcoeAristocrat00",
-    "pageId": "mzoVoUlwqJnIMdmY",
-    "pageName": "Aristocrat Contact",
-    "path": "name",
-    "source": "Aristocrat Contact"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "mzoVoUlwqJnIMdmY",
-    "pageName": "Aristocrat Contact",
-    "path": "text",
-    "source": "<p>Aside from a few exceptions, aristocrats prefer to have someone else handle communication with the hired help. As a result, you communicate with an intermediary who serves as a go-between in your dealings with your patron.</p><p>Roll or pick from the Aristocrat Contact table to determine who serves as your patron’s proxy.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAristocratCo]</p>"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
     "pageId": "T2SGeq1GJZppEq4L",
     "pageName": "Overview",
     "path": "name",
@@ -361,20 +333,6 @@
     "pageName": "Optional Class Features",
     "path": "text",
     "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a barbarian.</p><p>Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use one, both, or none of them.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarPrimalKno]{Primal Knowledge}</h3><p><em>3rd-level barbarian feature</em></p><p>When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarInstincti]{Instinctive Pounce}</h3><p><em>7th-level barbarian feature</em></p><p>As part of the bonus action you take to enter your rage, you can move up to half your speed.</p><hr /><h3>Primal Paths</h3><p>At 3rd level, a barbarian gains the Primal Path feature, which offers you the choice of a subclass. The following options are available to you when making that choice: @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeBeastPath000]{Path of the Beast} and @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeWildMagicPat]{Path of Wild Magic}.</p><hr />"
-  },
-  {
-    "entryId": "tcoeBarbarian000",
-    "pageId": "jWf2GeB3JwkN5eDN",
-    "pageName": "Introduction",
-    "path": "name",
-    "source": "Introduction"
-  },
-  {
-    "entryId": "tcoeBarbarian000",
-    "pageId": "jWf2GeB3JwkN5eDN",
-    "pageName": "Introduction",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.XnuJbUH9yEnsot5B caption=false cite=false classes=\"three center\"]</p><p>The @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.lQ6qPkCfIyjIADY5]{barbarian} class receives new features and subclasses in this section.</p>"
   },
   {
     "entryId": "tcoeBard00000000",
@@ -1254,34 +1212,6 @@
     "source": "<h2>Renaissance Firearms</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMusket000000]{Musket}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoePistol000000]{Pistol}</p><h3>Ammunition</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBullet000000]{Bullets}</p><h2>Modern Firearms</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoePistolAutoma]{Pistol, Automatic}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRevolver0000]{Revolver}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRifleHunting]{Rifle, Hunting}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRifleAutomat]{Rifle, Automatic}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeShotgun00000]{Shotgun}</p><h3>Ammunition</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBulletModern]{Bullets, Modern}</p><h2>Futuristic Firearms</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAntimatterRi]{Antimatter Rifle}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLaserPistol0]{Laser Pistol}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLaserRifle00]{Laser Rifle}</p><h3>Ammunition</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEnergyCell00]{Energy Cell}</p>"
   },
   {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "JU785fajC0AIOUQY",
-    "pageName": "Firearm Rules",
-    "path": "name",
-    "source": "Firearm Rules"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "JU785fajC0AIOUQY",
-    "pageName": "Firearm Rules",
-    "path": "text",
-    "source": "<p>If you want to model the swashbuckling style of The Three Musketeers and similar tales, you can introduce gunpowder weapons to your campaign that are associated with the Renaissance. Similarly, in a campaign where a spaceship has crashed or elements of modern-day Earth are present, futuristic or modern firearms might appear. The Firearms table provides examples of firearms from all three of those periods. The modern and futuristic items are priceless.</p>"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "n1aK52daLgmkSq5J",
-    "pageName": "Proficiency",
-    "path": "name",
-    "source": "Proficiency"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "n1aK52daLgmkSq5J",
-    "pageName": "Proficiency",
-    "path": "text",
-    "source": "<p>It’s up to you to decide whether a character has proficiency with a firearm. Characters in most D&amp;D worlds wouldn’t have such proficiency. During their downtime, characters can use the training rules in the Player’s Handbook to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.</p>"
-  },
-  {
     "entryId": "tcoeGettingStart",
     "path": "name",
     "source": "Getting Started"
@@ -1313,20 +1243,6 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<p>When you make your D&amp;D character, you have an array of options in the Player's Handbook to create the sort of adventurer you want. This chapter adds to those options, making it possible to realize even more character concepts. If you combine these options with those in Xanathar's Guide to Everything, the possibilities for your characters become vast.</p><p>Here are the options featured in this chapter:</p><ul><li>A way to customize your character’s origin by changing some of your racial traits</li><li>Guidance on changing your subclass</li><li>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeArtificer000]{The artificer class}, a master of magical invention</li><li>Class features and subclasses for every class in the Player's Handbook</li><li>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeFeats0000000]{Feats} for anyone who uses that optional rule</li></ul><table><thead><tr><th>Class</th><th>Subclasses</th></tr></thead><tbody><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeArtificer000]{Artificer}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeArtificer000.JournalEntryPage.Mq3cIPPCWXQLgkN3]{Alchemist}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeArtificer000.JournalEntryPage.D4HiVlSX3VkEDjW0]{Armorer}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeArtificer000.JournalEntryPage.NPnjymJbcauW9aIf]{Artillerist}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeArtificer000.JournalEntryPage.GVrTiuOaiAYlmktt]{Battle Smith}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeBarbarian000]{Barbarian}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeBarbarian000.JournalEntryPage.vMPC6wxO9BJUyxdZ]{Path of the Beast}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeBarbarian000.JournalEntryPage.CZPOS6IiBi4PO7oV]{Path of Wild Magic}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeBard00000000]{Bard}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeBard00000000.JournalEntryPage.DMRsw9mF6eOpO7Xc]{College of Creation}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeBard00000000.JournalEntryPage.rCydMQ9dleMyXby1]{College of Eloquence}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCleric000000]{Cleric}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCleric000000.JournalEntryPage.e3iYfFD3PIXhXi2P]{Order Domain}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCleric000000.JournalEntryPage.1Tiz5GJn7aP4531T]{Peace Domain}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCleric000000.JournalEntryPage.Lhm3GpFBlbvWTcfX]{Twilight Domain}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeDruid0000000]{Druid}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeDruid0000000.JournalEntryPage.kPdP1QUNBJkUQyuI]{Circle of Spores}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeDruid0000000.JournalEntryPage.o29S5QNjHD6BbnRR]{Circle of Stars}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeDruid0000000.JournalEntryPage.Z7E1zbTs54ejnxeg]{Circle of Wildfire}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeFighter00000]{Fighter}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeFighter00000.JournalEntryPage.twKSnK1a5XVCAF8D]{Psi Warrior}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeFighter00000.JournalEntryPage.moOVqeyY1pT8V3qH]{Rune Knight}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeMonk00000000]{Monk}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeMonk00000000.JournalEntryPage.ODdT12kwR2SuEe6u]{Way of Mercy}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeMonk00000000.JournalEntryPage.29gDgmr3txtYVbKZ]{Way of the Astral Self}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoePaladin00000]{Paladin}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoePaladin00000.JournalEntryPage.e0zaT4rFGgaRQ1JQ]{Oath of Glory}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoePaladin00000.JournalEntryPage.xXp7IBzyStv39tqa]{Oath of the Watchers}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeRanger000000]{Ranger}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeRanger000000.JournalEntryPage.vqqmpmSbCiyaYZVg]{Fey Wanderer}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeRanger000000.JournalEntryPage.PQluDzs7uC7SL4vT]{Swarmkeeper}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeRogue0000000]{Rogue}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeRogue0000000.JournalEntryPage.EoDtYN3cTv9ZxUhL]{Phantom}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeRogue0000000.JournalEntryPage.juZQMOZMV9oTg0Xj]{Soulknife}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSorcerer0000]{Sorcerer}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSorcerer0000.JournalEntryPage.ARhekFrVkOMpbkeI]{Aberrant Mind}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSorcerer0000.JournalEntryPage.k2b4DdClH0G470Ro]{Clockwork Soul}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeWarlock00000]{Warlock}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeWarlock00000.JournalEntryPage.veb15z5wfYwmWsOT]{The Fathomless}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeWarlock00000.JournalEntryPage.oaxo3ds1hUqevNhv]{The Genie}</p></td></tr><tr><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeWizard000000]{Wizard}</p></td><td><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeWizard000000.JournalEntryPage.lOTW9mEvGRJCERBc]{Bladesinging}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeWizard000000.JournalEntryPage.XIL1zIxzKXw2Oc3f]{Order of Scribes}</p></td></tr></tbody></table><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.yeUsele0D1R86Jz6]</p>"
-  },
-  {
-    "entryId": "tcoeGettingStart",
-    "pageId": "LlecS7ZnaS5Nf20k",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeGettingStart",
-    "pageId": "LlecS7ZnaS5Nf20k",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use one, multiple, or none of them.</p>"
   },
   {
     "entryId": "tcoeGettingStart",
@@ -1572,20 +1488,6 @@
   },
   {
     "entryId": "tcoeMagicTattoos",
-    "pageId": "6Gf7692g22JFl1C2",
-    "pageName": "Tattoo Attunement",
-    "path": "name",
-    "source": "Tattoo Attunement"
-  },
-  {
-    "entryId": "tcoeMagicTattoos",
-    "pageId": "6Gf7692g22JFl1C2",
-    "pageName": "Tattoo Attunement",
-    "path": "text",
-    "source": "<p>To attune to a magic tattoo, you hold the needle to your skin where you want the tattoo to appear, pressing the needle there throughout the attunement process. When the attunement is complete, the needle turns into the ink that becomes the tattoo, which appears on the skin.</p><p>If your attunement to the tattoo ends, the tattoo vanishes, and the needle reappears in your space.</p>"
-  },
-  {
-    "entryId": "tcoeMagicTattoos",
     "pageId": "PuOrz6JcGK0GMHGv",
     "pageName": "Tattoos",
     "path": "name",
@@ -1750,20 +1652,6 @@
     "pageName": "Optional Class Features",
     "path": "text",
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.ipGeK4t9lSayAMtf caption=false classes=\"right three\"]</p><p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a ranger. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><p>If you take a feature that replaces another feature, you gain no benefit from the replaced one and don’t qualify for anything in the game that requires it.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranDeftExplo]{Deft Explorer}</h3><p>1st-level ranger feature, which replaces the Natural Explorer feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranDeftExplo caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranFavoredFo]{Favored Foe}</h3><p>1st-level ranger feature, which replaces the Favored Enemy feature and works with the Foe Slayer feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranFavoredFo caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranSpells000]{Additional Ranger Spells}</h3><p>2nd-level ranger feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranSpells000 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranFightingS]{Fighting Style Options}</h3><p>2nd-level ranger feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranFightingS caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranSpellcast]{Spellcasting Focus}</h3><p>2nd-level ranger feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranSpellcast caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranPrimalAwa]{Primal Awareness}</h3><p>3rd-level ranger feature, which replaces the Primeval Awareness feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranPrimalAwa caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranMartialVe]{Martial Versatility}</h3><p>4th-level ranger feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranMartialVe caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranNaturesVe]{Nature's Veil}</h3><p>10th-level ranger feature, which replaces the Hide in Plain Sight feature</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeranNaturesVe caption=false cite=false]</p><hr />"
-  },
-  {
-    "entryId": "tcoeRanger000000",
-    "pageId": "gQQ68aXYBJQJnlTX",
-    "pageName": "Introduction",
-    "path": "name",
-    "source": "Introduction"
-  },
-  {
-    "entryId": "tcoeRanger000000",
-    "pageId": "gQQ68aXYBJQJnlTX",
-    "pageName": "Introduction",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.hOjDZL9TfdqQ3zVM caption=false cite=false classes=\"three center\"]</p><p>The @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.nLK08pRtyaLLuB4w]{ranger} class receives new features and subclasses in this section.</p><p></p><p></p>"
   },
   {
     "entryId": "tcoeReligiousOrd",
@@ -1936,20 +1824,6 @@
   },
   {
     "entryId": "tcoeSocialIntera",
-    "pageId": "jC1zexHhiX1UAHec",
-    "pageName": "Indifferent",
-    "path": "name",
-    "source": "Indifferent"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "jC1zexHhiX1UAHec",
-    "pageName": "Indifferent",
-    "path": "text",
-    "source": "<p>An <strong>indifferent</strong> creature might help or hinder the party, depending on what the creature sees as most beneficial. A creature’s indifference doesn’t necessarily make it standoffish or disinterested. Indifferent creatures might be polite and genial, surly and irritable, or anything in between. A successful Charisma check is necessary when the adventurers try to persuade an indifferent creature to do something.</p>"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
     "pageId": "Zb2DH904iabsyixg",
     "pageName": "Hostile",
     "path": "name",
@@ -1961,20 +1835,6 @@
     "pageName": "Hostile",
     "path": "text",
     "source": "<p>A <strong>hostile</strong> creature opposes the adventurers and their goals but doesn’t necessarily attack them on sight. For example, a condescending noble might wish to see a group of upstart adventurers fail so as to keep them from becoming rivals for the king’s attention, thwarting them with slander and scheming rather than direct threats and violence. The adventurers need to succeed on one or more challenging Charisma checks to convince a hostile creature to do anything on their behalf. That said, a hostile creature might be so ill-disposed toward the party that no Charisma check can improve its attitude, in which case any attempt to sway it through diplomacy fails automatically.</p>"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "ZnjwPPSEMQ4zQ4cK",
-    "pageName": "Friendly",
-    "path": "name",
-    "source": "Friendly"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "ZnjwPPSEMQ4zQ4cK",
-    "pageName": "Friendly",
-    "path": "text",
-    "source": "<p>A <strong>friendly</strong> creature wants to help the adventurers and wishes for them to succeed. For tasks or actions that require no particular risk, effort, or cost, friendly creatures usually help without question. If an element of personal risk is involved, a successful Charisma check might be required to convince a friendly creature to take that risk.</p>"
   },
   {
     "entryId": "tcoeSocialIntera",
@@ -2008,20 +1868,6 @@
     "pageName": "Optional Class Features",
     "path": "text",
     "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a sorcerer. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorSpells000]{Additional Sorcerer Spells}</h3><p><em>1st-level sorcerer feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorSpells000 caption=false cite=false]</p><hr /><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.AxK2ibQLLMQNuiGL caption=false classes=\"right three\"]</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorMetamagic]{Metamagic Options}</h3><p><em>3rd-level sorcerer feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorMetamagic caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorSorcerous]{Sorcerous Versatility}</h3><p><em>4th-level sorcerer feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorSorcerous caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorMagicalGu]{Magical Guidance}</h3><p><em>5th-level sorcerer feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoesorMagicalGu caption=false cite=false]</p><hr /><p></p>"
-  },
-  {
-    "entryId": "tcoeSorcerer0000",
-    "pageId": "sfqlGc6dc4sPARpl",
-    "pageName": "Introduction",
-    "path": "name",
-    "source": "Introduction"
-  },
-  {
-    "entryId": "tcoeSorcerer0000",
-    "pageId": "sfqlGc6dc4sPARpl",
-    "pageName": "Introduction",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.mjX1ct8fyXYQAMXL caption=false cite=false classes=\"three center\"]</p><p>The @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.mh73MffZNiVCVxJV]{sorcerer} class receives new features and subclasses in this section.</p>"
   },
   {
     "entryId": "tcoeSovereign000",
@@ -2285,20 +2131,6 @@
     "pageName": "Eldritch Invocation Options",
     "path": "text",
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.n9u7OEMOsk9SszKw classes=\"right three\"]</p><p>When you choose eldritch invocations, you have access to these additional options.</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeBondOfTheTal]{Bond of the Talisman}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeBondOfTheTal caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeEldritchMind]{Eldritch Mind}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeEldritchMind caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFarScribe000]{Far Scribe}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFarScribe000 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeGiftOfThePro]{Gift of the Protectors}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeGiftOfThePro caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeInvestmentOf]{Investment of the Chain Master}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeInvestmentOf caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeProtectionOf]{Protection of the Talisman}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeProtectionOf caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeRebukeOfTheT]{Rebuke of the Talisman}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeRebukeOfTheT caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeUndyingServi]{Undying Servitude}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeUndyingServi caption=false cite=false]</p><hr /><p></p>"
-  },
-  {
-    "entryId": "tcoeWarlock00000",
-    "pageId": "VIsCS8TmNcuQ6pKw",
-    "pageName": "Introduction",
-    "path": "name",
-    "source": "Introduction"
-  },
-  {
-    "entryId": "tcoeWarlock00000",
-    "pageId": "VIsCS8TmNcuQ6pKw",
-    "pageName": "Introduction",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.RAEJtaUca1vMs7Ey caption=false cite=false classes=\"three center\"]</p><p>The @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.nBRkCAhWQOChx5qN]{warlock} class receives new features and subclasses in this section.</p>"
   },
   {
     "entryId": "tcoeWizard000000",
