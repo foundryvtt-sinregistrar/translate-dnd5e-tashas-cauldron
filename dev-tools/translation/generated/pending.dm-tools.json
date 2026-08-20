@@ -19,20 +19,6 @@
   },
   {
     "entryId": "tcoeAllThatGlitt",
-    "pageId": "4BIGw1jJUGNvQ95u",
-    "pageName": "Hint Checks",
-    "path": "name",
-    "source": "Hint Checks"
-  },
-  {
-    "entryId": "tcoeAllThatGlitt",
-    "pageId": "4BIGw1jJUGNvQ95u",
-    "pageName": "Hint Checks",
-    "path": "text",
-    "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=arc dc=15]]. The character can determine that there are spirits imprisoned in the gemstones scattered on the floor.</p><p>[[/check skill=rel dc=10]]. The character knows that the statue represents a god of knowledge and order, and the character has a strong feeling that the order of the gems in the room is important.</p><p>[[/check skill=ins dc=10]]. The character senses that the number of each type of gem isn’t arbitrary.</p>"
-  },
-  {
-    "entryId": "tcoeAllThatGlitt",
     "pageId": "A29O41Q9K4djQbs9",
     "pageName": "Puzzle Features",
     "path": "name",
@@ -298,20 +284,6 @@
   },
   {
     "entryId": "tcoeDungeonMaste",
-    "pageId": "vymQwx4Wu6Txdn21",
-    "pageName": "Session Zero",
-    "path": "name",
-    "source": "Session Zero"
-  },
-  {
-    "entryId": "tcoeDungeonMaste",
-    "pageId": "vymQwx4Wu6Txdn21",
-    "pageName": "Session Zero",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>Establish boundaries. And if anyone crosses them, speak up. If they don’t listen, there’s always cloudkill…</p><p><cite>Tasha</cite></p></blockquote><p>Before making characters or playing the game, the DM and players can run a special session—colloquially called session zero—to establish expectations, outline the terms of a social contract, and share house rules. Making and sticking to these rules can help ensure that the game is a fun experience for everyone involved.</p><p>Often a session zero includes building characters together. As the DM, you can help players during the character creation process by advising them to select options that will serve the adventure or campaign that awaits.</p>"
-  },
-  {
-    "entryId": "tcoeDungeonMaste",
     "pageId": "WXL0dwsr44ajQv9D",
     "pageName": "Overview",
     "path": "name",
@@ -386,20 +358,6 @@
     "source": "<p>Even without the threats of supernatural environments, the world is a dangerous place. The following natural hazards expand on those presented in the Dungeon Master’s Guide.</p><h2>Hazard Types</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.CLJJBCDFbEw0Q93A]{Avalanches}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.zN6oTqWg8bB5dgaX]{Falling into Water}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.3WlLvUyJBc5sL9oi]{Falling onto a Creature}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.1tYHbOoGIqcpBbK7]{Spell Equivalents of Natural Hazards}</p>"
   },
   {
-    "entryId": "tcoeEnvironmenta",
-    "pageId": "GxXsrjCDynszUKyD",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeEnvironmenta",
-    "pageId": "GxXsrjCDynszUKyD",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>When your earliest memories are of growing up in the Feywild, things like time-warping mushrooms, mind-bending fruit, and giant tabby cats seem far less whimsical and way more, “Could we please just move to the Material Plane so I can have some scrap of a normal childhood?!”</p><p><cite>Tasha</cite></p></blockquote><p>This section explores how to add fantastical challenges to any locale and ways to further bring an adventure’s setting to life.</p><p>When a creature’s name appears in bold in a table herein, that indicates that you can find the creature’s stat block in the Monster Manual.</p>"
-  },
-  {
     "entryId": "tcoeExactChange0",
     "path": "name",
     "source": "Exact Change"
@@ -460,20 +418,6 @@
     "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>The magical maze the characters find themselves in is comprised of an endless series of identical chambers. Each chamber has four passages, one at each cardinal direction. The goblin guide poses riddles that can lead the party along the path that ultimately exits the maze. Each time the party moves through the correct passage and enters a new room, the goblin provides them with a new riddle that hints which direction to travel in next. If they make an error, the characters encounter a monster of your choice and then must backtrack from their last correct turn. After three wrong turns, the party encounters the @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeBeholder0000]{beholder}.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.b6BdLwczuKwgm4Na caption=false classes=\"right three\"]</p><h2>Hallways</h2><p>The halls of this maze are 60 feet long and 10 feet wide. If the characters move away from the guide during combat or for any other reason, the goblin encourages them to follow him back to the last correct turn.</p><h2>The Goblin’s Riddles</h2><p>Upon meeting the characters (and to discourage them from attacking), the goblin makes it clear there is no way out of the maze without his help. Characters can determine that the goblin is sincere in wanting to help with a successful [[/check skill=ins dc=10]] check.</p><p>Once the goblin has the characters’ attention, it provides the first riddle, then waits for the party to venture down a passage of its choice. The goblin stops at each intersection and either provides the next riddle (if the party chose the correct path) or avoids the monster the group encounters (if the party chose the incorrect path), leading the characters back to the last correct chamber along the path after any battle.</p><p>The goblin’s riddles (and their answers) are as follows:</p><ul><li>What beast has the sharpest eye? (Eagle)</li><li>Threads get pulled through the eye of what? (Needle)</li><li>What is the eye to the soul? (Window)</li><li>Whose eye matters to a witch’s brew? (Newt)</li><li>This eye curses you with misfortune. (Evil)</li><li>This eye brings a temporary calm. (Storm)</li><li>Roll a one on a six-sided die. Roll another and get the same. Take both together, and what’s their name? (Snake eyes)</li></ul>"
-  },
-  {
-    "entryId": "tcoeEyeOfTheBeho",
-    "pageId": "KW8st2l80GC3Roqf",
-    "pageName": "Hint Checks",
-    "path": "name",
-    "source": "Hint Checks"
-  },
-  {
-    "entryId": "tcoeEyeOfTheBeho",
-    "pageId": "KW8st2l80GC3Roqf",
-    "pageName": "Hint Checks",
-    "path": "text",
-    "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=per dc=15]].The goblin provides a hint in the form of a synonym of the riddle’s answer (for example, “lizard” for “newt”).</p><p>[[/check skill=inv dc=10]].After a few riddles are answered correctly, a character notices that all the answers relate to eyes.</p><p>[[/check skill=ins dc=10]]. After one or more correct answers are given, the character realizes that each answer corresponds to a cardinal direction.</p>"
   },
   {
     "entryId": "tcoeFourByFour00",
@@ -657,20 +601,6 @@
   },
   {
     "entryId": "tcoeIllusiveIsla",
-    "pageId": "vMtIij0nCuvuJA1v",
-    "pageName": "Hint Checks",
-    "path": "name",
-    "source": "Hint Checks"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
-    "pageId": "vMtIij0nCuvuJA1v",
-    "pageName": "Hint Checks",
-    "path": "text",
-    "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=inv dc=10]]. The word “trace” from the Day 3 entry strikes the character as important, suggesting that the map is meant to be drawn on.</p><p>[[/check skill=ins dc=15]]. The map doesn’t have labels, which means the names of the landmarks aren’t significant. What’s important are their positions relative to one another.</p><p>[[/check skill=prc dc=10]]. The fact that the expedition lasted three days is significant, as there are three dials.</p><p>[[/check skill=sur dc=15]]. The character knows the directions don’t represent an efficient way to search an area and deduces the directions must be presenting some sort of message.</p>"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
     "pageId": "X6L7QVtRUvKKtCPR",
     "pageName": "Customizing the Puzzle",
     "path": "name",
@@ -824,20 +754,6 @@
   },
   {
     "entryId": "tcoeMaterialComp",
-    "pageId": "nNngaJokd8Bm4Owy",
-    "pageName": "Solution",
-    "path": "name",
-    "source": "Solution"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "pageId": "nNngaJokd8Bm4Owy",
-    "pageName": "Solution",
-    "path": "text",
-    "source": "<p>Drawing a line from a spell to its material component crosses out letters that fall between the columns, as shown in diagram 4.4. Once all spells are connected to components, the untouched letters spell out “presto,” which, when said aloud with the paper in hand, causes one or more spell scrolls (or some other treasure of your choice) to magically appear.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.brvKPQy6meh8Jtj5 caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
     "pageId": "XNX5MkfGny3VaUsd",
     "pageName": "Overview",
     "path": "name",
@@ -849,20 +765,6 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<p><em>Difficulty: Medium</em></p><p>This puzzle might appear in a wizard’s workshop, study, or spellbook. The solution leads to a password that reveals new or rare spells (such as those in @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSpells000000]{chapter 3}). Alternatively, the password can be used for any other function that fits with your story.</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>You find an old piece of paper bearing a list of spells and components. Random letters are also scratched quickly on the paper between the two lists. A message at the top of the page says, “read untouched to gain new spells.”</p></section></section><p>Give the players a copy of <a>puzzle handout 5</a> (see below).</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.w3YiKFwkCp18D5zh caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "pageId": "Yx6PS1CnQ8jY0dgE",
-    "pageName": "Hint Checks",
-    "path": "name",
-    "source": "Hint Checks"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "pageId": "Yx6PS1CnQ8jY0dgE",
-    "pageName": "Hint Checks",
-    "path": "text",
-    "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=arc dc=10]]. The character recalls up to three of the material components for spells on the list they don’t currently know.</p><p>[[/check skill=ins dc=15]]. The character suspects that the jumbled letters in the middle—or some number of them—probably spell out a command word, pass-phrase, or important clue.</p><p>[[/check skill=prc dc=10]]. The character notices that straight lines drawn between spells and material components cross through some of the letters in the center.</p>"
   },
   {
     "entryId": "tcoeMembersOnly0",
@@ -915,20 +817,6 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<p><em>Difficulty: Medium</em></p><p>A secret club, cultist meeting, or thieves’ guild requires a password to enter. In this puzzle, those who guard a certain door are so secretive that they change the password constantly, fearing someone might have infiltrated their members’ ranks.</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>You watch a figure approach an oak door with a slide window. The figure knocks, and a guard opens the window and says, “Six.” The figure replies, “Three.” The guard then opens the door, allowing the figure to enter.</p></section></section><p>This building seems to have only one entrance: the oak door with a small slide window. A guard opens the window and speaks a seemingly random number to anyone who knocks on the door.</p>"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "pageId": "JwZiASNW4peNRO3t",
-    "pageName": "Customizing the Puzzle",
-    "path": "name",
-    "source": "Customizing the Puzzle"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "pageId": "JwZiASNW4peNRO3t",
-    "pageName": "Customizing the Puzzle",
-    "path": "text",
-    "source": "<p>Part of what makes this puzzle challenging is that it misleads players into thinking they’re overhearing a mathematical equation. To figure out the solution, they have to first overcome their own assumptions. An easier version of this puzzle might involve counting the letters in any type of word the guard provides and responding with that number. Alternatively, the response to the guard’s number might be any word with the same number of letters as that number—for example, “five” has four letters, making “duck” or “smog” suitable responses. The more your puzzle plays with numbers as words rather than digits, the more challenging it’s likely to be.</p>"
   },
   {
     "entryId": "tcoeNaturalHazar",
@@ -1294,20 +1182,6 @@
   },
   {
     "entryId": "tcoeRecklessStep",
-    "pageId": "FjvbSDftWGymlV8C",
-    "pageName": "Solution",
-    "path": "name",
-    "source": "Solution"
-  },
-  {
-    "entryId": "tcoeRecklessStep",
-    "pageId": "FjvbSDftWGymlV8C",
-    "pageName": "Solution",
-    "path": "text",
-    "source": "<p>The only safe tiles for characters to step on are the ones with the faded black letters in <a>diagram 4.1</a>. Red letters spell out either “magic” or one of the schools of magic: abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, and transmutation. Stepping on one of these tiles triggers a poison trap, as described earlier.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.MJNaKffbDcKxKJBZ]</p>"
-  },
-  {
-    "entryId": "tcoeRecklessStep",
     "pageId": "tER2aieblaxK9W9o",
     "pageName": "Puzzle Features",
     "path": "name",
@@ -1404,20 +1278,6 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<p><em>Difficulty: Easy</em></p><p>This puzzle presents a quick encounter useful for providing treasure or information. It features a box with four locks.</p><section class=\"fvtt narrative\"><p>You come upon a sinister metal box with an iron lock built into each of its four sides. Each lock sports a keyhole with a sculpted image above it. Four iron keys hang from hooks on a nearby wall, and each key has a different number of teeth. Above the keys, the following verse has been etched into the wall:</p><p></p><p><em>The spells on these locks are all the same.</em></p><p><em>Though each possesses a unique name.</em></p><p><em>Count on your answer to unlock the way,</em></p><p><em>But use the wrong key to your dismay.</em></p></section><p>All four locks must be opened before the box’s contents (whatever they might be) can be accessed.</p>"
-  },
-  {
-    "entryId": "tcoeSkeletonKeys",
-    "pageId": "CBTJvMr5RTXWBvhn",
-    "pageName": "Solution",
-    "path": "name",
-    "source": "Solution"
-  },
-  {
-    "entryId": "tcoeSkeletonKeys",
-    "pageId": "CBTJvMr5RTXWBvhn",
-    "pageName": "Solution",
-    "path": "text",
-    "source": "<p>Once the characters identify the creature depicted above each lock, they should count the letters in each creature’s name. The number of letters in a creature’s name corresponds to the number of teeth on the correct key, as shown in the Skeleton Keys Solution table.</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"SkeletonKeysSolution\" data-content-chunk-id=\"6f5ee81d-63f9-4a16-8188-db3f51a6a5c1\">Skeleton Keys Solution</h5></caption><thead><tr><th>Lock</th><th>Key</th></tr></thead><tbody><tr><td>Bat</td><td>Three teeth</td></tr><tr><td>Snake</td><td>Five teeth</td></tr><tr><td>Spider</td><td>Six teeth</td></tr><tr><td>Wolf</td><td>Four teeth</td></tr></tbody></table></div>"
   },
   {
     "entryId": "tcoeSkeletonKeys",

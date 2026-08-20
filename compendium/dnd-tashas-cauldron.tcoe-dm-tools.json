@@ -13,6 +13,10 @@
   "entries": {
     "tcoeAllThatGlitt": {
       "pages": {
+        "4BIGw1jJUGNvQ95u": {
+          "name": "Pruebas para obtener pistas",
+          "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=arc dc=15]]. El personaje determina que hay espíritus aprisionados en las gemas esparcidas por el suelo.</p><p>[[/check skill=rel dc=10]]. El personaje sabe que la estatua representa a un dios del conocimiento y el orden, y tiene la firme impresión de que el orden de las gemas de la sala es importante.</p><p>[[/check skill=ins dc=10]]. El personaje percibe que la cantidad de gemas de cada tipo no es arbitraria.</p>"
+        },
         "wXGR4kwwYzxYLlF2": {
           "name": "Resumen",
           "text": "<p><em>Dificultad: media</em></p><p>Esta sala repleta de gemas puede situarse en cualquier mazmorra, finca o edificio con varias habitaciones, y servir tanto de trampa como de lugar donde obtener una recompensa.</p><section class=\"fvtt narrative\"><p>Docenas de gemas cubren el suelo. En medio del tesoro se alza una estatua de mármol con las manos unidas frente a ella. Una placa en su base dice: «Solo un tesoro puede abandonar esta sala. Crúzate con otro y encontrarás tu tumba».</p></section>"
@@ -26,10 +30,21 @@
         "JHjhkazOVv0VMjAv": {
           "name": "Más herramientas",
           "text": "<p>Puedes encontrar detalles sobre @UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSidekicks000]{Acompañantes}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeParleyingWit]{Parlamentar con monstruos}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeEnvironmenta]{Peligros ambientales} y @UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzles00000]{Rompecabezas} en sus propias entradas de diario.</p>"
+        },
+        "vymQwx4Wu6Txdn21": {
+          "name": "Sesión cero",
+          "text": "<blockquote class=\"tasha\"><p>Estableced límites. Y si alguien los cruza, decidlo. Si no escucha, siempre queda nube aniquiladora...</p><p><cite>Tasha</cite></p></blockquote><p>Antes de crear personajes o empezar a jugar, el DM y los jugadores pueden celebrar una sesión especial, llamada coloquialmente sesión cero, para establecer expectativas, definir los términos de un contrato social y compartir reglas caseras. Crear y respetar estas reglas ayuda a garantizar que la partida sea una experiencia divertida para todos.</p><p>A menudo, una sesión cero incluye crear juntos los personajes. Como DM, puedes ayudar a los jugadores durante ese proceso aconsejándoles que elijan opciones útiles para la aventura o campaña que les espera.</p>"
         }
       }
     },
-    "tcoeEnvironmenta": {},
+    "tcoeEnvironmenta": {
+      "pages": {
+        "GxXsrjCDynszUKyD": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>Cuando tus primeros recuerdos son de crecer en Feywild, cosas como hongos que distorsionan el tiempo, frutas que retuercen la mente y gatos atigrados gigantes parecen mucho menos caprichosas y mucho más como: «¿Podemos mudarnos al Plano Material para que tenga aunque sea un pedacito de infancia normal?».</p><p><cite>Tasha</cite></p></blockquote><p>Esta sección explora cómo añadir desafíos fantásticos a cualquier lugar y maneras de dar aún más vida al escenario de una aventura.</p><p>Cuando el nombre de una criatura aparece en negrita en una tabla de esta sección, significa que puedes encontrar su perfil en el Monster Manual.</p>"
+        }
+      }
+    },
     "tcoeExactChange0": {
       "pages": {
         "aqKblHoRUv9JEUzO": {
@@ -51,6 +66,10 @@
         "99ZBXY50Gy5FgclE": {
           "name": "Solución",
           "text": "<p>La respuesta a cada acertijo comienza por una letra que indica la dirección del camino que los personajes deben seguir a continuación. Las respuestas trazan la siguiente ruta: este, norte, oeste, norte, este, sur, sur. Este recorrido hace que los personajes atraviesen algunas cámaras más de una vez, algo necesario para que la magia les permita escapar.</p>"
+        },
+        "KW8st2l80GC3Roqf": {
+          "name": "Pruebas para obtener pistas",
+          "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=per dc=15]]. El goblin proporciona una pista mediante un sinónimo de la respuesta al acertijo (por ejemplo, «lagarto» para «tritón»).</p><p>[[/check skill=inv dc=10]]. Tras responder correctamente a varios acertijos, el personaje advierte que todas las respuestas guardan relación con los ojos.</p><p>[[/check skill=ins dc=10]]. Después de dar una o más respuestas correctas, el personaje comprende que cada respuesta corresponde a un punto cardinal.</p>"
         },
         "nK9BMHs8zfUKuXxN": {
           "name": "Personalizar el rompecabezas",
@@ -96,6 +115,10 @@
         "SQYfVTuSxFmAmuuE": {
           "name": "Solución",
           "text": "<p>Los personajes que siguen las indicaciones y trazan sus recorridos en el mapa revelan tres números: 3, 4 y 8 (consulta el diagrama 4.3). Girar los diales hasta esos números en el mismo orden abre el objeto cerrado.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.1wsMeC4ghp9gwxEW]</p>"
+        },
+        "vMtIij0nCuvuJA1v": {
+          "name": "Pruebas para obtener pistas",
+          "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=10]]. La palabra «trazar» de la entrada del día 3 le parece importante al personaje y sugiere que hay que dibujar sobre el mapa.</p><p>[[/check skill=ins dc=15]]. El mapa carece de etiquetas, así que los nombres de los lugares no son relevantes; lo importante son sus posiciones relativas.</p><p>[[/check skill=prc dc=10]]. El hecho de que la expedición durase tres días es significativo, pues hay tres diales.</p><p>[[/check skill=sur dc=15]]. El personaje sabe que las direcciones no representan una forma eficiente de registrar una zona y deduce que deben transmitir algún tipo de mensaje.</p>"
         }
       }
     },
@@ -106,12 +129,27 @@
         }
       }
     },
-    "tcoeMaterialComp": {},
+    "tcoeMaterialComp": {
+      "pages": {
+        "nNngaJokd8Bm4Owy": {
+          "name": "Solución",
+          "text": "<p>Trazar una línea desde cada conjuro hasta su componente material tacha las letras situadas entre las columnas, como muestra el diagrama 4.4. Cuando todos los conjuros están unidos a sus componentes, las letras intactas forman «presto»; al pronunciarlo en voz alta con el papel en la mano, aparecen mágicamente uno o más pergaminos de conjuro (u otro tesoro a tu elección).</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.brvKPQy6meh8Jtj5 caption=false]</p>"
+        },
+        "Yx6PS1CnQ8jY0dgE": {
+          "name": "Pruebas para obtener pistas",
+          "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=arc dc=10]]. El personaje recuerda hasta tres componentes materiales de los conjuros de la lista que no conozca actualmente.</p><p>[[/check skill=ins dc=15]]. El personaje sospecha que las letras desordenadas del centro, o algunas de ellas, probablemente forman una palabra de mando, una contraseña o una pista importante.</p><p>[[/check skill=prc dc=10]]. El personaje observa que las líneas rectas trazadas entre los conjuros y sus componentes materiales atraviesan algunas letras del centro.</p>"
+        }
+      }
+    },
     "tcoeMembersOnly0": {
       "pages": {
         "DD1KMYapRpY5AUBV": {
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=15]]. El personaje deduce que no existe ninguna ecuación matemática que relacione los números intercambiados entre el guardia y los visitantes.</p><p>[[/check skill=ins dc=15]]. El personaje sospecha que la respuesta tiene que ver con la palabra, no con el número.</p>"
+        },
+        "JwZiASNW4peNRO3t": {
+          "name": "Personalizar el rompecabezas",
+          "text": "<p>Parte de la dificultad de este rompecabezas consiste en que induce a los jugadores a creer que están oyendo una ecuación matemática. Para hallar la solución, primero deben superar sus propias suposiciones. Una versión más sencilla podría consistir en contar las letras de cualquier palabra que diga el guardia y responder con ese número. Otra posibilidad es contestar al número del guardia con cualquier palabra que tenga tantas letras como el nombre de ese número; por ejemplo, «cinco» tiene cinco letras, así que «pato» no serviría pero «nubes» sí. Cuanto más juegue el rompecabezas con los números como palabras en vez de cifras, más difícil será probablemente.</p>"
         }
       }
     },
@@ -136,6 +174,10 @@
     "tcoePuzzles00000": {},
     "tcoeRecklessStep": {
       "pages": {
+        "FjvbSDftWGymlV8C": {
+          "name": "Solución",
+          "text": "<p>Las únicas baldosas seguras que pueden pisar los personajes son las que muestran letras negras desvaídas en el <a>diagrama 4.1</a>. Las letras rojas forman la palabra «magia» o el nombre de una escuela de magia: abjuración, conjuración, adivinación, encantamiento, evocación, ilusión, nigromancia y transmutación. Pisar una de esas baldosas activa una trampa de veneno, como se describió antes.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.MJNaKffbDcKxKJBZ]</p>"
+        },
         "TXrdxe0LLSysuJj2": {
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=arc dc=10]]. El personaje ve una aparición de una escuela de magia en el suelo.</p><p>[[/check skill=inv dc=10]]. El personaje interpreta la pista del verso de la pared: existen ocho escuelas de magia.</p><p>[[/check skill=prc dc=10]]. Cada personaje que supere esta prueba ve una aparición de la palabra «magia» en el suelo.</p>"
@@ -166,6 +208,10 @@
         "ApIYipWxiMphdiyp": {
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=nat dc=10]]. El personaje sabe que los conocimientos «naturales» sobre murciélagos, serpientes, arañas y lobos en general no servirán de ayuda aquí.</p><p>[[/check skill=prc dc=10]]. El personaje se da cuenta de que las cabezas con forma de cráneo de todas las llaves son iguales y probablemente no influyen en la solución del rompecabezas.</p>"
+        },
+        "CBTJvMr5RTXWBvhn": {
+          "name": "Solución",
+          "text": "<p>Cuando los personajes identifiquen la criatura representada sobre cada cerradura, deben contar las letras de su nombre. La cantidad de letras corresponde al número de dientes de la llave correcta, como muestra la tabla Solución de las llaves esqueléticas.</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"SkeletonKeysSolution\" data-content-chunk-id=\"6f5ee81d-63f9-4a16-8188-db3f51a6a5c1\">Solución de las llaves esqueléticas</h5></caption><thead><tr><th>Cerradura</th><th>Llave</th></tr></thead><tbody><tr><td>Murciélago</td><td>Tres dientes</td></tr><tr><td>Serpiente</td><td>Cinco dientes</td></tr><tr><td>Araña</td><td>Seis dientes</td></tr><tr><td>Lobo</td><td>Cuatro dientes</td></tr></tbody></table></div>"
         }
       }
     },
