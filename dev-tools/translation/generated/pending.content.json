@@ -34,20 +34,6 @@
   },
   {
     "entryId": "tcoeAcademy00000",
-    "pageId": "ScdkiIY2jtqwiHzv",
-    "pageName": "Academy Quests",
-    "path": "name",
-    "source": "Academy Quests"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
-    "pageId": "ScdkiIY2jtqwiHzv",
-    "pageName": "Academy Quests",
-    "path": "text",
-    "source": "<p>The focus of your study and the academy’s research defines the missions you undertake. Academics struggle to keep one step ahead of their scholarly rivals, making many of them suspicious of—even hostile toward—other intellectuals. Beyond rivals within their own profession, academics face challenges from their subjects (whether members of lost civilizations or magical beings) or suspicious anti-intellectuals. Not everyone wants to be the subject of scholarly scrutiny or thinks that solving the world’s mysteries is important or desirable.</p><p>The Academy Quests table presents a few of the sort of endeavors your work or studies lead you to undertake.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAcademyQuest]</p>"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
     "pageId": "wHuptZkv7doNdHui",
     "pageName": "Overview",
     "path": "name",
@@ -907,37 +893,9 @@
     "source": "<p>With the criminal syndicate as your group’s patron, you gain the following perks.</p><p><em><strong>Assignments.</strong></em> The syndicate doesn’t pay you directly, but it assigns you to particular tasks on behalf of its clients or the organization. Someone hires the syndicate to perform a task (such as an assassination), and the syndicate passes 85 percent of the fee on to your group. If the aim is to enrich the syndicate (such as by pulling off a heist), you have the privilege of keeping 85 percent of what you steal. Other syndicates take more or less than a 15 percent share, at the DM’s discretion.</p><p><em><strong>Contraband.</strong></em> You have access to your syndicate’s business in contraband, such as poisons or narcotics. You don’t receive a discount on these goods, but you can always find someplace to purchase them.</p><p><em><strong>Fences.</strong></em> Members or associates of your syndicate are skilled at disposing of stolen goods, and you have access to this service as well. Fences are useful for selling not just illicit goods but also expensive items such as works of art and magic items. In the case of magic items, this allows you to delegate the work of finding a buyer (a @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.WTgThIDXBP3BhTJK#downtime-activities]{downtime activity} described in the Dungeon Master's Guide and Xanathar's Guide to Everything) to the fence. When using the syndicate’s fences, you run no risk of a double-cross or other mishap in finding a buyer, but the syndicate takes 20 percent of the sale price as a finder’s fee.</p><p><em><strong>Safe Houses.</strong></em> The syndicate maintains safe houses or other secret hiding spots across a wide region. Your group knows how to locate these nondescript redoubts and can maintain a poor lifestyle in one for no cost. Revealing a safe house, whether purposefully or by accident, causes you to lose favor with the syndicate and may see you banned from using them.</p><p><em><strong>Syndicate-Owned Businesses.</strong></em> The syndicate owns several businesses, primarily as fronts for laundering money. When you buy from one of these businesses, you get a 5 percent discount. The DM decides what goods and services are available.</p>"
   },
   {
-    "entryId": "tcoeCriminalSynd",
-    "pageId": "vV41X2asd0M4iN7i",
-    "pageName": "Criminal Syndicate Contact",
-    "path": "name",
-    "source": "Criminal Syndicate Contact"
-  },
-  {
-    "entryId": "tcoeCriminalSynd",
-    "pageId": "vV41X2asd0M4iN7i",
-    "pageName": "Criminal Syndicate Contact",
-    "path": "text",
-    "source": "<p>Each member of the syndicate has a place in the organization. You report to a contact who handles your contribution by giving you assignments, collecting the syndicate’s cut of your swag, or seeing that you receive your fee for contract work from outside clients. The contact is your first point of communication if you need to reach out to highly ranked members of the syndicate’s hierarchy.</p><p>Roll or pick from the Syndicate Contact table to determine your contact within a criminal organization.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSyndicateCon]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.63MyPPi3MHpV3d4Z]</p>"
-  },
-  {
     "entryId": "tcoeDisclaimer00",
     "path": "name",
     "source": "Disclaimer"
-  },
-  {
-    "entryId": "tcoeDisclaimer00",
-    "pageId": "V5vcJ8bQSQtF2bFE",
-    "pageName": "Disclaimer",
-    "path": "name",
-    "source": "Disclaimer"
-  },
-  {
-    "entryId": "tcoeDisclaimer00",
-    "pageId": "V5vcJ8bQSQtF2bFE",
-    "pageName": "Disclaimer",
-    "path": "text",
-    "source": "<p>Contained herein are the observations of the archmage Tasha. Later known as the Witch Queen and then Iggwilv, she is one of the greatest wizards in the history of the multiverse. We fear there is an incantation hidden within these notes and have therefore bound this tome with powerful wards. If you are reading this, the first ward has already been broken! If you dare read any further, we cannot guarantee the safety of your soul or that you won’t open a portal to another plane of existence. If a portal does appear, pray that nothing worse than Tasha’s mother Baba Yaga appears. And if the mother of hags arrives, be sure to offer only praises of her daughter. Or offer muffins. She loves muffins.</p>"
   },
   {
     "entryId": "tcoeDruid0000000",
@@ -1526,20 +1484,6 @@
   },
   {
     "entryId": "tcoeSovereign000",
-    "pageId": "6O2tSjh2tE9LGSbP",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "6O2tSjh2tE9LGSbP",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>I never had much interest in ruling, partly because the titles all sound so stuffy. But “witch queen” has a lovely ring to it, don’t you think?</p><p><cite>Tasha</cite></p></blockquote><p>A leader without allies is not long a leader. You serve a sovereign—a national figure or otherwise—and work to achieve their goals no matter the cost.</p><p>As agents of a sovereign, you serve as diplomats or enforcers, spies or fixers, bringers of aid or executors of justice. You work within the system to uphold the status quo or step beyond the law to prevent war and worse. Politics, espionage, and mystery are facts of your world, as is hope and the fragile promise of peace.</p>"
-  },
-  {
-    "entryId": "tcoeSovereign000",
     "pageId": "Bb4xRQrhHHPG5GFv",
     "pageName": "Sovereign Proxies",
     "path": "name",
@@ -1565,20 +1509,6 @@
     "pageName": "Sovereign Perks",
     "path": "text",
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.OmM9b8zoYnfWHpd9 caption=false classes=\"right three\"]</p><p>With the sovereign as your group’s patron, you gain the following perks.</p><p><em><strong>Elite Access.</strong></em> While in service to the sovereign, you have access to the highest echelons of society. With your patron’s permission, you can gain access to the halls of power, from national capitols and military headquarters to noble estates and troves of state secrets. You can also request that the sovereign grant you access to perks of their position, like access to diplomatic receptions or use of the royal guards.</p><p><em><strong>Expenses.</strong></em> Your patron reimburses you for extraordinary expenses incurred as part of your work. You are required to account for your expenses and must explain any extraordinary expenditures, but routine travel, ordinary equipment, and basic services don’t draw a second glance.</p><p><em><strong>Immunity.</strong></em> As long as you remain in the sovereign’s good graces, you are nearly immune to prosecution under the laws within their sphere of influence. When you are carrying out your orders, you have a great deal of leeway in how you choose to go about that, and the law isn’t an obstacle. Committing serious crimes—especially if they are unrelated or unnecessary for the assigned work—is a sure way to fall out of your patron’s good graces, however.</p><p><em><strong>Salary.</strong></em> Your employment under a sovereign patron brings an income of 1 gp per day, or enough to maintain a modest lifestyle. At the DM’s discretion, your salary increases or decreases depending on the sovereign’s nature, the type of work you perform, and the length of your employment.</p>"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "j6Jp0Qh9zj4BRFtP",
-    "pageName": "Sovereign Contact",
-    "path": "name",
-    "source": "Sovereign Contact"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "j6Jp0Qh9zj4BRFtP",
-    "pageName": "Sovereign Contact",
-    "path": "text",
-    "source": "<p>You might benefit from direct contact with your group patron. This includes audiences or secret meetings with the sovereign, depending on the nature of your work. Alternatively, the sovereign might purposefully want to keep their distance from you, either due to their busy schedules or to maintain plausible deniability regarding your work. In such cases, an advisor or functionary oversees your assignments, serving as the primary contact between you and the sovereign.</p><p>Roll or pick from the Sovereign Contact table to determine who manages the relationship between you and the throne, if not the sovereign directly.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSovereignCon]</p>"
   },
   {
     "entryId": "tcoeSovereign000",

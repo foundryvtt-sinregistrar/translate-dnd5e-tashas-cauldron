@@ -16,7 +16,13 @@
   },
   "entries": {
     "tcoeAcademy00000": {
-      "folder": "Patrones de ejemplo"
+      "folder": "Patrones de ejemplo",
+      "pages": {
+        "ScdkiIY2jtqwiHzv": {
+          "name": "Misiones de la academia",
+          "text": "<p>El objeto de vuestro estudio y la investigación de la academia definen las misiones que emprendéis. Los académicos se esfuerzan por llevarles un paso de ventaja a sus rivales intelectuales, lo que hace que muchos desconfíen de otros eruditos e incluso se muestren hostiles hacia ellos. Además de sus rivales profesionales, los académicos se enfrentan a las dificultades que plantean sus objetos de estudio, sean miembros de civilizaciones perdidas o seres mágicos, así como a antiintelectuales recelosos. No todo el mundo desea convertirse en objeto de escrutinio académico ni considera importante o deseable resolver los misterios del mundo.</p><p>La tabla Misiones de la academia presenta algunos ejemplos de iniciativas que vuestro trabajo o vuestros estudios podrían llevaros a emprender.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAcademyQuest]</p>"
+        }
+      }
     },
     "tcoeAdditionalRu": {
       "name": "Reglas y referencias adicionales",
@@ -225,10 +231,21 @@
         "QsFNoBIOJllYux35": {
           "name": "Resumen",
           "text": "<blockquote class=\"tasha\"><p>El crimen, ¿para qué? ¿Por qué robar a alguien cuando puedes limitarte a superarlo con astucia o convertirlo en sapo?</p><p><cite>Tasha</cite></p></blockquote><p>Una red de criminales emplea a vuestro grupo. Podríais ser miembros de pleno derecho y respetados del sindicato, o iniciados a prueba que intentan dejar huella y ganarse su confianza. Quizá trabajéis para el sindicato contra vuestra voluntad: le debéis mucho por un trabajo que salió mal, por matar a la persona equivocada o simplemente por haber nacido en una familia que ya está enfrentada a personas poderosas y sin escrúpulos.</p>"
+        },
+        "vV41X2asd0M4iN7i": {
+          "name": "Contacto del sindicato criminal",
+          "text": "<p>Cada miembro del sindicato ocupa un lugar en la organización. Respondéis ante un contacto que gestiona vuestra contribución asignándoos encargos, recaudando la parte del sindicato de vuestro botín o asegurándose de que recibáis el pago por los trabajos contratados por clientes externos. Este contacto es vuestro primer canal de comunicación cuando necesitáis dirigiros a miembros de alto rango en la jerarquía del sindicato.</p><p>Tira o elige en la tabla Contacto del sindicato para determinar quién es vuestro enlace dentro de una organización criminal.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSyndicateCon]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.63MyPPi3MHpV3d4Z]</p>"
         }
       }
     },
-    "tcoeDisclaimer00": {},
+    "tcoeDisclaimer00": {
+      "pages": {
+        "V5vcJ8bQSQtF2bFE": {
+          "name": "Aviso legal",
+          "text": "<p>Este volumen contiene las observaciones de la archimaga Tasha. Conocida más adelante como la Reina Bruja y después como Iggwilv, es una de las magas más grandes de la historia del multiverso. Tememos que haya un conjuro oculto entre estas notas y, por ello, hemos protegido este tomo con poderosas salvaguardas. Si estás leyendo esto, ¡la primera salvaguarda ya ha sido quebrantada! Si te atreves a seguir leyendo, no podemos garantizar la seguridad de tu alma ni que no abras un portal a otro plano de existencia. Si aparece un portal, reza para que no salga de él nada peor que Baba Yaga, la madre de Tasha. Y, si llega la madre de las sagas, asegúrate de dedicarle únicamente elogios a su hija. O de ofrecerle magdalenas. Le encantan las magdalenas.</p>"
+        }
+      }
+    },
     "tcoeDruid0000000": {
       "folder": "Clases y subclases",
       "pages": {
@@ -489,7 +506,17 @@
       }
     },
     "tcoeSovereign000": {
-      "folder": "Patrones de ejemplo"
+      "folder": "Patrones de ejemplo",
+      "pages": {
+        "6O2tSjh2tE9LGSbP": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>Nunca me interesó demasiado gobernar, en parte porque todos los títulos suenan muy estirados. Pero «reina bruja» tiene un encanto especial, ¿no crees?</p><p><cite>Tasha</cite></p></blockquote><p>Un dirigente sin aliados no conserva el poder durante mucho tiempo. Servís a un soberano, una figura de relevancia nacional o de otro ámbito, y trabajáis para alcanzar sus objetivos cueste lo que cueste.</p><p>Como agentes de un soberano, actuáis como diplomáticos o ejecutores, espías o solucionadores de problemas, proveedores de ayuda o administradores de justicia. Trabajáis dentro del sistema para mantener el orden establecido o al margen de la ley para impedir una guerra o algo peor. La política, el espionaje y el misterio forman parte de vuestro mundo, al igual que la esperanza y la frágil promesa de la paz.</p>"
+        },
+        "j6Jp0Qh9zj4BRFtP": {
+          "name": "Contacto del soberano",
+          "text": "<p>Podríais beneficiaros de mantener contacto directo con el patrón del grupo. Esto puede incluir audiencias o reuniones secretas con el soberano, según la naturaleza de vuestro trabajo. También es posible que el soberano quiera mantener las distancias deliberadamente, ya sea por su apretada agenda o para conservar una negación plausible respecto a vuestras actividades. En esos casos, un consejero o funcionario supervisa los encargos y actúa como contacto principal entre vosotros y el soberano.</p><p>Tira o elige en la tabla Contacto del soberano para determinar quién gestiona la relación entre vosotros y el trono, si no lo hace el soberano en persona.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSovereignCon]</p>"
+        }
+      }
     },
     "tcoeSpellLists00": {
       "folder": "Opciones de personaje",
