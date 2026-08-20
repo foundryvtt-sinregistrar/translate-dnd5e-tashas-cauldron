@@ -1,0 +1,18 @@
+{
+  "label": "Scenes",
+  "folders": {
+    "Puzzles": "Puzzles"
+  },
+  "entries": {
+    "tcoeFourByFour00": {
+      "name": "Four by Four",
+      "navigation": "",
+      "notes": {}
+    },
+    "tcoeRecklessStep": {
+      "name": "Reckless Steps",
+      "navigation": "",
+      "notes": {}
+    }
+  }
+}
