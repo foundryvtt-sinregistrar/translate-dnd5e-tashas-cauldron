@@ -807,20 +807,6 @@
   },
   {
     "entryId": "tcoeParleyingWit",
-    "pageId": "PGRtfSAingrllfyh",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeParleyingWit",
-    "pageId": "PGRtfSAingrllfyh",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>Why fight if a lively chat is possible? If things get out of hand, just show yourself out with a dimension door.</p><p><cite>Tasha</cite></p></blockquote><p>Meeting a monster doesn’t have to spark a fight. An offering, like food, can calm some hostile monsters, and sapient creatures often prefer to talk than to draw weapons. If the adventurers try to parley with a monster, you may improvise the encounter or use the social interaction rules in the Dungeon Master’s Guide. Consider granting the characters advantage on any ability check they make to communicate with a creature if they offer something it wants. The “Monsters’ Desires” section below suggest things that a creature might like, depending on its type.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.4CFsPi4iUFkckwqB caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeParleyingWit",
     "pageId": "ryTTV4Ng6ZdvrD6W",
     "pageName": "Monster Research",
     "path": "name",
@@ -1004,20 +990,6 @@
   },
   {
     "entryId": "tcoePuzzles00000",
-    "pageId": "5sIzO4nhHUeDQ5vY",
-    "pageName": "Why Use Puzzles",
-    "path": "name",
-    "source": "Why Use Puzzles"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
-    "pageId": "5sIzO4nhHUeDQ5vY",
-    "pageName": "Why Use Puzzles",
-    "path": "text",
-    "source": "<p>Puzzles provide exciting opportunities to use wit to overcome obstacles and allow characters to collaborate to make discoveries. You might add a puzzle to an adventure for any of the following reasons:</p><ul><li>To encourage a party to discover information through teamwork</li><li>To provide an opportunity for characters to use their skills in uncommon ways</li><li>To make a setting feel more whimsical, mysterious, or otherworldly</li><li>To explain why no one has ever discovered something hidden close at hand</li><li>To reveal a secret no one knows and magic can’t reveal</li></ul><p>Some puzzles can take considerable time to solve, so be mindful of how often you use them in your adventures. Remember, most puzzles don’t need to be solved immediately, and they might be all the more satisfying if their riddles linger unresolved for multiple sessions.</p>"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
     "pageId": "JWCxjvhvoxfXpVKM",
     "pageName": "Hints",
     "path": "name",
@@ -1182,20 +1154,6 @@
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.lHjfinwElQLTP2yi caption=false classes=\"right three\"]</p><p>Show the players <a>puzzle handout 2</a> (see below) when their characters examine the keys. Each key has a different number of teeth: six, five, four, and three, respectively.</p><p>Each lock has a creature molded in iron above it: a bat, snake, spider, or wolf, respectively. These locks can’t be picked. If anything other than the correct key is placed inside a lock, creatures corresponding to the image above the lock ([[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.SoK7l5zJQKxTVgLL]{giant bats}, [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.ZW39DE2zI3TXVYC9]{giant poisonous snakes}, [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.f9JbhBfWucrY2eDA]{giant wolf spiders}, or [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.yawTeS8u2FCfzzZH]{wolves}) are summoned into the room. Each summoned creature is hostile and disappears after 10 minutes or when reduced to 0 hit points. These beasts can’t be &amp;Reference[charmed] or &amp;Reference[frightened].</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.1ZV03caDeJ80U7tL caption=false]</p>"
   },
   {
-    "entryId": "tcoeSkeletonKeys",
-    "pageId": "Bo7JQ0dATu9n06YE",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeSkeletonKeys",
-    "pageId": "Bo7JQ0dATu9n06YE",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p><em>Difficulty: Easy</em></p><p>This puzzle presents a quick encounter useful for providing treasure or information. It features a box with four locks.</p><section class=\"fvtt narrative\"><p>You come upon a sinister metal box with an iron lock built into each of its four sides. Each lock sports a keyhole with a sculpted image above it. Four iron keys hang from hooks on a nearby wall, and each key has a different number of teeth. Above the keys, the following verse has been etched into the wall:</p><p></p><p><em>The spells on these locks are all the same.</em></p><p><em>Though each possesses a unique name.</em></p><p><em>Count on your answer to unlock the way,</em></p><p><em>But use the wrong key to your dismay.</em></p></section><p>All four locks must be opened before the box’s contents (whatever they might be) can be accessed.</p>"
-  },
-  {
     "entryId": "tcoeSupernatural",
     "path": "name",
     "source": "Supernatural Regions"
@@ -1274,20 +1232,6 @@
     "pageName": "Infested",
     "path": "text",
     "source": "<p>On many worlds, the biomass of insects radically outweighs that of higher organisms. Mass migrations and deadly insect species can imperil larger creatures, but most insects remain nothing more than an annoyance. However, through wild population booms, magical manipulation, supernatural growth, interbreeding with otherworldly species, or stranger circumstances, insects can overrun an entire region. Swarms of insects become the dominant species in an area, consuming plants and animals, creating elaborate hives or tunnels, and infesting structures and the earth.</p><p>The following effects represent a region overrun by insects or hives of similar creatures, likely manipulated by magic, otherworldly intelligence, or environmental factors to infest an area in countless numbers and drive out all competing life.</p><p>Consider rolling on the Infested Effects table when the following circumstances occur in the region:</p><ul><li><p>Webs, cocoons, hives, anthills, or other insect dwellings are disturbed.</p></li><li><p>A creature attacks an insect swarm or a Small or larger insect, such as a giant centipede or giant spider, in the region.</p></li><li><p>A creature begins a short or long rest.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.w1MTF57foL4hTg2l caption=false]</p><h2>Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeInfestedEffe caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "pageId": "zslXkBNXTlQ3P97j",
-    "pageName": "Psychic Resonance",
-    "path": "name",
-    "source": "Psychic Resonance"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "pageId": "zslXkBNXTlQ3P97j",
-    "pageName": "Psychic Resonance",
-    "path": "text",
-    "source": "<p>In an area of psychic resonance, magic imposes strange effects on creatures and objects. These manifestations stem from strong emotions combined with magic use or from the presence of psionic creatures.</p><p>Consider rolling on the Psychic Resonance Effects table when the following circumstances occur in the region:</p><ul><li><p>A creature endures a powerful emotional experience.</p></li><li><p>A creature takes an amount of psychic damage greater than its Constitution score.</p></li><li><p>A creature becomes charmed or frightened.</p></li><li><p>A creature experiences telepathic communication.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.dgMBTytWFd4riFYj]</p><h2>Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeUnravelingMa caption=false]</p>"
   },
   {
     "entryId": "tcoeWhatsOnTheMe",

@@ -192,9 +192,23 @@
         }
       }
     },
-    "tcoeParleyingWit": {},
+    "tcoeParleyingWit": {
+      "pages": {
+        "PGRtfSAingrllfyh": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>¿Por qué luchar cuando es posible mantener una conversación animada? Si las cosas se descontrolan, basta con marcharse mediante una puerta dimensional.</p><p><cite>Tasha</cite></p></blockquote><p>Encontrarse con un monstruo no tiene por qué desencadenar un combate. Una ofrenda, como comida, puede calmar a algunos monstruos hostiles, y las criaturas sapientes suelen preferir hablar antes que desenvainar las armas. Si los aventureros intentan parlamentar con un monstruo, puedes improvisar el encuentro o utilizar las reglas de interacción social de la Dungeon Master’s Guide. Considera conceder ventaja a los personajes en cualquier prueba de característica que hagan para comunicarse con una criatura si le ofrecen algo que desea. La sección «Deseos de los monstruos» que aparece más adelante sugiere cosas que podrían gustarle según su tipo.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.4CFsPi4iUFkckwqB caption=false]</p>"
+        }
+      }
+    },
     "tcoePuzzleArtHan": {},
-    "tcoePuzzles00000": {},
+    "tcoePuzzles00000": {
+      "pages": {
+        "5sIzO4nhHUeDQ5vY": {
+          "name": "Por qué usar acertijos",
+          "text": "<p>Los acertijos ofrecen oportunidades emocionantes de usar el ingenio para superar obstáculos y permiten que los personajes colaboren para realizar descubrimientos. Puedes añadir un acertijo a una aventura por cualquiera de los siguientes motivos:</p><ul><li>Animar al grupo a descubrir información mediante el trabajo en equipo.</li><li>Ofrecer a los personajes la oportunidad de utilizar sus aptitudes de formas poco habituales.</li><li>Hacer que una localización resulte más extravagante, misteriosa o sobrenatural.</li><li>Explicar por qué nadie ha descubierto algo oculto a plena vista.</li><li>Revelar un secreto que nadie conoce y que la magia no puede desvelar.</li></ul><p>Resolver algunos acertijos puede requerir bastante tiempo, así que ten presente con qué frecuencia los utilizas en tus aventuras. Recuerda que la mayoría no tienen que resolverse de inmediato y que pueden resultar aún más satisfactorios si sus enigmas permanecen sin respuesta durante varias sesiones.</p>"
+        }
+      }
+    },
     "tcoeRecklessStep": {
       "pages": {
         "FjvbSDftWGymlV8C": {
@@ -236,6 +250,10 @@
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=nat dc=10]]. El personaje sabe que los conocimientos «naturales» sobre murciélagos, serpientes, arañas y lobos en general no servirán de ayuda aquí.</p><p>[[/check skill=prc dc=10]]. El personaje se da cuenta de que las cabezas con forma de cráneo de todas las llaves son iguales y probablemente no influyen en la solución del rompecabezas.</p>"
         },
+        "Bo7JQ0dATu9n06YE": {
+          "name": "Resumen",
+          "text": "<p><em>Dificultad: fácil</em></p><p>Este acertijo presenta un encuentro rápido que resulta útil para proporcionar un tesoro o información. Consiste en una caja con cuatro cerraduras.</p><section class=\"fvtt narrative\"><p>Encontráis una siniestra caja metálica con una cerradura de hierro integrada en cada uno de sus cuatro lados. Cada cerradura tiene un ojo y, sobre él, una imagen esculpida. De unos ganchos en una pared cercana cuelgan cuatro llaves de hierro, cada una con un número distinto de dientes. Sobre ellas se han grabado en la pared los siguientes versos:</p><p></p><p><em>Los conjuros de estas cerraduras son iguales,</em></p><p><em>aunque cada cual tiene nombres singulares.</em></p><p><em>Cuenta tu respuesta para el paso franquear,</em></p><p><em>pero usa la llave errónea y lo vas a lamentar.</em></p></section><p>Es necesario abrir las cuatro cerraduras para acceder al contenido de la caja, sea cual sea.</p>"
+        },
         "CBTJvMr5RTXWBvhn": {
           "name": "Solución",
           "text": "<p>Cuando los personajes identifiquen la criatura representada sobre cada cerradura, deben contar las letras de su nombre. La cantidad de letras corresponde al número de dientes de la llave correcta, como muestra la tabla Solución de las llaves esqueléticas.</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"SkeletonKeysSolution\" data-content-chunk-id=\"6f5ee81d-63f9-4a16-8188-db3f51a6a5c1\">Solución de las llaves esqueléticas</h5></caption><thead><tr><th>Cerradura</th><th>Llave</th></tr></thead><tbody><tr><td>Murciélago</td><td>Tres dientes</td></tr><tr><td>Serpiente</td><td>Cinco dientes</td></tr><tr><td>Araña</td><td>Seis dientes</td></tr><tr><td>Lobo</td><td>Cuatro dientes</td></tr></tbody></table></div>"
@@ -251,6 +269,10 @@
         "7NUhPUfyNWrZIf13": {
           "name": "Resplandor bendito",
           "text": "<p>La gracia de los Planos Superiores alcanza esta región. Considera tirar en la tabla Efectos del resplandor bendito cuando se produzca alguna de las siguientes circunstancias en ella:</p><ul><li><p>Una criatura supera una tirada de salvación impuesta por las aptitudes de un infernal o un muerto viviente.</p></li><li><p>Una criatura es objetivo de un conjuro de clérigo o paladín de nivel 3 o superior.</p></li><li><p>Una criatura obtiene un impacto crítico contra un infernal o un muerto viviente.</p></li><li><p>Una criatura experimenta una revelación o un triunfo inspirador al servicio de la rectitud o al desafiar a la maldad.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.ypoBiTWz94ENgBBm caption=false]</p><h2>Efectos</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBlessedRadia caption=false]</p>"
+        },
+        "zslXkBNXTlQ3P97j": {
+          "name": "Resonancia psíquica",
+          "text": "<p>En una zona de resonancia psíquica, la magia impone efectos extraños sobre criaturas y objetos. Estas manifestaciones nacen de emociones intensas combinadas con el uso de magia o de la presencia de criaturas psiónicas.</p><p>Considera tirar en la tabla Efectos de resonancia psíquica cuando se produzca alguna de las siguientes circunstancias en la región:</p><ul><li><p>Una criatura vive una experiencia emocional intensa.</p></li><li><p>Una criatura recibe una cantidad de daño psíquico superior a su puntuación de Constitución.</p></li><li><p>Una criatura queda hechizada o asustada.</p></li><li><p>Una criatura experimenta una comunicación telepática.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.dgMBTytWFd4riFYj]</p><h2>Efectos</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeUnravelingMa caption=false]</p>"
         }
       }
     },
