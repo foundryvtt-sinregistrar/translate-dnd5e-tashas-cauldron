@@ -24,7 +24,14 @@
       }
     },
     "tcoeCh4ArtHandou": {},
-    "tcoeCreaturePain": {},
+    "tcoeCreaturePain": {
+      "pages": {
+        "oiQmOiuDsk6seeXf": {
+          "name": "Pistas y personalización",
+          "text": "<h2>Pruebas para obtener pistas</h2><p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=10]]. El personaje deduce que el número de criaturas de cada cuadro es importante y usa esa cifra para determinar qué letra del nombre de la criatura debe examinar.</p><p>[[/check skill=prc dc=10]]. Al leer la dedicatoria, las palabras «contar con» le indican que debe contar las criaturas.</p><h2>Personalizar el acertijo</h2><p>Puedes sustituir los monstruos de las obras por objetos característicos, miembros de profesiones fácilmente reconocibles o cualquier otra cosa que pudiera aparecer lógicamente en grupo. Después, sigue el método de contar letras explicado en este acertijo para determinar cuántos sujetos deben aparecer en cada obra de arte.</p>"
+        }
+      }
+    },
     "tcoeDungeonMaste": {
       "pages": {
         "JHjhkazOVv0VMjAv": {
@@ -39,6 +46,10 @@
     },
     "tcoeEnvironmenta": {
       "pages": {
+        "G4W5zUjJjvHML2no": {
+          "name": "Peligros naturales",
+          "text": "<p>Incluso sin las amenazas de los entornos sobrenaturales, el mundo es un lugar peligroso. Los siguientes peligros naturales amplían los que aparecen en la Dungeon Master’s Guide.</p><h2>Tipos de peligros</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.CLJJBCDFbEw0Q93A]{Avalanchas}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.zN6oTqWg8bB5dgaX]{Caer al agua}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.3WlLvUyJBc5sL9oi]{Caer sobre una criatura}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.1tYHbOoGIqcpBbK7]{Equivalentes en conjuros de los peligros naturales}</p>"
+        },
         "GxXsrjCDynszUKyD": {
           "name": "Resumen",
           "text": "<blockquote class=\"tasha\"><p>Cuando tus primeros recuerdos son de crecer en Feywild, cosas como hongos que distorsionan el tiempo, frutas que retuercen la mente y gatos atigrados gigantes parecen mucho menos caprichosas y mucho más como: «¿Podemos mudarnos al Plano Material para que tenga aunque sea un pedacito de infancia normal?».</p><p><cite>Tasha</cite></p></blockquote><p>Esta sección explora cómo añadir desafíos fantásticos a cualquier lugar y maneras de dar aún más vida al escenario de una aventura.</p><p>Cuando el nombre de una criatura aparece en negrita en una tabla de esta sección, significa que puedes encontrar su perfil en el Monster Manual.</p>"
@@ -119,6 +130,10 @@
         "vMtIij0nCuvuJA1v": {
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=10]]. La palabra «trazar» de la entrada del día 3 le parece importante al personaje y sugiere que hay que dibujar sobre el mapa.</p><p>[[/check skill=ins dc=15]]. El mapa carece de etiquetas, así que los nombres de los lugares no son relevantes; lo importante son sus posiciones relativas.</p><p>[[/check skill=prc dc=10]]. El hecho de que la expedición durase tres días es significativo, pues hay tres diales.</p><p>[[/check skill=sur dc=15]]. El personaje sabe que las direcciones no representan una forma eficiente de registrar una zona y deduce que deben transmitir algún tipo de mensaje.</p>"
+        },
+        "X6L7QVtRUvKKtCPR": {
+          "name": "Personalizar el acertijo",
+          "text": "<p>Valora crear tu propio mapa y una serie de indicaciones para personalizar este acertijo. Si elaboras indicaciones adaptadas a lugares de la ambientación de tu campaña, puedes integrar el acertijo en la trama de la aventura y usar un mapa que los personajes quizá ya posean. Tu versión puede añadir tantos dígitos e indicaciones como consideres oportuno o revelar letras, símbolos o palabras breves, según la complejidad del diseño.</p><h2>Aumentar la dificultad</h2><p>Puedes hacer el acertijo más difícil dividiendo el mapa en fragmentos que deban descubrirse por separado, o haciendo que los personajes tengan que aprender las indicaciones de alguien que haya explorado la isla en persona. Mientras no cambie el orden de los lugares, el código seguirá siendo correcto.</p>"
         }
       }
     },
@@ -146,6 +161,10 @@
         "DD1KMYapRpY5AUBV": {
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=15]]. El personaje deduce que no existe ninguna ecuación matemática que relacione los números intercambiados entre el guardia y los visitantes.</p><p>[[/check skill=ins dc=15]]. El personaje sospecha que la respuesta tiene que ver con la palabra, no con el número.</p>"
+        },
+        "f78KXMS2onTXF6Pp": {
+          "name": "Resumen",
+          "text": "<p><em>Dificultad: media</em></p><p>Para entrar en un club secreto, una reunión de sectarios o un gremio de ladrones hace falta una contraseña. En este acertijo, quienes custodian cierta puerta son tan reservados que cambian constantemente la contraseña por miedo a que alguien se haya infiltrado entre sus miembros.</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>Observáis cómo una figura se acerca a una puerta de roble provista de una mirilla corredera. La figura llama y un guardia abre la mirilla y dice: «Seis». La figura responde: «Tres». Entonces, el guardia abre la puerta y le permite entrar.</p></section></section><p>Este edificio parece tener una única entrada: la puerta de roble con una pequeña mirilla corredera. Un guardia abre la mirilla y dice un número aparentemente aleatorio a cualquiera que llame a la puerta.</p>"
         },
         "JwZiASNW4peNRO3t": {
           "name": "Personalizar el rompecabezas",

@@ -209,20 +209,6 @@
   },
   {
     "entryId": "tcoeCreaturePain",
-    "pageId": "oiQmOiuDsk6seeXf",
-    "pageName": "Hints and Customization",
-    "path": "name",
-    "source": "Hints and Customization"
-  },
-  {
-    "entryId": "tcoeCreaturePain",
-    "pageId": "oiQmOiuDsk6seeXf",
-    "pageName": "Hints and Customization",
-    "path": "text",
-    "source": "<h2>Hint Checks</h2><p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=inv dc=10]]. The character deduces that the number of creatures in a painting is important and uses that number to determine which letter of the creature’s name they should review.</p><p>[[/check skill=prc dc=10]].When looking at the dedication, the words “count on” alert the character that they should count the creatures.</p><h2>Customizing the Puzzle</h2><p>You can replace the monsters in the artwork with distinctive objects, members of obvious professions, and anything else that might logically be in a group. Then, follow the letter-counting method detailed in this puzzle to determine how many subjects should feature in each piece of art.</p>"
-  },
-  {
-    "entryId": "tcoeCreaturePain",
     "pageId": "rfDlSZp1NbMD3ZVL",
     "pageName": "Puzzle Features and Solution",
     "path": "name",
@@ -342,20 +328,6 @@
     "pageName": "Supernatural Regions",
     "path": "text",
     "source": "<p>Not all lands thrive as nature intended. Magical forces, strange interlopers, or tragic events can alter an area’s destiny, fundamentally changing the land. While the flora, fauna, structures, and inhabitants might remain unaffected, the land’s innate character takes on new qualities.</p><p>A supernatural region is permeated by a preternatural force in an area as large or small as you wish. In the affected area, certain effects and brief encounters reinforce an underlying theme. These effects occur as characters traverse an influenced region or add interest to a specific affected location.</p><p>The descriptions of the following supernatural regions summarize the region, present a table of potential effects within the affected area, and note triggers for a random effect. Feel free to customize the effects of each region to suit any adventure.</p><p>The effects of a region occur whenever you please, at the time each description suggests, or under one or more of the following circumstances:</p><ul><li><p>Soon after the party first enters the region</p></li><li><p>When a creature loses more than half its hit points</p></li><li><p>When a creature casts a spell of 1st level or higher</p></li><li><p>When a creature activates a magic item</p></li><li><p>When a creature makes an exceptionally loud noise or otherwise attracts attention</p></li><li><p>When the party spends at least 30 minutes in the same region</p></li></ul><h2>Region Types</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.7NUhPUfyNWrZIf13]{Blessed Radiance}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.dJtm8Sm4nxc0uduK]{Far Realm}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.BaXQRO6aQsWipRGy]{Haunted}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.VPjXTC2bovhRMt9g]{Infested}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.GsO5gVa3sQp5NpnW]{Mirror Zone}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.zslXkBNXTlQ3P97j]{Psychic Resonance}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSupernatural.JournalEntryPage.uUngWEqAzcs40iGg]{Unraveling Magic}</p><p></p>"
-  },
-  {
-    "entryId": "tcoeEnvironmenta",
-    "pageId": "G4W5zUjJjvHML2no",
-    "pageName": "Natural Hazards",
-    "path": "name",
-    "source": "Natural Hazards"
-  },
-  {
-    "entryId": "tcoeEnvironmenta",
-    "pageId": "G4W5zUjJjvHML2no",
-    "pageName": "Natural Hazards",
-    "path": "text",
-    "source": "<p>Even without the threats of supernatural environments, the world is a dangerous place. The following natural hazards expand on those presented in the Dungeon Master’s Guide.</p><h2>Hazard Types</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.CLJJBCDFbEw0Q93A]{Avalanches}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.zN6oTqWg8bB5dgaX]{Falling into Water}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.3WlLvUyJBc5sL9oi]{Falling onto a Creature}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeNaturalHazar.JournalEntryPage.1tYHbOoGIqcpBbK7]{Spell Equivalents of Natural Hazards}</p>"
   },
   {
     "entryId": "tcoeExactChange0",
@@ -600,20 +572,6 @@
     "source": "<p>The numbers the dials are originally set to don’t matter. If the players ask, choose any three digits you please.</p><p>A corked wooden tube contains two clues: a map of an island and a set of directions.</p><h2>Map</h2><p>Give the players a copy of <a>puzzle handout 4</a> (see below). This map depicts an unfamiliar island with various landmarks but no key.</p><h2>Directions</h2><p>The directions are written on a single sheet of parchment and recount the route a group took in their search for treasure:</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p><em><strong>Day 1.</strong></em> Our search for the lost treasure began at the northwest inlet, Windstaff Cove. After unloading our necessities, we traveled east to Lone Pine, then southwest past Northridge to the Palms Oasis. As evening approached, we continued southeast to Anchor Point, then camped in the Great Dunes.</p><p><em><strong>Day 2.</strong></em> In the morning, we arose at the Dunes and headed to Deadman’s Cave. After finding it empty, our party continued to the Golden Ziggurat. Heading due east, we made camp at the Swirling Sands.</p><p><em><strong>Day 3.</strong></em> After a strange night’s sleep, we awoke on the third day back at Anchor Point with no memory or trace of traveling there. The Swirling Sands must have taken us in the night! We skirted the Swirling Sands to reach the Red Tower but still couldn’t find the treasure. Thinking that we may have overlooked something in the cave, we headed back. From there, we headed to the southern coast to see if the treasure was at Kraken Point. Finding nothing, we returned to Anchor Point. What awaited us there was unlike any treasure we’d imagined.</p></section></section><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.OexVqYyWy76cqSNM caption=false]</p>"
   },
   {
-    "entryId": "tcoeIllusiveIsla",
-    "pageId": "X6L7QVtRUvKKtCPR",
-    "pageName": "Customizing the Puzzle",
-    "path": "name",
-    "source": "Customizing the Puzzle"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
-    "pageId": "X6L7QVtRUvKKtCPR",
-    "pageName": "Customizing the Puzzle",
-    "path": "text",
-    "source": "<p>Consider creating your own map and series of directions to customize this puzzle. By crafting directions that suit locations in your campaign’s’ setting, you can create a puzzle that’s integrated into your adventure’s plot, using a map the characters might already possess. Your version of the puzzle can add as many digits and directions as you see fit, or it might reveal letters, symbols, or short words, depending on the complexity of your design.</p><h2>Raising the Difficulty</h2><p>You can increase this puzzle’s challenge by dividing the map into pieces that need to be separately discovered, or the characters might need to learn the directions from someone who personally explored the island. As long as the order of locations doesn’t change, the code remains correct.</p>"
-  },
-  {
     "entryId": "tcoeMagicalPheno",
     "path": "name",
     "source": "Magical Phenomena"
@@ -803,20 +761,6 @@
     "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>Even after observing the building from all angles, characters only see members entering through the one door after speaking to the guard.</p><h2>Door</h2><p>The door is made of oak reinforced with 3-inch-wide iron bars. Three deadbolts secure the door, which is also barred from the inside, so there are no locks that can be picked from the outside.</p><h2>Guard</h2><p>A guard stands on the other side of the door around the clock, and the only way to speak with the guard is through the door’s slide window. The guard can be any sort of talking creature, such as an assassin, a cult fanatic, or a thug. More monstrous options include a bugbear, wereboar, or nycaloth.</p><p>If a character knocks on the door, the guard slides open the window and gruffly gives a number, expecting the proper response. The guard gives a different number each time someone knocks. Any proper response grants a single character entry, and the guard only allows one member to enter at a time.</p><p>Characters who provide incorrect answers and attempt to enter again must disguise themselves in some way or be refused entry. The guard only willingly opens the door for someone who speaks the correct password. The guard raises the alarm if unauthorized people try to open or bypass the door, calling six more guards to help defend the entrance.</p><h2>Members</h2><p>If the characters continue watching the door, they see up to four more visitors approach it. To eavesdrop on each exchange, the characters must succeed on a [[/check skill=stealth dc=12]] group check to remain hidden; if the group check fails, the visitor notices they’re being observed and speaks quietly enough that their answer can’t be overheard.</p><p><strong>Second Visitor.</strong> The guard opens the window and says, “Twelve.” The visitor responds with “Six” and is allowed inside.</p><p><strong>Third Visitor.</strong> The guard opens the window and says, “Ten.” The visitor responds with “Five” and is turned away.</p><p><strong>Fourth Visitor.</strong> The guard opens the window and says, “Seven.” The visitor responds with “Five” and is allowed inside.</p><p><strong>Fifth Visitor.</strong> The guard opens the window and says, “Zero.” The visitor responds with “One” and is turned away.</p>"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "pageId": "f78KXMS2onTXF6Pp",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "pageId": "f78KXMS2onTXF6Pp",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p><em>Difficulty: Medium</em></p><p>A secret club, cultist meeting, or thieves’ guild requires a password to enter. In this puzzle, those who guard a certain door are so secretive that they change the password constantly, fearing someone might have infiltrated their members’ ranks.</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>You watch a figure approach an oak door with a slide window. The figure knocks, and a guard opens the window and says, “Six.” The figure replies, “Three.” The guard then opens the door, allowing the figure to enter.</p></section></section><p>This building seems to have only one entrance: the oak door with a small slide window. A guard opens the window and speaks a seemingly random number to anyone who knocks on the door.</p>"
   },
   {
     "entryId": "tcoeNaturalHazar",
