@@ -576,20 +576,6 @@
   },
   {
     "entryId": "tcoeMagicalPheno",
-    "pageId": "sTfSTVqgfGMOORHC",
-    "pageName": "Magic Mushrooms",
-    "path": "name",
-    "source": "Magic Mushrooms"
-  },
-  {
-    "entryId": "tcoeMagicalPheno",
-    "pageId": "sTfSTVqgfGMOORHC",
-    "pageName": "Magic Mushrooms",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.rulQqYiDPKX4CnHc caption=false classes=\"right two\"]</p><p>Mushrooms can be deadly, delicious, or both. Some have magical properties, especially those that grow in areas suffused by mystical energy, such as the Underdark and the Feywild.</p><p>Creatures proficient in the Medicine, Nature, or Survival skills might be versed on the subject of fungi, especially the magical kind, since the beneficial effects can save lives or bestow unusual powers. But when an unknown variety of fungus is encountered, only an expert can identify it and determine its properties.</p><p>To determine the effects of eating such fungus, roll on the @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMagicMushroo]{Magic Mushroom Effects} table.</p><h2 style=\"clear:both\">Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMagicMushroo caption=false]</p><p></p><p></p>"
-  },
-  {
-    "entryId": "tcoeMagicalPheno",
     "pageId": "Wmm89x2zAZGWfL6J",
     "pageName": "Emotional Echoes",
     "path": "name",
@@ -625,20 +611,6 @@
     "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>The wizard’s study is filled with spell components, books, potions, and various odds and ends. While the various supplies might help characters solve the puzzle, the only item the characters need is the parchment. If the puzzle is giving them grief, they can take the parchment with them and find others who can help them solve it.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.GjsgFPB4aC5d7U03 caption=false classes=\"right three\"]</p><h2>Bookcases</h2><p>All around the wizard’s study are shelves and cases filled with books, scrolls, and other supplies. A character who makes a successful [[/check skill=arc dc=12]] check notices a spell component with no gp value from the list (such as a chip of mica or a bit of bat fur).</p><h2>Lists</h2><p>The parchment has a list of spells and a list of material components. However, the components to the right don’t match with the adjacent spells to the left. The parchment itself doesn’t have any magical qualities, but the word it reveals potentially does.</p><p>Wizards and other spellcasters can identify the correct spell components for any spell they know, but they must succeed on the Intelligence (Arcana) checks noted in the @UUID[.Yx6PS1CnQ8jY0dgE]{Hint Checks} section below to recall the correct material components for any less familiar spells.</p>"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "pageId": "N0SVVBmOKJxuuJ6c",
-    "pageName": "Customizing the Puzzles",
-    "path": "name",
-    "source": "Customizing the Puzzles"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "pageId": "N0SVVBmOKJxuuJ6c",
-    "pageName": "Customizing the Puzzles",
-    "path": "text",
-    "source": "<p>While spells and components make easy to associate lists, you might also consider creating your own version of this puzzle using paired sets of monsters and creature types, planes of existence and their native inhabitants, famous figures in a setting and their homelands, and so forth.</p><h2>Lowering the Difficulty</h2><p>If your party doesn’t include characters with considerable magical expertise, consider adding art to the room’s walls or on decorative book covers that reveal connections between the listed spells and components. These images might give away a few connections between the lists or lower the DCs of the puzzle’s hint checks.</p><h2>Raising the Difficulty</h2><p>Rather than using common spells the characters might be familiar with, a more challenging version of this puzzle might feature lost spells or other lore the party has no way of knowing. Only by consulting experts, undertaking research, or further adventuring might the party reveal the connections between the two lists.</p>"
   },
   {
     "entryId": "tcoeMembersOnly0",
@@ -920,20 +892,6 @@
   },
   {
     "entryId": "tcoePuzzles00000",
-    "pageId": "JWCxjvhvoxfXpVKM",
-    "pageName": "Hints",
-    "path": "name",
-    "source": "Hints"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
-    "pageId": "JWCxjvhvoxfXpVKM",
-    "pageName": "Hints",
-    "path": "text",
-    "source": "<p>If players request a hint while attempting to solve a puzzle, consult that puzzle’s “Hint Checks” section. Each hint is associated with a skill and a DC. If a character in the party has proficiency in a skill related to a hint, share that hint with them. If the same skill is listed multiple times with the same or higher DCs, reveal hints with the lowest DCs first then hints with higher DCs if the group requests additional help.</p><p>If no character has proficiency in any of the listed skills, characters can make ability checks using the listed skills and DCs. Those who succeed on a check learn the associated hint.</p><p>Don’t hesitate to reveal hints to the party. Hints provide characters with relevant skills the opportunity to shine, even if they’re not usually particularly cunning. Additionally, if party members have backgrounds or campaign experiences that might tie into a puzzle, those make great reasons to provide characters with additional hints.</p>"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
     "pageId": "LRKBp1S8dsnr3ev9",
     "pageName": "Overview",
     "path": "name",
@@ -945,20 +903,6 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<blockquote class=\"tasha\"><p>Why create a solvable puzzle? Just pose an enigmatic question without an answer and watch your trespassers squirm!</p><p><cite>Tasha</cite></p></blockquote><p>Devious traps and multifaceted mysteries might be staples of fantasy adventures, but they’re not the easiest challenges for a DM to present on the fly. This section presents a selection of puzzles designed to invite group participation and challenge adventurers of any stripe—from genius scholars to martial masters. Each puzzle is flexible enough to be included in your campaign as presented or customized to fit the needs of a specific adventure.</p><h2>Puzzles by Difficulty</h2><h3>Easy</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCreaturePain]{Creature Paintings}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeRecklessStep]{Reckless Steps}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSkeletonKeys]{Skeleton Keys}</p><h3>Medium</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeAllThatGlitt]{All That Glitters}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeEyeOfTheBeho]{Eye of the Beholder}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeFourByFour00]{Four by Four}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeIllusiveIsla]{Illusive Island}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMaterialComp]{Material Components}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMembersOnly0]{Members Only}</p><h3>Hard</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeExactChange0]{Exact Change}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeFourElements]{Four Elements}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeHauntedHallw]{Haunted Hallway}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeWhatsOnTheMe]{What's on the Menu}</p>"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
-    "pageId": "ZFjpiwCEFDNGfz2V",
-    "pageName": "Running Puzzles",
-    "path": "name",
-    "source": "Running Puzzles"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
-    "pageId": "ZFjpiwCEFDNGfz2V",
-    "pageName": "Running Puzzles",
-    "path": "text",
-    "source": "<p>Once you’ve presented a puzzle to a group, feel free to add and clarify details as you would in any other type of encounter. Try not to give away details of the puzzle’s solution in your descriptions, but there’s nothing wrong with letting a hint slip here or there.</p><p>Don’t worry whether it’s a player or a character who’s solving a puzzle. While hint checks provide a way for character experience to contribute to a puzzle’s solution, ultimately the boundaries between a player’s and a character’s ability to solve a puzzle isn’t as important as the group enjoying the challenge. However, if a player knows the answer to a puzzle in advance, urge them to share only hints their character learns.</p><p>After presenting a puzzle, encourage the party to solve it together, to pool hints, and to share their insights. Work with the group to share any puzzle handouts and to take turns talking through their thoughts. Ultimately, solving a puzzle will be a victory for the whole group, not one individual.</p>"
   },
   {
     "entryId": "tcoePuzzles00000",

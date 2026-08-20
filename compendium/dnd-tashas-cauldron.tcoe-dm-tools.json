@@ -164,11 +164,19 @@
       "pages": {
         "O92wf7tdUDO6Kj00": {
           "name": "Fruto primordial"
+        },
+        "sTfSTVqgfGMOORHC": {
+          "name": "Hongos mágicos",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.rulQqYiDPKX4CnHc caption=false classes=\"right two\"]</p><p>Los hongos pueden ser mortales, deliciosos o ambas cosas. Algunos poseen propiedades mágicas, sobre todo los que crecen en zonas saturadas de energía mística, como la Infraoscuridad y el Feywild.</p><p>Las criaturas competentes en las habilidades Medicina, Naturaleza o Supervivencia podrían conocer bien los hongos, especialmente los mágicos, pues sus efectos beneficiosos pueden salvar vidas o conceder poderes insólitos. Sin embargo, cuando se encuentra una variedad desconocida, solo un experto puede identificarla y determinar sus propiedades.</p><p>Para determinar los efectos de comer uno de estos hongos, tira en la tabla @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMagicMushroo]{Efectos de los hongos mágicos}.</p><h2 style=\"clear:both\">Efectos</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMagicMushroo caption=false]</p><p></p><p></p>"
         }
       }
     },
     "tcoeMaterialComp": {
       "pages": {
+        "N0SVVBmOKJxuuJ6c": {
+          "name": "Personalizar los acertijos",
+          "text": "<p>Aunque los conjuros y sus componentes forman listas fáciles de asociar, también puedes crear tu propia versión de este acertijo usando parejas de monstruos y tipos de criatura, planos de existencia y sus habitantes nativos, personajes famosos de una ambientación y sus lugares de origen, etcétera.</p><h2>Reducir la dificultad</h2><p>Si el grupo no incluye personajes con conocimientos mágicos considerables, considera añadir ilustraciones en las paredes de la sala o en cubiertas decorativas de libros que revelen conexiones entre los conjuros y componentes enumerados. Estas imágenes podrían desvelar algunas relaciones entre ambas listas o reducir las CD de las pruebas para obtener pistas.</p><h2>Aumentar la dificultad</h2><p>En lugar de utilizar conjuros comunes que los personajes quizá conozcan, una versión más exigente podría incluir conjuros perdidos u otros saberes que el grupo no tenga forma de conocer. Solo consultando a expertos, realizando investigaciones o viviendo nuevas aventuras podría descubrir las conexiones entre las dos listas.</p>"
+        },
         "nNngaJokd8Bm4Owy": {
           "name": "Solución",
           "text": "<p>Trazar una línea desde cada conjuro hasta su componente material tacha las letras situadas entre las columnas, como muestra el diagrama 4.4. Cuando todos los conjuros están unidos a sus componentes, las letras intactas forman «presto»; al pronunciarlo en voz alta con el papel en la mano, aparecen mágicamente uno o más pergaminos de conjuro (u otro tesoro a tu elección).</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.brvKPQy6meh8Jtj5 caption=false]</p>"
@@ -229,6 +237,14 @@
         "5sIzO4nhHUeDQ5vY": {
           "name": "Por qué usar acertijos",
           "text": "<p>Los acertijos ofrecen oportunidades emocionantes de usar el ingenio para superar obstáculos y permiten que los personajes colaboren para realizar descubrimientos. Puedes añadir un acertijo a una aventura por cualquiera de los siguientes motivos:</p><ul><li>Animar al grupo a descubrir información mediante el trabajo en equipo.</li><li>Ofrecer a los personajes la oportunidad de utilizar sus aptitudes de formas poco habituales.</li><li>Hacer que una localización resulte más extravagante, misteriosa o sobrenatural.</li><li>Explicar por qué nadie ha descubierto algo oculto a plena vista.</li><li>Revelar un secreto que nadie conoce y que la magia no puede desvelar.</li></ul><p>Resolver algunos acertijos puede requerir bastante tiempo, así que ten presente con qué frecuencia los utilizas en tus aventuras. Recuerda que la mayoría no tienen que resolverse de inmediato y que pueden resultar aún más satisfactorios si sus enigmas permanecen sin respuesta durante varias sesiones.</p>"
+        },
+        "JWCxjvhvoxfXpVKM": {
+          "name": "Pistas",
+          "text": "<p>Si los jugadores solicitan una pista mientras intentan resolver un acertijo, consulta su sección «Pruebas para obtener pistas». Cada pista está asociada a una habilidad y una CD. Si un personaje del grupo tiene competencia en una habilidad relacionada con una pista, compártela con él. Si la misma habilidad aparece varias veces con CD iguales o superiores, revela primero las pistas con menor CD y después las de CD más alta si el grupo pide más ayuda.</p><p>Si ningún personaje tiene competencia en las habilidades indicadas, pueden realizar pruebas de característica usando dichas habilidades y CD. Quienes superen una prueba descubren la pista asociada.</p><p>No dudes en revelar pistas al grupo. Permiten destacar a los personajes con habilidades relevantes aunque no suelan ser especialmente astutos. Además, si los trasfondos o experiencias de campaña de los miembros del grupo guardan relación con un acertijo, constituyen motivos excelentes para proporcionarles pistas adicionales.</p>"
+        },
+        "ZFjpiwCEFDNGfz2V": {
+          "name": "Dirigir acertijos",
+          "text": "<p>Una vez presentado un acertijo al grupo, puedes añadir y aclarar detalles como harías en cualquier otro tipo de encuentro. Procura no revelar en tus descripciones los detalles de la solución, aunque no pasa nada por dejar escapar alguna pista de vez en cuando.</p><p>No te preocupes por si es el jugador o el personaje quien resuelve el acertijo. Aunque las pruebas para obtener pistas permiten que la experiencia del personaje contribuya a la solución, en última instancia la frontera entre la capacidad del jugador y la del personaje importa menos que el hecho de que el grupo disfrute del desafío. Sin embargo, si un jugador conoce la respuesta de antemano, pídele que comparta únicamente las pistas que descubra su personaje.</p><p>Después de presentar un acertijo, anima al grupo a resolverlo en equipo, reunir sus pistas y compartir sus conclusiones. Colabora con ellos para repartir cualquier ayuda del acertijo y para que se turnen al explicar sus ideas. En última instancia, resolverlo será una victoria de todo el grupo, no de una sola persona.</p>"
         }
       }
     },
