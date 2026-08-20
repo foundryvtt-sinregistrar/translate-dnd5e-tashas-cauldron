@@ -318,30 +318,6 @@
     "source": "Puzzles"
   },
   {
-    "entryId": "tcoeFourElements",
-    "path": "name",
-    "source": "Four Elements"
-  },
-  {
-    "entryId": "tcoeFourElements",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeFourElements",
-    "pageId": "Q5HIC0btGaq1qG21",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
-    "entryId": "tcoeFourElements",
-    "pageId": "Q5HIC0btGaq1qG21",
-    "pageName": "Puzzle Features",
-    "path": "text",
-    "source": "<p>The mosaics, statues, and tiles are described below in greater detail.</p><h2>Mosaics</h2><p>The four wall mosaics depict the following:</p><ul><li>A water elemental crashes through a city wall in a huge wave. In the center of the image is a triangle pointing downward.</li><li>An earth elemental looms over a group of warriors. A triangle pointing downward with a horizontal line through it is carved into its chest.</li><li>A fire elemental burns through a forest town. In the center of the flames is a triangle pointing upward.</li><li>An air elemental gusts through a stormy sky. Within the clouds is a triangle pointing upward with a line running horizontally through it.</li></ul><h2>Statues</h2><p>The statues are actual elementals magically bound in stone. The magic that turned these elementals into statues is slowly coming undone, as the tile pattern that binds them has fallen apart.</p><h2>Tiles</h2><p>If the characters don’t replace the four fallen tiles in their proper sequence, all four statues revert to their true forms at the same time and attack the characters. The exact timing of this event is left to you, but the characters should be given enough time to take a crack at solving the puzzle. The characters can also release the elementals individually by putting titles in the wrong order or orientation.</p><p><a>Puzzle handout 6</a> (see below) illustrates the row of tiles set into the wall above the statues. Without a check, the characters realize that four of the tiles fell down when the door slammed shut behind them. With a successful [[/check skill=arc dc=15]] check, a character can determine that these tiles are what keeps the elementals bound.</p><p>If a tile is placed in the wrong place in the row, the corresponding elemental is freed from its stone prison and attacks. Only one of each elemental appears:</p><ul><li>If the improperly placed tile has an open triangle pointing downward, the <a class=\"tooltip-hover monster-tooltip\" href=\"/monsters/17051-water-elemental\" data-tooltip-href=\"//www.dndbeyond.com/monsters/17051-tooltip?disable-webm=1&amp;disable-webm=1\">water elemental</a> is freed.</li><li>If the improperly placed tile has an open triangle pointing upward, the <a class=\"tooltip-hover monster-tooltip\" href=\"/monsters/16861-fire-elemental\" data-tooltip-href=\"//www.dndbeyond.com/monsters/16861-tooltip?disable-webm=1&amp;disable-webm=1\">fire elemental</a> is freed.</li><li>If the improperly placed tile has a triangle pointing upward with a horizontal line running through it, the <a class=\"tooltip-hover monster-tooltip\" href=\"/monsters/16774-air-elemental\" data-tooltip-href=\"//www.dndbeyond.com/monsters/16774-tooltip?disable-webm=1&amp;disable-webm=1\">air elemental</a> is freed.</li><li>If the improperly placed tile has a triangle pointing downward with a horizontal line running through it, the <a class=\"tooltip-hover monster-tooltip\" href=\"/monsters/16853-earth-elemental\" data-tooltip-href=\"//www.dndbeyond.com/monsters/16853-tooltip?disable-webm=1&amp;disable-webm=1\">earth elemental</a> is freed.</li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.EPDtidqhAHJMzKBx caption=false]</p>"
-  },
-  {
     "entryId": "tcoeHauntedHallw",
     "path": "name",
     "source": "Haunted Hallway"
