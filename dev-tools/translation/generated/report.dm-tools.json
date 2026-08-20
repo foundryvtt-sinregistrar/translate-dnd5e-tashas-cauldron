@@ -3,9 +3,10 @@
   "sourceEntries": 23,
   "sourcePages": 147,
   "outputEntries": 23,
-  "translatedPages": 93,
+  "translatedPages": 147,
   "translationMemoryHits": 5,
-  "pendingFields": 103,
+  "reviewedUnchangedFields": 0,
+  "pendingFields": 13,
   "alignmentWarnings": 0,
   "translationMemoryConflicts": 0,
   "protectedTokenIssues": 0

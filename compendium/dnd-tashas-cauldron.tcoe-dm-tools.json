@@ -7,15 +7,26 @@
     }
   },
   "folders": {
-    "Environmental Hazards": "Environmental Hazards",
-    "Puzzles": "Puzzles"
+    "Environmental Hazards": "Peligros ambientales",
+    "Puzzles": "Rompecabezas"
   },
   "entries": {
     "tcoeAllThatGlitt": {
+      "name": "No es oro todo lo que reluce",
+      "folder": "Rompecabezas",
       "pages": {
         "4BIGw1jJUGNvQ95u": {
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=arc dc=15]]. El personaje determina que hay espíritus aprisionados en las gemas esparcidas por el suelo.</p><p>[[/check skill=rel dc=10]]. El personaje sabe que la estatua representa a un dios del conocimiento y el orden, y tiene la firme impresión de que el orden de las gemas de la sala es importante.</p><p>[[/check skill=ins dc=10]]. El personaje percibe que la cantidad de gemas de cada tipo no es arbitraria.</p>"
+        },
+        "A29O41Q9K4djQbs9": {
+          "name": "Elementos del rompecabezas"
+        },
+        "BASUQhyCdZS5F6fR": {
+          "name": "Personalizar el rompecabezas"
+        },
+        "Q8iXoQJsWUT6KF9f": {
+          "name": "Solución"
         },
         "wXGR4kwwYzxYLlF2": {
           "name": "Resumen",
@@ -23,12 +34,78 @@
         }
       }
     },
-    "tcoeCh4ArtHandou": {},
+    "tcoeCh4ArtHandou": {
+      "name": "Ilustraciones del capítulo 4",
+      "pages": {
+        "4CFsPi4iUFkckwqB": {
+          "name": "Unos aventureros ofrecen carne a un oso lechuza"
+        },
+        "4o7WM9dHwsqYAN8k": {
+          "name": "Manantial encantado"
+        },
+        "AJihDaCyCnVJvB4J": {
+          "name": "Una mansión encantada"
+        },
+        "bR7Ff0b7mzrRRF1z": {
+          "name": "Guerreros"
+        },
+        "cfaNpuqEqEWCsUbT": {
+          "name": "Colonia de mimetos"
+        },
+        "dgMBTytWFd4riFYj": {
+          "name": "Animales conversando"
+        },
+        "FcZ2YRXen8EDrueX": {
+          "name": "Expertos"
+        },
+        "fLknS7GSYd3dihpk": {
+          "name": "Festival en Aguasprofundas"
+        },
+        "L4HHpNo3t0LW2FOh": {
+          "name": "Una sastrería en una zona especular"
+        },
+        "obV3jxdwYjMzI4ql": {
+          "name": "Caer al agua"
+        },
+        "RA1uyI0jeQisJ5A7": {
+          "name": "Incursión del Reino Lejano"
+        },
+        "rulQqYiDPKX4CnHc": {
+          "name": "Setas mágicas"
+        },
+        "SmmUe6TfgaGl67Zb": {
+          "name": "Tormenta sobrenatural"
+        },
+        "SzjGKvKUWXaUZ3Yl": {
+          "name": "Tasha juega al ajedrez mágico con Mordenkainen"
+        },
+        "w1MTF57foL4hTg2l": {
+          "name": "Una ciudad infestada"
+        },
+        "w2TIUUwUNd2MqkW1": {
+          "name": "Unos tressym vuelan alrededor de un árbol primigenio"
+        },
+        "wOtmXJV6M2OvffYt": {
+          "name": "Magia deshilachada"
+        },
+        "ypoBiTWz94ENgBBm": {
+          "name": "Un santuario bendito de un ki-rin"
+        },
+        "zmNPLxUYz7fMZhn6": {
+          "name": "Lanzadores de conjuros"
+        }
+      }
+    },
     "tcoeCreaturePain": {
+      "name": "Cuadros de criaturas",
+      "folder": "Rompecabezas",
       "pages": {
         "oiQmOiuDsk6seeXf": {
           "name": "Pistas y personalización",
           "text": "<h2>Pruebas para obtener pistas</h2><p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=10]]. El personaje deduce que el número de criaturas de cada cuadro es importante y usa esa cifra para determinar qué letra del nombre de la criatura debe examinar.</p><p>[[/check skill=prc dc=10]]. Al leer la dedicatoria, las palabras «contar con» le indican que debe contar las criaturas.</p><h2>Personalizar el acertijo</h2><p>Puedes sustituir los monstruos de las obras por objetos característicos, miembros de profesiones fácilmente reconocibles o cualquier otra cosa que pudiera aparecer lógicamente en grupo. Después, sigue el método de contar letras explicado en este acertijo para determinar cuántos sujetos deben aparecer en cada obra de arte.</p>"
+        },
+        "rfDlSZp1NbMD3ZVL": {
+          "name": "Elementos y solución del rompecabezas"
         },
         "Rxaf1sQ4P3OtfaLe": {
           "name": "Resumen",
@@ -37,7 +114,11 @@
       }
     },
     "tcoeDungeonMaste": {
+      "name": "Herramientas del Dungeon Master",
       "pages": {
+        "1PKbjikQTuuWwyYQ": {
+          "name": "Contrato social"
+        },
         "g4HHhmgp9PfLLkdS": {
           "name": "Personalización de la partida",
           "text": "<p>Además de adaptar la partida a los personajes del grupo de aventureros, deberías estar preparado para personalizarla según los gustos de los jugadores. La sección «Conoce a tus jugadores» de la introducción de la Dungeon Master’s Guide ofrece consejos basados en arquetipos conocidos. Para identificar qué tipos de jugadores forman el grupo, puedes hacerles algunas o todas estas preguntas:</p><ul><li><p>¿Cuál de los tres pilares de la aventura, combate, exploración e interpretación, te interesa más?</p></li><li><p>¿Cuánto humor te gusta que haya en la partida?</p></li><li><p>¿Qué nivel de tecnología prefieres?</p></li><li><p>¿Te gusta resolver acertijos y enigmas durante la partida?</p></li><li><p>¿Te gusta llevar la cuenta de los puntos de experiencia o prefieres que el personaje suba de nivel cuando yo lo indique?</p></li></ul><h2>Reglas de la casa</h2><p>Las reglas de la casa incluyen tanto reglas opcionales, como las del capítulo 9 de la Dungeon Master’s Guide, como otras que crees tú. Si piensas utilizar alguna, la sesión cero es un buen momento para comentarla con los jugadores y pedir su opinión.</p><p>Conviene presentarlas como experimentos; el tiempo dirá si funcionan en vuestra partida. Si una regla introducida en la sesión cero termina perjudicando la diversión, puedes descartarla o revisarla para mejorar la experiencia de todos. No te sientas mal si no funciona tan bien como esperabas. Recuerda que el objetivo es que todo el mundo se divierta.</p>"
@@ -53,10 +134,14 @@
         "WXL0dwsr44ajQv9D": {
           "name": "Resumen",
           "text": "<p>El Dungeon Master emplea muchas herramientas al preparar y dirigir una campaña de D&amp;D. Como DM, entre tus herramientas se encuentran la imaginación, la capacidad para discernir qué divierte a los jugadores, el talento narrativo, el sentido del humor, saber escuchar, el dominio de las reglas del juego y muchas más. Este capítulo amplía tu repertorio con consejos y reglas opcionales para diversas situaciones. También incluye una selección de acertijos listos para usar que puedes introducir en cualquier campaña.</p><p>Estas herramientas se basan en el material de la Dungeon Master's Guide y el Monster Manual. Puedes emplear algunas, todas o ninguna y personalizar libremente su funcionamiento. La diversión del grupo es lo más importante, así que haz tuyas estas reglas para adaptarlas a sus gustos.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.SzjGKvKUWXaUZ3Yl]</p>"
+        },
+        "zldfCMV24jvdQ4nZ": {
+          "name": "Creación de personajes y del grupo"
         }
       }
     },
     "tcoeEnvironmenta": {
+      "name": "Peligros ambientales",
       "pages": {
         "1TuzKNbPDi6jMUjM": {
           "name": "Fenómenos mágicos",
@@ -77,6 +162,8 @@
       }
     },
     "tcoeExactChange0": {
+      "name": "Cambio exacto",
+      "folder": "Rompecabezas",
       "pages": {
         "aqKblHoRUv9JEUzO": {
           "name": "Solución",
@@ -97,10 +184,18 @@
       }
     },
     "tcoeEyeOfTheBeho": {
+      "name": "El ojo del contemplador",
+      "folder": "Rompecabezas",
       "pages": {
+        "1YSVL47aLORWxkGY": {
+          "name": "Resumen"
+        },
         "99ZBXY50Gy5FgclE": {
           "name": "Solución",
           "text": "<p>La respuesta a cada acertijo comienza por una letra que indica la dirección del camino que los personajes deben seguir a continuación. Las respuestas trazan la siguiente ruta: este, norte, oeste, norte, este, sur, sur. Este recorrido hace que los personajes atraviesen algunas cámaras más de una vez, algo necesario para que la magia les permita escapar.</p>"
+        },
+        "FuDcnZ4fQW8qMi0x": {
+          "name": "Elementos del rompecabezas"
         },
         "KW8st2l80GC3Roqf": {
           "name": "Pruebas para obtener pistas",
@@ -113,6 +208,8 @@
       }
     },
     "tcoeFourByFour00": {
+      "name": "Cuatro por cuatro",
+      "folder": "Rompecabezas",
       "pages": {
         "f1ldxko8uIbOKnIG": {
           "name": "Solución",
@@ -163,6 +260,8 @@
       }
     },
     "tcoeHauntedHallw": {
+      "name": "Pasillo encantado",
+      "folder": "Rompecabezas",
       "pages": {
         "f2zVXROd9Zo0A4KN": {
           "name": "Elementos del acertijo",
@@ -183,6 +282,8 @@
       }
     },
     "tcoeIllusiveIsla": {
+      "name": "Isla ilusoria",
+      "folder": "Rompecabezas",
       "pages": {
         "BEYiVGZnq2QPnoyw": {
           "name": "Resumen",
@@ -191,6 +292,9 @@
         "SQYfVTuSxFmAmuuE": {
           "name": "Solución",
           "text": "<p>Los personajes que siguen las indicaciones y trazan sus recorridos en el mapa revelan tres números: 3, 4 y 8 (consulta el diagrama 4.3). Girar los diales hasta esos números en el mismo orden abre el objeto cerrado.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.1wsMeC4ghp9gwxEW]</p>"
+        },
+        "uWmjVkqII65gHcSh": {
+          "name": "Elementos del rompecabezas"
         },
         "vMtIij0nCuvuJA1v": {
           "name": "Pruebas para obtener pistas",
@@ -237,6 +341,8 @@
       }
     },
     "tcoeMaterialComp": {
+      "name": "Componentes materiales",
+      "folder": "Rompecabezas",
       "pages": {
         "HKIBZfprLBZFKZu4": {
           "name": "Elementos del acertijo",
@@ -261,6 +367,8 @@
       }
     },
     "tcoeMembersOnly0": {
+      "name": "Solo para miembros",
+      "folder": "Rompecabezas",
       "pages": {
         "0rs8ZqqxHC73kCwZ": {
           "name": "Solución",
@@ -311,6 +419,7 @@
       }
     },
     "tcoeParleyingWit": {
+      "name": "Negociar con monstruos",
       "pages": {
         "oURH6xvcpJERiWdZ": {
           "name": "Deseos de los monstruos",
@@ -326,8 +435,80 @@
         }
       }
     },
-    "tcoePuzzleArtHan": {},
+    "tcoePuzzleArtHan": {
+      "name": "Fichas de los rompecabezas",
+      "folder": "Rompecabezas",
+      "pages": {
+        "1wsMeC4ghp9gwxEW": {
+          "name": "Solución de Isla ilusoria"
+        },
+        "1ZV03caDeJ80U7tL": {
+          "name": "Ficha de Llaves maestras"
+        },
+        "2Ty47c1QmPMmkUPn": {
+          "name": "Cuatro elementos"
+        },
+        "a68k1jk1okM8tZ4k": {
+          "name": "Cuatro por cuatro"
+        },
+        "aMR4iVKm4iLdtIAX": {
+          "name": "Rompecabezas Pasos temerarios"
+        },
+        "b6BdLwczuKwgm4Na": {
+          "name": "El ojo del contemplador"
+        },
+        "brvKPQy6meh8Jtj5": {
+          "name": "Solución de Componentes materiales"
+        },
+        "EPDtidqhAHJMzKBx": {
+          "name": "Rompecabezas Cuatro elementos"
+        },
+        "GjsgFPB4aC5d7U03": {
+          "name": "Componentes materiales"
+        },
+        "GnaHBHuipSk9DcZx": {
+          "name": "No es oro todo lo que reluce"
+        },
+        "Hk4v8qhasOPa9mtd": {
+          "name": "Pasos temerarios"
+        },
+        "i8IZOqQPVeOxwaNI": {
+          "name": "Solución de Cuatro por cuatro"
+        },
+        "KqrDPcH6CL5BAzD2": {
+          "name": "Cambio exacto"
+        },
+        "lHjfinwElQLTP2yi": {
+          "name": "Llaves maestras"
+        },
+        "MJNaKffbDcKxKJBZ": {
+          "name": "Solución de Pasos temerarios"
+        },
+        "OexVqYyWy76cqSNM": {
+          "name": "Isla ilusoria"
+        },
+        "Ppp9NuLPkhCFi3Ko": {
+          "name": "Rompecabezas Cuatro por cuatro"
+        },
+        "tBd2cwjG2rNiYf8Z": {
+          "name": "Cuadros de criaturas"
+        },
+        "Vp6gvBSyrYZQeme9": {
+          "name": "Solución de Cuatro elementos"
+        },
+        "w3YiKFwkCp18D5zh": {
+          "name": "Rompecabezas Componentes materiales"
+        },
+        "xxUUktbDrg1OvCSS": {
+          "name": "¿Qué hay en el menú?"
+        },
+        "zWpyIeRp3JH4WHR5": {
+          "name": "Pasillo encantado"
+        }
+      }
+    },
     "tcoePuzzles00000": {
+      "name": "Rompecabezas",
       "pages": {
         "5sIzO4nhHUeDQ5vY": {
           "name": "Por qué usar acertijos",
@@ -352,10 +533,21 @@
       }
     },
     "tcoeRecklessStep": {
+      "name": "Pasos temerarios",
+      "folder": "Rompecabezas",
       "pages": {
+        "EGOzJk5JzAsy3mNn": {
+          "name": "Resumen"
+        },
+        "EiIUvLEvL0dn5uxZ": {
+          "name": "Personalizar el rompecabezas"
+        },
         "FjvbSDftWGymlV8C": {
           "name": "Solución",
           "text": "<p>Las únicas baldosas seguras que pueden pisar los personajes son las que muestran letras negras desvaídas en el <a>diagrama 4.1</a>. Las letras rojas forman la palabra «magia» o el nombre de una escuela de magia: abjuración, conjuración, adivinación, encantamiento, evocación, ilusión, nigromancia y transmutación. Pisar una de esas baldosas activa una trampa de veneno, como se describió antes.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.MJNaKffbDcKxKJBZ]</p>"
+        },
+        "tER2aieblaxK9W9o": {
+          "name": "Elementos del rompecabezas"
         },
         "TXrdxe0LLSysuJj2": {
           "name": "Pruebas para obtener pistas",
@@ -364,6 +556,7 @@
       }
     },
     "tcoeSidekicks000": {
+      "name": "Acompañantes",
       "pages": {
         "8iSpYPi1Tkc6PKeQ": {
           "name": "Guerrero"
@@ -395,10 +588,15 @@
       }
     },
     "tcoeSkeletonKeys": {
+      "name": "Llaves maestras",
+      "folder": "Rompecabezas",
       "pages": {
         "ApIYipWxiMphdiyp": {
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=nat dc=10]]. El personaje sabe que los conocimientos «naturales» sobre murciélagos, serpientes, arañas y lobos en general no servirán de ayuda aquí.</p><p>[[/check skill=prc dc=10]]. El personaje se da cuenta de que las cabezas con forma de cráneo de todas las llaves son iguales y probablemente no influyen en la solución del rompecabezas.</p>"
+        },
+        "B3Go9hq5rAIqLva6": {
+          "name": "Elementos del rompecabezas"
         },
         "Bo7JQ0dATu9n06YE": {
           "name": "Resumen",
@@ -415,6 +613,8 @@
       }
     },
     "tcoeSupernatural": {
+      "name": "Regiones sobrenaturales",
+      "folder": "Peligros ambientales",
       "pages": {
         "7NUhPUfyNWrZIf13": {
           "name": "Resplandor bendito",
@@ -447,6 +647,8 @@
       }
     },
     "tcoeWhatsOnTheMe": {
+      "name": "¿Qué hay en el menú?",
+      "folder": "Rompecabezas",
       "pages": {
         "90tqDy1iql6dg7UE": {
           "name": "Personalizar el acertijo",

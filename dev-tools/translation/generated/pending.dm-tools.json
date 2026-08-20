@@ -1,42 +1,10 @@
 [
   {
-    "path": "folders.Environmental Hazards",
-    "source": "Environmental Hazards"
-  },
-  {
-    "path": "folders.Puzzles",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeAllThatGlitt",
-    "path": "name",
-    "source": "All That Glitters"
-  },
-  {
-    "entryId": "tcoeAllThatGlitt",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeAllThatGlitt",
-    "pageId": "A29O41Q9K4djQbs9",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
     "entryId": "tcoeAllThatGlitt",
     "pageId": "A29O41Q9K4djQbs9",
     "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.GnaHBHuipSk9DcZx classes=\"right three\"]</p><p>The statue, which is impervious to damage, depicts Ioun or some other god of knowledge or order. Any character who succeeds on a [[/check skill=rel dc=10]] check can identify the figure being depicted.</p><h2>Diamond</h2><p>Between the palms of the statue’s clasped hands is a diamond, which can only be found and retrieved once the puzzle is solved. Once the characters solve the puzzle, the statue’s hands open, allowing the diamond to be taken. Upon breaching the threshold of the room with the diamond, a trapped soul in the form of a friendly, thankful spirit is released. The spirit leaves to pursue its own goals, and the diamond is left behind as a reward. The diamond is worth 5,000 gp.</p><h2>Gemstones</h2><p>An inventory of the room reveals the following gemstones scattered across the floor: eighteen pieces of jade, sixteen onyxes, fourteen amethysts, thirteen sapphires, twelve rubies, nine pieces of amber, eight citrines, five garnets, and one piece of quartz.</p><p>If a creature attempts to leave the room with any of these stones, the gem disappears and an angry spirit trapped inside it is released. The spirit manifests as a hostile undead creature of your choice, such as a @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.qoFEjfrANBdrCP6m]{ghost}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.PuPo4H4Dcxigf0fY]{specter}, or @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.nU8GN8La8DCt8SDb]{skeleton}. When this creature is reduced to 0 hit points, its form dissipates, leaving no trace of itself behind.</p><h2>Named Spirits</h2><p>Characters hear each spirit whisper its name before it dissipates. The names themselves are not important, other than they must start with the appropriate letter of the alphabet.</p><p>The following list provides names for all the imprisoned spirits, each name starting with the letter associated with the spirit’s gemstone prison:</p><p><strong>Quartz.</strong> Antonio</p><p><strong>Garnet.</strong> Ella, Ethan, Ember, Edwina, Ernest</p><p><strong>Citrine.</strong> Hobert, Holden, Hilda, Haddon, Hugo, Hera, Hessy, Hemma</p><p><strong>Amber.</strong> Ivy, Iris, Ian, Idris, Iggy, Imelda, Ice, Innis, Isabella</p><p><strong>Ruby.</strong> Lou, Leela, Lowan, Lannis, Lake, Luke, Leila, Leean, Luna, Luvia, Lee, Leira</p><p><strong>Sapphire.</strong> Mona, Maethius, Merry, Moon, Medea, Martha, Marni, Moen, Mava, Moloth, Mo, Mia, Miranda</p><p><strong>Amethyst.</strong> Nox, Neville, Norman, Ned, Nadia, Nian, Nero, Nick, Narice, Nava, Nia, Nicol, Nestor, Nera</p><p><strong>Onyx.</strong> Paul, Pam, Pluck, Petra, Pax, Pia, Paden, Po, Pacey, Pima, Peck, Pablo, Piers, Pom, Peleg, Peet</p><p><strong>Jade.</strong> Ren, Ryannis, Rue, Romag, Redd, Remy, Ria, River, Rhonda, Resta, Rhys, Ron, Ricker, Rey, Ro, Rowan, Regan, Rhiannon</p>"
-  },
-  {
-    "entryId": "tcoeAllThatGlitt",
-    "pageId": "BASUQhyCdZS5F6fR",
-    "pageName": "Customizing the Puzzle",
-    "path": "name",
-    "source": "Customizing the Puzzle"
   },
   {
     "entryId": "tcoeAllThatGlitt",
@@ -49,170 +17,8 @@
     "entryId": "tcoeAllThatGlitt",
     "pageId": "Q8iXoQJsWUT6KF9f",
     "pageName": "Solution",
-    "path": "name",
-    "source": "Solution"
-  },
-  {
-    "entryId": "tcoeAllThatGlitt",
-    "pageId": "Q8iXoQJsWUT6KF9f",
-    "pageName": "Solution",
     "path": "text",
     "source": "<p>An inventory of the room reveals gemstones in the amounts shown in the Gem Inventory table. The table lists the gems in alphabetical order, but you should list them in any other order when describing them to players so not to accidentally give away a hint.</p><p>Each type of gem is associated with a letter of the alphabet, and each gem’s letter is revealed by counting into the alphabet by a number of letters equal to the number of gems of its type. For example, there is one piece of quartz, so “quartz” corresponds to the first letter of the alphabet (A), while there are fourteen amethysts, so “amethyst” corresponds to the fourteenth letter of the alphabet (N).</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"GemInventory\" data-content-chunk-id=\"16afae98-ca31-4cc0-ac8d-355e4fe4960f\">Gem Inventory</h5></caption><thead><tr><th>Gem</th><th>Amount</th><th>Letter</th></tr></thead><tbody><tr><td>Amber</td><td>9</td><td>I</td></tr><tr><td>Amethyst</td><td>14</td><td>N</td></tr><tr><td>Citrine</td><td>8</td><td>H</td></tr><tr><td>Garnet</td><td>5</td><td>E</td></tr><tr><td>Jade</td><td>18</td><td>R</td></tr><tr><td>Onyx</td><td>16</td><td>P</td></tr><tr><td>Quartz</td><td>1</td><td>A</td></tr><tr><td>Ruby</td><td>12</td><td>L</td></tr><tr><td>Sapphire</td><td>13</td><td>M</td></tr></tbody></table></div><p>Once the gems are sorted by type and alphabetized, characters can count into the alphabet by how many of each are in the room to reveal the words “in her palm.” When a character speaks this phrase aloud, the statue’s folded hands open, revealing the previously hidden diamond.</p>"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "path": "name",
-    "source": "Art Handouts"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "4CFsPi4iUFkckwqB",
-    "pageName": "Adventurers Offer Meat to an Owlbear",
-    "path": "name",
-    "source": "Adventurers Offer Meat to an Owlbear"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "4o7WM9dHwsqYAN8k",
-    "pageName": "Enchanted Spring",
-    "path": "name",
-    "source": "Enchanted Spring"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "AJihDaCyCnVJvB4J",
-    "pageName": "A Haunted Manor",
-    "path": "name",
-    "source": "A Haunted Manor"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "bR7Ff0b7mzrRRF1z",
-    "pageName": "Warriors",
-    "path": "name",
-    "source": "Warriors"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "cfaNpuqEqEWCsUbT",
-    "pageName": "Mimic Colony",
-    "path": "name",
-    "source": "Mimic Colony"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "dgMBTytWFd4riFYj",
-    "pageName": "Animals Converse",
-    "path": "name",
-    "source": "Animals Converse"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "FcZ2YRXen8EDrueX",
-    "pageName": "Experts",
-    "path": "name",
-    "source": "Experts"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "fLknS7GSYd3dihpk",
-    "pageName": "Festival in Waterdeep",
-    "path": "name",
-    "source": "Festival in Waterdeep"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "L4HHpNo3t0LW2FOh",
-    "pageName": "A Tailor Shop in a Mirror Zone",
-    "path": "name",
-    "source": "A Tailor Shop in a Mirror Zone"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "obV3jxdwYjMzI4ql",
-    "pageName": "Falling Into Water",
-    "path": "name",
-    "source": "Falling Into Water"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "RA1uyI0jeQisJ5A7",
-    "pageName": "Far Realm Incursion",
-    "path": "name",
-    "source": "Far Realm Incursion"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "rulQqYiDPKX4CnHc",
-    "pageName": "Magic Mushrooms",
-    "path": "name",
-    "source": "Magic Mushrooms"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "SmmUe6TfgaGl67Zb",
-    "pageName": "Eldritch Storm",
-    "path": "name",
-    "source": "Eldritch Storm"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "SzjGKvKUWXaUZ3Yl",
-    "pageName": "Tasha Plays Wizardly Chess with Mordenkainen",
-    "path": "name",
-    "source": "Tasha Plays Wizardly Chess with Mordenkainen"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "w1MTF57foL4hTg2l",
-    "pageName": "An Infested City",
-    "path": "name",
-    "source": "An Infested City"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "w2TIUUwUNd2MqkW1",
-    "pageName": "Tressym Fly Around a Primal Tree",
-    "path": "name",
-    "source": "Tressym Fly Around a Primal Tree"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "wOtmXJV6M2OvffYt",
-    "pageName": "Unraveling Magic",
-    "path": "name",
-    "source": "Unraveling Magic"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "ypoBiTWz94ENgBBm",
-    "pageName": "A Blessed Ki-Rin Shrine",
-    "path": "name",
-    "source": "A Blessed Ki-Rin Shrine"
-  },
-  {
-    "entryId": "tcoeCh4ArtHandou",
-    "pageId": "zmNPLxUYz7fMZhn6",
-    "pageName": "Spellcasters",
-    "path": "name",
-    "source": "Spellcasters"
-  },
-  {
-    "entryId": "tcoeCreaturePain",
-    "path": "name",
-    "source": "Creature Paintings"
-  },
-  {
-    "entryId": "tcoeCreaturePain",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeCreaturePain",
-    "pageId": "rfDlSZp1NbMD3ZVL",
-    "pageName": "Puzzle Features and Solution",
-    "path": "name",
-    "source": "Puzzle Features and Solution"
   },
   {
     "entryId": "tcoeCreaturePain",
@@ -220,18 +26,6 @@
     "pageName": "Puzzle Features and Solution",
     "path": "text",
     "source": "<h2>Puzzle Features</h2><p>There are seven paintings on the walls. The paintings feature a gruesome werewolf under a full moon, a trio of gnolls fighting over a spear, a grinning beholder, two trolls sitting under a tree, five kobolds around a bonfire, two gelatinous cubes patrolling a dungeon corridor, and three dragons in flight.</p><h2>Solution</h2><p>Each painting features a number of creatures of a particular kind, as summarized in the Creature Paintings table. Counting into each creature’s name by the number of creatures in the painting reveals a letter. When unscrambled, the letters spell out “owlbear.” Characters are likely to reveal these letters in random order. Arranging them in the correct order is part of the puzzle.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"CreaturePaintingsTable\" data-content-chunk-id=\"84864cfb-3c99-4384-beb2-18e938141aca\">Creature Paintings</h5></caption><thead><tr><th>Painting</th><th>Number</th><th>Letter</th></tr></thead><tbody><tr><td>Gnolls</td><td>3</td><td>O</td></tr><tr><td>Werewolf</td><td>1</td><td>W</td></tr><tr><td>Kobolds</td><td>5</td><td>L</td></tr><tr><td>Beholder</td><td>1</td><td>B</td></tr><tr><td>Gelatinous Cubes</td><td>2</td><td>E</td></tr><tr><td>Dragons</td><td>3</td><td>A</td></tr><tr><td>Trolls</td><td>2</td><td>R</td></tr></tbody></table><h3>Significance of “Owlbear”</h3><p>This puzzle’s solution, “owlbear,” might be the passphrase to bypass a future trap or unlock a magically sealed door. It might also be a clue that points to a hidden treasure. For example, there might be a stuffed owlbear in another room that has treasure hidden inside it.</p>"
-  },
-  {
-    "entryId": "tcoeDungeonMaste",
-    "path": "name",
-    "source": "Dungeon Master's Tools"
-  },
-  {
-    "entryId": "tcoeDungeonMaste",
-    "pageId": "1PKbjikQTuuWwyYQ",
-    "pageName": "Social Contract",
-    "path": "name",
-    "source": "Social Contract"
   },
   {
     "entryId": "tcoeDungeonMaste",
@@ -244,47 +38,8 @@
     "entryId": "tcoeDungeonMaste",
     "pageId": "zldfCMV24jvdQ4nZ",
     "pageName": "Character and Party Creation",
-    "path": "name",
-    "source": "Character and Party Creation"
-  },
-  {
-    "entryId": "tcoeDungeonMaste",
-    "pageId": "zldfCMV24jvdQ4nZ",
-    "pageName": "Character and Party Creation",
     "path": "text",
     "source": "<p>Each player has options when it comes to choosing a character race, class, and background, though you may restrict certain options that are deemed unsuitable for the campaign. If there are multiple players in the group, you should encourage them to choose different classes so that the adventuring party has a range of abilities. It’s less important that the party include multiple backgrounds, as sometimes it’s fun to play an all-soldier party or a troupe of adventuring entertainers. The backgrounds they choose define who their characters were before becoming adventurers and also include roleplaying hooks in the form of ideals, bonds, and flaws—things you ought to know. For example, if a player chooses the criminal background, one of the options for the character’s bond is, “I’m trying to pay off an old debt I owe to a generous benefactor.” If that’s the character’s bond, you should work with the player to decide who that generous benefactor is and build relevant story lines into the larger campaign.</p><h2>Party Formation</h2><p>During session zero, your role is to let the players build the characters they want and to help them come up with explanations for how their characters came together to form an adventuring party. It can be helpful to assume that the characters know each other and have some sort of history together, however brief that history might be. Here are some questions you can ask the players as they create characters to get a sense of the party’s relationships:</p><ul><li>Are any of the characters related to each other?</li><li>What keeps the characters together as a party?</li><li>What does each character like most about every other member of the adventuring party?</li><li>Does the group have a patron? See @UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeGroupPatrons]{Group Patrons} for patron examples.</li></ul><p>If the players are having trouble coming up with a story for how their characters met, they may choose an option from the Party Origin table or let a d6 roll choose it for them. You should spend part of session zero helping the players flesh out the details. For example, if the characters came together to overcome a common foe, the identity of this enemy needs to be determined. If a funeral gathered the group, the identity of the deceased and each character’s relationship to them will need to be fleshed out.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoePartyOrigin0]</p><h2>Running a Game for One Player</h2><p>A DM running a game for one player should spend part of session zero working with that player to come up with their character’s backstory, then let the player decide if they want the character to have a sidekick (see the “<a>Sidekicks</a>” section in this chapter).</p><p>You might need to help the player run the sidekick for the first few sessions and should make sure the player understands the functions and limitations of sidekicks:</p><ul><li>Sidekicks are stalwart companions who can perform tasks both in and out of combat, including things such as setting up camp and carrying gear.</li><li>Ideally, a sidekick’s abilities should complement those of the main character. For example, a spellcaster makes a good sidekick for a fighter or rogue.</li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.fLknS7GSYd3dihpk]</p>"
-  },
-  {
-    "entryId": "tcoeEnvironmenta",
-    "path": "name",
-    "source": "Environmental Hazards"
-  },
-  {
-    "entryId": "tcoeExactChange0",
-    "path": "name",
-    "source": "Exact Change"
-  },
-  {
-    "entryId": "tcoeExactChange0",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeEyeOfTheBeho",
-    "path": "name",
-    "source": "Eye of the Beholder"
-  },
-  {
-    "entryId": "tcoeEyeOfTheBeho",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeEyeOfTheBeho",
-    "pageId": "1YSVL47aLORWxkGY",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
   },
   {
     "entryId": "tcoeEyeOfTheBeho",
@@ -297,52 +52,8 @@
     "entryId": "tcoeEyeOfTheBeho",
     "pageId": "FuDcnZ4fQW8qMi0x",
     "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
-    "entryId": "tcoeEyeOfTheBeho",
-    "pageId": "FuDcnZ4fQW8qMi0x",
-    "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>The magical maze the characters find themselves in is comprised of an endless series of identical chambers. Each chamber has four passages, one at each cardinal direction. The goblin guide poses riddles that can lead the party along the path that ultimately exits the maze. Each time the party moves through the correct passage and enters a new room, the goblin provides them with a new riddle that hints which direction to travel in next. If they make an error, the characters encounter a monster of your choice and then must backtrack from their last correct turn. After three wrong turns, the party encounters the @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeBeholder0000]{beholder}.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.b6BdLwczuKwgm4Na caption=false classes=\"right three\"]</p><h2>Hallways</h2><p>The halls of this maze are 60 feet long and 10 feet wide. If the characters move away from the guide during combat or for any other reason, the goblin encourages them to follow him back to the last correct turn.</p><h2>The Goblin’s Riddles</h2><p>Upon meeting the characters (and to discourage them from attacking), the goblin makes it clear there is no way out of the maze without his help. Characters can determine that the goblin is sincere in wanting to help with a successful [[/check skill=ins dc=10]] check.</p><p>Once the goblin has the characters’ attention, it provides the first riddle, then waits for the party to venture down a passage of its choice. The goblin stops at each intersection and either provides the next riddle (if the party chose the correct path) or avoids the monster the group encounters (if the party chose the incorrect path), leading the characters back to the last correct chamber along the path after any battle.</p><p>The goblin’s riddles (and their answers) are as follows:</p><ul><li>What beast has the sharpest eye? (Eagle)</li><li>Threads get pulled through the eye of what? (Needle)</li><li>What is the eye to the soul? (Window)</li><li>Whose eye matters to a witch’s brew? (Newt)</li><li>This eye curses you with misfortune. (Evil)</li><li>This eye brings a temporary calm. (Storm)</li><li>Roll a one on a six-sided die. Roll another and get the same. Take both together, and what’s their name? (Snake eyes)</li></ul>"
-  },
-  {
-    "entryId": "tcoeFourByFour00",
-    "path": "name",
-    "source": "Four by Four"
-  },
-  {
-    "entryId": "tcoeFourByFour00",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeHauntedHallw",
-    "path": "name",
-    "source": "Haunted Hallway"
-  },
-  {
-    "entryId": "tcoeHauntedHallw",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
-    "path": "name",
-    "source": "Illusive Island"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
-    "pageId": "uWmjVkqII65gHcSh",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
   },
   {
     "entryId": "tcoeIllusiveIsla",
@@ -350,217 +61,6 @@
     "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>The numbers the dials are originally set to don’t matter. If the players ask, choose any three digits you please.</p><p>A corked wooden tube contains two clues: a map of an island and a set of directions.</p><h2>Map</h2><p>Give the players a copy of <a>puzzle handout 4</a> (see below). This map depicts an unfamiliar island with various landmarks but no key.</p><h2>Directions</h2><p>The directions are written on a single sheet of parchment and recount the route a group took in their search for treasure:</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p><em><strong>Day 1.</strong></em> Our search for the lost treasure began at the northwest inlet, Windstaff Cove. After unloading our necessities, we traveled east to Lone Pine, then southwest past Northridge to the Palms Oasis. As evening approached, we continued southeast to Anchor Point, then camped in the Great Dunes.</p><p><em><strong>Day 2.</strong></em> In the morning, we arose at the Dunes and headed to Deadman’s Cave. After finding it empty, our party continued to the Golden Ziggurat. Heading due east, we made camp at the Swirling Sands.</p><p><em><strong>Day 3.</strong></em> After a strange night’s sleep, we awoke on the third day back at Anchor Point with no memory or trace of traveling there. The Swirling Sands must have taken us in the night! We skirted the Swirling Sands to reach the Red Tower but still couldn’t find the treasure. Thinking that we may have overlooked something in the cave, we headed back. From there, we headed to the southern coast to see if the treasure was at Kraken Point. Finding nothing, we returned to Anchor Point. What awaited us there was unlike any treasure we’d imagined.</p></section></section><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.OexVqYyWy76cqSNM caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "path": "name",
-    "source": "Material Components"
-  },
-  {
-    "entryId": "tcoeMaterialComp",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "path": "name",
-    "source": "Members Only"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeParleyingWit",
-    "path": "name",
-    "source": "Parleying with Monsters"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "path": "name",
-    "source": "Art Handouts"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "1wsMeC4ghp9gwxEW",
-    "pageName": "Illusive Island Solution",
-    "path": "name",
-    "source": "Illusive Island Solution"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "1ZV03caDeJ80U7tL",
-    "pageName": "Skeleton Keys Handout",
-    "path": "name",
-    "source": "Skeleton Keys Handout"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "2Ty47c1QmPMmkUPn",
-    "pageName": "Four Elements",
-    "path": "name",
-    "source": "Four Elements"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "a68k1jk1okM8tZ4k",
-    "pageName": "Four by Four",
-    "path": "name",
-    "source": "Four by Four"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "aMR4iVKm4iLdtIAX",
-    "pageName": "Reckless Steps Puzzle",
-    "path": "name",
-    "source": "Reckless Steps Puzzle"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "b6BdLwczuKwgm4Na",
-    "pageName": "Eye of the Beholder",
-    "path": "name",
-    "source": "Eye of the Beholder"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "brvKPQy6meh8Jtj5",
-    "pageName": "Material Components Solution",
-    "path": "name",
-    "source": "Material Components Solution"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "EPDtidqhAHJMzKBx",
-    "pageName": "Four Elements Puzzle",
-    "path": "name",
-    "source": "Four Elements Puzzle"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "GjsgFPB4aC5d7U03",
-    "pageName": "Material Components",
-    "path": "name",
-    "source": "Material Components"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "GnaHBHuipSk9DcZx",
-    "pageName": "All that Glitters",
-    "path": "name",
-    "source": "All that Glitters"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "Hk4v8qhasOPa9mtd",
-    "pageName": "Reckless Steps",
-    "path": "name",
-    "source": "Reckless Steps"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "i8IZOqQPVeOxwaNI",
-    "pageName": "Four by Four Solution",
-    "path": "name",
-    "source": "Four by Four Solution"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "KqrDPcH6CL5BAzD2",
-    "pageName": "Exact Change",
-    "path": "name",
-    "source": "Exact Change"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "lHjfinwElQLTP2yi",
-    "pageName": "Skeleton Keys",
-    "path": "name",
-    "source": "Skeleton Keys"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "MJNaKffbDcKxKJBZ",
-    "pageName": "Reckless Steps Solution",
-    "path": "name",
-    "source": "Reckless Steps Solution"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "OexVqYyWy76cqSNM",
-    "pageName": "Illusive Island",
-    "path": "name",
-    "source": "Illusive Island"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "Ppp9NuLPkhCFi3Ko",
-    "pageName": "Four by Four Puzzle",
-    "path": "name",
-    "source": "Four by Four Puzzle"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "tBd2cwjG2rNiYf8Z",
-    "pageName": "Creature Paintings",
-    "path": "name",
-    "source": "Creature Paintings"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "Vp6gvBSyrYZQeme9",
-    "pageName": "Four Elements Solution",
-    "path": "name",
-    "source": "Four Elements Solution"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "w3YiKFwkCp18D5zh",
-    "pageName": "Material Components Puzzle",
-    "path": "name",
-    "source": "Material Components Puzzle"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "xxUUktbDrg1OvCSS",
-    "pageName": "What's on the Menu",
-    "path": "name",
-    "source": "What's on the Menu"
-  },
-  {
-    "entryId": "tcoePuzzleArtHan",
-    "pageId": "zWpyIeRp3JH4WHR5",
-    "pageName": "Haunted Hallway",
-    "path": "name",
-    "source": "Haunted Hallway"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
-    "path": "name",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeRecklessStep",
-    "path": "name",
-    "source": "Reckless Steps"
-  },
-  {
-    "entryId": "tcoeRecklessStep",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeRecklessStep",
-    "pageId": "EGOzJk5JzAsy3mNn",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
   },
   {
     "entryId": "tcoeRecklessStep",
@@ -573,22 +73,8 @@
     "entryId": "tcoeRecklessStep",
     "pageId": "EiIUvLEvL0dn5uxZ",
     "pageName": "Customizing the Puzzle",
-    "path": "name",
-    "source": "Customizing the Puzzle"
-  },
-  {
-    "entryId": "tcoeRecklessStep",
-    "pageId": "EiIUvLEvL0dn5uxZ",
-    "pageName": "Customizing the Puzzle",
     "path": "text",
     "source": "<p>Consider using this puzzle’s structure to create any number of thematic word searches hiding deadly traps. Once you’ve created a hint suggesting what types of words to look for, it’s a simple matter to create your own grid of hidden words.</p><h2>Raising the Difficulty</h2><p>You can increase this puzzle’s difficulty by changing the word search’s letters to use another alphabet, such as those presented in the Player's Handbook. Alternatively, you can create an entirely new code to replace the letters, requiring the characters to find a cipher to reveal the tiles’ meanings before they can undertake the puzzle and cross the room safely.</p><p>You can also increase the difficulty by introducing trap variants, as described below.</p><h2>Trap Variants</h2><p>Rather than have the same poison gas trap on every trapped tile, each word can have a distinct trap associated with it, as described below:</p><p><strong>Magic.</strong> The trap triggers normally, as described in this puzzle’s @UUID[.tER2aieblaxK9W9o#traps]{Traps} section.</p><p><strong>Abjuration.</strong> The trap casts @UUID[Compendium.dnd5e.spells.Item.15Fa6q1nH27XfbR8]{dispel magic} on each creature in the room, using a 9th-level spell slot.</p><p><strong>Conjuration.</strong> The trap teleports the creature that triggered it back to the entrance of the room. That creature must also make a [[/save constitution dc=15]] saving throw, taking [[/damage 2d10 type=force average=true]] damage on a failed save, or half as much damage on a successful one.</p><p><strong>Divination.</strong> The creature that triggered the trap must succeed on a [[/save intelligence dc=15]] saving throw or be unable to perceive any of the letters on the tiles by sight or touch. Any magic that ends a curse ends this effect on the character. A player whose character is affected by this trap should not be allowed to reference the accompanying player handout until the effect on that character ends.</p><p><strong>Enchantment.</strong> The trap casts @UUID[Compendium.dnd5e.spells.Item.zMAWdyc8UVb37BK4]{suggestion} ([[/save wisdom dc=15]]) on the creature that triggered it. On a failed save, a gentle voice only the creature can hear tells it to move 5 feet in a random direction. This movement might cause it to trigger another trap.</p><p><strong>Evocation.</strong> Magical fire erupts from the trapped tile. The creature that triggered this trap must succeed on a [[/save dexterity dc=15]] saving throw, taking [[/damage 2d10 type=fire]] damage on a failed save, or half as much damage on a successful one.</p><p><strong>Illusion.</strong> A suit of @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.eORmAXuV5v3nWsQL]{Animated Armor} appears in an unoccupied space within 5 feet of the creature that set off this trap. The armor attacks only the creature that summoned it and can’t leave the room. It doesn’t set off any of the room’s traps and disappears if it takes any damage. Otherwise, it lasts for 1 minute.</p><p><strong>Necromancy.</strong> Any creature that triggers this trap hears a banshee’s wail in its mind. Unless the creature is a construct or undead, it must make a [[/save constitution dc=13]] saving throw. On a failure, the creature drops to 0 hit points. On a success, it takes [[/damage 3d6 type=psychic]] damage.</p><p><strong>Transmutation.</strong> The trap casts @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polymorph} ([[/save wisdom dc=15]]) on the creature that triggered it. On a failed save, the creature turns into a @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.kSAi2KRonL4G4JpO]{Giant Frog}.</p>"
-  },
-  {
-    "entryId": "tcoeRecklessStep",
-    "pageId": "tER2aieblaxK9W9o",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
   },
   {
     "entryId": "tcoeRecklessStep",
@@ -598,52 +84,10 @@
     "source": "<p>The floor of this 60-foot-by-70-foot room is made of 5-foot-square stone tiles laid out in a grid. Each tile has a letter chiseled into it, as shown in <a>puzzle handout 1</a> below. Share a copy of the handout for this puzzle with your players, and allow them to use Tokens to show how their characters navigate the room.</p><p>To safely walk across the room, a character must step on the correct tiles. Stepping on an incorrect tile sets off a trap.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.aMR4iVKm4iLdtIAX caption=false]</p><h2>Traps</h2><p>Certain tiles (as indicated in this trap’s @UUID[.FjvbSDftWGymlV8C]{Solution} section) are trapped. A trapped tile is triggered when more than 20 pounds of weight are placed on it, activating the pressure plate underneath and causing jets of poisonous gas to spout from the cracks between the tiles. Any creature above the trapped floor tile or one of its adjacent tiles must make a [[/save constitution dc=15]] saving throw, taking [[/damage 2d10 type=poison average=true]] damage on a failed save, or half as much damage on a successful one.</p><p>As an action, a character can disable a trap with a successful [[/check tool=thief ability=dexterity dc=15]] check. If a character fails to disable the trap, the tile’s trap can no longer be disabled.</p><p>Characters can attempt to jump over trapped tiles, using the @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.vR9rCM0UXPM9zl43#jumping]{jump rules}.</p>"
   },
   {
-    "entryId": "tcoeSidekicks000",
-    "path": "name",
-    "source": "Sidekicks"
-  },
-  {
-    "entryId": "tcoeSkeletonKeys",
-    "path": "name",
-    "source": "Skeleton Keys"
-  },
-  {
-    "entryId": "tcoeSkeletonKeys",
-    "path": "folder",
-    "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeSkeletonKeys",
-    "pageId": "B3Go9hq5rAIqLva6",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
     "entryId": "tcoeSkeletonKeys",
     "pageId": "B3Go9hq5rAIqLva6",
     "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.lHjfinwElQLTP2yi caption=false classes=\"right three\"]</p><p>Show the players <a>puzzle handout 2</a> (see below) when their characters examine the keys. Each key has a different number of teeth: six, five, four, and three, respectively.</p><p>Each lock has a creature molded in iron above it: a bat, snake, spider, or wolf, respectively. These locks can’t be picked. If anything other than the correct key is placed inside a lock, creatures corresponding to the image above the lock ([[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.SoK7l5zJQKxTVgLL]{giant bats}, [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.ZW39DE2zI3TXVYC9]{giant poisonous snakes}, [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.f9JbhBfWucrY2eDA]{giant wolf spiders}, or [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.yawTeS8u2FCfzzZH]{wolves}) are summoned into the room. Each summoned creature is hostile and disappears after 10 minutes or when reduced to 0 hit points. These beasts can’t be &amp;Reference[charmed] or &amp;Reference[frightened].</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.1ZV03caDeJ80U7tL caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "path": "name",
-    "source": "Supernatural Regions"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "path": "folder",
-    "source": "Environmental Hazards"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "path": "name",
-    "source": "What's on the Menu"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "path": "folder",
-    "source": "Puzzles"
   }
 ]
