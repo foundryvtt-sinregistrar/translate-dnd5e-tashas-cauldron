@@ -10,7 +10,10 @@ from pathlib import Path
 from typing import Any
 
 
-PROTECTED = re.compile(r"@(?:UUID|Embed)\[([^\]]+)\]|(?:&|&amp;)Reference\[([^\]]+)\]|\[\[([^\]]+)\]\]")
+PROTECTED = re.compile(
+    r"@(?:UUID|Embed)\[([^\]]+)\]|(?:&|&amp;)Reference\[([^\]]+)\]|\[\[([^\]]+)\]\]",
+    re.IGNORECASE,
+)
 
 
 def load(path: Path) -> Any:
