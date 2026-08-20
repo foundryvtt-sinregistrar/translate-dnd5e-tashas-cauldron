@@ -222,20 +222,6 @@
     "source": "<h2>Puzzle Features</h2><p>There are seven paintings on the walls. The paintings feature a gruesome werewolf under a full moon, a trio of gnolls fighting over a spear, a grinning beholder, two trolls sitting under a tree, five kobolds around a bonfire, two gelatinous cubes patrolling a dungeon corridor, and three dragons in flight.</p><h2>Solution</h2><p>Each painting features a number of creatures of a particular kind, as summarized in the Creature Paintings table. Counting into each creature’s name by the number of creatures in the painting reveals a letter. When unscrambled, the letters spell out “owlbear.” Characters are likely to reveal these letters in random order. Arranging them in the correct order is part of the puzzle.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"CreaturePaintingsTable\" data-content-chunk-id=\"84864cfb-3c99-4384-beb2-18e938141aca\">Creature Paintings</h5></caption><thead><tr><th>Painting</th><th>Number</th><th>Letter</th></tr></thead><tbody><tr><td>Gnolls</td><td>3</td><td>O</td></tr><tr><td>Werewolf</td><td>1</td><td>W</td></tr><tr><td>Kobolds</td><td>5</td><td>L</td></tr><tr><td>Beholder</td><td>1</td><td>B</td></tr><tr><td>Gelatinous Cubes</td><td>2</td><td>E</td></tr><tr><td>Dragons</td><td>3</td><td>A</td></tr><tr><td>Trolls</td><td>2</td><td>R</td></tr></tbody></table><h3>Significance of “Owlbear”</h3><p>This puzzle’s solution, “owlbear,” might be the passphrase to bypass a future trap or unlock a magically sealed door. It might also be a clue that points to a hidden treasure. For example, there might be a stuffed owlbear in another room that has treasure hidden inside it.</p>"
   },
   {
-    "entryId": "tcoeCreaturePain",
-    "pageId": "Rxaf1sQ4P3OtfaLe",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeCreaturePain",
-    "pageId": "Rxaf1sQ4P3OtfaLe",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p><em>Difficulty: Easy</em></p><p>This short puzzle works anywhere that makes sense for characters to peruse several paintings, such as in a museum or manor. These paintings could even appear in a sketchbook found in a dusty old drawer. This counting puzzle leads to a name of a creature.</p><p>Fit this into your campaign by making the name of the creature the first item on a scavenger hunt or the first clue in a larger mystery.</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>This gallery is decorated with seven framed paintings of creatures. A few chairs and benches have been placed in front of the art for viewing.</p><p>A plaque mounted on one of the walls bears the following dedication: “In order to gain all knowledge, one must know where to start. Count on your enemies to reveal the source of the secret. This room is dedicated to the defeat of all monsters within.”</p></section></section><p>Characters should be free to explore the gallery and inspect the paintings and dedication to discover the parts of the puzzle.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.tBd2cwjG2rNiYf8Z caption=false]</p>"
-  },
-  {
     "entryId": "tcoeDungeonMaste",
     "path": "name",
     "source": "Dungeon Master's Tools"
@@ -399,20 +385,6 @@
   },
   {
     "entryId": "tcoeFourElements",
-    "pageId": "jbzeg5HQ6zRj1r0L",
-    "pageName": "Customizing the Puzzle",
-    "path": "name",
-    "source": "Customizing the Puzzle"
-  },
-  {
-    "entryId": "tcoeFourElements",
-    "pageId": "jbzeg5HQ6zRj1r0L",
-    "pageName": "Customizing the Puzzle",
-    "path": "text",
-    "source": "<p>Interweaving multiple patterns makes it easy to disguise them. With this in mind, you might use any group of symbols to create as elaborate a series of patterns as you please, then challenge players to fill in a missing segment. While the symbols in this puzzle refer to the four elements, you might use holy symbols, colors, dolls on a shelf, or any other repeating design to convey your puzzle.</p><p>When an elemental is defeated, it might leave behind a valuable gemstone, a map fragment, a clue to some other puzzle, or something similar.</p><h2>Raising the Difficulty</h2><p>To increase the difficulty of this puzzle, enforce a time factor: perhaps one elemental breaks free at the end of every five minutes of real time that pass until the puzzle is solved.</p><p>You can also raise the difficulty by having statues depict genies instead of elementals. In this case, replace the four elementals with a <a href=\"/monsters/17142-dao\">dao</a>, a <a href=\"/monsters/16842-djinni\">djinni</a>, an <a href=\"/monsters/16854-efreeti\">efreeti</a>, and a <a href=\"/monsters/17143-marid\">marid</a>. These genies are compelled to attack the characters and can’t be reasoned with.</p>"
-  },
-  {
-    "entryId": "tcoeFourElements",
     "pageId": "Q5HIC0btGaq1qG21",
     "pageName": "Puzzle Features",
     "path": "name",
@@ -448,20 +420,6 @@
     "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>Dolora can’t leave the hall and avoids the alcoves.</p><h2>Alcoves</h2><p>The hall is lined with six alcoves, each one with a unique numeral between 1 and 6 carved above it. A verse scratched into the back wall of each alcove is made visible by the candlelight. Each verse is presented below, accompanied by a parenthetical explanation that shouldn’t be shared with the players or their characters:</p><p><strong>Verse 1.</strong> “Not his keeper, nor he mine; loved and hated at the same time.” (This refers to Dolora’s brother, whose name was Sam.)</p><p><strong>Verse 2.</strong> “My first vision: her hazel eyes. My first sound: her lullabies.” (This refers to Dolora’s mother, whose name was Delia.)</p><p><strong>Verse 3.</strong> “Her lives she lost, all three by three, and through the dark this hunter sees.” (This refers to Dolora’s cat, whose name was Fifi.)</p><p><strong>Verse 4.</strong> “Lines in his face of life lived long; stories were his paternal song.” (This refers to Dolora’s grandfather, whose name was Tobias.)</p><p><strong>Verse 5.</strong> “Mentor and guide, her lessons learned. Knowledge measured by letters I earned.” (This refers to Dolora’s teacher, whose name was Johana.)</p><p><strong>Verse 6.</strong> “Loved to eat hay, just as her friends did; lived in one room with a shoat and a kid.” (This refers to Dolora’s horse, whose name was Alexia.)</p><p>Each verse describes someone who was close to Dolora. Once the characters determine who a verse is talking about, they may ask Dolora to provide the correct name. For example, “What is your cat’s name?” is a valid question for verse 3. The spirit then answers, “Fifi,” and she spells it aloud.</p><h2>Candles</h2><p>Each candle is a simple, 6-inch-tall wax taper. While in this hall, the candles never melt down and can’t be extinguished.</p><h2>Rag Doll</h2><p>If the characters examine the rag doll or ask Dolora about it, she imparts the following information:</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>“My doll knows all six—the first for the first, the second for the second, the third for the third, the fourth for the fourth, the fifth for the fifth, and the sixth for the sixth.”</p></section></section>"
-  },
-  {
-    "entryId": "tcoeHauntedHallw",
-    "pageId": "jRwrjKeb0uL8XFgA",
-    "pageName": "Solution",
-    "path": "name",
-    "source": "Solution"
-  },
-  {
-    "entryId": "tcoeHauntedHallw",
-    "pageId": "jRwrjKeb0uL8XFgA",
-    "pageName": "Solution",
-    "path": "text",
-    "source": "<p>Once the characters learn all six names, they must extract one letter from each name, as noted in the Remembered Names table. An alcove’s number determines which letter to extract; for example, “Alexia” is the name connected to the verse in alcove 6, and the sixth letter in that name is A.</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"RememberedNames\" data-content-chunk-id=\"2b461392-bbfa-4f2f-8b5c-a9b865567151\">Remembered Names</h5></caption><thead><tr><th>Alcove</th><th>Name</th><th>Letter</th></tr></thead><tbody><tr><td>1</td><td>Sam</td><td>S</td></tr><tr><td>2</td><td>Delia</td><td>E</td></tr><tr><td>3</td><td>Fifi</td><td>F</td></tr><tr><td>4</td><td>Tobias</td><td>I</td></tr><tr><td>5</td><td>Johana</td><td>N</td></tr><tr><td>6</td><td>Alexia</td><td>A</td></tr></tbody></table></div><p>The doll’s name is Sefina. Once Dolora is told this, she picks up the doll, speaks its name, and disappears with it, her spirit having been laid to rest. If there’s some piece of information you wish to have the spirit reveal to the party, such as the location of a nearby treasure or the secret of a more dangerous spirit, Dolora whispers this as she fades away.</p>"
   },
   {
     "entryId": "tcoeHauntedHallw",
@@ -889,20 +847,6 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<blockquote class=\"tasha\"><p>Why create a solvable puzzle? Just pose an enigmatic question without an answer and watch your trespassers squirm!</p><p><cite>Tasha</cite></p></blockquote><p>Devious traps and multifaceted mysteries might be staples of fantasy adventures, but they’re not the easiest challenges for a DM to present on the fly. This section presents a selection of puzzles designed to invite group participation and challenge adventurers of any stripe—from genius scholars to martial masters. Each puzzle is flexible enough to be included in your campaign as presented or customized to fit the needs of a specific adventure.</p><h2>Puzzles by Difficulty</h2><h3>Easy</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCreaturePain]{Creature Paintings}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeRecklessStep]{Reckless Steps}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSkeletonKeys]{Skeleton Keys}</p><h3>Medium</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeAllThatGlitt]{All That Glitters}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeEyeOfTheBeho]{Eye of the Beholder}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeFourByFour00]{Four by Four}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeIllusiveIsla]{Illusive Island}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMaterialComp]{Material Components}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeMembersOnly0]{Members Only}</p><h3>Hard</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeExactChange0]{Exact Change}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeFourElements]{Four Elements}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeHauntedHallw]{Haunted Hallway}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeWhatsOnTheMe]{What's on the Menu}</p>"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
-    "pageId": "ZJiuyPaxjSOk9whU",
-    "pageName": "Puzzle Elements",
-    "path": "name",
-    "source": "Puzzle Elements"
-  },
-  {
-    "entryId": "tcoePuzzles00000",
-    "pageId": "ZJiuyPaxjSOk9whU",
-    "pageName": "Puzzle Elements",
-    "path": "text",
-    "source": "<section class=\"fvtt narrative\"><p>Text that appears in a box like this is meant to be read aloud or paraphrased for the players when their characters first arrive in a location with a puzzle or when otherwise noted.</p></section><p>Additionally, the following sections appear in each puzzle:</p><p><strong>Difficulty.</strong> Each puzzle is classified as easy, medium, or hard. The harder the puzzle, the more likely the players will need hints to solve it.</p><p><strong>Puzzle Features.</strong> This section presents an overview of the puzzle’s features and how they can be interacted with.</p><p><strong>Solution.</strong> This section explains how the puzzle is solved.</p><p><strong>Hint Checks.</strong> This section suggests hints that characters might use their skills to reveal. Provide one or more of the hints if the characters get stuck. If a character has proficiency in a hint’s associated skill, give them that hint if they ask you for help.</p><p><strong>Customizing the Puzzle.</strong> This section explores how to integrate the puzzle into your adventures, alter its difficulty, or make other adjustments.</p>"
   },
   {
     "entryId": "tcoeRecklessStep",
