@@ -1,0 +1,10 @@
+{
+  "reviewedUnchanged": [
+    {
+      "entryId": "tcoeChangelog000",
+      "pageId": "3PJULQ1Qbg056sO0",
+      "path": "text",
+      "reason": "Upstream premium-module migration and issue history, retained verbatim so technical issue wording, GitHub references, and version-specific diagnostics remain authoritative."
+    }
+  ]
+}
