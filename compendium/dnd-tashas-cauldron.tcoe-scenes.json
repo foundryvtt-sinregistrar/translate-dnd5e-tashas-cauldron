@@ -1,1 +1,17 @@
-{"label":"Escenas de Tasha","mapping":{"name":"name"},"entries":{}}
+{
+  "label": "Escenas",
+  "mapping": {
+    "navigation": "navName"
+  },
+  "folders": {
+    "Puzzles": "Rompecabezas"
+  },
+  "entries": {
+    "tcoeFourByFour00": {
+      "name": "Cuatro por cuatro"
+    },
+    "tcoeRecklessStep": {
+      "name": "Pasos temerarios"
+    }
+  }
+}
