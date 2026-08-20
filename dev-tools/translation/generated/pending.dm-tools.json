@@ -340,20 +340,6 @@
     "source": "Puzzles"
   },
   {
-    "entryId": "tcoeExactChange0",
-    "pageId": "HPPHZGpXJAAOTlYE",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeExactChange0",
-    "pageId": "HPPHZGpXJAAOTlYE",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p><em>Difficulty: Hard</em></p><p>This puzzle provides an elaborate, coin-based lock to any sort of door, vault, or other barrier.</p><section class=\"fvtt narrative\"><p>The door here is locked and has no handle. Instead, there is a slot in the door with an engraving above it that reads, “Insert exact change here.” Nearby, a wooden bowl of coins rests atop a wooden table.</p><p>The tabletop is engraved with nine squares in a three-by-three grid. Nailed to the table’s leg is a piece of parchment with the following instructions:</p><p></p><p><em>Fifteen per column, fifteen per row;</em></p><p><em>Diagonally, the same is so.</em></p><p><em>A plea of warning to carefully count;</em></p><p><em>No two places may hold the same amount.</em></p><p><em>What coins in the center be fed through the door;</em></p><p><em>Exact change for passage or trouble galore.</em></p></section>"
-  },
-  {
     "entryId": "tcoeEyeOfTheBeho",
     "path": "name",
     "source": "Eye of the Beholder"
@@ -400,20 +386,6 @@
     "entryId": "tcoeFourByFour00",
     "path": "folder",
     "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeFourByFour00",
-    "pageId": "rpgDrwD7uQ9JYka0",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeFourByFour00",
-    "pageId": "rpgDrwD7uQ9JYka0",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p><em>Difficulty: Medium</em></p><p>This puzzle is easily situated in a dungeon, a dusty mausoleum, or an abandoned shrine.</p><section class=\"fvtt narrative\"><p>You enter a dimly lit chamber. Nine dwarf skulls rest near a four-foot-square set of tiles in the floor, and carved into a nearby stone altar is the following inscription:</p><p></p><p><em>Brave warriors met their demise foretold.</em></p><p><em>Their secret kept shall yet unfold.</em></p><p><em>If crowns placed correctly on the shrine,</em></p><p><em>Celestial beds for four of nine.</em></p></section><p>Solving this puzzle causes a secret compartment in the altar to open, revealing treasure hidden within. The compartment can’t be opened in any other way.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.a68k1jk1okM8tZ4k caption=false]</p>"
   },
   {
     "entryId": "tcoeFourElements",

@@ -62,6 +62,10 @@
           "name": "Solución",
           "text": "<p>El diagrama 4.5 muestra cómo distribuir las cuarenta y cinco monedas para que cada casilla contenga una cantidad distinta y todas las filas y columnas sumen quince.</p><p>El verso explica que la puerta exige la cantidad de monedas indicada en la casilla central. Al introducir exactamente cinco monedas, la puerta cerrada se abre.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.KqrDPcH6CL5BAzD2]</p>"
         },
+        "HPPHZGpXJAAOTlYE": {
+          "name": "Resumen",
+          "text": "<p><em>Dificultad: difícil</em></p><p>Este acertijo proporciona una compleja cerradura basada en monedas para cualquier puerta, cámara acorazada u otra barrera.</p><section class=\"fvtt narrative\"><p>La puerta está cerrada y no tiene pomo. En su lugar, posee una ranura con una inscripción encima que dice: «Introduzca aquí el importe exacto». Cerca, sobre una mesa de madera, descansa un cuenco también de madera lleno de monedas.</p><p>En el tablero hay grabados nueve cuadrados dispuestos en una cuadrícula de tres por tres. Un pergamino clavado a una pata de la mesa contiene estas instrucciones:</p><p></p><p><em>Quince por columna y quince por hilera;</em></p><p><em>en cada diagonal, igual ha de ser la cuenta entera.</em></p><p><em>Una advertencia: cuenta con esmero;</em></p><p><em>ningún lugar puede contener el mismo dinero.</em></p><p><em>Las monedas del centro por la puerta has de pasar;</em></p><p><em>el importe exacto, o problemas encontrarás.</em></p></section>"
+        },
         "IKXZ5S9ne6uDIs5i": {
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=15]]. El personaje se da cuenta de que, si las esquinas diagonales suman diez, resulta mucho más fácil completar el resto de la cuadrícula.</p><p>[[/check skill=ins dc=15]]. El personaje deduce la colocación de dos números además del número central.</p>"
@@ -93,6 +97,10 @@
         "f1ldxko8uIbOKnIG": {
           "name": "Solución",
           "text": "<p>Los números que identifican cada fila y columna indican cuántos cráneos deben contener. Los personajes deben colocarlos de modo que aparezca la cantidad correcta tanto en las filas como en las columnas y, al mismo tiempo, queden cubiertas cuatro estrellas. El rompecabezas tiene varias soluciones posibles; el diagrama 4.2 muestra una de ellas.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.i8IZOqQPVeOxwaNI]</p>"
+        },
+        "rpgDrwD7uQ9JYka0": {
+          "name": "Resumen",
+          "text": "<p><em>Dificultad: media</em></p><p>Este acertijo puede situarse fácilmente en una mazmorra, un mausoleo polvoriento o un santuario abandonado.</p><section class=\"fvtt narrative\"><p>Entráis en una cámara débilmente iluminada. Nueve cráneos de enanos descansan cerca de un conjunto cuadrado de losetas de 4 pies de lado incrustado en el suelo, y en un altar de piedra cercano aparece grabada la siguiente inscripción:</p><p></p><p><em>Valientes guerreros hallaron su fin anunciado.</em></p><p><em>El secreto que guardaron aún será revelado.</em></p><p><em>Si las coronas ocupan su lugar en el santuario,</em></p><p><em>lechos celestiales tendrán cuatro de los nueve cráneos.</em></p></section><p>Resolver este acertijo abre un compartimento secreto del altar y revela el tesoro oculto en su interior. El compartimento no puede abrirse de ninguna otra forma.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.a68k1jk1okM8tZ4k caption=false]</p>"
         },
         "XCpWbODphqKyPpNT": {
           "name": "Personalizar el rompecabezas",
