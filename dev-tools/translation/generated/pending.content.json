@@ -160,34 +160,6 @@
   },
   {
     "entryId": "tcoeAdditionalRu",
-    "pageId": "KBTfUAsE7fxUQuKp",
-    "pageName": "Wild Magic Surge Table",
-    "path": "name",
-    "source": "Wild Magic Surge Table"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "KBTfUAsE7fxUQuKp",
-    "pageName": "Wild Magic Surge Table",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeWildMagicSur]</p>"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "maERBREpgZcdEMGW",
-    "pageName": "Trinkets Table",
-    "path": "name",
-    "source": "Trinkets Table"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
-    "pageId": "maERBREpgZcdEMGW",
-    "pageName": "Trinkets Table",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeTrinkets0000]</p>"
-  },
-  {
-    "entryId": "tcoeAdditionalRu",
     "pageId": "qH2uIPpJP5IJm5hc",
     "pageName": "Sight Rot",
     "path": "name",
@@ -246,20 +218,6 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<blockquote class=\"tasha\"><p>Any time an unfathomably powerful entity sweeps in and offers godlike rewards in return for just a few teensy favors, it’s a scam. Unless it’s me. I’d never lie to you, reader dearest.</p><p><cite>Tasha</cite></p></blockquote><p>Your group is bound to the designs of an ancient being of tremendous power and influence. You might serve as the creature’s eyes and ears in the world, carrying information back to it. Or perhaps you work as its direct agents, enacting its will. Whether you chose this arrangement or were tricked into it, you can count on the strange resources of your benefactor as long as you serve its purpose.</p>"
-  },
-  {
-    "entryId": "tcoeAncientBeing",
-    "pageId": "Q0Swt9d9dkuAx8Z2",
-    "pageName": "Ancient Being Contact",
-    "path": "name",
-    "source": "Ancient Being Contact"
-  },
-  {
-    "entryId": "tcoeAncientBeing",
-    "pageId": "Q0Swt9d9dkuAx8Z2",
-    "pageName": "Ancient Being Contact",
-    "path": "text",
-    "source": "<p>The organizational contact who dispenses assignments or delivers the word of your patron runs the gamut from prosaic to otherworldly. Roll or pick from the Ancient Being Contact table to determine who or what conveys your patron’s will.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingContact]</p>"
   },
   {
     "entryId": "tcoeAncientBeing",
@@ -377,20 +335,6 @@
     "pageName": "Aristocrat Retainers",
     "path": "text",
     "source": "<p>Aristocrats seek agents to pursue business, political, criminal, or personal agendas. In return, you might serve an aristocrat merely for the salary or to gain access to particular tools, information, or political clout. Or you could be a lesser family member, expected to serve the will of family leaders. Regardless of your skills or social standing, aristocratic patrons with enough foresight and imagination find a use for agents from any background.</p><p>The Aristocrat Retainer Roles table suggests a variety of parts you might play in an aristocrat’s agenda and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"AristocratRetainerRoles\" data-content-chunk-id=\"9383473c-93a0-41c3-a568-7b9ab21d84b4\">Aristocrat Retainer Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Advisor</td><td>Acolyte, Charlatan, Folk Hero, Hermit, Sage</td></tr><tr><td>Bodyguard</td><td>Criminal, Folk Hero, Noble, Outlander, Soldier</td></tr><tr><td>Informant</td><td>Charlatan, Criminal, Entertainer, Sailor, Urchin</td></tr><tr><td>House Staff</td><td>Entertainer, Guild Artisan, Sailor, Soldier, Urchin</td></tr><tr><td>Messenger</td><td>Charlatan, Entertainer, Outlander, Sailor, Urchin</td></tr><tr><td>Family Scion</td><td>Any</td></tr></tbody></table>"
-  },
-  {
-    "entryId": "tcoeArtificer000",
-    "pageId": "5zKxq6h5pF2v5KKF",
-    "pageName": "Introduction",
-    "path": "name",
-    "source": "Introduction"
-  },
-  {
-    "entryId": "tcoeArtificer000",
-    "pageId": "5zKxq6h5pF2v5KKF",
-    "pageName": "Introduction",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.Cn0cErlgKiuJOr33 caption=false cite=false classes=\"center three\"]</p>"
   },
   {
     "entryId": "tcoeArtificer000",
@@ -1061,20 +1005,6 @@
   },
   {
     "entryId": "tcoeChangelog000",
-    "pageId": "RQPU7m5gufbKfm3s",
-    "pageName": "1.0.0",
-    "path": "name",
-    "source": "1.0.0"
-  },
-  {
-    "entryId": "tcoeChangelog000",
-    "pageId": "RQPU7m5gufbKfm3s",
-    "pageName": "1.0.0",
-    "path": "text",
-    "source": "<p>Initial release.</p>"
-  },
-  {
-    "entryId": "tcoeChangelog000",
     "pageId": "W4Sex609s9POH1YK",
     "pageName": "1.2.0",
     "path": "name",
@@ -1395,20 +1325,6 @@
   },
   {
     "entryId": "tcoeFirearmRules",
-    "pageId": "aPabcSX9GJUQqWO4",
-    "pageName": "Burst Fire",
-    "path": "name",
-    "source": "Burst Fire"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "aPabcSX9GJUQqWO4",
-    "pageName": "Burst Fire",
-    "path": "text",
-    "source": "<p>A weapon that has the burst fire property can make a normal single-target attack, or it can spray a 10-foot-cube area within normal range with shots. Each creature in the area must succeed on a [[/save dc=15 dex]] saving throw or take the weapon’s normal damage. This action uses ten pieces of ammunition.</p>"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
     "pageId": "JU785fajC0AIOUQY",
     "pageName": "Firearm Rules",
     "path": "name",
@@ -1423,34 +1339,6 @@
   },
   {
     "entryId": "tcoeFirearmRules",
-    "pageId": "K6CjCPYdFOIUs7oR",
-    "pageName": "Properties",
-    "path": "name",
-    "source": "Properties"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "K6CjCPYdFOIUs7oR",
-    "pageName": "Properties",
-    "path": "text",
-    "source": "<p>Firearms use special @UUID[.lpOhD86CfDeKyHU4]{ammunition}, and some of them have the @UUID[.aPabcSX9GJUQqWO4]{burst fire} or@UUID[.x4f1q2cZF6nzQC9t]{ reload} property.</p>"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "lpOhD86CfDeKyHU4",
-    "pageName": "Ammunition",
-    "path": "name",
-    "source": "Ammunition"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "lpOhD86CfDeKyHU4",
-    "pageName": "Ammunition",
-    "path": "text",
-    "source": "<p>The ammunition of a firearm is destroyed upon use. Renaissance and modern firearms use bullets. Futuristic firearms are powered by a special type of ammunition called energy cells. An energy cell contains enough power for all the shots its firearm can make.</p>"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
     "pageId": "n1aK52daLgmkSq5J",
     "pageName": "Proficiency",
     "path": "name",
@@ -1462,20 +1350,6 @@
     "pageName": "Proficiency",
     "path": "text",
     "source": "<p>It’s up to you to decide whether a character has proficiency with a firearm. Characters in most D&amp;D worlds wouldn’t have such proficiency. During their downtime, characters can use the training rules in the Player’s Handbook to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.</p>"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "x4f1q2cZF6nzQC9t",
-    "pageName": "Reload",
-    "path": "name",
-    "source": "Reload"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "x4f1q2cZF6nzQC9t",
-    "pageName": "Reload",
-    "path": "text",
-    "source": "<p>A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character’s choice).</p>"
   },
   {
     "entryId": "tcoeGettingStart",
@@ -2199,20 +2073,6 @@
     "pageName": "Indifferent",
     "path": "text",
     "source": "<p>An <strong>indifferent</strong> creature might help or hinder the party, depending on what the creature sees as most beneficial. A creature’s indifference doesn’t necessarily make it standoffish or disinterested. Indifferent creatures might be polite and genial, surly and irritable, or anything in between. A successful Charisma check is necessary when the adventurers try to persuade an indifferent creature to do something.</p>"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "Prk328joy79EA4gj",
-    "pageName": "2. Conversation",
-    "path": "name",
-    "source": "2. Conversation"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "Prk328joy79EA4gj",
-    "pageName": "2. Conversation",
-    "path": "text",
-    "source": "<p><strong>Play out the conversation.</strong> Let the adventurers make their points, trying to frame their statements in terms that are meaningful to the creature they are interacting with.</p>"
   },
   {
     "entryId": "tcoeSocialIntera",

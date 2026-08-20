@@ -20,10 +20,26 @@
     },
     "tcoeAdditionalRu": {
       "name": "Reglas y referencias adicionales",
-      "folder": "Reglas y referencias adicionales"
+      "folder": "Reglas y referencias adicionales",
+      "pages": {
+        "KBTfUAsE7fxUQuKp": {
+          "name": "Tabla de oleadas de magia salvaje",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeWildMagicSur]</p>"
+        },
+        "maERBREpgZcdEMGW": {
+          "name": "Tabla de baratijas",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeTrinkets0000]</p>"
+        }
+      }
     },
     "tcoeAncientBeing": {
-      "folder": "Patrones de ejemplo"
+      "folder": "Patrones de ejemplo",
+      "pages": {
+        "Q0Swt9d9dkuAx8Z2": {
+          "name": "Contacto del ser ancestral",
+          "text": "<p>El contacto de la organización que entrega los encargos o transmite la palabra de vuestro patrón puede ser desde prosaico hasta sobrenatural. Tira o elige en la tabla Contacto del ser ancestral para determinar quién o qué transmite la voluntad de vuestro patrón.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingContact]</p>"
+        }
+      }
     },
     "tcoeAristocrat00": {
       "folder": "Patrones de ejemplo"
@@ -32,6 +48,10 @@
       "name": "Artífice",
       "folder": "Clases y subclases",
       "pages": {
+        "5zKxq6h5pF2v5KKF": {
+          "name": "Introducción",
+          "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.Cn0cErlgKiuJOr33 caption=false cite=false classes=\"center three\"]</p>"
+        },
         "D4HiVlSX3VkEDjW0": {
           "name": "Armero"
         },
@@ -102,7 +122,14 @@
         }
       }
     },
-    "tcoeChangelog000": {},
+    "tcoeChangelog000": {
+      "pages": {
+        "RQPU7m5gufbKfm3s": {
+          "name": "1.0.0",
+          "text": "<p>Versión inicial.</p>"
+        }
+      }
+    },
     "tcoeCleric000000": {
       "folder": "Clases y subclases",
       "pages": {
@@ -151,7 +178,25 @@
       }
     },
     "tcoeFirearmRules": {
-      "folder": "Reglas y referencias adicionales"
+      "folder": "Reglas y referencias adicionales",
+      "pages": {
+        "aPabcSX9GJUQqWO4": {
+          "name": "Fuego en ráfaga",
+          "text": "<p>Un arma que tenga la propiedad fuego en ráfaga puede realizar un ataque normal contra un único objetivo o rociar de proyectiles un área cúbica de 10 pies situada dentro de su alcance normal. Cada criatura del área debe superar una tirada de salvación de [[/save dc=15 dex]] o recibir el daño normal del arma. Esta acción consume diez unidades de munición.</p>"
+        },
+        "K6CjCPYdFOIUs7oR": {
+          "name": "Propiedades",
+          "text": "<p>Las armas de fuego utilizan @UUID[.lpOhD86CfDeKyHU4]{munición} especial, y algunas poseen la propiedad @UUID[.aPabcSX9GJUQqWO4]{fuego en ráfaga} o @UUID[.x4f1q2cZF6nzQC9t]{recarga}.</p>"
+        },
+        "lpOhD86CfDeKyHU4": {
+          "name": "Munición",
+          "text": "<p>La munición de un arma de fuego se destruye al usarla. Las armas de fuego renacentistas y modernas utilizan balas. Las armas de fuego futuristas funcionan con un tipo especial de munición llamado célula de energía. Una célula de energía contiene potencia suficiente para todos los disparos que puede efectuar su arma.</p>"
+        },
+        "x4f1q2cZF6nzQC9t": {
+          "name": "Recarga",
+          "text": "<p>Con un arma que tenga la propiedad recarga solo se puede realizar un número limitado de disparos. Después, un personaje debe recargarla usando una acción o una acción adicional (a elección del personaje).</p>"
+        }
+      }
     },
     "tcoeGettingStart": {
       "folder": "Opciones de personaje"
@@ -232,7 +277,13 @@
       }
     },
     "tcoeSocialIntera": {
-      "folder": "Reglas y referencias adicionales"
+      "folder": "Reglas y referencias adicionales",
+      "pages": {
+        "Prk328joy79EA4gj": {
+          "name": "2. Conversación",
+          "text": "<p><strong>Interpretad la conversación.</strong> Deja que los aventureros expongan sus argumentos e intenten formular sus declaraciones en términos que resulten significativos para la criatura con la que interactúan.</p>"
+        }
+      }
     },
     "tcoeSorcerer0000": {
       "folder": "Clases y subclases",
