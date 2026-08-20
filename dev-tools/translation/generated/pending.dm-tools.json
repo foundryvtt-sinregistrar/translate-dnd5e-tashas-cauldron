@@ -624,20 +624,6 @@
   },
   {
     "entryId": "tcoeMembersOnly0",
-    "pageId": "0rs8ZqqxHC73kCwZ",
-    "pageName": "Solution",
-    "path": "name",
-    "source": "Solution"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "pageId": "0rs8ZqqxHC73kCwZ",
-    "pageName": "Solution",
-    "path": "text",
-    "source": "<p>Each member that approaches the door is given a number by the guard. There is no mathematical equation here; the only valid response to a number given by the guard is the number of letters in the guard’s number.</p><p>For example, one member was given the number “six.” There are three letters in the word “six,” so the password for that member is “three.” More potential answers are provided in the Potential Passwords table.</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"PotentialPasswords\" data-content-chunk-id=\"15e2b74f-ccc3-4525-94e9-d27afef3164b\">Potential Passwords</h5></caption><thead><tr><th>Number Provided</th><th>Response Required</th></tr></thead><tbody><tr><td>One</td><td>Three</td></tr><tr><td>Two</td><td>Three</td></tr><tr><td>Three</td><td>Five</td></tr><tr><td>Four</td><td>Four</td></tr><tr><td>Five</td><td>Four</td></tr><tr><td>Eight</td><td>Five</td></tr><tr><td>Nine</td><td>Four</td></tr><tr><td>Eleven</td><td>Six</td></tr><tr><td>Thirteen</td><td>Eight</td></tr></tbody></table></div>"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
     "pageId": "8eNLpwHY881tKoHH",
     "pageName": "Puzzle Features",
     "path": "name",
@@ -1039,20 +1025,6 @@
   },
   {
     "entryId": "tcoeSupernatural",
-    "pageId": "BaXQRO6aQsWipRGy",
-    "pageName": "Haunted",
-    "path": "name",
-    "source": "Haunted"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "pageId": "BaXQRO6aQsWipRGy",
-    "pageName": "Haunted",
-    "path": "text",
-    "source": "<p>Haunted environs include homes burdened by wicked deeds, the sites of mass killings, and locations where individuals died while experiencing powerful fear, sorrow, or hatred. Haunted places bear echoes of the past and, like ghosts, harass visitors even as they seek respite from age-old traumas. Few places are meaninglessly haunted, and you can easily customize the general results on the following table to suit all manner of macabre tales.</p><p>Consider rolling on the Haunted Effects table when the following circumstances occur in the region:</p><ul><li><p>A creature gains the frightened condition.</p></li><li><p>Multiple creatures are unable to see.</p></li><li><p>A creature is alone.</p></li><li><p>Midnight or another ominous hour arrives.</p></li><li><p>A ghost or other creature tied to the region’s grim history menaces the party.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.AJihDaCyCnVJvB4J caption=false]</p><h2>Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeHauntedEffec caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeSupernatural",
     "pageId": "dJtm8Sm4nxc0uduK",
     "pageName": "Far Realm",
     "path": "name",
@@ -1064,20 +1036,6 @@
     "pageName": "Far Realm",
     "path": "text",
     "source": "<p>As souls travel away from the Material Plane after death, they either dwell in the Astral Plane as spirits or are pulled toward one of the Outer Planes to continue their journey. But some entities find ways to travel beyond the Outer Planes to dwell in the Far Realm. There they transform over eons into abominations or elder evils, seething in a reality with its own laws. All who stay in the Far Realm are eventually twisted into alien shapes by the realm’s eldritch forces.</p><p>The Far Realm’s pernicious influence is often subtle, leaking into the Material Plane through thin places in reality or as invasive thoughts that inspire life to propagate along alien paths.</p><p>Consider rolling on the Far Realm Effects table when the following circumstances occur in a region touched by the Far Realm:</p><ul><li><p>A warlock whose Otherworldly Patron is a Great Old One rolls a 1 or 20 on the d20 for an ability check, an attack roll, or a saving throw.</p></li><li><p>The characters take a short or long rest in the region.</p></li><li><p>A creature spends more than an hour reading an eldritch tome written by those who have seen or otherwise interacted with the Far Realm.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.RA1uyI0jeQisJ5A7]</p><h2>Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeFarRealmEffe caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "pageId": "uUngWEqAzcs40iGg",
-    "pageName": "Unraveling Magic",
-    "path": "name",
-    "source": "Unraveling Magic"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "pageId": "uUngWEqAzcs40iGg",
-    "pageName": "Unraveling Magic",
-    "path": "text",
-    "source": "<p>The source of magic is damaged or corrupted in this region. Magic is unpredictable, and strange results occur when a creature casts a spell. Such regions come into being when potent rituals go awry (or if they succeed, in the case of dangerous and destructive undertakings), in the aftermath of cataclysmic magical battles, or where an artifact was destroyed.</p><p>Consider rolling on the Unraveling Magic Effects table when the following circumstances occur in the region:</p><ul><li><p>Any charges are expended in a magic item.</p></li><li><p>A spell slot of 1st level or higher is expended.</p></li><li><p>A dragon, a fey, or an elemental of challenge rating 5 or higher dies.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.wOtmXJV6M2OvffYt]</p><h2>Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeUnravelingMa caption=false]</p><p></p><p>A random building in the region gains the benefits of the @UUID[Compendium.dnd5e.spells.Item.yw0tYQkOMCgKZ8Ur]{guards and wards} spell (save DC 13) for the next 24 hours.</p>"
   },
   {
     "entryId": "tcoeSupernatural",
@@ -1130,20 +1088,6 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<p><em>Difficulty: Hard</em></p><p>The characters discover that a popular local tavern is a front for a secret organization that they seek to join or infiltrate. The name of the tavern can be whatever you want it to be. One suggestion is the Cloak &amp; Dagger.</p><p>To get their foot in the proverbial door, the characters must speak the correct password to the tavern-keeper, Holda Heidrun. They can discover this password by solving a puzzle hidden in the tavern’s menu.</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>The tavern is crowded with happy people enjoying their food and drinks. Behind the bar, a stocky woman is wiping down the wooden bar top. She looks up as you enter and nods toward an empty table before her attention is drawn elsewhere. You see a copy of the tavern’s menu on the table.</p></section></section><p>Customize the tavern and flesh out its occupants as you see fit.</p><p>In addition to being the tavern-keeper, Holda Heidrun is the keeper of many secrets. If the characters prod her for information, she asks for the password, and if the characters don’t know it, she divulges nothing of consequence. “If you’re worth your weight in copper,” she says, “you’d speak the password to earn my trust.”</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.xxUUktbDrg1OvCSS caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "pageId": "eyo1Tr8U4IVlCidI",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "pageId": "eyo1Tr8U4IVlCidI",
-    "pageName": "Puzzle Features",
-    "path": "text",
-    "source": "<p>A sign at the bar declares that a meal costs 1 sp, a mug of ale costs 4 cp, a glass of fine wine costs 1 sp, and a bottle of fine wine costs 3 sp. The menu on the table contains a list of specialties the tavern serves, and how much each item costs. Only the menu is needed to solve the puzzle.</p><h2>Menu</h2><p>Characters who peruse the menu see the items listed in the Menu Items table, in the order given.</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"MenuItems\" data-content-chunk-id=\"902e4810-6a41-4ea0-9a34-734208d25880\">Menu Items</h5></caption><thead><tr><th>Item</th><th>Price</th></tr></thead><tbody><tr><td>Corn and lentil soup</td><td>12 cp</td></tr><tr><td>Rabbit stew</td><td>1 cp</td></tr><tr><td>Ale and cheese pastry</td><td>7 cp</td></tr><tr><td>Brandied ham and carrots</td><td>9 cp</td></tr><tr><td>Grilled fish and carrots</td><td>6 cp</td></tr><tr><td>Seared boar and potatoes</td><td>9 cp</td></tr><tr><td>Dragonfire mead</td><td>11 cp</td></tr></tbody></table></div>"
   },
   {
     "entryId": "tcoeWhatsOnTheMe",
