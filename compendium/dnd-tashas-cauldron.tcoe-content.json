@@ -46,6 +46,10 @@
         "Q0Swt9d9dkuAx8Z2": {
           "name": "Contacto del ser ancestral",
           "text": "<p>El contacto de la organización que entrega los encargos o transmite la palabra de vuestro patrón puede ser desde prosaico hasta sobrenatural. Tira o elige en la tabla Contacto del ser ancestral para determinar quién o qué transmite la voluntad de vuestro patrón.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingContact]</p>"
+        },
+        "YUanM1UWDltXNGtk": {
+          "name": "Tipos de seres ancestrales",
+          "text": "<p>Desde dragones meditabundos hasta voces insondables que susurran desde la oscuridad, los seres ancestrales guían y facultan a los mortales por motivos inescrutables. La relación de vuestro grupo con su patrón podría ser un intercambio claramente definido, incierto o impuesto. Sea cual sea la naturaleza del ser, mientras el grupo cumpla su función, este le ofrecerá recompensas.</p><p>Tira o elige en la tabla Ser ancestral para determinar al ser al que sirve vuestro grupo.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingTypes00]</p>"
         }
       }
     },
@@ -146,9 +150,17 @@
     },
     "tcoeChangelog000": {
       "pages": {
+        "PEoSpAeebOA9TtKu": {
+          "name": "1.0.1",
+          "text": "<p><strong>No es necesario volver a importar nada; esta revisión solo modifica código.</strong> Próximamente publicaremos una actualización mayor de corrección de errores.</p><h2>Correcciones de errores</h2><ul><li>La actualización <a href=\"https://github.com/foundryvtt/dnd5e/releases/tag/release-3.2.1\">3.2.1</a> del sistema de juego D&amp;D 5E publicada esta mañana cambió el nombre de un método (<code>prepareDerivedEquippableData</code> -&gt; <code>prepareFinalEquippableData</code>), lo que exigió un pequeño cambio en nuestro código personalizado para subobjetos de tatuaje.</li></ul>"
+        },
         "RQPU7m5gufbKfm3s": {
           "name": "1.0.0",
           "text": "<p>Versión inicial.</p>"
+        },
+        "W4Sex609s9POH1YK": {
+          "name": "1.2.0",
+          "text": "<h2>Correcciones de errores</h2><ul><li><p>Se añadieron los paréntesis necesarios a Lamentos de la tumba. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/607\">[#607]</a></p></li><li><p>Se resolvió un problema que impedía que los tatuajes funcionaran correctamente. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/606\">[#606]</a></p></li><li><p>Se antepuso '&amp;' al CSS anidado para que se aplique correctamente en la aplicación Electron. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/604\">[#604]</a></p></li></ul>"
         }
       }
     },
@@ -172,7 +184,13 @@
     },
     "tcoeCredits00000": {},
     "tcoeCriminalSynd": {
-      "folder": "Patrones de ejemplo"
+      "folder": "Patrones de ejemplo",
+      "pages": {
+        "nc0B9hQpxxLlg42O": {
+          "name": "Misiones del sindicato criminal",
+          "text": "<p>Tu trabajo como miembro del sindicato implica mucho más que simples estafas callejeras o carterismo. Alguien con tus habilidades coopera con otros para alcanzar objetivos mayores que ofrecen riesgos peligrosos y espléndidas recompensas. La ley del lugar es vuestro enemigo más persistente, pero otros sindicatos criminales también os desafían o se convierten en vuestros objetivos.</p><p>La tabla Misiones del sindicato criminal explora qué tipo de trabajo realizáis para la organización.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSyndicateQue]</p>"
+        }
+      }
     },
     "tcoeDisclaimer00": {},
     "tcoeDruid0000000": {
@@ -243,6 +261,10 @@
     "tcoeGettingStart": {
       "folder": "Opciones de personaje",
       "pages": {
+        "kwpn2b5Vk6YqU9Uj": {
+          "name": "Cambiar una habilidad",
+          "text": "<p>A veces eliges una competencia en una habilidad que termina siendo poco útil en la campaña o que ya no encaja con la historia de tu personaje. En esos casos, habla con tu DM para sustituirla por otra competencia en una habilidad que tu clase ofrezca a nivel 1. Un momento adecuado para este cambio es cuando alcanzas un nivel que te concede el rasgo Mejora de Puntuación de Característica, lo que representa que tu personaje ha dedicado uno o dos niveles a estudiar la nueva habilidad y ha dejado que la anterior se oxide.</p>"
+        },
         "LlecS7ZnaS5Nf20k": {
           "name": "Rasgos de clase opcionales",
           "text": "<p>A diferencia de los rasgos del Player’s Handbook, no obtienes automáticamente los que se presentan aquí. Tras consultarlo con tu DM, decides si obtienes un rasgo de esta sección cuando cumplas el requisito de nivel indicado en su descripción. Estos rasgos pueden elegirse por separado: puedes usar uno, varios o ninguno.</p>"
@@ -258,7 +280,13 @@
       }
     },
     "tcoeGuild0000000": {
-      "folder": "Patrones de ejemplo"
+      "folder": "Patrones de ejemplo",
+      "pages": {
+        "MrGzcFybgYpuHHPo": {
+          "name": "Contacto del gremio",
+          "text": "<p>Aunque seas un miembro respetado del gremio, no puedes presentarte sin más ante el maestro del gremio y exigir su atención. Tus superiores gestionan contratos de trabajo, solicitan el uso de recursos del gremio y facilitan que vuestro grupo contacte con las personas adecuadas para favorecer sus intereses.</p><p>Tira o elige en la tabla Contacto del gremio para determinar vuestro contacto inmediato dentro del gremio.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeGuildContact]</p>"
+        }
+      }
     },
     "tcoeMagicalMisce": {
       "folder": "Miscelánea mágica"
@@ -281,6 +309,10 @@
     "tcoeMilitaryForc": {
       "folder": "Patrones de ejemplo",
       "pages": {
+        "b639QmXeEHqw56wo": {
+          "name": "Tipos de fuerzas militares",
+          "text": "<p>Las fuerzas militares representan diversas bandas organizadas de guerreros. Pueden ser los disciplinados regimientos del ejército permanente de una nación, una flota de barcos que compone la armada de un reino o una horda devastadora de guerreros y bestias mágicas. El ejército de un reino concreto podría ser una fuerza rígidamente ordenada o una multitud bañada en sangre.</p><p>Tira o elige en la tabla Tipos de fuerzas militares para determinar el tipo general de patrón militar al que servís.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMilitaryType]</p>"
+        },
         "CYMe9FDnY2G33UEa": {
           "name": "Contacto de la fuerza militar",
           "text": "<p>Vuestro contacto principal dentro de la jerarquía es vuestro oficial superior, la persona que os da órdenes y responde de vuestro éxito o fracaso.</p><p>Tira o elige en la tabla Oficial al mando para determinar quién os asigna las misiones.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMilitaryCont]</p>"
@@ -320,6 +352,10 @@
     "tcoeRanger000000": {
       "folder": "Clases y subclases",
       "pages": {
+        "AzaR6wo8GHqDANzJ": {
+          "name": "Compañeros del Señor de las Bestias",
+          "text": "<p>El Señor de las Bestias del Player’s Handbook establece un vínculo místico con un animal. Como alternativa, puede escoger el siguiente rasgo para vincularse con una bestia primordial especial.</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoePrimalCompan]{Compañero primordial}</h3><p><em>Rasgo de Señor de las Bestias de nivel 3 que reemplaza el rasgo Compañero del Explorador</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoePrimalCompan caption=false cite=false]</p>"
+        },
         "gQQ68aXYBJQJnlTX": {
           "name": "Introducción",
           "text": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.hOjDZL9TfdqQ3zVM caption=false cite=false classes=\"three center\"]</p><p>La clase @UUID[Compendium.dnd5e.rules.JournalEntry.gqecphEUnz4ktrQ9.JournalEntryPage.nLK08pRtyaLLuB4w]{explorador} recibe nuevos rasgos y subclases en esta sección.</p><p></p><p></p>"
@@ -333,7 +369,13 @@
       }
     },
     "tcoeReligiousOrd": {
-      "folder": "Patrones de ejemplo"
+      "folder": "Patrones de ejemplo",
+      "pages": {
+        "BTu7PScmDkoRLMU6": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>Claro, sirve a esa orden religiosa y pronto estarás lavando mil coladas de tu sumo sacerdote porque, casualmente, es la voluntad divina.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo actúa al servicio de una institución religiosa. Sin embargo, el patrocinio de una orden religiosa no consiste simplemente en que todos los miembros del grupo compartan la misma fe. La administración de la fe, con sus propios recursos, objetivos y dirigentes, patrocina y guía directamente vuestras aventuras.</p>"
+        }
+      }
     },
     "tcoeRogue0000000": {
       "folder": "Clases y subclases",
@@ -353,6 +395,10 @@
     "tcoeSocialIntera": {
       "folder": "Reglas y referencias adicionales",
       "pages": {
+        "GUnJnHv8keGbJDmh": {
+          "name": "4. ¿Repetir?",
+          "text": "<p>Una vez realizada una prueba de Carisma, los nuevos intentos de influir en el objetivo de la interacción podrían resultar inútiles o correr el riesgo de molestarlo o enfurecerlo, lo que podría desplazar su actitud hacia la hostilidad. Usa tu criterio. Por ejemplo, si el pícaro del grupo dice algo que cambia la actitud de un noble de indiferente a hostil, otro personaje podría apaciguar su hostilidad mediante una interpretación ingeniosa y una prueba de [[/check per]] con éxito.</p>"
+        },
         "jC1zexHhiX1UAHec": {
           "name": "Indiferente",
           "text": "<p>Una criatura <strong>indiferente</strong> podría ayudar o entorpecer al grupo según lo que considere más beneficioso. Su indiferencia no implica necesariamente que sea distante o desinteresada: podría ser educada y cordial, arisca e irritable o cualquier cosa intermedia. Los aventureros necesitan superar una prueba de Carisma para convencer a una criatura indiferente de que haga algo.</p>"

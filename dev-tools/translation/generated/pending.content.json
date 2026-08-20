@@ -206,20 +206,6 @@
     "source": "<p>Consider the overarching goals of your group’s ancient being patron when determining who they recruit as agents. In what arenas does that being likely hold sway? A powerful lich recruits other ambitious spellcasters, as well as skilled warriors to serve as bodyguards. A dragon values socially adept agents and those who influence society’s decision-makers. Consider how your capabilities and interests align directly with those of the ancient being, or how you unwittingly fell into the patron’s service.</p><p>The Ancient Being Operative Roles table suggests a variety of parts you can play within an ancient being’s schemes and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"AncientBeingOperativeRoles\" data-content-chunk-id=\"dabb631f-4132-43b9-8ef3-6eeb09e81d87\">Ancient Being Operative Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Devotee</td><td>Acolyte, Hermit, Noble, Outlander, Sage</td></tr><tr><td>Infiltrator</td><td>Charlatan, Criminal, Hermit, Soldier, Urchin</td></tr><tr><td>Mouthpiece</td><td>Charlatan, Entertainer, Folk Hero, Hermit, Sage</td></tr><tr><td>Pupil</td><td>Acolyte, Entertainer, Folk Hero, Guild Artisan, Sage</td></tr><tr><td>Guardian</td><td>Acolyte, Folk Hero, Hermit, Outlander, Soldier</td></tr><tr><td>Offspring</td><td>Any</td></tr></tbody></table>"
   },
   {
-    "entryId": "tcoeAncientBeing",
-    "pageId": "YUanM1UWDltXNGtk",
-    "pageName": "Types of Ancient Beings",
-    "path": "name",
-    "source": "Types of Ancient Beings"
-  },
-  {
-    "entryId": "tcoeAncientBeing",
-    "pageId": "YUanM1UWDltXNGtk",
-    "pageName": "Types of Ancient Beings",
-    "path": "text",
-    "source": "<p>From brooding dragons to unfathomable voices whispering from the dark, ancient beings guide and empower mortals for inscrutable reasons. The relationship your group has to its patron might be a clearly defined exchange, or it could be uncertain or forceful. Whatever the nature of the being, as long as your group fulfills its role, the being offers rewards.</p><p>Roll or pick from the Ancient Being table to determine the being your group serves.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeingTypes00]</p>"
-  },
-  {
     "entryId": "tcoeAristocrat00",
     "path": "name",
     "source": "Aristocrat"
@@ -907,20 +893,6 @@
   },
   {
     "entryId": "tcoeChangelog000",
-    "pageId": "PEoSpAeebOA9TtKu",
-    "pageName": "1.0.1",
-    "path": "name",
-    "source": "1.0.1"
-  },
-  {
-    "entryId": "tcoeChangelog000",
-    "pageId": "PEoSpAeebOA9TtKu",
-    "pageName": "1.0.1",
-    "path": "text",
-    "source": "<p><strong>There is no need to reimport anything, this hotfix is a code-only patch.</strong> We will be releasing a larger bug fix patch soon.</p><h2>Bug Fixes</h2><ul><li>The D&amp;D 5E <a href=\"https://github.com/foundryvtt/dnd5e/releases/tag/release-3.2.1\">3.2.1</a> game system update that was released this morning included a renamed method (<code>prepareDerivedEquippableData</code> -&gt; <code>prepareFinalEquippableData</code>) that required a small change in our custom tattoo sub-item code.</li></ul>"
-  },
-  {
-    "entryId": "tcoeChangelog000",
     "pageId": "rqbhTR5dkJYm69ma",
     "pageName": "1.3.0",
     "path": "name",
@@ -932,20 +904,6 @@
     "pageName": "1.3.0",
     "path": "text",
     "source": "<h2>Feature Enhancements</h2><ul><li><p>Updated the Succubus' token/subject with a higher quality version. This may require you to update the Token and Subject scale if you had already imported the Succubus.</p></li><li><p>Configured source book value for an improved Compendium Browser experience.</p></li><li><p>Configured spell lists.</p></li><li><p>Updated the Tattoo data model and added support for Activities.</p></li><li><p>Updated the Tattoo app to use V2 styles.</p></li></ul><h2>Bug Fixes</h2><ul><li><p>Updated formulas to not use ternary operators which are no longer valid syntax.</p></li></ul>"
-  },
-  {
-    "entryId": "tcoeChangelog000",
-    "pageId": "W4Sex609s9POH1YK",
-    "pageName": "1.2.0",
-    "path": "name",
-    "source": "1.2.0"
-  },
-  {
-    "entryId": "tcoeChangelog000",
-    "pageId": "W4Sex609s9POH1YK",
-    "pageName": "1.2.0",
-    "path": "text",
-    "source": "<h2>Bug Fixes</h2><ul><li><p>Added necessary parentheses to Wails from the Grave. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/607\">[#607]</a></p></li><li><p>Resolved an issue that prevented tattoos from working correctly. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/606\">[#606]</a></p></li><li><p>Pre-fixed nested CSS with '&amp;' so it will apply correctly in the electron app. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/604\">[#604]</a></p></li></ul>"
   },
   {
     "entryId": "tcoeCleric000000",
@@ -1045,20 +1003,6 @@
     "pageName": "Criminal Syndicate Members",
     "path": "text",
     "source": "<p>Whether you’re a lifelong scoundrel or an ambitious upstart, you seek to gain wealth, fame, and influence within a criminal syndicate. A syndicate is motivated by profit, employing agents with all manner of talents. Nimbleness and novelty prove vital not just to exploiting untapped prospects but to avoiding the law. You embody rare experience and skill, positioned at the forefront of daring new criminal ventures.</p><p>The Criminal Syndicate Member Roles suggests positions you might fill in the organization and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"CriminalSyndicateMemberRoles\" data-content-chunk-id=\"d8cc0886-caea-40f1-96d7-4dec2fad4a75\">Criminal Syndicate Member Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Burglar</td><td>Criminal, Folk Hero, Noble, Outlander, Urchin</td></tr><tr><td>Muscle</td><td>Criminal, Entertainer, Outlander, Sailor, Soldier</td></tr><tr><td>Con Artist</td><td>Acolyte, Charlatan, Criminal, Entertainer, Noble, Urchin</td></tr><tr><td>Cleaner</td><td>Acolyte, Charlatan, Guild Artisan, Noble, Soldier</td></tr><tr><td>Mastermind</td><td>Acolyte, Criminal, Folk Hero, Noble, Sage</td></tr><tr><td>Mole</td><td>Any</td></tr></tbody></table>"
-  },
-  {
-    "entryId": "tcoeCriminalSynd",
-    "pageId": "nc0B9hQpxxLlg42O",
-    "pageName": "Criminal Syndicate Quests",
-    "path": "name",
-    "source": "Criminal Syndicate Quests"
-  },
-  {
-    "entryId": "tcoeCriminalSynd",
-    "pageId": "nc0B9hQpxxLlg42O",
-    "pageName": "Criminal Syndicate Quests",
-    "path": "text",
-    "source": "<p>Your work as a syndicate member involves more than simple street swindles or pickpocketing. Someone with your skills cooperates with others for greater purposes that offer both dangerous risks and splendid rewards. The law of the land is your most persistent enemy, but other criminal syndicates challenge you as well—or become your targets.</p><p>The Criminal Syndicate Quests table explores what kind of work you do for the organization.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSyndicateQue]</p>"
   },
   {
     "entryId": "tcoeCriminalSynd",
@@ -1215,20 +1159,6 @@
     "entryId": "tcoeGettingStart",
     "path": "name",
     "source": "Getting Started"
-  },
-  {
-    "entryId": "tcoeGettingStart",
-    "pageId": "kwpn2b5Vk6YqU9Uj",
-    "pageName": "Changing a Skill",
-    "path": "name",
-    "source": "Changing a Skill"
-  },
-  {
-    "entryId": "tcoeGettingStart",
-    "pageId": "kwpn2b5Vk6YqU9Uj",
-    "pageName": "Changing a Skill",
-    "path": "text",
-    "source": "<p>Sometimes you pick a skill proficiency that ends up not being very useful in the campaign or that no longer fits your character’s story. In those cases, talk to your DM about replacing that skill proficiency with another skill proficiency offered by your class at 1st level. A convenient time for such a change is when you reach a level that grants you the Ability Score Increase feature, representing that your character has spent a level or two studying the new skill and letting the old one atrophy.</p>"
   },
   {
     "entryId": "tcoeGettingStart",
@@ -1389,20 +1319,6 @@
   },
   {
     "entryId": "tcoeGuild0000000",
-    "pageId": "MrGzcFybgYpuHHPo",
-    "pageName": "Guild Contact",
-    "path": "name",
-    "source": "Guild Contact"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "MrGzcFybgYpuHHPo",
-    "pageName": "Guild Contact",
-    "path": "text",
-    "source": "<p>Even as a member in good standing of the guild, you can’t simply stroll up to the guild master and demand their attention. Your superiors within the guild manage work contracts, request the use of guild resources, and facilitate getting your group in contact with the right people to assist their interests.</p><p>Roll or pick from the Guild Contact table to determine your immediate contact within the guild.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeGuildContact]</p>"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
     "pageId": "zLUUr3X5Tp6K1DFP",
     "pageName": "Guild Quests",
     "path": "name",
@@ -1528,20 +1444,6 @@
   },
   {
     "entryId": "tcoeMilitaryForc",
-    "pageId": "b639QmXeEHqw56wo",
-    "pageName": "Types of Military Forces",
-    "path": "name",
-    "source": "Types of Military Forces"
-  },
-  {
-    "entryId": "tcoeMilitaryForc",
-    "pageId": "b639QmXeEHqw56wo",
-    "pageName": "Types of Military Forces",
-    "path": "text",
-    "source": "<p>Military forces represent a variety of organized bands of warriors. They can be the disciplined regiments of a nation’s standing army, a fleet of ships comprising a kingdom’s armada, or a devastating horde of warriors and magical beasts. A given kingdom’s military could be a rigidly ordered force or a blood-soaked throng.</p><p>Roll or pick from the Military Force Types table to determine the general type of military patron you serve.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMilitaryType]</p>"
-  },
-  {
-    "entryId": "tcoeMilitaryForc",
     "pageId": "f895W6nXH4djigsr",
     "pageName": "Military Force Envoys",
     "path": "name",
@@ -1627,20 +1529,6 @@
   },
   {
     "entryId": "tcoeRanger000000",
-    "pageId": "AzaR6wo8GHqDANzJ",
-    "pageName": "Beast Master Companions",
-    "path": "name",
-    "source": "Beast Master Companions"
-  },
-  {
-    "entryId": "tcoeRanger000000",
-    "pageId": "AzaR6wo8GHqDANzJ",
-    "pageName": "Beast Master Companions",
-    "path": "text",
-    "source": "<p>The Beast Master in the Player’s Handbook forms a mystical bond with an animal. As an alternative, a Beast Master can take the feature below to form a bond with a special primal beast instead.</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoePrimalCompan]{Primal Companion}</h3><p><em>3rd-level Beast Master feature, which replaces the Ranger’s Companion feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoePrimalCompan caption=false cite=false]</p>"
-  },
-  {
-    "entryId": "tcoeRanger000000",
     "pageId": "f68l9dkaCkbF8g6D",
     "pageName": "Optional Class Features",
     "path": "name",
@@ -1671,20 +1559,6 @@
     "pageName": "Religious Order Contact",
     "path": "text",
     "source": "<p>Your established order enjoys a robust following. It might be a cloister of priestly scholars who use your group as the adventuring arm of the organization, or perhaps a legion of paladins who call on your group’s finesse where swords and shields fail. You might receive orders directly from the immortal entity you worship or through an earthly agent, such as a high priest or an archdruid.</p><p>Roll or pick from the Religious Order Contact table to determine who relays messages to and from your order’s deity.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeReligiousCon]</p>"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "BTu7PScmDkoRLMU6",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "BTu7PScmDkoRLMU6",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>Sure, serve that religious order, and soon you’ll be doing a thousand loads of your high priest’s laundry, because—conveniently—it’s divine will.</p><p><cite>Tasha</cite></p></blockquote><p>Your group acts in the service of a religious institution. The patronage of a religious order isn’t simply a matter of each member of your party belonging to the same faith, though. The faith’s administration—with its own resources, goals, and leaders—directly sponsors and guides your adventures.</p>"
   },
   {
     "entryId": "tcoeReligiousOrd",
@@ -1793,20 +1667,6 @@
     "pageName": "Determining Characteristics",
     "path": "text",
     "source": "<p>The adventurers don’t necessarily enter into a social interaction with a full understanding of a creature’s ideal, bond, or flaw. If they want to shift a creature’s attitude by playing on these characteristics, they first need to determine what the creature cares about. They can guess, but doing so runs the risk of shifting the creature’s attitude in the wrong direction if they guess badly.</p><p>After interacting with a creature long enough to get a sense of its personality traits and characteristics through conversation, an adventurer can attempt a [[/check skill=ins]] check to uncover one of the creature’s characteristics. You set the DC. A check that fails by 10 or more might misidentify a characteristic, so you should provide a false characteristic or invert one of the creature’s existing characteristics. For example, if an old sage’s flaw is that he is prejudiced against the uneducated, an adventurer who badly fails the check might be told that the sage enjoys personally seeing to the education of the downtrodden.</p><p>Given time, adventurers can also learn about a creature’s characteristics from other sources, including its friends and allies, personal letters, and publicly told stories. Acquiring such information might be the basis of an entirely different set of social interactions.</p>"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "GUnJnHv8keGbJDmh",
-    "pageName": "4. Repeat?",
-    "path": "name",
-    "source": "4. Repeat?"
-  },
-  {
-    "entryId": "tcoeSocialIntera",
-    "pageId": "GUnJnHv8keGbJDmh",
-    "pageName": "4. Repeat?",
-    "path": "text",
-    "source": "<p>Once a Charisma check has been made, further attempts to influence the target of the interaction might be fruitless or run the risk of upsetting or angering the subject creature, potentially shifting its attitude toward hostility. Use your best judgment. For example, if the party’s rogue says something that pushes a noble’s attitude toward the party from indifferent to hostile, another character might be able to diffuse the noble’s hostility with clever roleplaying and a successful [[/check per]] check.</p>"
   },
   {
     "entryId": "tcoeSocialIntera",

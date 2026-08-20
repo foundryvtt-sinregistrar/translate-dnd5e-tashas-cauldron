@@ -22,6 +22,15 @@ def write(path: Path, value: Any) -> None:
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def deep_merge(target: dict[str, Any], patch: dict[str, Any]) -> dict[str, Any]:
+    for key, value in patch.items():
+        if isinstance(value, dict) and isinstance(target.get(key), dict):
+            deep_merge(target[key], value)
+        else:
+            target[key] = value
+    return target
+
+
 def tokens(value: str) -> Counter[str]:
     return Counter(next(part for part in match if part is not None) for match in PROTECTED.findall(value or ""))
 
@@ -45,7 +54,9 @@ def build_pack(pack_name: str, slug: str, label: str) -> int:
     generated = root / "dev-tools/translation/generated"
     source = load(root / f"dev-tools/export/data/dnd-tashas-cauldron.{pack_name}.en.json")
     legacy = load(root / f"dev-tools/export/_data/dnd-tashas-cauldron.{pack_name}.json")
-    reviewed = load(root / f"dev-tools/translation/reviewed-{slug}.json")
+    reviewed: dict[str, Any] = {"folders": {}, "entries": {}}
+    for reviewed_path in sorted((root / "dev-tools/translation").glob(f"reviewed-{slug}*.json")):
+        deep_merge(reviewed, load(reviewed_path))
     terms_path = root / f"dev-tools/translation/official-{slug}-terms.json"
     official_terms = load(terms_path) if terms_path.exists() else {}
     memory, memory_conflicts = translation_memory(generated)
