@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "module": "translate-dnd5e-tashas-cauldron",
+  "branch": "develop",
+  "moduleVersion": "0.1.0",
+  "foundry": {"minimum": "14", "verified": "14.363"},
+  "compendiums": 7,
+  "topLevelEntries": 837,
+  "journalPages": 399,
+  "actorEmbeddedItems": 735,
+  "tableResults": 663,
+  "internalReferencesChecked": 1386,
+  "brokenInternalReferences": 0,
+  "pendingFields": 0,
+  "protectedTokenIssues": 0,
+  "mojibakeFields": 0,
+  "reviewedUnchangedFields": 2,
+  "nonBlockingLegacyTableAlignmentWarnings": 45,
+  "commitsThroughInitialGlobalAudit": 126,
+  "authoritativeAudit": "report.audit-all.json",
+  "detailedReport": "FINAL-TRANSLATION-REPORT.md"
+}
