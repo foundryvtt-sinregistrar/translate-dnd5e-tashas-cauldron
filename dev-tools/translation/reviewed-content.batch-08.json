@@ -1,0 +1,24 @@
+{
+  "entries": {
+    "tcoeAcademy00000": {
+      "pages": {
+        "wHuptZkv7doNdHui": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>A todos los magos novatos que estén pensando en recibir formación mágica: consideraos seriamente la opción de convertiros en aprendices. Conozco liches que todavía están pagando sus préstamos de la academia.</p><p><cite>Tasha</cite></p></blockquote><p>Los misterios del mundo son innumerables, pero los perseguís con empeño. Como agentes de una academia, tratáis de desentrañar los secretos de la existencia y los enigmas aún más profundos que se ocultan tras ellos.</p><p>En vuestro trabajo os codeáis con las personas más sabias del país, viajáis a lugares de los que solo hablan los mitos y descubrís verdades que superan la imaginación. Rechazáis la ignorancia, buscáis maravillas y sacáis a la luz nuevos conocimientos sin descanso. Criaturas desconocidas, muertos codiciosos y rivales celosos entorpecen vuestra labor, pero ningún riesgo es excesivo cuando se persigue el conocimiento.</p>"
+        },
+        "HQJtTlhlSkSnMQNv": {
+          "name": "Contacto de la academia",
+          "text": "<p>La autonomía que tenéis para elegir vuestras misiones y la frecuencia con la que se espera que actuéis en nombre de la academia dependen en gran medida de vuestro puesto en la jerarquía de la institución. Como estudiantes, profesores noveles o personal de apoyo, colaboráis con un profesor veterano o con todo un departamento. Si vuestra carrera está más avanzada, tenéis objetivos y ayudantes propios, pero aun así aceptáis encargos que impulsan los propósitos de expertos prestigiosos, decanos o de la academia en su conjunto. En cualquiera de estos casos, un contacto concreto gestiona vuestra relación con la academia.</p><p>Tira o elige en la tabla Contacto de la academia para determinar quién gestiona la relación entre vosotros y la institución.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAcademyConta]</p>"
+        }
+      }
+    },
+    "tcoeMilitaryForc": {
+      "pages": {
+        "6scUr3LNtFt5NRmY": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>Toda la maquinaria de la guerra es una barbaridad. En un mundo sensato, los conflictos se resolverían mediante duelos de magia apocalíptica o peleas capaces de remodelar continentes entre reptiles titánicos alimentados por almas. Ya sabes, opciones razonables.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo sirve como unidad de soldados dentro de una fuerza militar mayor, dedicada a misiones de combate u otras tareas peligrosas. Podríais ser una banda de mercenarios, una unidad de fuerzas especiales o una escuadra de infantería regular. Quizá protegéis a la población de una nación frente a los monstruos o libráis batallas secretas tras una guerra que supuestamente ha terminado. También es posible que la nación necesite fuerzas militares para proteger la frontera y encabezar el avance hacia nuevos territorios.</p>"
+        }
+      }
+    }
+  }
+}

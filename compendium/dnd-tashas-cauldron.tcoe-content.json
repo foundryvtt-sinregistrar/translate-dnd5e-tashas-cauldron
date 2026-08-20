@@ -18,9 +18,17 @@
     "tcoeAcademy00000": {
       "folder": "Patrones de ejemplo",
       "pages": {
+        "HQJtTlhlSkSnMQNv": {
+          "name": "Contacto de la academia",
+          "text": "<p>La autonomía que tenéis para elegir vuestras misiones y la frecuencia con la que se espera que actuéis en nombre de la academia dependen en gran medida de vuestro puesto en la jerarquía de la institución. Como estudiantes, profesores noveles o personal de apoyo, colaboráis con un profesor veterano o con todo un departamento. Si vuestra carrera está más avanzada, tenéis objetivos y ayudantes propios, pero aun así aceptáis encargos que impulsan los propósitos de expertos prestigiosos, decanos o de la academia en su conjunto. En cualquiera de estos casos, un contacto concreto gestiona vuestra relación con la academia.</p><p>Tira o elige en la tabla Contacto de la academia para determinar quién gestiona la relación entre vosotros y la institución.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAcademyConta]</p>"
+        },
         "ScdkiIY2jtqwiHzv": {
           "name": "Misiones de la academia",
           "text": "<p>El objeto de vuestro estudio y la investigación de la academia definen las misiones que emprendéis. Los académicos se esfuerzan por llevarles un paso de ventaja a sus rivales intelectuales, lo que hace que muchos desconfíen de otros eruditos e incluso se muestren hostiles hacia ellos. Además de sus rivales profesionales, los académicos se enfrentan a las dificultades que plantean sus objetos de estudio, sean miembros de civilizaciones perdidas o seres mágicos, así como a antiintelectuales recelosos. No todo el mundo desea convertirse en objeto de escrutinio académico ni considera importante o deseable resolver los misterios del mundo.</p><p>La tabla Misiones de la academia presenta algunos ejemplos de iniciativas que vuestro trabajo o vuestros estudios podrían llevaros a emprender.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAcademyQuest]</p>"
+        },
+        "wHuptZkv7doNdHui": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>A todos los magos novatos que estén pensando en recibir formación mágica: consideraos seriamente la opción de convertiros en aprendices. Conozco liches que todavía están pagando sus préstamos de la academia.</p><p><cite>Tasha</cite></p></blockquote><p>Los misterios del mundo son innumerables, pero los perseguís con empeño. Como agentes de una academia, tratáis de desentrañar los secretos de la existencia y los enigmas aún más profundos que se ocultan tras ellos.</p><p>En vuestro trabajo os codeáis con las personas más sabias del país, viajáis a lugares de los que solo hablan los mitos y descubrís verdades que superan la imaginación. Rechazáis la ignorancia, buscáis maravillas y sacáis a la luz nuevos conocimientos sin descanso. Criaturas desconocidas, muertos codiciosos y rivales celosos entorpecen vuestra labor, pero ningún riesgo es excesivo cuando se persigue el conocimiento.</p>"
         }
       }
     },
@@ -370,6 +378,10 @@
     "tcoeMilitaryForc": {
       "folder": "Patrones de ejemplo",
       "pages": {
+        "6scUr3LNtFt5NRmY": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>Toda la maquinaria de la guerra es una barbaridad. En un mundo sensato, los conflictos se resolverían mediante duelos de magia apocalíptica o peleas capaces de remodelar continentes entre reptiles titánicos alimentados por almas. Ya sabes, opciones razonables.</p><p><cite>Tasha</cite></p></blockquote><p>Vuestro grupo sirve como unidad de soldados dentro de una fuerza militar mayor, dedicada a misiones de combate u otras tareas peligrosas. Podríais ser una banda de mercenarios, una unidad de fuerzas especiales o una escuadra de infantería regular. Quizá protegéis a la población de una nación frente a los monstruos o libráis batallas secretas tras una guerra que supuestamente ha terminado. También es posible que la nación necesite fuerzas militares para proteger la frontera y encabezar el avance hacia nuevos territorios.</p>"
+        },
         "b639QmXeEHqw56wo": {
           "name": "Tipos de fuerzas militares",
           "text": "<p>Las fuerzas militares representan diversas bandas organizadas de guerreros. Pueden ser los disciplinados regimientos del ejército permanente de una nación, una flota de barcos que compone la armada de un reino o una horda devastadora de guerreros y bestias mágicas. El ejército de un reino concreto podría ser una fuerza rígidamente ordenada o una multitud bañada en sangre.</p><p>Tira o elige en la tabla Tipos de fuerzas militares para determinar el tipo general de patrón militar al que servís.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMilitaryType]</p>"

@@ -6,20 +6,6 @@
   },
   {
     "entryId": "tcoeAcademy00000",
-    "pageId": "HQJtTlhlSkSnMQNv",
-    "pageName": "Academy Contact",
-    "path": "name",
-    "source": "Academy Contact"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
-    "pageId": "HQJtTlhlSkSnMQNv",
-    "pageName": "Academy Contact",
-    "path": "text",
-    "source": "<p>How much autonomy you have in choosing your missions and how often you’re expected to perform on the academy’s behalf depends largely on your place in the institution’s hierarchy. As students, new professors, or support staff, you aid the work of a senior professor or entire department. If you are further along in your career, you have your own goals and assistants, but you still take on assignments to further the goals of esteemed experts, deans, or the academy as a whole. In any of these cases, a specific contact manages your relationship to the academy.</p><p>Roll or pick from the Academy Contact table to determine who manages the relationship between you and the academy.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAcademyConta]</p>"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
     "pageId": "jRtg3Z1adzTr5xXD",
     "pageName": "Types of Academies",
     "path": "name",
@@ -31,20 +17,6 @@
     "pageName": "Types of Academies",
     "path": "text",
     "source": "<p>Any assemblage of scholars and truth-seekers can function as an academy. Generally, an academy unites a network of learned individuals, allowing them to share their knowledge, further their research, and support common goals. Passing on wisdom to the next generation is part of an academy’s mandate, but members find opportunities to undertake far-flung research expeditions—only so much can be learned in libraries, after all. An academy’s focus can be broad or singular, artistic or scientific, mundane or magical. For every topic with unexplored possibilities, an academy seeks to plumb its depths or elevate its study.</p><p>Roll or pick from the Academy Type table to determine the institution with which you’re aligned.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAcademyTypes]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.MPcXlfdTPMrfN7gj]</p>"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
-    "pageId": "wHuptZkv7doNdHui",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
-    "pageId": "wHuptZkv7doNdHui",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>For all you novice wizards thinking about magic training, seriously consider apprenticing. I know liches who are still paying off their academy loans.</p><p><cite>Tasha</cite></p></blockquote><p>The world’s mysteries are innumerable, but you pursue them with vigor. As operatives for an academy, you seek to unravel the secrets of existence and the deeper riddles beyond.</p><p>In your work, you brush shoulders with the wisest in the land, travel to places spoken of in myth, and discover truths beyond imagining. Denying ignorance, you pursue wondrous sights and endlessly unearth new facts. Undiscovered creatures, the covetous dead, and jealous rivals impede your work, but in the pursuit of knowledge, no risk is too great.</p>"
   },
   {
     "entryId": "tcoeAcademy00000",
@@ -1231,20 +1203,6 @@
     "entryId": "tcoeMilitaryForc",
     "path": "name",
     "source": "Military Force"
-  },
-  {
-    "entryId": "tcoeMilitaryForc",
-    "pageId": "6scUr3LNtFt5NRmY",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeMilitaryForc",
-    "pageId": "6scUr3LNtFt5NRmY",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>The whole machine of war is barbaric. In a sane world, conflicts would be resolved by contests of apocalyptic magics or by continent-reshaping brawls between titanic, soul-fueled reptiles. You know, reasonable options.</p><p><cite>Tasha</cite></p></blockquote><p>Your group serves as a team of soldiers in a larger military force, one dedicated to combat missions or other dangerous tasks. You could be a band of mercenaries, a special forces unit, or a squad of regular infantry. Perhaps you protect a nation’s people from monsters, or you fight secret battles in the wake of a war that has supposedly ended. Or the nation requires military forces to protect the frontier and to lead advancement into new territory.</p>"
   },
   {
     "entryId": "tcoeMilitaryForc",
