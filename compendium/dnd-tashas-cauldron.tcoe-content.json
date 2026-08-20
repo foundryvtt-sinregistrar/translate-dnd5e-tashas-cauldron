@@ -113,6 +113,10 @@
         "U9WZOg2mdX1QweSu": {
           "name": "Misiones del aristócrata",
           "text": "<p>Cada misiva de vuestro patrón propone una misión diferente. En un encargo actuáis como enviados durante delicadas negociaciones comerciales; en el siguiente, os manda a atravesar pasos de montaña para recoger su flor favorita para una fiesta. Los enemigos son inagotables, y el aliado de ayer podría ser el objetivo de mañana. Lo único seguro es la variedad de caprichos de vuestro patrón y que mañana habrá más.</p><p>La tabla Misiones del aristócrata presenta los tipos de trabajo que podríais realizar a petición de vuestro patrón de alta cuna.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAristocratQu]</p>"
+        },
+        "uB6a53Qx5xCbjm19": {
+          "name": "Sirvientes del aristócrata",
+          "text": "<p>Los aristócratas buscan agentes que se ocupen de sus planes comerciales, políticos, criminales o personales. A cambio, podrías servir a uno simplemente por el salario o para acceder a herramientas, información o influencia política concretas. También podrías ser un miembro menor de la familia del que se espera que acate la voluntad de sus dirigentes. Sean cuales sean tus aptitudes o posición social, los patrones aristocráticos con suficiente previsión e imaginación encuentran una utilidad para agentes de cualquier origen.</p><p>La tabla Funciones de los sirvientes del aristócrata sugiere diversos papeles que podrías desempeñar en sus planes y los trasfondos asociados habitualmente a cada uno.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"AristocratRetainerRoles\" data-content-chunk-id=\"9383473c-93a0-41c3-a568-7b9ab21d84b4\">Funciones de los sirvientes del aristócrata</h5></caption><thead><tr><th>Función</th><th>Trasfondos</th></tr></thead><tbody><tr><td>Consejero</td><td>Acólito, charlatán, héroe del pueblo, ermitaño, sabio</td></tr><tr><td>Guardaespaldas</td><td>Criminal, héroe del pueblo, noble, forastero, soldado</td></tr><tr><td>Informador</td><td>Charlatán, criminal, artista, marinero, huérfano</td></tr><tr><td>Personal doméstico</td><td>Artista, artesano gremial, marinero, soldado, huérfano</td></tr><tr><td>Mensajero</td><td>Charlatán, artista, forastero, marinero, huérfano</td></tr><tr><td>Vástago familiar</td><td>Cualquiera</td></tr></tbody></table>"
         }
       }
     },
@@ -313,6 +317,10 @@
     "tcoeFighter00000": {
       "folder": "Clases y subclases",
       "pages": {
+        "iVJ8nczkEUU7LJQO": {
+          "name": "Rasgos de clase opcionales",
+          "text": "<p>Obtienes rasgos de clase del Player’s Handbook cuando alcanzas determinados niveles en tu clase. Esta sección ofrece rasgos adicionales que puedes obtener como guerrero. A diferencia de los rasgos del Player’s Handbook, no los consigues automáticamente. Tras consultarlo con tu DM, decides si obtienes uno de estos rasgos cuando cumples el requisito de nivel indicado en su descripción. Puedes elegirlos por separado: emplear algunos, todos o ninguno.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoefigFightingS]{Opciones de estilo de combate}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoefigFightingS caption=false cite=false]</p><hr /><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.wLkstZZm04KmeyNs caption=false]</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoefigMartialVe]{Versatilidad marcial}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoefigMartialVe caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeManeuverOpti]{Opciones de maniobra}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeManeuverOpti caption=false cite=false]</p><hr />"
+        },
         "moOVqeyY1pT8V3qH": {
           "name": "Caballero rúnico"
         },
@@ -328,6 +336,10 @@
     "tcoeFirearmRules": {
       "folder": "Reglas y referencias adicionales",
       "pages": {
+        "27863221ec9HgWPG": {
+          "name": "Armas de fuego",
+          "text": "<h2>Armas de fuego renacentistas</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMusket000000]{Mosquete}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoePistol000000]{Pistola}</p><h3>Munición</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBullet000000]{Balas}</p><h2>Armas de fuego modernas</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoePistolAutoma]{Pistola automática}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRevolver0000]{Revólver}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRifleHunting]{Rifle de caza}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRifleAutomat]{Rifle automático}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeShotgun00000]{Escopeta}</p><h3>Munición</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBulletModern]{Balas modernas}</p><h2>Armas de fuego futuristas</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAntimatterRi]{Rifle de antimateria}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLaserPistol0]{Pistola láser}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLaserRifle00]{Rifle láser}</p><h3>Munición</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEnergyCell00]{Célula de energía}</p>"
+        },
         "aPabcSX9GJUQqWO4": {
           "name": "Fuego en ráfaga",
           "text": "<p>Un arma que tenga la propiedad fuego en ráfaga puede realizar un ataque normal contra un único objetivo o rociar de proyectiles un área cúbica de 10 pies situada dentro de su alcance normal. Cada criatura del área debe superar una tirada de salvación de [[/save dc=15 dex]] o recibir el daño normal del arma. Esta acción consume diez unidades de munición.</p>"
@@ -419,7 +431,8 @@
           "text": "<p>Para sintonizarte con un tatuaje mágico, sostienes la aguja contra la zona de tu piel donde quieres que aparezca y la mantienes presionada durante todo el proceso de sintonización. Cuando este termina, la aguja se convierte en la tinta que forma el tatuaje, que aparece sobre la piel.</p><p>Si termina tu sintonización con el tatuaje, este desaparece y la aguja reaparece en tu espacio.</p>"
         },
         "X1JTXrJ119g1TNEQ": {
-          "name": "Tatuaje hechizado"
+          "name": "Tatuaje de conjuro",
+          "text": "<p>Producido por una aguja especial, este tatuaje mágico contiene un único conjuro de hasta nivel 5, plasmado en tu piel por una aguja mágica. Para usarlo, debes sostener la aguja contra la piel y pronunciar la palabra de mando. La aguja se convierte en tinta y forma el tatuaje, que aparece con el diseño que prefieras. Una vez allí, puedes lanzar su conjuro sin componentes materiales. El tatuaje brilla tenuemente mientras lo lanzas y durante su duración. Cuando el conjuro termina, desaparece de tu piel.</p><p>El nivel del conjuro determina su CD de salvación, bonificador de ataque, modificador por característica para lanzar conjuros y la rareza del tatuaje, como muestra la tabla Tatuaje de conjuro.</p><table style=\"text-align:center\"><thead><tr><th>Nivel del conjuro</th><th>Rareza</th><th>Mod. por característica para lanzar conjuros</th><th>CD de salvación</th><th>Bonificador de ataque</th></tr></thead><tbody><tr><td>Truco</td><td>Común</td><td>+3</td><td>13</td><td>+5</td></tr><tr><td>1</td><td>Común</td><td>+3</td><td>13</td><td>+5</td></tr><tr><td>2</td><td>Poco común</td><td>+3</td><td>13</td><td>+5</td></tr><tr><td>3</td><td>Poco común</td><td>+4</td><td>15</td><td>+7</td></tr><tr><td>4</td><td>Raro</td><td>+4</td><td>15</td><td>+7</td></tr><tr><td>5</td><td>Raro</td><td>+5</td><td>17</td><td>+9</td></tr></tbody></table>"
         }
       }
     },

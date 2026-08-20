@@ -85,20 +85,6 @@
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.2pLN7LLIeB6LGAhY caption=false classes=\"right three\"]</p><p>With an aristocrat as your group’s patron, you gain the following perks.</p><p><em><strong>Expenses.</strong></em> Your patron reimburses you for extraordinary expenses incurred as part of your work. You are required to account for your expenses and must explain any extraordinary expenditures, but routine travel, ordinary equipment, and basic services don’t draw a second glance.</p><p><em><strong>Immunity.</strong></em> As long as you remain in the aristocrat’s good graces, you are nearly immune to prosecution under the laws within the aristocrat’s sphere of influence. When you are carrying out your orders, you have a great deal of leeway in how you choose to go about that, and the law isn’t an obstacle. Committing serious crimes—especially if they are unrelated or unnecessary for the assigned work—is a sure way to fall out of your patron’s good graces, however.</p><p><em><strong>Luxury.</strong></em> Your patron deigns to host you at their home or in other luxurious accommodations for a brief period as reward for a job well done. Such a stay typically lasts for no longer than two weeks per year, during which you maintain an aristocratic lifestyle for no cost. You must defend the locale if necessary, but you’re largely afforded time to relax as you please. However, poor (or outright destructive) guests rarely receive invitations to stay again.</p><p><em><strong>Salary.</strong></em> Your employment under an aristocratic patron brings an income of 1 gp per day, or enough to maintain a modest lifestyle. At the DM’s discretion, your salary increases or decreases depending on the aristocrat’s nature, the type of work, and the length of your employment.</p>"
   },
   {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "uB6a53Qx5xCbjm19",
-    "pageName": "Aristocrat Retainers",
-    "path": "name",
-    "source": "Aristocrat Retainers"
-  },
-  {
-    "entryId": "tcoeAristocrat00",
-    "pageId": "uB6a53Qx5xCbjm19",
-    "pageName": "Aristocrat Retainers",
-    "path": "text",
-    "source": "<p>Aristocrats seek agents to pursue business, political, criminal, or personal agendas. In return, you might serve an aristocrat merely for the salary or to gain access to particular tools, information, or political clout. Or you could be a lesser family member, expected to serve the will of family leaders. Regardless of your skills or social standing, aristocratic patrons with enough foresight and imagination find a use for agents from any background.</p><p>The Aristocrat Retainer Roles table suggests a variety of parts you might play in an aristocrat’s agenda and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"AristocratRetainerRoles\" data-content-chunk-id=\"9383473c-93a0-41c3-a568-7b9ab21d84b4\">Aristocrat Retainer Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Advisor</td><td>Acolyte, Charlatan, Folk Hero, Hermit, Sage</td></tr><tr><td>Bodyguard</td><td>Criminal, Folk Hero, Noble, Outlander, Soldier</td></tr><tr><td>Informant</td><td>Charlatan, Criminal, Entertainer, Sailor, Urchin</td></tr><tr><td>House Staff</td><td>Entertainer, Guild Artisan, Sailor, Soldier, Urchin</td></tr><tr><td>Messenger</td><td>Charlatan, Entertainer, Outlander, Sailor, Urchin</td></tr><tr><td>Family Scion</td><td>Any</td></tr></tbody></table>"
-  },
-  {
     "entryId": "tcoeArtificer000",
     "pageId": "gHzW0fogl9fIGGck",
     "pageName": "Artificer Class",
@@ -802,20 +788,6 @@
   },
   {
     "entryId": "tcoeFighter00000",
-    "pageId": "iVJ8nczkEUU7LJQO",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeFighter00000",
-    "pageId": "iVJ8nczkEUU7LJQO",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a fighter. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoefigFightingS]{Fighting Style Options}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoefigFightingS caption=false cite=false]</p><hr /><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.wLkstZZm04KmeyNs caption=false]</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoefigMartialVe]{Martial Versatility}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoefigMartialVe caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeManeuverOpti]{Maneuver Options}</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeManeuverOpti caption=false cite=false]</p><hr />"
-  },
-  {
-    "entryId": "tcoeFighter00000",
     "pageId": "tUAppt6NwqRBcqc5",
     "pageName": "Battle Master Builds",
     "path": "name",
@@ -832,20 +804,6 @@
     "entryId": "tcoeFirearmRules",
     "path": "name",
     "source": "Firearm Rules"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "27863221ec9HgWPG",
-    "pageName": "Firearms",
-    "path": "name",
-    "source": "Firearms"
-  },
-  {
-    "entryId": "tcoeFirearmRules",
-    "pageId": "27863221ec9HgWPG",
-    "pageName": "Firearms",
-    "path": "text",
-    "source": "<h2>Renaissance Firearms</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMusket000000]{Musket}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoePistol000000]{Pistol}</p><h3>Ammunition</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBullet000000]{Bullets}</p><h2>Modern Firearms</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoePistolAutoma]{Pistol, Automatic}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRevolver0000]{Revolver}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRifleHunting]{Rifle, Hunting}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRifleAutomat]{Rifle, Automatic}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeShotgun00000]{Shotgun}</p><h3>Ammunition</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBulletModern]{Bullets, Modern}</p><h2>Futuristic Firearms</h2><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAntimatterRi]{Antimatter Rifle}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLaserPistol0]{Laser Pistol}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLaserRifle00]{Laser Rifle}</p><h3>Ammunition</h3><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEnergyCell00]{Energy Cell}</p>"
   },
   {
     "entryId": "tcoeGettingStart",
@@ -1030,13 +988,6 @@
     "pageName": "Tattoos",
     "path": "text",
     "source": "<h2>Absorbing Tattoos</h2><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBlackAbsorbi]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBlackAbsorbi caption=false cite=false]{Black Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBlueAbsorbin]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBlueAbsorbin caption=false cite=false]{Blue Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGoldAbsorbin]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGoldAbsorbin caption=false cite=false]{Gold Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGreenAbsorbi]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGreenAbsorbi caption=false cite=false]{Green Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeOrangeAbsorb]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeOrangeAbsorb caption=false cite=false]{Orange Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRedAbsorbing]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeRedAbsorbing caption=false cite=false]{Red Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeSilverAbsorb]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeSilverAbsorb caption=false cite=false]{Silver Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeVioletAbsorb]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeVioletAbsorb caption=false cite=false]{Violet Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeWhiteAbsorbi]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeWhiteAbsorbi caption=false cite=false]{White Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeYellowAbsorb]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeYellowAbsorb caption=false cite=false]{Yellow Absorbing Tattoo}</p><hr /><h2>Barrier Tattoo Weights</h2><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLightBarrier]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLightBarrier caption=false cite=false]{Light Barrier Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMediumBarrie]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMediumBarrie caption=false cite=false]{Medium Barrier Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeHeavyBarrier]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeHeavyBarrier caption=false cite=false]{Heavy Barrier Tattoo}</p><hr /><h2>Other Tattoos</h2><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAbsorbingTat caption=false cite=false]{Absorbing Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBarrierTatto caption=false cite=false]{Barrier Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBloodFuryTat]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeBloodFuryTat caption=false cite=false]{Blood Fury Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEldritchClaw]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEldritchClaw caption=false cite=false]{Eldritch Claw Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGhostStepTat]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGhostStepTat caption=false cite=false]{Ghost Step Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeIlluminators]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeIlluminators caption=false cite=false]{Illuminator’s Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLifewellTatt]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLifewellTatt caption=false cite=false]{Lifewell Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMasqueradeTa]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeMasqueradeTa caption=false cite=false]{Masquerade Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeShadowfellBr]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeShadowfellBr caption=false cite=false]{Shadowfell Brand Tattoo}</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeSpellwrought]</h3><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeSpellwrought caption=false cite=false]{Spellwrought Tattoo}</p><hr />"
-  },
-  {
-    "entryId": "tcoeMagicTattoos",
-    "pageId": "X1JTXrJ119g1TNEQ",
-    "pageName": "Spellwrought Tattoo",
-    "path": "text",
-    "source": "<p>Produced by a special needle, this magic tattoo contains a single spell of up to 5th level, wrought on your skin by a magic needle. To use the tattoo, you must hold the needle against your skin and speak the command word. The needle turns into ink that becomes the tattoo, which appears on the skin in whatever design you like. Once the tattoo is there, you can cast its spell, requiring no material components. The tattoo glows faintly while you cast the spell and for the spell’s duration. Once the spell ends, the tattoo vanishes from your skin.</p><p>The level of the spell in the tattoo determines the spell’s saving throw DC, attack bonus, spellcasting ability modifier, and the tattoo’s rarity, as shown in the Spellwrought Tattoo table.</p><table style=\"text-align:center\"><thead><tr><th>Spell Level</th><th>Rarity</th><th>Spellcasting Ability Mod.</th><th>Save DC</th><th>Attack Bonus</th></tr></thead><tbody><tr><td>Cantrip</td><td>Common</td><td>+3</td><td>13</td><td>+5</td></tr><tr><td>1st</td><td>Common</td><td>+3</td><td>13</td><td>+5</td></tr><tr><td>2nd</td><td>Uncommon</td><td>+3</td><td>13</td><td>+5</td></tr><tr><td>3rd</td><td>Uncommon</td><td>+4</td><td>15</td><td>+7</td></tr><tr><td>4th</td><td>Rare</td><td>+4</td><td>15</td><td>+7</td></tr><tr><td>5th</td><td>Rare</td><td>+5</td><td>17</td><td>+9</td></tr></tbody></table>"
   },
   {
     "entryId": "tcoeMilitaryForc",
