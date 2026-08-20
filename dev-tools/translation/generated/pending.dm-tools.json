@@ -466,34 +466,6 @@
     "source": "<p><em>Difficulty: Hard</em></p><p>This puzzle provides an elaborate, coin-based lock to any sort of door, vault, or other barrier.</p><section class=\"fvtt narrative\"><p>The door here is locked and has no handle. Instead, there is a slot in the door with an engraving above it that reads, “Insert exact change here.” Nearby, a wooden bowl of coins rests atop a wooden table.</p><p>The tabletop is engraved with nine squares in a three-by-three grid. Nailed to the table’s leg is a piece of parchment with the following instructions:</p><p></p><p><em>Fifteen per column, fifteen per row;</em></p><p><em>Diagonally, the same is so.</em></p><p><em>A plea of warning to carefully count;</em></p><p><em>No two places may hold the same amount.</em></p><p><em>What coins in the center be fed through the door;</em></p><p><em>Exact change for passage or trouble galore.</em></p></section>"
   },
   {
-    "entryId": "tcoeExactChange0",
-    "pageId": "IKXZ5S9ne6uDIs5i",
-    "pageName": "Hint Checks",
-    "path": "name",
-    "source": "Hint Checks"
-  },
-  {
-    "entryId": "tcoeExactChange0",
-    "pageId": "IKXZ5S9ne6uDIs5i",
-    "pageName": "Hint Checks",
-    "path": "text",
-    "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=inv dc=15]]. The character realizes that if diagonal corners add up to ten, it makes filling out the rest of the grid much easier.</p><p>[[/check skill=ins dc=15]]. The character figures out the placement of two numbers other than the center number.</p>"
-  },
-  {
-    "entryId": "tcoeExactChange0",
-    "pageId": "XXaadbhQv5UGXIn9",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
-    "entryId": "tcoeExactChange0",
-    "pageId": "XXaadbhQv5UGXIn9",
-    "pageName": "Puzzle Features",
-    "path": "text",
-    "source": "<p>The bowl on the table contains forty-five gold coins. The puzzle requires that an exact number of coins be fed into the slot into the door. If the wrong amount is deposited, it triggers either an alarm or a trap of your choice.</p>"
-  },
-  {
     "entryId": "tcoeEyeOfTheBeho",
     "path": "name",
     "source": "Eye of the Beholder"
@@ -560,20 +532,6 @@
     "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=per dc=15]].The goblin provides a hint in the form of a synonym of the riddle’s answer (for example, “lizard” for “newt”).</p><p>[[/check skill=inv dc=10]].After a few riddles are answered correctly, a character notices that all the answers relate to eyes.</p><p>[[/check skill=ins dc=10]]. After one or more correct answers are given, the character realizes that each answer corresponds to a cardinal direction.</p>"
   },
   {
-    "entryId": "tcoeEyeOfTheBeho",
-    "pageId": "nK9BMHs8zfUKuXxN",
-    "pageName": "Customizing the Puzzle",
-    "path": "name",
-    "source": "Customizing the Puzzle"
-  },
-  {
-    "entryId": "tcoeEyeOfTheBeho",
-    "pageId": "nK9BMHs8zfUKuXxN",
-    "pageName": "Customizing the Puzzle",
-    "path": "text",
-    "source": "<p>The characters can easily persuade the goblin to join their party. What other secrets does the goblin know? Does he have an agenda for helping the characters find their freedom? And why has he lingered in the maze if he knows the way out? There might be more to this guide than meets the eye.</p>"
-  },
-  {
     "entryId": "tcoeFourByFour00",
     "path": "name",
     "source": "Four by Four"
@@ -613,34 +571,6 @@
   },
   {
     "entryId": "tcoeFourByFour00",
-    "pageId": "XCpWbODphqKyPpNT",
-    "pageName": "Customizing the Puzzle",
-    "path": "name",
-    "source": "Customizing the Puzzle"
-  },
-  {
-    "entryId": "tcoeFourByFour00",
-    "pageId": "XCpWbODphqKyPpNT",
-    "pageName": "Customizing the Puzzle",
-    "path": "text",
-    "source": "<p>If one of the characters is a dwarf, this might be the perfect time to bring in a familial storyline. Are these the skulls of their long-lost clan? Does one of the skulls belong to a relative that they have been seeking? And what do they think the puzzle is implying with only four of the nine skulls receiving “celestial beds”?</p>"
-  },
-  {
-    "entryId": "tcoeFourByFour00",
-    "pageId": "xiGHCNArL3pgCFF3",
-    "pageName": "Puzzle Features",
-    "path": "name",
-    "source": "Puzzle Features"
-  },
-  {
-    "entryId": "tcoeFourByFour00",
-    "pageId": "xiGHCNArL3pgCFF3",
-    "pageName": "Puzzle Features",
-    "path": "text",
-    "source": "<p>Nine dwarf skulls rest near a grid of 1-foot-square tiles, as shown in <a>puzzle handout 3</a> (see the end of this chapter). Columns and rows in the grid are labeled with the markings I, II, or III.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.Ppp9NuLPkhCFi3Ko]</p>"
-  },
-  {
-    "entryId": "tcoeFourByFour00",
     "pageId": "ZTrXX3uSPcFHaxqT",
     "pageName": "Hint Checks",
     "path": "name",
@@ -662,20 +592,6 @@
     "entryId": "tcoeFourElements",
     "path": "folder",
     "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeFourElements",
-    "pageId": "0zEIm825mWU4F1yW",
-    "pageName": "Hint Checks",
-    "path": "name",
-    "source": "Hint Checks"
-  },
-  {
-    "entryId": "tcoeFourElements",
-    "pageId": "0zEIm825mWU4F1yW",
-    "pageName": "Hint Checks",
-    "path": "text",
-    "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=inv dc=15]]. The character notes the words “even” and “odd” in the verse on the room’s floor and believes they have some significance to the missing tiles.</p><p>[[/check skill=prc dc=10]]. The character can deduce which tiles correspond to which elementals.</p>"
   },
   {
     "entryId": "tcoeFourElements",
@@ -808,34 +724,6 @@
     "entryId": "tcoeIllusiveIsla",
     "path": "folder",
     "source": "Puzzles"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
-    "pageId": "BEYiVGZnq2QPnoyw",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
-    "pageId": "BEYiVGZnq2QPnoyw",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p><em>Difficulty: Medium</em></p><p>Three numerical dials seal a box, door, or other locked object. Figuring out the correct combination is the goal of this puzzle, as there are no visible locks to pick.</p>"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
-    "pageId": "SQYfVTuSxFmAmuuE",
-    "pageName": "Solution",
-    "path": "name",
-    "source": "Solution"
-  },
-  {
-    "entryId": "tcoeIllusiveIsla",
-    "pageId": "SQYfVTuSxFmAmuuE",
-    "pageName": "Solution",
-    "path": "text",
-    "source": "<p>Characters who follow the directions and trace their paths on the map reveal three numbers: 3, 4, and 8 (see diagram 4.3). Turning the dials to these numbers in the same order opens the locked object.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.1wsMeC4ghp9gwxEW]</p>"
   },
   {
     "entryId": "tcoeIllusiveIsla",
@@ -1100,20 +988,6 @@
   },
   {
     "entryId": "tcoeMembersOnly0",
-    "pageId": "DD1KMYapRpY5AUBV",
-    "pageName": "Hint Checks",
-    "path": "name",
-    "source": "Hint Checks"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
-    "pageId": "DD1KMYapRpY5AUBV",
-    "pageName": "Hint Checks",
-    "path": "text",
-    "source": "<p>Any character has the option of making these ability checks to receive a hint:</p><p>[[/check skill=inv dc=15]].The character deduces there is no mathematical equation that connects the numbers exchanged between the guard and visitors.</p><p>[[/check skill=ins dc=15]].The character suspects that the answer has to do with the word, not the number.</p>"
-  },
-  {
-    "entryId": "tcoeMembersOnly0",
     "pageId": "f78KXMS2onTXF6Pp",
     "pageName": "Overview",
     "path": "name",
@@ -1191,20 +1065,6 @@
     "pageName": "Avalanches",
     "path": "text",
     "source": "<p>A typical avalanche (or rockslide) is 300 feet wide, 150 feet long, and 30 feet thick. Creatures in the path of an avalanche can avoid it or escape it if they’re close to its edge, but outrunning one is almost impossible.</p><p>When an avalanche occurs, all nearby creatures must roll initiative. Twice each round, on initiative counts 10 and 0, the avalanche travels 300 feet until it can travel no more. When an avalanche moves, any creature in its space moves along with it and falls &amp;Reference[prone], and the creature must make a [[/save strength dc=15]] saving throw, taking [[/damage 1d10 type=bludgeoning]] damage on a failed save, or half as much damage on a successful one.</p><p>When an avalanche stops, the snow and other debris settle and bury creatures. A creature buried in this way is &amp;Reference[blinded] and &amp;Reference[restrained], and it has &amp;Reference[total-cover]. The creature gains 1 level of &amp;Reference[exhaustion] for every 5 minutes it spends buried. It can try to dig itself free as an action, breaking the surface and ending the blinded and restrained conditions on itself with a successful [[/check skill=athletics dc=15]] check. A creature that fails this check three times can’t attempt to dig itself out again.</p><p>A creature that is not restrained or &amp;Reference[incapacitated] can spend 1 minute freeing a buried creature. Once free, that creature is no longer blinded or restrained by the avalanche.</p>"
-  },
-  {
-    "entryId": "tcoeNaturalHazar",
-    "pageId": "rJpvPCHTMGnNUllZ",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeNaturalHazar",
-    "pageId": "rJpvPCHTMGnNUllZ",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p>Even without the threats of supernatural environments, the world is a dangerous place. The following natural hazards expand on those presented in the Dungeon Master’s Guide.</p>"
   },
   {
     "entryId": "tcoeNaturalHazar",

@@ -1,4 +1,29 @@
 {
   "folders": {},
-  "entries": {}
+  "entries": {
+    "tcoeNaturalHazar": { "pages": {
+      "rJpvPCHTMGnNUllZ": { "name": "Resumen", "text": "<p>Incluso sin las amenazas de los entornos sobrenaturales, el mundo es un lugar peligroso. Los siguientes peligros naturales amplían los presentados en la Guía del Dungeon Master.</p>" }
+    } },
+    "tcoeIllusiveIsla": { "pages": {
+      "BEYiVGZnq2QPnoyw": { "name": "Resumen", "text": "<p><em>Dificultad: media</em></p><p>Tres diales numéricos sellan una caja, una puerta u otro objeto cerrado. El objetivo de este rompecabezas es averiguar la combinación correcta, pues no hay cerraduras visibles que forzar.</p>" },
+      "SQYfVTuSxFmAmuuE": { "name": "Solución", "text": "<p>Los personajes que siguen las indicaciones y trazan sus recorridos en el mapa revelan tres números: 3, 4 y 8 (consulta el diagrama 4.3). Girar los diales hasta esos números en el mismo orden abre el objeto cerrado.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.1wsMeC4ghp9gwxEW]</p>" }
+    } },
+    "tcoeExactChange0": { "pages": {
+      "XXaadbhQv5UGXIn9": { "name": "Características del rompecabezas", "text": "<p>El cuenco de la mesa contiene cuarenta y cinco monedas de oro. El rompecabezas exige introducir un número exacto de monedas en la ranura de la puerta. Si se deposita una cantidad incorrecta, se activa una alarma o una trampa a tu elección.</p>" },
+      "IKXZ5S9ne6uDIs5i": { "name": "Pruebas para obtener pistas", "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=15]]. El personaje se da cuenta de que, si las esquinas diagonales suman diez, resulta mucho más fácil completar el resto de la cuadrícula.</p><p>[[/check skill=ins dc=15]]. El personaje deduce la colocación de dos números además del número central.</p>" }
+    } },
+    "tcoeEyeOfTheBeho": { "pages": {
+      "nK9BMHs8zfUKuXxN": { "name": "Personalizar el rompecabezas", "text": "<p>Los personajes pueden convencer fácilmente al goblin de que se una al grupo. ¿Qué otros secretos conoce? ¿Tiene algún propósito oculto para ayudarles a encontrar la libertad? ¿Y por qué ha permanecido en el laberinto si conoce la salida? Puede que este guía sea más de lo que parece a primera vista.</p>" }
+    } },
+    "tcoeFourByFour00": { "pages": {
+      "xiGHCNArL3pgCFF3": { "name": "Características del rompecabezas", "text": "<p>Nueve cráneos de enano descansan junto a una cuadrícula de casillas de 1 pie de lado, como se muestra en la <a>ficha del rompecabezas 3</a> (consulta el final de este capítulo). Las columnas y filas de la cuadrícula están marcadas con I, II o III.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.Ppp9NuLPkhCFi3Ko]</p>" },
+      "XCpWbODphqKyPpNT": { "name": "Personalizar el rompecabezas", "text": "<p>Si uno de los personajes es enano, este podría ser el momento perfecto para introducir una trama familiar. ¿Son estos los cráneos de su clan perdido hace mucho? ¿Pertenece alguno a un pariente al que buscaba? ¿Y qué cree que insinúa el rompecabezas al conceder «lechos celestiales» solo a cuatro de los nueve cráneos?</p>" }
+    } },
+    "tcoeMembersOnly0": { "pages": {
+      "DD1KMYapRpY5AUBV": { "name": "Pruebas para obtener pistas", "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=15]]. El personaje deduce que no existe ninguna ecuación matemática que relacione los números intercambiados entre el guardia y los visitantes.</p><p>[[/check skill=ins dc=15]]. El personaje sospecha que la respuesta tiene que ver con la palabra, no con el número.</p>" }
+    } },
+    "tcoeFourElements": { "pages": {
+      "0zEIm825mWU4F1yW": { "name": "Pruebas para obtener pistas", "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=15]]. El personaje repara en las palabras «par» e «impar» del verso escrito en el suelo de la sala y cree que guardan relación con las baldosas que faltan.</p><p>[[/check skill=prc dc=10]]. El personaje puede deducir qué baldosas corresponden a cada elemental.</p>" }
+    } }
+  }
 }
