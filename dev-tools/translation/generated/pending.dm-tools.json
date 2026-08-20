@@ -1032,19 +1032,5 @@
     "pageName": "Overview",
     "path": "text",
     "source": "<p><em>Difficulty: Hard</em></p><p>The characters discover that a popular local tavern is a front for a secret organization that they seek to join or infiltrate. The name of the tavern can be whatever you want it to be. One suggestion is the Cloak &amp; Dagger.</p><p>To get their foot in the proverbial door, the characters must speak the correct password to the tavern-keeper, Holda Heidrun. They can discover this password by solving a puzzle hidden in the tavern’s menu.</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>The tavern is crowded with happy people enjoying their food and drinks. Behind the bar, a stocky woman is wiping down the wooden bar top. She looks up as you enter and nods toward an empty table before her attention is drawn elsewhere. You see a copy of the tavern’s menu on the table.</p></section></section><p>Customize the tavern and flesh out its occupants as you see fit.</p><p>In addition to being the tavern-keeper, Holda Heidrun is the keeper of many secrets. If the characters prod her for information, she asks for the password, and if the characters don’t know it, she divulges nothing of consequence. “If you’re worth your weight in copper,” she says, “you’d speak the password to earn my trust.”</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.xxUUktbDrg1OvCSS caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "pageId": "nBcUkHHBANwCThi8",
-    "pageName": "Solution",
-    "path": "name",
-    "source": "Solution"
-  },
-  {
-    "entryId": "tcoeWhatsOnTheMe",
-    "pageId": "nBcUkHHBANwCThi8",
-    "pageName": "Solution",
-    "path": "text",
-    "source": "<p>Arrange the menu items in alphabetical order, then count into each item by the number of letters indicated in its price, as shown in the What’s On the Menu Solution table below. Stringing the seven letters together forms the password: chimera.</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"WhatsontheMenuSolution\" data-content-chunk-id=\"7c9f8c1f-4579-47e6-bb0d-148c2f94527a\">What’s on the Menu Solution</h5></caption><thead><tr><th>Item (Price)</th><th>Letter</th></tr></thead><tbody><tr><td>Ale and cheese pastry (7 cp)</td><td>C (7th letter)</td></tr><tr><td>Brandied ham and carrots (9 cp)</td><td>H (9th letter)</td></tr><tr><td>Corn and lentil soup (12 cp)</td><td>I (12th letter)</td></tr><tr><td>Dragonfire mead (11 cp)</td><td>M (11th letter)</td></tr><tr><td>Grilled fish and carrots (6 cp)</td><td>E (6th letter)</td></tr><tr><td>Rabbit stew (1 cp)</td><td>R (1st letter)</td></tr><tr><td>Seared boar and potatoes (3 cp)</td><td>A (3rd letter)</td></tr></tbody></table></div><p>The characters can figure out the password without putting the menu items in alphabetical order. Once they get all seven letters, they must solve the anagram to get the password.</p><p>Speaking the correct password to Holda grants access to whatever secrets she’s keeping—fuel for the characters’ next adventure.</p>"
   }
 ]
