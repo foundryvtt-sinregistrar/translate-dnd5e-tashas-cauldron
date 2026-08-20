@@ -58,8 +58,12 @@ def build_pack(pack_name: str, slug: str, label: str) -> int:
     source = load(root / f"dev-tools/export/data/dnd-tashas-cauldron.{pack_name}.en.json")
     legacy = load(root / f"dev-tools/export/_data/dnd-tashas-cauldron.{pack_name}.json")
     reviewed: dict[str, Any] = {"folders": {}, "entries": {}}
+    reviewed_unchanged: set[tuple[str, str, str]] = set()
     for reviewed_path in sorted((root / "dev-tools/translation").glob(f"reviewed-{slug}*.json")):
-        deep_merge(reviewed, load(reviewed_path))
+        reviewed_patch = load(reviewed_path)
+        for row in reviewed_patch.pop("reviewedUnchanged", []):
+            reviewed_unchanged.add((row.get("entryId", ""), row.get("pageId", ""), row["path"]))
+        deep_merge(reviewed, reviewed_patch)
     terms_path = root / f"dev-tools/translation/official-{slug}-terms.json"
     official_terms = load(terms_path) if terms_path.exists() else {}
     memory, memory_conflicts = translation_memory(generated)
@@ -83,6 +87,7 @@ def build_pack(pack_name: str, slug: str, label: str) -> int:
     alignment: list[dict[str, Any]] = []
     token_issues: list[dict[str, Any]] = []
     memory_hits = 0
+    unchanged_reviews = 0
 
     for folder in source.get("folders", {}):
         translated = reviewed.get("folders", {}).get(folder) or official_terms.get(folder) or memory.get(folder)
@@ -117,6 +122,9 @@ def build_pack(pack_name: str, slug: str, label: str) -> int:
                     memory_hits += int(original in memory and field not in page_patch)
                     if tokens(original) != tokens(translated):
                         token_issues.append({"entryId": entry_id, "pageId": page_id, "path": field})
+                elif original and (entry_id, page_id, field) in reviewed_unchanged:
+                    page_target[field] = original
+                    unchanged_reviews += 1
                 elif original:
                     pending.append({"entryId": entry_id, "pageId": page_id, "pageName": page.get("name"), "path": field, "source": original})
             if page_target:
@@ -133,6 +141,7 @@ def build_pack(pack_name: str, slug: str, label: str) -> int:
         "outputEntries": len(output["entries"]),
         "translatedPages": sum(len(row.get("pages", {})) for row in output["entries"].values()),
         "translationMemoryHits": memory_hits,
+        "reviewedUnchangedFields": unchanged_reviews,
         "pendingFields": len(pending),
         "alignmentWarnings": len(alignment),
         "translationMemoryConflicts": len(relevant_memory_conflicts),

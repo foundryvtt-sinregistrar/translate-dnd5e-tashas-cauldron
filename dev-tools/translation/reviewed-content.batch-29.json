@@ -1,0 +1,10 @@
+{
+  "reviewedUnchanged": [
+    {
+      "entryId": "tcoeMagicItems00",
+      "pageId": "Y7lwVG4Pe2N2ogOB",
+      "path": "text",
+      "reason": "The page is a generated index containing only Foundry UUID and Embed directives; it has no static user-facing prose."
+    }
+  ]
+}
