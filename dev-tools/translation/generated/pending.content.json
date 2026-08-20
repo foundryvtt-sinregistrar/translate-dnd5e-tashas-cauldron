@@ -83,20 +83,6 @@
     "source": "Barbarian"
   },
   {
-    "entryId": "tcoeBarbarian000",
-    "pageId": "DFEtLqM8y31xe45M",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeBarbarian000",
-    "pageId": "DFEtLqM8y31xe45M",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a barbarian.</p><p>Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use one, both, or none of them.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarPrimalKno]{Primal Knowledge}</h3><p><em>3rd-level barbarian feature</em></p><p>When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoebarInstincti]{Instinctive Pounce}</h3><p><em>7th-level barbarian feature</em></p><p>As part of the bonus action you take to enter your rage, you can move up to half your speed.</p><hr /><h3>Primal Paths</h3><p>At 3rd level, a barbarian gains the Primal Path feature, which offers you the choice of a subclass. The following options are available to you when making that choice: @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeBeastPath000]{Path of the Beast} and @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeWildMagicPat]{Path of Wild Magic}.</p><hr />"
-  },
-  {
     "entryId": "tcoeBard00000000",
     "path": "name",
     "source": "Bard"
@@ -817,20 +803,6 @@
   },
   {
     "entryId": "tcoeGroupPatrons",
-    "pageId": "DHfja8iFOUtJcz8K",
-    "pageName": "Being Your Own Patron",
-    "path": "name",
-    "source": "Being Your Own Patron"
-  },
-  {
-    "entryId": "tcoeGroupPatrons",
-    "pageId": "DHfja8iFOUtJcz8K",
-    "pageName": "Being Your Own Patron",
-    "path": "text",
-    "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.EAM1ofjpQQBIvPiT]</p><p>For some players, the idea of running a crime syndicate, mercenary company, arcane scholars’ collective, or other organization is far more exciting than working for someone else. Founding your own organization offers a greater degree of autonomy, though potentially at the cost of support and reliable work.</p><p>When you’re the boss, the perks of belonging to an organization become expenses you have to worry about; when you run your own mercenary company, for example, you need to stock your own armory, rather than drawing on an existing organization’s stockpile. The organization brings in income, but you’ll have to spend it to keep the organization running.</p><p>When you run your own organization, use the Running a Business downtime activity (described in the Dungeon Master's Guide) to reflect your organization’s ongoing activities. More than one character can take part in this activity at a time. When rolling to determine the business’s performance, add the total days spent by the characters to the roll to determine the business’s success (still observing the maximum of 30). If the business earns a profit, multiply that profit by 4 + the number of characters who took part in this downtime activity.</p><p>Don’t discount the value of adopting an NPC to serve as your contact within your own organization. A secretary, majordomo, or apprentice keeps up with your group’s bureaucracy while you’re conducting missions and passes along information that could lead to your next adventure!</p>"
-  },
-  {
-    "entryId": "tcoeGroupPatrons",
     "pageId": "FG4srdGOG7Jrek4P",
     "pageName": "How Patrons Work",
     "path": "name",
@@ -958,37 +930,9 @@
     "source": "Monk"
   },
   {
-    "entryId": "tcoeMonk00000000",
-    "pageId": "MFxU3NKDORuew9b4",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeMonk00000000",
-    "pageId": "MFxU3NKDORuew9b4",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a monk. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.4j3oQOqiJelqVvUI]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoemonDedicated]{Dedicated Weapon}</h3><p><em>2nd-level monk feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoemonDedicated caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoemonKifueledA]{Ki-Fueled Attack}</h3><p><em>3rd-level monk feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoemonKifueledA caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoemonQuickened]{Quickened Healing}</h3><p><em>4th-level monk feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoemonQuickened caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoemonFocusedAi]{Focused Aim}</h3><p><em>5th-level monk feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoemonFocusedAi caption=false cite=false]</p>"
-  },
-  {
     "entryId": "tcoePaladin00000",
     "path": "name",
     "source": "Paladin"
-  },
-  {
-    "entryId": "tcoePaladin00000",
-    "pageId": "l2YRMwWZUka2cKOL",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoePaladin00000",
-    "pageId": "l2YRMwWZUka2cKOL",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a paladin. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><hr /><h2>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoepalSpells000]{Additional Paladin Spells}</h2><p><em>2nd-level paladin feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoepalSpells000 caption=false cite=false]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.JruNYNWVlxkMBkl9 caption=false]</p><hr /><h2>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoepalFightingS]{Fighting Style Options}</h2><p><em>2nd-level paladin feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoepalFightingS caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoepalHarnessDi]{Harness Divine Power}</h3><p><em>3rd-level paladin feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoepalHarnessDi caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoepalMartialVe]{Martial Versatility}</h3><p><em>4th-level paladin feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoepalMartialVe caption=false cite=false]</p><hr />"
   },
   {
     "entryId": "tcoeRanger000000",
