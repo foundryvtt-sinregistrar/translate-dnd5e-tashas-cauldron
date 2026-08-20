@@ -6,20 +6,6 @@
   },
   {
     "entryId": "tcoeAcademy00000",
-    "pageId": "jRtg3Z1adzTr5xXD",
-    "pageName": "Types of Academies",
-    "path": "name",
-    "source": "Types of Academies"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
-    "pageId": "jRtg3Z1adzTr5xXD",
-    "pageName": "Types of Academies",
-    "path": "text",
-    "source": "<p>Any assemblage of scholars and truth-seekers can function as an academy. Generally, an academy unites a network of learned individuals, allowing them to share their knowledge, further their research, and support common goals. Passing on wisdom to the next generation is part of an academy’s mandate, but members find opportunities to undertake far-flung research expeditions—only so much can be learned in libraries, after all. An academy’s focus can be broad or singular, artistic or scientific, mundane or magical. For every topic with unexplored possibilities, an academy seeks to plumb its depths or elevate its study.</p><p>Roll or pick from the Academy Type table to determine the institution with which you’re aligned.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAcademyTypes]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.MPcXlfdTPMrfN7gj]</p>"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
     "pageId": "wRF8ElVVhTqtJNhR",
     "pageName": "Academy Perks",
     "path": "name",
@@ -999,13 +985,6 @@
   },
   {
     "entryId": "tcoeGroupPatrons",
-    "pageId": "hTd63PiCIQxevcyv",
-    "pageName": "Example Patrons",
-    "path": "text",
-    "source": "<p>Here are some of the most likely patrons for an adventuring group. Presented in alphabetical order, these patrons can serve as inspiration for you to create patrons of your own:</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeAcademy00000]{Academy}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeAncientBeing]{Ancient Being}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeAristocrat00]{Aristocrat}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCriminalSynd]{Criminal Syndicate}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeGuild0000000]{Guild}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeMilitaryForc]{Military Force}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeReligiousOrd]{Religious Order}</p><p>@UUID[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeSovereign000]{Sovereign}</p>"
-  },
-  {
-    "entryId": "tcoeGroupPatrons",
     "pageId": "YqbybRGAsF2g8dB2",
     "pageName": "Overview",
     "path": "name",
@@ -1267,34 +1246,6 @@
     "source": "<p>Your primary duty to a religious order is to further your god’s reach. That obligation ranges from proselytizing or performing religious services to meting out divine punishments or recovering lost relics. Beyond that, the needs of your order vary widely. Your patron relies on your group due to your particular skills or, perhaps, because it’s divine whim.</p><p>The Religious Order Member Roles table suggests positions you might fill in an order and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"ReligiousOrderMemberRoles\" data-content-chunk-id=\"a629da1d-279d-47c3-af1a-a4376d18a389\">Religious Order Member Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Councilor</td><td>Acolyte, Folk Hero, Hermit, Sage, Urchin</td></tr><tr><td>Defender</td><td>Acolyte, Criminal, Folk Hero, Outlander, Soldier</td></tr><tr><td>Ascetic</td><td>Acolyte, Entertainer, Hermit, Sage, Soldier</td></tr><tr><td>Inquisitor</td><td>Acolyte, Criminal, Noble, Sailor, Soldier</td></tr><tr><td>Emissary</td><td>Acolyte, Charlatan, Entertainer, Noble, Sailor</td></tr><tr><td>Chosen One</td><td>Any</td></tr></tbody></table>"
   },
   {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "U1cT1BIiObPwbTAK",
-    "pageName": "Religious Order Perks",
-    "path": "name",
-    "source": "Religious Order Perks"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "U1cT1BIiObPwbTAK",
-    "pageName": "Religious Order Perks",
-    "path": "text",
-    "source": "<p>With a religious order as your group’s patron, you gain the following perks.</p><p><em><strong>Divine Service.</strong></em> In times of need, your group can appeal to the priests of your faith for magical aid. An NPC cleric or druid of your faith who is of sufficiently high level casts any spell of up to 5th level on your group’s behalf, without charge. The caster provides any costly material components needed for the spell, as long as you demonstrate your need and are in good standing with the faith.</p><p><em><strong>Equipment.</strong></em> Each member of your party has a holy symbol or druidic focus, even if it isn’t needed for spellcasting. Each of you also has a book containing prayers, rites, and scriptures of your faith.</p><p><em><strong>Proficiencies.</strong></em> Each member of your party gains proficiency in the &amp;Reference[Religion] skill, if the character doesn’t already have it.</p>"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "ytRzVvpbmqOBCEWU",
-    "pageName": "Types of Religious Orders",
-    "path": "name",
-    "source": "Types of Religious Orders"
-  },
-  {
-    "entryId": "tcoeReligiousOrd",
-    "pageId": "ytRzVvpbmqOBCEWU",
-    "pageName": "Types of Religious Orders",
-    "path": "text",
-    "source": "<p>Not every religious order represents an alliance of worshipers devoted to godly ideals. Perhaps your group is a team of devotees pursuing a cause for your faith, or maybe you’re a bunch of cynics taking advantage of a wealthy congregation. Your collective faith could compel you to hunt evil monsters or stave off otherworldly invasions, to protect the powerless from oppression, or to spread the teachings of your religion in a hostile land. Or perhaps you serve a corrupt hierarchy by making its enemies quietly disappear—though even cynical mercenaries can become true believers when confronted with the miraculous.</p><p>Roll or pick from the Religious Order Types table to determine the type of religious patron you serve.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeReligiousTyp]</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.v53DFGctCNxQU7U9 caption=false]</p>"
-  },
-  {
     "entryId": "tcoeRogue0000000",
     "path": "name",
     "source": "Rogue"
@@ -1397,20 +1348,6 @@
     "pageName": "Sovereign Perks",
     "path": "text",
     "source": "<p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.OmM9b8zoYnfWHpd9 caption=false classes=\"right three\"]</p><p>With the sovereign as your group’s patron, you gain the following perks.</p><p><em><strong>Elite Access.</strong></em> While in service to the sovereign, you have access to the highest echelons of society. With your patron’s permission, you can gain access to the halls of power, from national capitols and military headquarters to noble estates and troves of state secrets. You can also request that the sovereign grant you access to perks of their position, like access to diplomatic receptions or use of the royal guards.</p><p><em><strong>Expenses.</strong></em> Your patron reimburses you for extraordinary expenses incurred as part of your work. You are required to account for your expenses and must explain any extraordinary expenditures, but routine travel, ordinary equipment, and basic services don’t draw a second glance.</p><p><em><strong>Immunity.</strong></em> As long as you remain in the sovereign’s good graces, you are nearly immune to prosecution under the laws within their sphere of influence. When you are carrying out your orders, you have a great deal of leeway in how you choose to go about that, and the law isn’t an obstacle. Committing serious crimes—especially if they are unrelated or unnecessary for the assigned work—is a sure way to fall out of your patron’s good graces, however.</p><p><em><strong>Salary.</strong></em> Your employment under a sovereign patron brings an income of 1 gp per day, or enough to maintain a modest lifestyle. At the DM’s discretion, your salary increases or decreases depending on the sovereign’s nature, the type of work you perform, and the length of your employment.</p>"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "SVyxIPsAuXB8lssY",
-    "pageName": "Types of Sovereign",
-    "path": "name",
-    "source": "Types of Sovereign"
-  },
-  {
-    "entryId": "tcoeSovereign000",
-    "pageId": "SVyxIPsAuXB8lssY",
-    "pageName": "Types of Sovereign",
-    "path": "text",
-    "source": "<p>Broadly defined, a sovereign ranges from the head of a government to the leader of a powerful, private institution. Queens, chieftains, sultans, and rajahs are ready choices for powerful individuals who patronize a party of adventurers. Those on track to become such individuals—such as cunning senators, royal heirs, or influential celebrities—also fill a sovereign’s role. When choosing or creating a sovereign to serve, consider whether that leader commands a government organization or another faction. While this section assumes your patron is the head of a country or other national body, they could oversee a powerful private division, a cult of personality, or an elaborate expedition. Also, consider the scale of your patron’s organization. While serving as spies engaging in international intrigues could lead to world-changing escapades, being fixers for the mayor of a struggling town offers a personal connection to a place and its people.</p><p>Roll or pick from the Sovereign Types table to determine what sort of liege you serve.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeSovereignTyp]</p>"
   },
   {
     "entryId": "tcoeSpellLists00",
@@ -1590,19 +1527,5 @@
     "entryId": "tcoeWizard000000",
     "path": "name",
     "source": "Wizard"
-  },
-  {
-    "entryId": "tcoeWizard000000",
-    "pageId": "2t6WqU4PJhPbOrot",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeWizard000000",
-    "pageId": "2t6WqU4PJhPbOrot",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a wizard. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewizSpells000]{Additional Wizard Spells}</h3><p><em>1st-level wizard feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewizSpells000 caption=false cite=false]</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewizCantripFo]{Cantrip Formulas}</h3><p><em>3rd-level wizard feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoewizCantripFo caption=false cite=false]</p><hr /><p></p>"
   }
 ]
