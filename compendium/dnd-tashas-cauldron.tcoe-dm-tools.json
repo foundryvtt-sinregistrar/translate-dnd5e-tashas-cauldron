@@ -113,6 +113,10 @@
         "0zEIm825mWU4F1yW": {
           "name": "Pruebas para obtener pistas",
           "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=inv dc=15]]. El personaje repara en las palabras «par» e «impar» del verso escrito en el suelo de la sala y cree que guardan relación con las baldosas que faltan.</p><p>[[/check skill=prc dc=10]]. El personaje puede deducir qué baldosas corresponden a cada elemental.</p>"
+        },
+        "tfIrPtRAcvcHdXwO": {
+          "name": "Solución",
+          "text": "<p>El patrón correcto y completo se muestra aquí:</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.Vp6gvBSyrYZQeme9]</p><p>Las losetas impares forman un patrón repetitivo de triángulos abiertos que alternan entre apuntar hacia arriba y hacia abajo. Las losetas 1, 5, 9 y 13 son triángulos orientados hacia arriba, mientras que las losetas 3, 7 y 11 son triángulos orientados hacia abajo.</p><p>Las losetas pares muestran un patrón distinto. Las losetas 2 y 4 apuntan hacia abajo, pero la primera tiene una línea que atraviesa el triángulo. Las losetas 6 y 8 siguen el mismo patrón, aunque sus triángulos apuntan hacia arriba. A continuación, el patrón se repite: las losetas 10 y 12 son iguales que las losetas 2 y 4, y la loseta 14 es igual que la loseta 6.</p><p>Resolver el acertijo o derrotar a los cuatro elementales hace que la puerta de la sala se abra de par en par.</p>"
         }
       }
     },
@@ -214,6 +218,10 @@
         "bbLailwUmMcSJAmg": {
           "name": "Lanzador de conjuros: Prodigio"
         },
+        "eHiQfdr02UMLtTcI": {
+          "name": "Resumen",
+          "text": "<blockquote class=\"tasha\"><p>Mi futuro compañero podría aprender un par de cosas de todo esto. Más material para el Proyecto Humblekainen.</p><p><cite>Tasha</cite></p></blockquote><p>Esta sección ofrece una forma sencilla de añadir al grupo de aventureros un PNJ especial llamado compañero. Estas reglas toman una criatura con un valor de desafío bajo y le conceden niveles en una de tres clases sencillas: experto, lanzador de conjuros o guerrero.</p><p>Un compañero puede incorporarse al grupo desde su formación o unirse a él durante la campaña. Por ejemplo, los personajes podrían conocer a un aldeano, un animal u otra criatura, entablar amistad con ella e invitarla a acompañarlos en sus aventuras.</p><p>También puedes utilizar estas reglas para personalizar un monstruo que quieras usar como DM.</p>"
+        },
         "nRR0hMuorcc5GvEp": {
           "name": "Lanzador de conjuros: Mago"
         },
@@ -231,10 +239,21 @@
         "CBTJvMr5RTXWBvhn": {
           "name": "Solución",
           "text": "<p>Cuando los personajes identifiquen la criatura representada sobre cada cerradura, deben contar las letras de su nombre. La cantidad de letras corresponde al número de dientes de la llave correcta, como muestra la tabla Solución de las llaves esqueléticas.</p><div><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"SkeletonKeysSolution\" data-content-chunk-id=\"6f5ee81d-63f9-4a16-8188-db3f51a6a5c1\">Solución de las llaves esqueléticas</h5></caption><thead><tr><th>Cerradura</th><th>Llave</th></tr></thead><tbody><tr><td>Murciélago</td><td>Tres dientes</td></tr><tr><td>Serpiente</td><td>Cinco dientes</td></tr><tr><td>Araña</td><td>Seis dientes</td></tr><tr><td>Lobo</td><td>Cuatro dientes</td></tr></tbody></table></div>"
+        },
+        "pO1jMySmQkR1poce": {
+          "name": "Personalizar el acertijo",
+          "text": "<p>Los elementos centrales de este acertijo son las cerraduras y las llaves, no el cofre. Puedes adaptarlo fácilmente para que incluya cualquier tipo de cerradura, ya esté instalada en puertas, celdas, libros o alguna barrera más esotérica.</p><p>Además de cambiar la forma de las cerraduras y las llaves, también puedes sustituir las criaturas representadas junto a cada cerradura para adaptarlas a tus aventuras. Ten presente que el número de dientes de cada llave debe coincidir con el número de letras de la sustitución correspondiente y que los personajes deben poder identificar aquello que representes.</p><h2>Aumentar la dificultad</h2><p>En vez de asociar cada cerradura con la imagen concreta de una criatura, puedes presentar un acertijo junto a cada una. La respuesta de cada acertijo debería ser el nombre de la criatura relacionada, lo que permite a los personajes emparejar las respuestas con las llaves correctas.</p>"
         }
       }
     },
-    "tcoeSupernatural": {},
+    "tcoeSupernatural": {
+      "pages": {
+        "7NUhPUfyNWrZIf13": {
+          "name": "Resplandor bendito",
+          "text": "<p>La gracia de los Planos Superiores alcanza esta región. Considera tirar en la tabla Efectos del resplandor bendito cuando se produzca alguna de las siguientes circunstancias en ella:</p><ul><li><p>Una criatura supera una tirada de salvación impuesta por las aptitudes de un infernal o un muerto viviente.</p></li><li><p>Una criatura es objetivo de un conjuro de clérigo o paladín de nivel 3 o superior.</p></li><li><p>Una criatura obtiene un impacto crítico contra un infernal o un muerto viviente.</p></li><li><p>Una criatura experimenta una revelación o un triunfo inspirador al servicio de la rectitud o al desafiar a la maldad.</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.ypoBiTWz94ENgBBm caption=false]</p><h2>Efectos</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBlessedRadia caption=false]</p>"
+        }
+      }
+    },
     "tcoeWhatsOnTheMe": {}
   }
 }

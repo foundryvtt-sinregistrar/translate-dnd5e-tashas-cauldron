@@ -468,20 +468,6 @@
     "source": "<p>The mosaics, statues, and tiles are described below in greater detail.</p><h2>Mosaics</h2><p>The four wall mosaics depict the following:</p><ul><li>A water elemental crashes through a city wall in a huge wave. In the center of the image is a triangle pointing downward.</li><li>An earth elemental looms over a group of warriors. A triangle pointing downward with a horizontal line through it is carved into its chest.</li><li>A fire elemental burns through a forest town. In the center of the flames is a triangle pointing upward.</li><li>An air elemental gusts through a stormy sky. Within the clouds is a triangle pointing upward with a line running horizontally through it.</li></ul><h2>Statues</h2><p>The statues are actual elementals magically bound in stone. The magic that turned these elementals into statues is slowly coming undone, as the tile pattern that binds them has fallen apart.</p><h2>Tiles</h2><p>If the characters don’t replace the four fallen tiles in their proper sequence, all four statues revert to their true forms at the same time and attack the characters. The exact timing of this event is left to you, but the characters should be given enough time to take a crack at solving the puzzle. The characters can also release the elementals individually by putting titles in the wrong order or orientation.</p><p><a>Puzzle handout 6</a> (see below) illustrates the row of tiles set into the wall above the statues. Without a check, the characters realize that four of the tiles fell down when the door slammed shut behind them. With a successful [[/check skill=arc dc=15]] check, a character can determine that these tiles are what keeps the elementals bound.</p><p>If a tile is placed in the wrong place in the row, the corresponding elemental is freed from its stone prison and attacks. Only one of each elemental appears:</p><ul><li>If the improperly placed tile has an open triangle pointing downward, the <a class=\"tooltip-hover monster-tooltip\" href=\"/monsters/17051-water-elemental\" data-tooltip-href=\"//www.dndbeyond.com/monsters/17051-tooltip?disable-webm=1&amp;disable-webm=1\">water elemental</a> is freed.</li><li>If the improperly placed tile has an open triangle pointing upward, the <a class=\"tooltip-hover monster-tooltip\" href=\"/monsters/16861-fire-elemental\" data-tooltip-href=\"//www.dndbeyond.com/monsters/16861-tooltip?disable-webm=1&amp;disable-webm=1\">fire elemental</a> is freed.</li><li>If the improperly placed tile has a triangle pointing upward with a horizontal line running through it, the <a class=\"tooltip-hover monster-tooltip\" href=\"/monsters/16774-air-elemental\" data-tooltip-href=\"//www.dndbeyond.com/monsters/16774-tooltip?disable-webm=1&amp;disable-webm=1\">air elemental</a> is freed.</li><li>If the improperly placed tile has a triangle pointing downward with a horizontal line running through it, the <a class=\"tooltip-hover monster-tooltip\" href=\"/monsters/16853-earth-elemental\" data-tooltip-href=\"//www.dndbeyond.com/monsters/16853-tooltip?disable-webm=1&amp;disable-webm=1\">earth elemental</a> is freed.</li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.EPDtidqhAHJMzKBx caption=false]</p>"
   },
   {
-    "entryId": "tcoeFourElements",
-    "pageId": "tfIrPtRAcvcHdXwO",
-    "pageName": "Solution",
-    "path": "name",
-    "source": "Solution"
-  },
-  {
-    "entryId": "tcoeFourElements",
-    "pageId": "tfIrPtRAcvcHdXwO",
-    "pageName": "Solution",
-    "path": "text",
-    "source": "<p>The correct, complete pattern is shown here:</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.Vp6gvBSyrYZQeme9]</p><p>The odd-numbered tiles form a recurring pattern of open triangles that alternate between pointing up and down. Tiles 1, 5, 9, and 13 are upward-pointing triangles, while tiles 3, 7, and 11 are downward-pointing triangles.</p><p>The even-numbered tiles display a different pattern. Tiles 2 and 4 point downward, but the first of them has a line through the triangle. Tiles 6 and 8 follow the same pattern, but the triangles point up. The pattern then repeats, with tiles 10 and 12 being the same as tiles 2 and 4 and tile 14 being the same as tile 6.</p><p>Solving the puzzle or defeating all four elementals causes the door to the room to swing open.</p>"
-  },
-  {
     "entryId": "tcoeHauntedHallw",
     "path": "name",
     "source": "Haunted Hallway"
@@ -1145,20 +1131,6 @@
   },
   {
     "entryId": "tcoeSidekicks000",
-    "pageId": "eHiQfdr02UMLtTcI",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeSidekicks000",
-    "pageId": "eHiQfdr02UMLtTcI",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<blockquote class=\"tasha\"><p>My soon-to-be sidekick could learn a thing or two from all this—more material for Project Humblekainen.</p><p><cite>Tasha</cite></p></blockquote><p>This section provides a straightforward way to add a special NPC—called a sidekick—to the group of adventurers. These rules take a creature with a low challenge rating and give it levels in one of three simple classes: Expert, Spellcaster, or Warrior.</p><p>A sidekick can be incorporated into a group at the party’s inception, or a sidekick might join them during the campaign. For example, the characters might meet a villager, an animal, or another creature, forge a friendship, and invite the creature to join them on their adventures.</p><p>You can also use these rules to customize a monster for your own use as DM.</p>"
-  },
-  {
-    "entryId": "tcoeSidekicks000",
     "pageId": "JCq7zTMZxaj1uXwI",
     "pageName": "Gaining a Sidekick Class",
     "path": "name",
@@ -1224,20 +1196,6 @@
     "source": "<p><em>Difficulty: Easy</em></p><p>This puzzle presents a quick encounter useful for providing treasure or information. It features a box with four locks.</p><section class=\"fvtt narrative\"><p>You come upon a sinister metal box with an iron lock built into each of its four sides. Each lock sports a keyhole with a sculpted image above it. Four iron keys hang from hooks on a nearby wall, and each key has a different number of teeth. Above the keys, the following verse has been etched into the wall:</p><p></p><p><em>The spells on these locks are all the same.</em></p><p><em>Though each possesses a unique name.</em></p><p><em>Count on your answer to unlock the way,</em></p><p><em>But use the wrong key to your dismay.</em></p></section><p>All four locks must be opened before the box’s contents (whatever they might be) can be accessed.</p>"
   },
   {
-    "entryId": "tcoeSkeletonKeys",
-    "pageId": "pO1jMySmQkR1poce",
-    "pageName": "Customizing the Puzzle",
-    "path": "name",
-    "source": "Customizing the Puzzle"
-  },
-  {
-    "entryId": "tcoeSkeletonKeys",
-    "pageId": "pO1jMySmQkR1poce",
-    "pageName": "Customizing the Puzzle",
-    "path": "text",
-    "source": "<p>The focal parts of this puzzle are the locks and keys, not the chest. You could easily convert this puzzle to feature any types of locks, be they on doors, cells, books, or some more esoteric barrier.</p><p>Beyond the form the locks and keys take, you might also consider adjusting the creatures depicted with each lock to suit your adventures. Just keep in mind that the number of teeth on each key must match the number of letters in your substitutions, and those substitutions should be things the characters can identify.</p><h2>Raising the Difficulty</h2><p>Rather than associating each lock with a particular image of a creature, consider presenting a riddle alongside each lock. The answer to each riddle should be the related creature’s name, allowing characters to match the riddles’ answers to the proper keys.</p>"
-  },
-  {
     "entryId": "tcoeSupernatural",
     "path": "name",
     "source": "Supernatural Regions"
@@ -1246,20 +1204,6 @@
     "entryId": "tcoeSupernatural",
     "path": "folder",
     "source": "Environmental Hazards"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "pageId": "7NUhPUfyNWrZIf13",
-    "pageName": "Blessed Radiance",
-    "path": "name",
-    "source": "Blessed Radiance"
-  },
-  {
-    "entryId": "tcoeSupernatural",
-    "pageId": "7NUhPUfyNWrZIf13",
-    "pageName": "Blessed Radiance",
-    "path": "text",
-    "source": "<p>The grace of the Upper Planes touches this region. Consider rolling on the Blessed Radiance Effects table when the following circumstances occur in the region:</p><ul><li><p>A creature succeeds on a saving throw compelled by the abilities of a fiend or an undead</p></li><li><p>A creature is the target of a cleric or paladin spell of 3rd level or higher</p></li><li><p>A creature scores a critical hit against a fiend or an undead</p></li><li><p>A creature experiences an epiphany or inspiring triumph in the service of righteousness or in defiance of wickedness</p></li></ul><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.ypoBiTWz94ENgBBm caption=false]</p><h2>Effects</h2><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBlessedRadia caption=false]</p>"
   },
   {
     "entryId": "tcoeSupernatural",
