@@ -1,0 +1,30 @@
+{
+  "entries": {
+    "tcoeEyeOfTheBeho": { "pages": {
+      "99ZBXY50Gy5FgclE": { "name": "Solución", "text": "<p>La respuesta a cada acertijo comienza por una letra que indica la dirección del camino que los personajes deben seguir a continuación. Las respuestas trazan la siguiente ruta: este, norte, oeste, norte, este, sur, sur. Este recorrido hace que los personajes atraviesen algunas cámaras más de una vez, algo necesario para que la magia les permita escapar.</p>" }
+    } },
+    "tcoeSkeletonKeys": { "pages": {
+      "ApIYipWxiMphdiyp": { "name": "Pruebas para obtener pistas", "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=nat dc=10]]. El personaje sabe que los conocimientos «naturales» sobre murciélagos, serpientes, arañas y lobos en general no servirán de ayuda aquí.</p><p>[[/check skill=prc dc=10]]. El personaje se da cuenta de que las cabezas con forma de cráneo de todas las llaves son iguales y probablemente no influyen en la solución del rompecabezas.</p>" }
+    } },
+    "tcoeNaturalHazar": { "pages": {
+      "zN6oTqWg8bB5dgaX": { "name": "Caer al agua", "text": "<p>Una criatura que caiga al agua o a otro líquido puede usar su reacción para realizar una prueba de [[/check skill=ath dc=15]] o [[/check skill=acr dc=15]] e impactar contra la superficie de cabeza o con los pies por delante. Si supera la prueba, cualquier daño resultante de la caída se reduce a la mitad.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeCh4ArtHandou.JournalEntryPage.obV3jxdwYjMzI4ql caption=false]</p>" },
+      "3WlLvUyJBc5sL9oi": { "name": "Caer sobre una criatura", "text": "<p>Si una criatura cae en el espacio de otra y ninguna de las dos es Diminuta, la segunda debe superar una tirada de salvación de [[/save dex dc=15]] o recibir el impacto de la criatura que cae; cualquier daño resultante de la caída se divide por igual entre ambas. La criatura golpeada también queda &amp;Reference[prone], salvo que sea al menos dos categorías de tamaño mayor que la criatura que cae.</p>" }
+    } },
+    "tcoeExactChange0": { "pages": {
+      "aqKblHoRUv9JEUzO": { "name": "Solución", "text": "<p>El diagrama 4.5 muestra cómo distribuir las cuarenta y cinco monedas para que cada casilla contenga una cantidad distinta y todas las filas y columnas sumen quince.</p><p>El verso explica que la puerta exige la cantidad de monedas indicada en la casilla central. Al introducir exactamente cinco monedas, la puerta cerrada se abre.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.KqrDPcH6CL5BAzD2]</p>" }
+    } },
+    "tcoeFourByFour00": { "pages": {
+      "f1ldxko8uIbOKnIG": { "name": "Solución", "text": "<p>Los números que identifican cada fila y columna indican cuántos cráneos deben contener. Los personajes deben colocarlos de modo que aparezca la cantidad correcta tanto en las filas como en las columnas y, al mismo tiempo, queden cubiertas cuatro estrellas. El rompecabezas tiene varias soluciones posibles; el diagrama 4.2 muestra una de ellas.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.i8IZOqQPVeOxwaNI]</p>" },
+      "ZTrXX3uSPcFHaxqT": { "name": "Pruebas para obtener pistas", "text": "<p>Los personajes enanos tienen ventaja en las pruebas de característica para obtener pistas en esta sala. Cualquier personaje puede realizar estas pruebas:</p><p>[[/check skill=inv dc=15]]. El verso indica al personaje que cuatro cráneos deben descansar sobre baldosas grabadas con estrellas.</p><p>[[/check skill=ins dc=15]]. Las marcas I, II y III del borde de la cuadrícula probablemente indican cuántos cráneos deben colocarse en esas filas y columnas.</p>" }
+    } },
+    "tcoeRecklessStep": { "pages": {
+      "TXrdxe0LLSysuJj2": { "name": "Pruebas para obtener pistas", "text": "<p>Cualquier personaje puede realizar estas pruebas de característica para recibir una pista:</p><p>[[/check skill=arc dc=10]]. El personaje ve una aparición de una escuela de magia en el suelo.</p><p>[[/check skill=inv dc=10]]. El personaje interpreta la pista del verso de la pared: existen ocho escuelas de magia.</p><p>[[/check skill=prc dc=10]]. Cada personaje que supere esta prueba ve una aparición de la palabra «magia» en el suelo.</p>" }
+    } },
+    "tcoeDungeonMaste": { "pages": {
+      "JHjhkazOVv0VMjAv": { "name": "Más herramientas", "text": "<p>Puedes encontrar detalles sobre @UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeSidekicks000]{Acompañantes}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeParleyingWit]{Parlamentar con monstruos}, @UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoeEnvironmenta]{Peligros ambientales} y @UUID[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzles00000]{Rompecabezas} en sus propias entradas de diario.</p>" }
+    } },
+    "tcoeAllThatGlitt": { "pages": {
+      "wXGR4kwwYzxYLlF2": { "name": "Resumen", "text": "<p><em>Dificultad: media</em></p><p>Esta sala repleta de gemas puede situarse en cualquier mazmorra, finca o edificio con varias habitaciones, y servir tanto de trampa como de lugar donde obtener una recompensa.</p><section class=\"fvtt narrative\"><p>Docenas de gemas cubren el suelo. En medio del tesoro se alza una estatua de mármol con las manos unidas frente a ella. Una placa en su base dice: «Solo un tesoro puede abandonar esta sala. Crúzate con otro y encontrarás tu tumba».</p></section>" }
+    } }
+  }
+}
