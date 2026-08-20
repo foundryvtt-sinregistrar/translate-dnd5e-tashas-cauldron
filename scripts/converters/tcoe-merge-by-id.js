@@ -25,6 +25,27 @@ export const tcoeEffectsById = mergeById;
 export const tcoeAdvancementById = mergeById;
 export const tcoeTableResultsById = mergeById;
 
+export function tcoeJournalPagesById(source, translation) {
+  if (!source || !translation || typeof translation !== "object") return source;
+  const out = foundry.utils.deepClone(source);
+  const pages = Array.isArray(out) ? out : Array.from(out?.contents ?? Object.values(out));
+  for (const page of pages) {
+    const id = page?._id ?? page?.id;
+    const patch = id ? translation[id] : null;
+    if (!patch || typeof patch !== "object") continue;
+    if (typeof patch.name === "string") page.name = patch.name;
+    if (typeof patch.text === "string") {
+      if (typeof page.text === "string") page.text = patch.text;
+      else {
+        page.text ??= {};
+        page.text.content = patch.text;
+        page.text.format ??= 1;
+      }
+    }
+  }
+  return out;
+}
+
 export function tcoeActorItemsById(source, translation) {
   if (!Array.isArray(source) || !translation || typeof translation !== "object") return source;
 

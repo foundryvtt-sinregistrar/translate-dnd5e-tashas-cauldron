@@ -1,1 +1,191 @@
-{"label":"El Caldero de Tasha para Todo","mapping":{"name":"name"},"entries":{}}
+{
+  "label": "El Caldero de Tasha para Todo",
+  "mapping": {
+    "pages": {
+      "path": "pages",
+      "converter": "tcoeJournalPagesById"
+    }
+  },
+  "folders": {
+    "Additional Rules & References": "Additional Rules & References",
+    "Character Options": "Character Options",
+    "Classes & Subclasses": "Classes & Subclasses",
+    "Example Patrons": "Example Patrons",
+    "Group Patrons": "Group Patrons",
+    "Magical Miscellany": "Magical Miscellany"
+  },
+  "entries": {
+    "tcoeAcademy00000": {},
+    "tcoeAdditionalRu": {},
+    "tcoeAncientBeing": {},
+    "tcoeAristocrat00": {},
+    "tcoeArtificer000": {
+      "name": "Artífice",
+      "pages": {
+        "D4HiVlSX3VkEDjW0": {
+          "name": "Armero"
+        },
+        "Mq3cIPPCWXQLgkN3": {
+          "name": "Alquimista"
+        },
+        "NPnjymJbcauW9aIf": {
+          "name": "Artillero"
+        }
+      }
+    },
+    "tcoeBarbarian000": {
+      "pages": {
+        "vMPC6wxO9BJUyxdZ": {
+          "name": "Senda de la Bestia"
+        }
+      }
+    },
+    "tcoeBard00000000": {
+      "pages": {
+        "DMRsw9mF6eOpO7Xc": {
+          "name": "Colegio de la Creación"
+        },
+        "rCydMQ9dleMyXby1": {
+          "name": "Colegio de la Elocuencia"
+        }
+      }
+    },
+    "tcoeCh1ArtHandou": {
+      "pages": {
+        "Cn0cErlgKiuJOr33": {
+          "name": "Artífice"
+        },
+        "wk1PFJTEbobAgdrD": {
+          "name": "Adepto Arcano"
+        }
+      }
+    },
+    "tcoeCh2ArtHandou": {},
+    "tcoeCh3ArtHandou": {
+      "pages": {
+        "2p0syMyKUGyjMi2j": {
+          "name": "Fortaleza del intelecto"
+        },
+        "ApBcbybCXS1QUM0i": {
+          "name": "Invocar celestial"
+        },
+        "OcUV9YSShnxfXJ4V": {
+          "name": "Latigazo mental de Tasha"
+        },
+        "R7OvJjcOElbyfTNr": {
+          "name": "Invocar engendro sombrío"
+        },
+        "V1uDO3Uln2xSvfUn": {
+          "name": "Astilla Mental"
+        }
+      }
+    },
+    "tcoeChangelog000": {},
+    "tcoeCleric000000": {
+      "pages": {
+        "1Tiz5GJn7aP4531T": {
+          "name": "Dominio de la Paz"
+        },
+        "e3iYfFD3PIXhXi2P": {
+          "name": "Dominio del Orden"
+        },
+        "Lhm3GpFBlbvWTcfX": {
+          "name": "Dominio del Crepúsculo"
+        }
+      }
+    },
+    "tcoeCredits00000": {},
+    "tcoeCriminalSynd": {},
+    "tcoeDisclaimer00": {},
+    "tcoeDruid0000000": {
+      "pages": {
+        "o29S5QNjHD6BbnRR": {
+          "name": "Círculo de las Estrellas"
+        }
+      }
+    },
+    "tcoeFeats0000000": {},
+    "tcoeFighter00000": {},
+    "tcoeFirearmRules": {},
+    "tcoeGettingStart": {},
+    "tcoeGroupPatrons": {},
+    "tcoeGuild0000000": {},
+    "tcoeMagicalMisce": {},
+    "tcoeMagicItems00": {},
+    "tcoeMagicTattoos": {
+      "pages": {
+        "X1JTXrJ119g1TNEQ": {
+          "name": "Tatuaje hechizado"
+        }
+      }
+    },
+    "tcoeMilitaryForc": {},
+    "tcoeMonk00000000": {
+      "pages": {
+        "29gDgmr3txtYVbKZ": {
+          "name": "Senda del Ser Astral"
+        },
+        "ODdT12kwR2SuEe6u": {
+          "name": "Senda de la Misericordia"
+        }
+      }
+    },
+    "tcoePaladin00000": {
+      "pages": {
+        "e0zaT4rFGgaRQ1JQ": {
+          "name": "Juramento de Gloria"
+        },
+        "xXp7IBzyStv39tqa": {
+          "name": "Juramento de los Vigilantes"
+        }
+      }
+    },
+    "tcoeRanger000000": {},
+    "tcoeReligiousOrd": {},
+    "tcoeRogue0000000": {
+      "pages": {
+        "EoDtYN3cTv9ZxUhL": {
+          "name": "Fantasma"
+        }
+      }
+    },
+    "tcoeSocialIntera": {},
+    "tcoeSorcerer0000": {
+      "pages": {
+        "ARhekFrVkOMpbkeI": {
+          "name": "Mente aberrante"
+        },
+        "k2b4DdClH0G470Ro": {
+          "name": "Alma mecánica"
+        }
+      }
+    },
+    "tcoeSovereign000": {},
+    "tcoeSpellLists00": {
+      "pages": {
+        "btQIVPtSLQewCrTZ": {
+          "name": "Artífice"
+        }
+      }
+    },
+    "tcoeSpells000000": {},
+    "tcoeUsingThisBoo": {},
+    "tcoeWarlock00000": {
+      "pages": {
+        "oaxo3ds1hUqevNhv": {
+          "name": "El Genio"
+        },
+        "veb15z5wfYwmWsOT": {
+          "name": "Lo Insondable"
+        }
+      }
+    },
+    "tcoeWizard000000": {
+      "pages": {
+        "XIL1zIxzKXw2Oc3f": {
+          "name": "Orden de los Escribas"
+        }
+      }
+    }
+  }
+}
