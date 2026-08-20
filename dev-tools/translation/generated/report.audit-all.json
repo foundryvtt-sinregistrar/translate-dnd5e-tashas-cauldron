@@ -1,0 +1,92 @@
+{
+  "status": "passed",
+  "module": "translate-dnd5e-tashas-cauldron",
+  "moduleVersion": "0.1.0",
+  "foundryCompatibility": {
+    "minimum": "14",
+    "verified": "14.363"
+  },
+  "packsAudited": 7,
+  "packReports": [
+    {
+      "pack": "dnd-tashas-cauldron.tcoe-actors",
+      "sourceEntries": 152,
+      "outputEntries": 152,
+      "missingEntries": 0,
+      "extraEntries": 0,
+      "missingPages": 0,
+      "extraPages": 0,
+      "mojibakeFields": 0
+    },
+    {
+      "pack": "dnd-tashas-cauldron.tcoe-character-options",
+      "sourceEntries": 407,
+      "outputEntries": 407,
+      "missingEntries": 0,
+      "extraEntries": 0,
+      "missingPages": 0,
+      "extraPages": 0,
+      "mojibakeFields": 0
+    },
+    {
+      "pack": "dnd-tashas-cauldron.tcoe-magic-items",
+      "sourceEntries": 143,
+      "outputEntries": 143,
+      "missingEntries": 0,
+      "extraEntries": 0,
+      "missingPages": 0,
+      "extraPages": 0,
+      "mojibakeFields": 0
+    },
+    {
+      "pack": "dnd-tashas-cauldron.tcoe-tables",
+      "sourceEntries": 71,
+      "outputEntries": 71,
+      "missingEntries": 0,
+      "extraEntries": 0,
+      "missingPages": 0,
+      "extraPages": 0,
+      "mojibakeFields": 0
+    },
+    {
+      "pack": "dnd-tashas-cauldron.tcoe-content",
+      "sourceEntries": 39,
+      "outputEntries": 39,
+      "missingEntries": 0,
+      "extraEntries": 0,
+      "missingPages": 0,
+      "extraPages": 0,
+      "mojibakeFields": 0
+    },
+    {
+      "pack": "dnd-tashas-cauldron.tcoe-dm-tools",
+      "sourceEntries": 23,
+      "outputEntries": 23,
+      "missingEntries": 0,
+      "extraEntries": 0,
+      "missingPages": 0,
+      "extraPages": 0,
+      "mojibakeFields": 0
+    },
+    {
+      "pack": "dnd-tashas-cauldron.tcoe-scenes",
+      "sourceEntries": 2,
+      "outputEntries": 2,
+      "missingEntries": 0,
+      "extraEntries": 0,
+      "missingPages": 0,
+      "extraPages": 0,
+      "mojibakeFields": 0
+    }
+  ],
+  "internalReferencesChecked": 1386,
+  "brokenInternalReferences": 0,
+  "pendingFields": {
+    "content": 0,
+    "dm-tools": 0,
+    "magic-items": 0,
+    "tables": 0
+  },
+  "declaredModuleFilesChecked": 4,
+  "issues": []
+}
