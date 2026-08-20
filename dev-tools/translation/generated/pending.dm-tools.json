@@ -396,30 +396,6 @@
     "source": "Puzzles"
   },
   {
-    "entryId": "tcoeNaturalHazar",
-    "path": "name",
-    "source": "Natural Hazards"
-  },
-  {
-    "entryId": "tcoeNaturalHazar",
-    "path": "folder",
-    "source": "Environmental Hazards"
-  },
-  {
-    "entryId": "tcoeNaturalHazar",
-    "pageId": "1tYHbOoGIqcpBbK7",
-    "pageName": "Spell Equivalents of Natural Hazards",
-    "path": "name",
-    "source": "Spell Equivalents of Natural Hazards"
-  },
-  {
-    "entryId": "tcoeNaturalHazar",
-    "pageId": "1tYHbOoGIqcpBbK7",
-    "pageName": "Spell Equivalents of Natural Hazards",
-    "path": "text",
-    "source": "<p>Numerous spells emulate the wrath of nature, and you can use spell effects to represent a variety of natural hazards. The Spells as Natural Hazards table presents some common environmental dangers and the spells you may use to approximate them.</p><table><thead><tr><th><p>Natural Hazard</p></th><th><p>Approximate Spell</p></th></tr></thead><tbody><tr><td><p>Ball lightning</p></td><td><p>Chromatic orb</p></td></tr><tr><td><p>Blizzard</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.RpKjTlYASrfqUPVA]{Cone of cold}, @UUID[Compendium.dnd5e.spells.Item.WN2LWEljYU6QqnRH]{ice storm}, @UUID[Compendium.dnd5e.spells.Item.dhqBY4TvVjxVmOZd]{sleet storm}</p></td></tr><tr><td><p>Earthquake</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.x5JNBSyIBBZsjcGT]{Earthquake}</p></td></tr><tr><td><p>Falling debris</p></td><td><p>Conjure barrage, conjure volley</p></td></tr><tr><td><p>Flood</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.7fFHlBk3UNX8gPKL]{Control water}, tsunami</p></td></tr><tr><td><p>Fog</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.IBJmWjzbQGu7M4UX]{Fog cloud}</p></td></tr><tr><td><p>Lava bomb</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Fireball}, @UUID[Compendium.dnd5e.spells.Item.eCPQuQkIabFKTl9u]{produce flame}</p></td></tr><tr><td><p>Lightning</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.ehvmg9U9fcMEhE4z]{Call lightning}, @UUID[Compendium.dnd5e.spells.Item.IyikgTEOTv701jgQ]{lightning bolt}</p></td></tr><tr><td><p>Meteor</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{Fireball}, @UUID[Compendium.dnd5e.spells.Item.mF52ldF79Cr7wfQo]{meteor swarm}</p></td></tr><tr><td><p>Mirage</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.sTIkQK7KuQNOyY0C]{Hallucinatory terrain}</p></td></tr><tr><td><p>Pyroclastic flow</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.pV04y1iXoWiom6bp]{Incendiary cloud}</p></td></tr><tr><td><p>Radiation</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.pybg5MNc3lkerH4Y]{Blight}, @UUID[Compendium.dnd5e.spells.Item.KeunEkg1JYbOCOhV]{circle of death}</p></td></tr><tr><td><p>Smoke</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.IBJmWjzbQGu7M4UX]{Fog cloud}</p></td></tr><tr><td><p>St. Elmo’s fire</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.nqBDWkVOfcGZt4YU]{Faerie fire}</p></td></tr><tr><td><p>Swamp gas</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.CAxSzHWizrafT033]{Dancing lights}</p></td></tr><tr><td><p>Tidal wave</p></td><td><p>Tsunami</p></td></tr><tr><td><p>Toxic eruption</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.JLTQyqXEaJDrTXyW]{Acid splash}</p></td></tr><tr><td><p>Toxic gas</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.LkvI11Uue774QBKZ]{Cloudkill}, @UUID[Compendium.dnd5e.spells.Item.TwlD4PLcltv7Xh7j]{stinking cloud}</p></td></tr><tr><td><p>Thunder</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.WTbOQBsarsL1LuXJ]{Thunderwave}</p></td></tr><tr><td><p>Volcanic lightning</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.7KjExw0kmuqERa7C]{Storm of vengeance}</p></td></tr><tr><td><p>Whirlpool</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.7fFHlBk3UNX8gPKL]{Control water}</p></td></tr><tr><td><p>Wildfire</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.J3uILDYS7MiOfmTJ]{Fire storm}, @UUID[Compendium.dnd5e.spells.Item.X3DrXgxjwI2dvkD6]{wall of fire}</p></td></tr><tr><td><p>Windstorm</p></td><td><p>@UUID[Compendium.dnd5e.spells.Item.FSMy6VAjDnXY9vWz]{Gust of wind}</p></td></tr></tbody></table>"
-  },
-  {
     "entryId": "tcoeParleyingWit",
     "path": "name",
     "source": "Parleying with Monsters"
