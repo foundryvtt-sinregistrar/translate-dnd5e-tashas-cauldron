@@ -19,20 +19,6 @@
     "source": "<p>With an academy as your group’s patron, you gain the following perks.</p><p><em><strong>Compensation.</strong></em> The academy pays for the work you do on its behalf. The nature of your employment influences your compensation. On average, the academy pays each member of your group 1 gp per day, or enough to sustain a modest lifestyle. Alternatively, you receive a bounty (at least 250 gp) for each artifact or relevant discovery you bring back from your adventures and donate to the academy.</p><p><em><strong>Documentation.</strong></em> Each member of your group has identification denoting your affiliation with the academy. This association carries clout in scholarly or artistic circles. The academy also secures documentation, letters of introduction, and traveling papers if your work requires them. Such documents grant you special status, such as access to forbidden regions or neutral standing in embattled areas. Such identification isn’t always a boon, though. In a land frequently plundered by foreigners, your documents could mark you as nothing more than aggrandized looters to some.</p><p><em><strong>Research.</strong></em> Research is part of your group’s job, but your patron also has abundant resources to facilitate such efforts. You can call in a favor to delegate the work of @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.WTgThIDXBP3BhTJK#researching]{researching lore} to a colleague, contact, librarian, or research assistant. You’re responsible for covering expenses incurred as part of this research, and the DM determines its success or failure.</p><p><em><strong>Resources.</strong></em> Academies host libraries, museums, record repositories, and training facilities, and you can use them to further your work. You can call in a favor from faculty members to access resources not available to the public—dangerous relics or magic items, spellbooks, gear, and the like. Additionally, you can consult with the faculty of your academy as the experts in various fields.</p><p><em><strong>Training.</strong></em> Because you’re associated with the academy, you receive a discount on any education you wish to pursue. When you undergo @UUID[Compendium.dnd5e.rules.JournalEntry.aYmUMcQfSIqYWpKk.JournalEntryPage.WTgThIDXBP3BhTJK#training]{training} as a downtime activity, you pay half the normal cost, assuming the academy teaches that subject. Training in languages, musical instruments, and other tools is also available, at the DM’s discretion. In addition, you can gain proficiency in the &amp;Reference[Arcana], &amp;Reference[History], &amp;Reference[Nature], or &amp;Reference[Religion] skills by this method, as if you were learning a language. A character can learn only one of these skills in this way.</p>"
   },
   {
-    "entryId": "tcoeAcademy00000",
-    "pageId": "Z95khaGo4WvDGqPp",
-    "pageName": "Academy Factotums",
-    "path": "name",
-    "source": "Academy Factotums"
-  },
-  {
-    "entryId": "tcoeAcademy00000",
-    "pageId": "Z95khaGo4WvDGqPp",
-    "pageName": "Academy Factotums",
-    "path": "text",
-    "source": "<p>If you have an academy as your patron, you are likely engaged in a scholarly pursuit or support someone who is. Consider being a promising student or a new member of the faculty. While you have a modest course load that you handle behind the scenes (or using any of a variety of downtime activities), your primary interests involve aiding your contact in their research. Alternatively, you might work to further the academy’s efforts in another way, perhaps related to security or funding.</p><p>The Academy Factotum Roles table provides suggestions for functions you perform within an academy and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"AcademyFactotumRoles\" data-content-chunk-id=\"08ddc860-8ea3-430b-87d0-aebc5274da0d\">Academy Factotum Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Student</td><td>Acolyte, Guild Artisan, Noble, Outlander, Sage, Urchin</td></tr><tr><td>Groundskeeper</td><td>Charlatan, Hermit, Outlander, Soldier, Urchin</td></tr><tr><td>Professor</td><td>Acolyte, Entertainer, Folk Hero, Noble, Sage</td></tr><tr><td>Researcher</td><td>Acolyte, Charlatan, Guild Artisan, Hermit, Sage</td></tr><tr><td>Financier</td><td>Charlatan, Criminal, Noble, Sailor, Urchin</td></tr><tr><td>Expert Speaker</td><td>Any</td></tr></tbody></table>"
-  },
-  {
     "entryId": "tcoeAncientBeing",
     "path": "name",
     "source": "Ancient Being"
@@ -50,20 +36,6 @@
     "pageName": "Ancient Being Perks",
     "path": "text",
     "source": "<p>With the ancient being as your group’s patron, you gain the following perks.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh2ArtHandou.JournalEntryPage.YBWMpgQm17YR92hp caption=false classes=\"right three\"]</p><p><em><strong>Equipment.</strong></em> Your patron’s network has access to certain magic items. You can purchase common magic items from your patron contact. The DM determines the available stock or can call for a group [[/check skill=inv]] check to ascertain if the ancient being’s network can successfully locate a desired item. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, 1d8 days must pass before the same item can be searched for again in that community.</p><p>The DM sets the price of a common magic item or determines it randomly: 2d4 × 10 gp, or half as much for a consumable item such as a potion or scroll.</p><p><em><strong>Research.</strong></em> Relying on an ancient being’s network of contacts, the being’s vast collection of lore, or perhaps the being’s direct teaching helps you unearth hidden secrets. If you can contact your patron or their agents, your group makes ability checks made to research lore related to your patron’s interests and influence with advantage.</p><p><em><strong>Sanctuary.</strong></em> Your patron’s agents have safe houses or other secure gatherings spread across a wide region. Your group knows how to locate these friendly enclaves and can maintain a modest lifestyle in one for no cost. In return, you must defend the sanctuary or protect the secret of its existence.</p><p><em><strong>Strange Gifts.</strong></em> Your patron grants your group a small measure of esoteric power. At 5th level, and again at 13th, you gain one supernatural gift as described in the treasure chapter of the Dungeon Master's Guide. The DM determines which supernatural gifts are available.</p>"
-  },
-  {
-    "entryId": "tcoeAncientBeing",
-    "pageId": "tNw849BUxgswNTbW",
-    "pageName": "Ancient Being Operatives",
-    "path": "name",
-    "source": "Ancient Being Operatives"
-  },
-  {
-    "entryId": "tcoeAncientBeing",
-    "pageId": "tNw849BUxgswNTbW",
-    "pageName": "Ancient Being Operatives",
-    "path": "text",
-    "source": "<p>Consider the overarching goals of your group’s ancient being patron when determining who they recruit as agents. In what arenas does that being likely hold sway? A powerful lich recruits other ambitious spellcasters, as well as skilled warriors to serve as bodyguards. A dragon values socially adept agents and those who influence society’s decision-makers. Consider how your capabilities and interests align directly with those of the ancient being, or how you unwittingly fell into the patron’s service.</p><p>The Ancient Being Operative Roles table suggests a variety of parts you can play within an ancient being’s schemes and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"AncientBeingOperativeRoles\" data-content-chunk-id=\"dabb631f-4132-43b9-8ef3-6eeb09e81d87\">Ancient Being Operative Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Devotee</td><td>Acolyte, Hermit, Noble, Outlander, Sage</td></tr><tr><td>Infiltrator</td><td>Charlatan, Criminal, Hermit, Soldier, Urchin</td></tr><tr><td>Mouthpiece</td><td>Charlatan, Entertainer, Folk Hero, Hermit, Sage</td></tr><tr><td>Pupil</td><td>Acolyte, Entertainer, Folk Hero, Guild Artisan, Sage</td></tr><tr><td>Guardian</td><td>Acolyte, Folk Hero, Hermit, Outlander, Soldier</td></tr><tr><td>Offspring</td><td>Any</td></tr></tbody></table>"
   },
   {
     "entryId": "tcoeAristocrat00",
@@ -749,20 +721,6 @@
     "source": "Druid"
   },
   {
-    "entryId": "tcoeDruid0000000",
-    "pageId": "yfhCEAWdCEwPls33",
-    "pageName": "Optional Class Features",
-    "path": "name",
-    "source": "Optional Class Features"
-  },
-  {
-    "entryId": "tcoeDruid0000000",
-    "pageId": "yfhCEAWdCEwPls33",
-    "pageName": "Optional Class Features",
-    "path": "text",
-    "source": "<p>You gain class features in the Player’s Handbook when you reach certain levels in your class. This section offers additional features that you can gain as a druid. Unlike the features in the Player’s Handbook, you don’t gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature’s description. These features can be selected separately from one another; you can use some, all, or none of them.</p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoedruSpells000]{Additional Druid Spells}</h3><p><em>1st-level druid feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoedruSpells000 caption=false cite=false]</p><hr /><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-content.JournalEntry.tcoeCh1ArtHandou.JournalEntryPage.2pcj4JvZ8ewOlqA4 classes=\"right three\" caption=false]</p><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoedruWildCompa]{Wild Companion}</h3><p><em>2nd-level druid feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoedruWildCompa caption=false cite=false]</p><p></p><hr /><h3>@UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoedruCantripVe]{Cantrip Versatility}</h3><p><em>4th-level druid feature</em></p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoedruCantripVe caption=false cite=false]</p>"
-  },
-  {
     "entryId": "tcoeFeats0000000",
     "path": "name",
     "source": "Feats"
@@ -889,20 +847,6 @@
     "entryId": "tcoeGuild0000000",
     "path": "name",
     "source": "Guild"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "dJ6dgGzWaWwy6NOk",
-    "pageName": "Guild Representatives",
-    "path": "name",
-    "source": "Guild Representatives"
-  },
-  {
-    "entryId": "tcoeGuild0000000",
-    "pageId": "dJ6dgGzWaWwy6NOk",
-    "pageName": "Guild Representatives",
-    "path": "text",
-    "source": "<p>As a guild member, you might be a professional who works directly toward the guild’s specialty or whose fortunes align with the guild’s interests. Alternatively, you could provide the guild with services to which their members aren’t suited. For example, guards, explorers, negotiators, and spies can be useful to a guild, whether its interests lie in trade goods, entertainment, or more questionable ventures. Whether a guild operates entirely within the law and how public its interests are also influences which of your skills it deems most valuable.</p><p>The Guild Representative Roles table suggests positions you might fill in a guild and the backgrounds frequently associated with each role.</p><table><caption><h5 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"GuildRepresentativeRoles\" data-content-chunk-id=\"38c73c34-79c7-4a36-a3bc-b7f13d439690\">Guild Representative Roles</h5></caption><thead><tr><th>Role</th><th>Backgrounds</th></tr></thead><tbody><tr><td>Researcher</td><td>Acolyte, Entertainer, Guild Artisan, Sage</td></tr><tr><td>Negotiator</td><td>Charlatan, Entertainer, Guild Artisan, Noble, Sailor</td></tr><tr><td>Saboteur</td><td>Charlatan, Criminal, Guild Artisan, Soldier, Urchin</td></tr><tr><td>Guard</td><td>Criminal, Folk Hero, Outlander, Sailor, Soldier</td></tr><tr><td>Explorer</td><td>Acolyte, Folk Hero, Guild Artisan, Outlander, Sailor</td></tr><tr><td>Expert</td><td>Any</td></tr></tbody></table>"
   },
   {
     "entryId": "tcoeGuild0000000",
