@@ -242,20 +242,6 @@
   },
   {
     "entryId": "tcoeDungeonMaste",
-    "pageId": "g4HHhmgp9PfLLkdS",
-    "pageName": "Game Customization",
-    "path": "name",
-    "source": "Game Customization"
-  },
-  {
-    "entryId": "tcoeDungeonMaste",
-    "pageId": "g4HHhmgp9PfLLkdS",
-    "pageName": "Game Customization",
-    "path": "text",
-    "source": "<p>In addition to shaping the game around the characters in the adventuring party, you should be prepared to customize the game to suit the players’ tastes. The “Know Your Players” section in the introduction of the Dungeon Master’s Guide provides some guidance for doing so, based on known player archetypes. To help identify what types of players are in the group, you can ask each player any or all of the following questions:</p><ul><li><p>Which of the three pillars of adventuring (combat, exploration, roleplaying) interest you the most?</p></li><li><p>How much humor do you like in the game?</p></li><li><p>What level of technology do you prefer?</p></li><li><p>Do you enjoy solving in-game puzzles and riddles?</p></li><li><p>Do you like to track experience points, or would you rather have your character advance in level when I tell you to?</p></li></ul><h2>House Rules</h2><p>House rules include optional rules, such as those presented in chapter 9 of the Dungeon Master’s Guide, and rules you create. If you plan to use any house rules, session zero is a good time to discuss those rules with the players and solicit their input.</p><p>House rules are best presented as experiments, and time will tell if they’re good for your game. If you introduce a house rule in session zero that turns out to have an adverse effect on people’s enjoyment of the game, you may jettison or revise the house rule to create a better gaming experience for everyone. Don’t feel bad if a house rule doesn’t end up working as well as you expected it to. Remember: the goal is to ensure everyone is having fun.</p>"
-  },
-  {
-    "entryId": "tcoeDungeonMaste",
     "pageId": "zldfCMV24jvdQ4nZ",
     "pageName": "Character and Party Creation",
     "path": "name",
@@ -392,20 +378,6 @@
     "pageName": "Puzzle Features",
     "path": "text",
     "source": "<p>Dolora can’t leave the hall and avoids the alcoves.</p><h2>Alcoves</h2><p>The hall is lined with six alcoves, each one with a unique numeral between 1 and 6 carved above it. A verse scratched into the back wall of each alcove is made visible by the candlelight. Each verse is presented below, accompanied by a parenthetical explanation that shouldn’t be shared with the players or their characters:</p><p><strong>Verse 1.</strong> “Not his keeper, nor he mine; loved and hated at the same time.” (This refers to Dolora’s brother, whose name was Sam.)</p><p><strong>Verse 2.</strong> “My first vision: her hazel eyes. My first sound: her lullabies.” (This refers to Dolora’s mother, whose name was Delia.)</p><p><strong>Verse 3.</strong> “Her lives she lost, all three by three, and through the dark this hunter sees.” (This refers to Dolora’s cat, whose name was Fifi.)</p><p><strong>Verse 4.</strong> “Lines in his face of life lived long; stories were his paternal song.” (This refers to Dolora’s grandfather, whose name was Tobias.)</p><p><strong>Verse 5.</strong> “Mentor and guide, her lessons learned. Knowledge measured by letters I earned.” (This refers to Dolora’s teacher, whose name was Johana.)</p><p><strong>Verse 6.</strong> “Loved to eat hay, just as her friends did; lived in one room with a shoat and a kid.” (This refers to Dolora’s horse, whose name was Alexia.)</p><p>Each verse describes someone who was close to Dolora. Once the characters determine who a verse is talking about, they may ask Dolora to provide the correct name. For example, “What is your cat’s name?” is a valid question for verse 3. The spirit then answers, “Fifi,” and she spells it aloud.</p><h2>Candles</h2><p>Each candle is a simple, 6-inch-tall wax taper. While in this hall, the candles never melt down and can’t be extinguished.</p><h2>Rag Doll</h2><p>If the characters examine the rag doll or ask Dolora about it, she imparts the following information:</p><section class=\"fvtt-relative\"><section class=\"fvtt narrative\"><p>“My doll knows all six—the first for the first, the second for the second, the third for the third, the fourth for the fourth, the fifth for the fifth, and the sixth for the sixth.”</p></section></section>"
-  },
-  {
-    "entryId": "tcoeHauntedHallw",
-    "pageId": "lrl3MJ7tbFJXYE7p",
-    "pageName": "Overview",
-    "path": "name",
-    "source": "Overview"
-  },
-  {
-    "entryId": "tcoeHauntedHallw",
-    "pageId": "lrl3MJ7tbFJXYE7p",
-    "pageName": "Overview",
-    "path": "text",
-    "source": "<p><em>Difficulty: Hard</em></p><p>Many unquiet spirits linger in the world because they can’t bear to leave something behind. In this puzzle, finding the solution also means helping a lost soul find peace.</p><section class=\"fvtt narrative\"><p>Six alcoves line this hall, each one numbered from one to six. On the floor of each alcove, a lit candle gently flickers.</p><p>From the hall’s far end drifts a low moan. There, barely visible, sobs the apparition of a small girl hovering over a discarded rag doll. “Names, names,” she cries. “I can remember them all except the one I need.”</p></section><p>The spirit, Dolora, is a harmless apparition who won’t engage the party in combat. If threatened, she vanishes and reappears at the opposite end of the hall, sobbing anew.</p><p>@Embed[Compendium.dnd-tashas-cauldron.tcoe-dm-tools.JournalEntry.tcoePuzzleArtHan.JournalEntryPage.zWpyIeRp3JH4WHR5 caption=false classes=\"right three\"]</p><p>If approached with compassion, Dolora bemoans the fact that she can’t pick up her doll until she speaks its name, which she has forgotten. She refuses to leave this place without the doll.</p><p>Dolora, who only recalls fragmented memories of her life, can’t answer many questions. This is particularly true about the messages associated with the alcoves in the hall (see “Alcoves” later in this section). While Dolora can’t answer vague questions about the candles’ clues (such as “Who is this talking about?”), she can provide the names of individuals when prompted. For example, if a character asks directly, “What was your mother’s name?” Dolora provides the correct response. She also spells out the name, which is a clue that the spelling is important.</p>"
   },
   {
     "entryId": "tcoeIllusiveIsla",
@@ -545,34 +517,6 @@
     "entryId": "tcoeParleyingWit",
     "path": "name",
     "source": "Parleying with Monsters"
-  },
-  {
-    "entryId": "tcoeParleyingWit",
-    "pageId": "oURH6xvcpJERiWdZ",
-    "pageName": "Monsters' Desires",
-    "path": "name",
-    "source": "Monsters' Desires"
-  },
-  {
-    "entryId": "tcoeParleyingWit",
-    "pageId": "oURH6xvcpJERiWdZ",
-    "pageName": "Monsters' Desires",
-    "path": "text",
-    "source": "<h2>Aberrations</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeAberrationDe caption=false]</p><h2>Beasts</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeBeastDesires caption=false]</p><h2>Celestials</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeCelestialDes caption=false]</p><h2>Constructs</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeConstructDes caption=false]</p><h2>Dragons</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeDragonDesire caption=false]</p><h2>Elementals</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeElementalDes caption=false]</p><h2>Fey</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeFeyDesires00 caption=false]</p><h2>Fiends</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeFiendDesires caption=false]</p><h2>Giants</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeGiantDesires caption=false]</p><h2>Humanoids</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeHumanoidDesi caption=false]</p><h2>Monstrosities</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeMonstrosityD caption=false]</p><h2>Oozes</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeOozeDesires0 caption=false]</p><h2>Plants</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoePlantDesires caption=false]</p><h2>Undead</h2><p>@embed[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeUndeadDesire caption=false]</p>"
-  },
-  {
-    "entryId": "tcoeParleyingWit",
-    "pageId": "ryTTV4Ng6ZdvrD6W",
-    "pageName": "Monster Research",
-    "path": "name",
-    "source": "Monster Research"
-  },
-  {
-    "entryId": "tcoeParleyingWit",
-    "pageId": "ryTTV4Ng6ZdvrD6W",
-    "pageName": "Monster Research",
-    "path": "text",
-    "source": "<p>Adventurers can research what a creature is likely to desire. The Monster Research table suggests which skills can be used to learn about a creature of a particular type. The DC for a relevant ability check equals 10 + the creature’s challenge rating.</p><p>Adventurers can research what a creature is likely to desire. The Monster Research table suggests which skills can be used to learn about a creature of a particular type. The DC for a relevant ability check equals 10 + the creature’s challenge rating.</p><table><caption><h4 class=\"compendium-hr quick-menu-exclude heading-anchor\" id=\"MonsterResearchTable\" data-content-chunk-id=\"ddc9608a-4fd9-423e-9336-144c2f4cb696\">Monster Research</h4></caption><thead><tr><th>Type</th><th>Suggested Skills</th></tr></thead><tbody><tr><td>Aberration</td><td>&amp;Reference[Arcana]</td></tr><tr><td>Beast</td><td>&amp;Reference[animal-handling], &amp;Reference[Nature], or &amp;Reference[Survival]</td></tr><tr><td>Celestial</td><td>&amp;Reference[Arcana] or &amp;Reference[Religion]</td></tr><tr><td>Construct</td><td>&amp;Reference[Arcana]</td></tr><tr><td>Dragon</td><td>&amp;Reference[Arcana], &amp;Reference[History], or &amp;Reference[Nature]</td></tr><tr><td>Elemental</td><td>&amp;Reference[Arcana] or &amp;Reference[Nature]</td></tr><tr><td>Fey</td><td>&amp;Reference[Arcana] or &amp;Reference[Nature]</td></tr><tr><td>Fiend</td><td>&amp;Reference[Arcana] or &amp;Reference[Religion]</td></tr><tr><td>Giant</td><td>&amp;Reference[History]</td></tr><tr><td>Humanoid</td><td>&amp;Reference[History]</td></tr><tr><td>Monstrosity</td><td>&amp;Reference[Nature] or &amp;Reference[Survival]</td></tr><tr><td>Ooze</td><td>&amp;Reference[Arcana] or &amp;Reference[Survival]</td></tr><tr><td>Plant</td><td>&amp;Reference[Nature] or &amp;Reference[Survival]</td></tr><tr><td>Undead</td><td>&amp;Reference[Arcana] or &amp;Reference[Religion]</td></tr></tbody></table>"
   },
   {
     "entryId": "tcoePuzzleArtHan",
