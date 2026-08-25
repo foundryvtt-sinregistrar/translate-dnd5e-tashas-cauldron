@@ -1,1 +1,2427 @@
-{"label":"Tablas de Tasha","mapping":{"name":"name"},"entries":{}}
+{
+  "label": "Tablas de Tasha",
+  "mapping": {
+    "description": "description",
+    "results": {
+      "path": "results",
+      "converter": "tcoeTableResultsById"
+    }
+  },
+  "folders": {
+    "Aberrant Mind": "Mente aberrante",
+    "Academy": "Academia",
+    "Additional Rules & References": "Reglas y referencias adicionales",
+    "Alchemist": "Alquimista",
+    "Ancient Being": "Ser ancestral",
+    "Aristocrat": "Aristócrata",
+    "Circle of Stars": "Círculo de las Estrellas",
+    "Clockwork Soul": "Alma mecánica",
+    "Criminal Syndicate": "Sindicato criminal",
+    "Dungeon Master's Tools": "Herramientas del Dungeon Master",
+    "Environmental Hazards": "Peligros ambientales",
+    "Fey Wanderer": "Errante feérico",
+    "Guild": "Gremio",
+    "Magic Items": "Objetos mágicos",
+    "Magical Miscellany": "Miscelánea mágica",
+    "Magical Phenomena": "Fenómenos mágicos",
+    "Military Force": "Fuerza militar",
+    "Monsters' Desires": "Deseos de los monstruos",
+    "Path of Wild Magic": "Senda de la Magia Salvaje",
+    "Path of the Beast": "Senda de la Bestia",
+    "Patron Tables": "Tablas de patrones",
+    "Religious Order": "Orden religiosa",
+    "Sovereign": "Soberano",
+    "Supernatural Region Effects": "Efectos de regiones sobrenaturales",
+    "Swarmkeeper": "Guardián de enjambres",
+    "The Genie": "El Genio",
+    "Way of Mercy": "Camino de la Misericordia"
+  },
+  "entries": {
+    "tcoeAberrantOrig": {
+      "name": "Orígenes aberrantes",
+      "description": "<p>Como hechicero de Mente Aberrante, tú decides cómo adquiriste tus poderes. ¿Naciste con ellos? ¿O acaso un suceso posterior hizo que se manifestara tu consciencia psiónica? Consulta la tabla Orígenes aberrantes para determinar un posible origen de tu poder.</p>",
+      "results": {
+        "8IijJiZmfz6hxoSJ": {
+          "text": "Un viento psíquico del Plano Astral transportó energía psiónica hasta ti. Cuando usas tus poderes, unas tenues motas de luz centellean a tu alrededor."
+        },
+        "cFT1AryTN5jEA5eZ": {
+          "text": "Tus pesadillas te susurran la verdad: tus poderes psiónicos no son tuyos. ¡Los extraes de tu gemelo parásito!"
+        },
+        "d3QnYORhDaE3WMiJ": {
+          "text": "Cuando eras pequeño tenías un amigo imaginario que parecía un flumph o una extraña criatura similar a un ornitorrinco. Un día te concedió poderes psiónicos que resultaron no ser tan imaginarios."
+        },
+        "NxpYyLHLxiOXrO9z": {
+          "text": "Te implantaron una larva de azotamentes, pero la ceremorfosis nunca se completó. Ahora su poder psiónico es tuyo. Cuando lo usas, tu carne brilla cubierta por una mucosidad extraña."
+        },
+        "tukTIR1iSKjXhk3q": {
+          "text": "Estuviste expuesto a la influencia deformadora del Reino Lejano. Estás convencido de que te está creciendo un tentáculo, pero nadie más puede verlo."
+        },
+        "Twfyb6hPoDc0rEmd": {
+          "text": "En una ocasión sufriste los poderes dominadores de un aboleth, que dejaron una esquirla psíquica en tu mente."
+        }
+      }
+    },
+    "tcoeAberrationDe": {
+      "name": "Deseos de aberraciones",
+      "description": "<p>Algunas opciones de ofrendas que podría desear una aberración.</p>",
+      "results": {
+        "BH1aEsbfdfpUTtcT": {
+          "text": "Secretos o conocimientos que aún no posea"
+        },
+        "QwbuOC2wbDZzgGAI": {
+          "text": "El cerebro u otros órganos de una criatura rara"
+        },
+        "wXE5VZ1Q5iMOVR1c": {
+          "text": "Aceptar que te implanten un extraño injerto orgánico"
+        },
+        "yTcchuNYwA49sCux": {
+          "text": "Adulación y servilismo"
+        }
+      }
+    },
+    "tcoeAbsorbingTat": {
+      "name": "Color del tatuaje absorbente",
+      "results": {
+        "26TMwQPggloEwghp": {
+          "text": "Tatuaje absorbente verde"
+        },
+        "DIOaNChhBQuKNk7g": {
+          "text": "Tatuaje absorbente negro"
+        },
+        "JTkRT29moJBqr90B": {
+          "text": "Tatuaje absorbente dorado"
+        },
+        "Lpla9tQiLnc3Q9Bq": {
+          "text": "Tatuaje absorbente blanco"
+        },
+        "nIx8SDGaF0Peq2gZ": {
+          "text": "Tatuaje absorbente naranja"
+        },
+        "o8LIykPz1ueg33JM": {
+          "text": "Tatuaje absorbente violeta"
+        },
+        "p6Z8Tul26naw23DR": {
+          "text": "Tatuaje absorbente azul"
+        },
+        "QfQSMcqf6Ukvl3hP": {
+          "text": "Tatuaje absorbente amarillo"
+        },
+        "QQTM0xHIRa5s55so": {
+          "text": "Tatuaje absorbente rojo"
+        },
+        "wJi5wKbGl20anxjT": {
+          "text": "Tatuaje absorbente plateado"
+        }
+      }
+    },
+    "tcoeAcademyConta": {
+      "name": "Contacto en la academia",
+      "results": {
+        "9vhJD2ZLvKNchevh": {
+          "text": "<strong>Atrezo vetusto.</strong> Una bibliotecaria con más años que el sol y que todo el mundo daba por muerta os transmite vuestros encargos desde un mostrador de préstamos que nunca abandona."
+        },
+        "99CblkGJwUCpJXHh": {
+          "text": "<strong>Fragmento espectral.</strong> Un elemento encantado de la colección de la academia os incita a continuar su investigación secreta."
+        },
+        "aC5J9S3WoXsHpC9f": {
+          "text": "<strong>Observador distante.</strong> Un patrocinador misterioso fomenta vuestra investigación desde la distancia para evitar llamar la atención de los viles poderes que gobiernan la burocracia de la academia."
+        },
+        "bOZJ1hGCM5P86AdV": {
+          "text": "<strong>Instructor célebre.</strong> Pese a la maraña de asistentes ambiciosos que le rodea, un investigador famoso considera a vuestro grupo su ojito derecho."
+        },
+        "IXjFWKNUDRy1Mh7K": {
+          "text": "<strong>Funcionario agobiado.</strong> Un secretario desinteresado transmite al grupo mensajes escritos de un importante miembro del profesorado muy ocupado o distante."
+        },
+        "xHN2lTPVyphXugda": {
+          "text": "<strong>Turista obnubilado.</strong> Un académico de intercambio a quien le encanta coquetear considera cada informe y descubrimiento que donáis un regalo a su persona."
+        }
+      }
+    },
+    "tcoeAcademyQuest": {
+      "name": "Misiones de la academia",
+      "results": {
+        "7wYEpws2pt5MOsgl": {
+          "text": "<strong>Divinidad evolutiva.</strong> Os atrevéis a explorar aquello que ningún mortal debería conocer: el origen de lo divino."
+        },
+        "aDazlQIJouP0Q7sE": {
+          "text": "<strong>Búsqueda y captura de antigüedades.</strong> Seguís pistas que os llevan hasta artefactos saqueados para luego devolvérselos a sus legítimos dueños."
+        },
+        "h0mhAP87QFA8m0sy": {
+          "text": "<strong>Zoología aberrante.</strong> Emprendéis expediciones para documentar, capturar y explicar la existencia de seres que desafían al orden natural."
+        },
+        "j64WXGdIC9QmVe6T": {
+          "text": "<strong>Criptogeografía.</strong> Buscáis pruebas de la existencia de una tierra oculta o de que el mundo no está estructurado como se asume habitualmente."
+        },
+        "tNDbwcyDiQmRAYqm": {
+          "text": "<strong>Arcanodinámica.</strong> Investigáis cómo la existencia se apoya en la magia, para lo que exploráis sus senderos y caminos para aprovechar sus nexos de unión."
+        },
+        "xAQs4aZz2CrMLLQr": {
+          "text": "<strong>Historia prohibida.</strong> Reveláis las verdades perdidas de las épocas más oscuras del mundo y os adentráis en la historia de episodios tabú o premeditadamente ocultos."
+        }
+      }
+    },
+    "tcoeAcademyTypes": {
+      "name": "Tipo de academia",
+      "results": {
+        "1KDevIpHaYObvC86": {
+          "text": "<strong>Museo de los sueños.</strong> La comunicación mágica o los paisajes oníricos compartidos conectan a una red de expertos de amplio espectro."
+        },
+        "4ddBd00lmUEU9sus": {
+          "text": "<strong>Cámara de los secretos.</strong> Una organización conspirativa que trata de conservar o erradicar todo el conocimiento sobre una verdad concreta."
+        },
+        "ANnEtgySqQsXLD6T": {
+          "text": "<strong>Internado.</strong> Los estudiantes y el profesorado disfrutan de una relación familiar en un campus independiente."
+        },
+        "BhNNnxgMfc5cAxRt": {
+          "text": "<strong>Monasterio secreto.</strong> Los que habitan este lugar se centran en el estudio contemplativo de secretos eternos y en la formación rigurosa."
+        },
+        "Q0vJuwU9eEA9RYEU": {
+          "text": "<strong>Enclave arcano.</strong> Unidos en torno a la erudición mágica más avanzada, los residentes del enclave están ansiosos por descubrir secretos, reactivos y temas."
+        },
+        "utNWhHHOl7rhyhdO": {
+          "text": "<strong>Instituto elitista.</strong> Esta institución dedicada al arte o la ciencia, en la que la competencia es despiadada, solo admite a la flor y nata de la sociedad y del talento."
+        }
+      }
+    },
+    "tcoeAristocratCo": {
+      "name": "Contacto del aristócrata",
+      "results": {
+        "aNG6n8HYVjeGYfYE": {
+          "text": "<strong>Enlace con intereses íntimos.</strong> Un confidente o amante de vuestro patrón de origen plebeyo os ayudará a crear el clima propicio para promover los intereses de la familia noble."
+        },
+        "ed92wkeVat7Ior7o": {
+          "text": "<strong>Contacto común.</strong> Un siervo con aspiraciones a conseguir un título trabaja como enlace entre el grupo y su patrón."
+        },
+        "h9ra13Mvwzh5PNII": {
+          "text": "<strong>Extraño influyente.</strong> Una misteriosa entidad manipula el destino de una familia noble. A través de vuestro patrón, os contrata para que le ayudéis a guiar a la familia escogida durante siglos."
+        },
+        "MFY8yj5SNRGGrS4t": {
+          "text": "<strong>Mediador de la familia.</strong> Un ingenuo aristócrata designado por el patrón solicita vuestra ayuda para mantener la paz entre los miembros díscolos de la familia, lo cual no es una prioridad para el patrón."
+        },
+        "RV720P77Y9avo6LH": {
+          "text": "<strong>Informador desterrado.</strong> Un noble marginado que cuenta con el favor de vuestro patrón y que colabora con el grupo para mantener los intereses de la familia pese a su exilio."
+        },
+        "SbqmEZk8CGneLsbf": {
+          "text": "<strong>Profesional.</strong> Un consejero juicioso o uno de los encargados de los negocios del patrón os da instrucciones para que mantengáis a salvo a su temerario jefe."
+        }
+      }
+    },
+    "tcoeAristocratQu": {
+      "name": "Misiones de los aristócratas",
+      "results": {
+        "cGW3beuXxdct4685": {
+          "text": "<strong>Unión nobiliaria.</strong> Trabajáis con varias facciones nobles para unir a distintas familias rivales."
+        },
+        "di2esZbYEAXx1pLq": {
+          "text": "<strong>La nueva nobleza.</strong> Recreáis el extraordinario evento que concedió a las familias nobles actuales su estatus especial, lo que permite el ascenso de nuevos nobles."
+        },
+        "g85RiJbaLiXL2YWL": {
+          "text": "<strong>Linaje perdido.</strong> Buscáis pruebas de la existencia de una rama perdida de una familia noble o evidencias de que alguna persona no tiene en realidad orígenes aristocráticos."
+        },
+        "P2xCORae0INrmX1l": {
+          "text": "<strong>Sabotear a un rival.</strong> Allanáis el negocio o la mansión de una familia noble enemiga y socaváis sus intereses políticos o profesionales."
+        },
+        "SGxXVEBNoxua1ubp": {
+          "text": "<strong>Filón empresarial.</strong> Localizáis y conseguís un elemento maravilloso que vuestro patrón considera que es la clave para su futuro económico."
+        },
+        "TXgxGqlYoxAap4BL": {
+          "text": "<strong>Origen de la nobleza.</strong> Reveláis el motivo secreto por el cual algunas personas alcanzaron el estatus de nobles y cómo lograrán cumplir sus objetivos muy pronto."
+        }
+      }
+    },
+    "tcoeAristocratTy": {
+      "name": "Tipos de aristócrata",
+      "results": {
+        "je9mKYPmB3vB4LdV": {
+          "text": "<strong>Genio comerciante.</strong> Este líder de una familia con negocios por todo el mundo posee reputación, riqueza y poder a partes iguales."
+        },
+        "SZZL1GgUdFcPficy": {
+          "text": "<strong>Agente doble.</strong> El líder de una familia noble se ha vuelto en contra de su nación y se opone en secreto a su señor feudal para su propio beneficio o por motivos éticos."
+        },
+        "Ubn7pExGkkbH2Wca": {
+          "text": "<strong>Principito nómada.</strong> A este principito no hay nada que le guste más que los tesoros. Su caravana de mercaderes no deja de crecer y ya se extiende tras su palanquín hasta donde alcanza la vista."
+        },
+        "vYESoEVSVtbfaKRP": {
+          "text": "<strong>Futuro gobernante.</strong> Este joven noble está destinado a gobernar, pero en la actualidad sus caprichos son volubles y peligrosos."
+        },
+        "WXbAroqIXcX8nHFu": {
+          "text": "<strong>Emprendedor ambicioso.</strong> Único heredero de una gran fortuna, este emprendedor busca aliados para aumentar su riqueza con un nuevo negocio con alcance internacional, global o planar."
+        },
+        "XX9JleHE2HYqY43c": {
+          "text": "<strong>Señor local.</strong> Convencido de que el poder y el prestigio le esperan a la vuelta de la esquina, este señor de bajo nivel aprovecha toda oportunidad para ascender en el escalafón."
+        }
+      }
+    },
+    "tcoeBeastDesires": {
+      "name": "Deseos de bestias",
+      "description": "<p>Algunas opciones de ofrendas que podría desear una bestia.</p>",
+      "results": {
+        "4KeystNQ2nou0Png": {
+          "text": "Cuentas, telas, plumas o cordeles de colores vivos"
+        },
+        "b297x6MvMxbelo1M": {
+          "text": "Un viejo animal de peluche u otra chuchería blanda"
+        },
+        "TNBEbi4pyfQCoEgq": {
+          "text": "Carne fresca"
+        },
+        "yLyZPm43U0UM4l7M": {
+          "text": "Una melodía relajante"
+        }
+      }
+    },
+    "tcoeBeingContact": {
+      "name": "Contacto del ser ancestral",
+      "results": {
+        "AJj05tBVO9hwZgtQ": {
+          "text": "<strong>Chanchulleros de trastienda.</strong> La entrada a una zona exclusiva de un local aparentemente normal requiere una contraseña o un identificador. Allí podréis reuniros con los oscuros agentes del patrón y hablar con ellos."
+        },
+        "d32vg2QhWSPnCuDU": {
+          "text": "<strong>Visiones.</strong> El patrón no usa intermediarios, sino que habla al grupo en sueños, presagios o visiones. El ser aparece en vuestra mente mientras dormís y se hace con el control de vuestros sueños para daros instrucciones que resultan difíciles de ignorar."
+        },
+        "fQ7SvCngwS7v7oEC": {
+          "text": "<strong>Eco efímero.</strong> El contacto nunca se muestra físicamente. Quizás sea el fantasma de una persona muerta, una entidad que se aparece fuera del flujo del tiempo o la ilusión proyectada de un ser que nunca abandona el santuario oculto del patrón."
+        },
+        "jKWZLQzRsAQ8sVkK": {
+          "text": "<strong>Empleador.</strong> Un respetado miembro de la sociedad actúa como intermediario entre el grupo y su patrón y proporciona la tapadera de un empleo legítimo. Puede ser un posadero, un comerciante, un funcionario local o un noble."
+        },
+        "OyjEsLZCNiyGvrEN": {
+          "text": "<strong>El portavoz.</strong> La voz del ser ancestral habla entre susurros a través de los labios de una persona corriente. Vuestro patrón podría poseer el cuerpo de un extraño o de un miembro del grupo para hablar con vosotros."
+        },
+        "XhvMaRZedJJrzxrm": {
+          "text": "<strong>Buzón de mensajes mágicos.</strong> Los mensajes del contacto o el patrón, grabados mágicamente, aparecen en los lugares más insospechados. El grupo sabe que tiene que mirar en un sitio determinado, como una grieta en un monolito antiguo o una tumba concreta, para recibir sus instrucciones."
+        }
+      }
+    },
+    "tcoeBeingQuests0": {
+      "name": "Misiones de los seres ancestrales",
+      "results": {
+        "4QSQthUJgDXbLfye": {
+          "text": "<strong>Asalto astral.</strong> Un poderoso rival de vuestro patrón guarda sus secretos en una cámara mental del Plano Astral. Eso implica que no se le puede engañar ni coaccionar para que revele nada, ni es posible leer sus pensamientos. Debéis encontrar la cámara y viajar a través de los recuerdos mortales del enemigo para descubrir los conocimientos que desea obtener vuestro patrón."
+        },
+        "cKh1KisW5vmG9lre": {
+          "text": "<strong>Rescate.</strong> Un agente descarriado ha desaparecido mientras recopilaba información o materiales. Debéis descubrir qué ha sido de él y recuperar tanto al agente como sus hallazgos."
+        },
+        "dstcyPkfm0U7g7Ff": {
+          "text": "<strong>Sabotaje.</strong> Debéis acabar con algún aspecto de la organización de un rival, ya sea asesinar a un adlátere clave o destrozar un objeto crítico."
+        },
+        "N2eHeTP2qZpXnkfk": {
+          "text": "<strong>Traición.</strong> Un servidor de alto perfil de otro personaje importante está dispuesto a traicionar a su superior, lo que beneficiaría a vuestro patrón. Debéis convencerle de que se pase a vuestra organización o sacarlo de un territorio en el que ahora corre peligro."
+        },
+        "QeMXHunIZZhQtaIU": {
+          "text": "<strong>Sacrificio.</strong> Un respetado agente de vuestro patrón (probablemente un aliado o un mentor del grupo) supone un peligro. Quizás vaya a desertar para unirse a un rival e intentar hacerse con el poder del ser ancestral. Sea como sea, debéis atraparlo y poner fin a la amenaza que presenta."
+        },
+        "z6B7eP6VaKS1Sh9w": {
+          "text": "<strong>Artificio.</strong> Vuestras habilidades especializadas son cruciales para reunir los componentes de un poderoso ritual o un objeto mágico."
+        }
+      }
+    },
+    "tcoeBeingTypes00": {
+      "name": "Ser ancestral",
+      "results": {
+        "6DqtJ8jCMtdsFEF8": {
+          "text": "<strong>Guardián celestial.</strong> Un ángel u otra poderosa criatura celestial se interesa por una región concreta del Plano Material. Para conseguir sus objetivos, crea una red de criaturas mortales que le sirven de informantes y agentes."
+        },
+        "DQmMkm6M9YlkY9YH": {
+          "text": "<strong>Dragón vetusto.</strong> Un dragón ancestral busca conocimiento o poder. Quiere ampliar aún más su tesoro, ya que su ambición aumenta conforme cumple años."
+        },
+        "M2azde1zFdzCTHYk": {
+          "text": "<strong>Infernal vinculado.</strong> Este infernal está vinculado a un lugar, puede que con su forma verdadera o como un espíritu de posesión. La influencia del infernal, atrapado en un círculo irrompible de sellos vinculantes o encerrado en una estatua gigantesca, es la que dirige al grupo."
+        },
+        "SqxZJk6eJtlWtm7t": {
+          "text": "<strong>El Eterno.</strong> Esta criatura ha vivido muchas vidas porque no puede morir (al menos no permanentemente). El motivo de su desaparición es irrelevante: siempre vuelve. A simple vista, es un ser mortal que está vivo, pero controla los recursos de los que dispone un inmortal."
+        },
+        "w9ikQ4ZtoduBXfnC": {
+          "text": "<strong>Manifestación primigenia.</strong> Su mera existencia desafía el entendimiento de los mortales: simplemente, existe. Podría tratarse de una fuerza primordial de la naturaleza que ha tomado conciencia de su ser y ahora habita en el plano terrenal, o de una inteligencia alienígena que se comunica a través de representantes, presagios e ídolos."
+        },
+        "yZIkafNmrLNFumA0": {
+          "text": "<strong>Liche.</strong> El grupo está al servicio de un lanzador de conjuros muerto viviente de inmenso poder. Sus intereses son extrañamente variados y aparentemente benignos. ¿Quizás no sea tan malvado como sugiere la sabiduría popular aventurera?"
+        }
+      }
+    },
+    "tcoeBlessedRadia": {
+      "name": "Efectos de resplandor bendito",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural de resplandor bendito.</p>",
+      "results": {
+        "1zALeSlVn9h7y2eY": {
+          "text": "Un personaje de la región siente un profundo sentido del propósito y obtiene los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{bendecir} durante 1 minuto. También puede elegir a otras dos criaturas que pueda ver para que obtengan los beneficios del conjuro."
+        },
+        "8zrdJ7j1S58ScB9H": {
+          "text": "Un personaje de la región oye susurros de seres celestiales o estribillos de coros celestiales. Puede formular una pregunta a esas voces como si usara el conjuro @UUID[Compendium.dnd5e.spells.Item.d54VDyFulD9xxY7J]{comunión}."
+        },
+        "epprwHw4JNtl8955": {
+          "text": "Las aberraciones, infernales y muertos vivientes de la región emiten un resplandor carmesí durante 1 minuto. Las criaturas proyectan luz tenue en un radio de 10 pies, los ataques contra ellas tienen ventaja si el atacante puede verlas y no pueden beneficiarse de estar &amp;Reference[invisible]."
+        },
+        "F3MHe08m0mOFZaAf": {
+          "text": "El poder celestial explota en una esfera de luz divina de 30 pies de radio centrada en una aberración, un infernal o un muerto viviente de la región. Cada criatura de la esfera debe realizar una tirada de salvación de [[/save constitution dc=15]]. Si falla, recibe [[/damage 4d6 type=radiant]] y queda &amp;Reference[blinded]. Si tiene éxito, recibe la mitad de daño y no queda cegada."
+        },
+        "fL1e7EJ1RU7QQgse": {
+          "text": "Una luz dorada llena un cilindro de 20 pies de radio y 40 pies de altura centrado en un personaje de la región y después se desvanece. Ese personaje y sus aliados dentro del cilindro obtienen los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.8MICCMeOXT3aJUy9]{favor divino} durante 1 hora."
+        },
+        "i4B0nOv1lcdFURYL": {
+          "text": "Una voz atronadora retumba en celestial y puede oírse en toda la región. Cada criatura de la región debe realizar una tirada de salvación de [[/save constitution dc=15]]. Si tiene éxito, obtiene [[/r 2d10]] puntos de golpe temporales. Si falla, queda &amp;Reference[deafened] durante 1 minuto."
+        },
+        "me89KPLHSatk6NSs": {
+          "text": "Un arma sencilla o marcial no mágica que lleve un personaje de la región obtiene las propiedades de una @UUID[Compendium.dnd5e.items.Item.m7RubLd1lUcMjYgY]{maza de disrupción} durante 24 horas."
+        },
+        "MGMk7a7Ktnv8cCqQ": {
+          "text": "Las aberraciones, infernales y muertos vivientes de la región tienen desventaja en las tiradas de ataque y las pruebas de característica durante las próximas 24 horas."
+        },
+        "nLXc5cOApQisVNpB": {
+          "text": "Una voz angelical resuena por toda la región. Cada criatura presente debe superar una tirada de salvación de [[/save wisdom dc=15]] o realizar la opción postrarse del conjuro @UUID[Compendium.dnd5e.spells.Item.arzCrMRgcNiQuh43]{orden imperiosa}."
+        },
+        "OZxv6mw6ZalUYQbG": {
+          "text": "Un personaje de la región obtiene permanentemente resistencia al daño necrótico. Vuelve a tirar si ya habías obtenido este efecto."
+        },
+        "P77rzQV7hMAbsmOH": {
+          "text": "Cada criatura que lleve el símbolo sagrado de una deidad de un plano no maligno mientras se encuentre en la región obtiene ventaja en las tiradas de salvación durante las próximas 24 horas."
+        },
+        "tcmuwes8HVDDyFef": {
+          "text": "Los efectos de un conjuro @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{santificar} (CD de salvación 17), con uno de sus efectos adicionales (a elección del DM), se asientan sobre la región durante 24 horas."
+        },
+        "uAJzgXULlmPeaQ4K": {
+          "text": "Un personaje de la región obtiene la capacidad de curar aflicciones durante 1 hora. Como acción, puede lanzar @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{restablecimiento menor} o @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} sin gastar un espacio de conjuro ni requerir componentes materiales."
+        },
+        "WGm60hIu6FBcoR1P": {
+          "text": "Un personaje de la región obtiene la capacidad de usar el rasgo de clérigo @UUID[Compendium.dnd5e.classfeatures.Item.eVXqHn0ojWrEuYGU]{Intervención divina}, que tiene éxito automáticamente. Solo puede usar una vez el rasgo concedido de este modo y debe hacerlo antes de que transcurran 7 días. Vuelve a tirar si ya habías obtenido este efecto."
+        },
+        "ww3LfxwQD7aDUl3U": {
+          "text": "Una espada voladora y reluciente (usa el perfil de @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.EqJUA3Z3181RSSFU]{espada voladora}, configurado con daño radiante) aparece a 60 pies o menos de una aberración, un infernal o un muerto viviente, que se convierte en su objetivo. La espada inflige daño radiante en vez de cortante y conoce la ubicación exacta de su objetivo mientras este permanezca en la región. La espada desaparece cuando ella o su objetivo quedan reducidos a 0 puntos de golpe."
+        },
+        "ZIEy53fOvTqJlfyQ": {
+          "text": "La energía radiante irrumpe en una esfera de 10 pies de radio centrada en una criatura al azar de la región. Cada criatura de la esfera que no sea un muerto viviente recupera 3d6 puntos de golpe. Cada muerto viviente de la esfera recibe 3d6 de daño radiante."
+        },
+        "zyAbl7w5EHXlMnss": {
+          "text": "Un personaje de la región queda imbuido de poder celestial. Durante 1 minuto, sus ataques cuerpo a cuerpo infligen [[/damage 2d6 type=radiant]] adicionales cuando impactan."
+        }
+      }
+    },
+    "tcoeCelestialDes": {
+      "name": "Deseos de celestiales",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un celestial.</p>",
+      "results": {
+        "Ad8azT84Xw3iuqqT": {
+          "text": "Una reliquia sagrada o una preciada herencia familiar"
+        },
+        "hKSoNaDDJRislDRH": {
+          "text": "La corona de un tirano derrotado"
+        },
+        "NspTg6AfCgy1nPS8": {
+          "text": "La historia de una figura heroica"
+        },
+        "wMRcQxdZZeiaIOEX": {
+          "text": "Un juramento de realizar tres obras caritativas antes del amanecer"
+        }
+      }
+    },
+    "tcoeConstructDes": {
+      "name": "Deseos de constructos",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un constructo.</p>",
+      "results": {
+        "5fwgnKNU4kfruWg3": {
+          "text": "Un recipiente imbuido de poder elemental"
+        },
+        "BoXTxTaNen8x0Bzx": {
+          "text": "Aceite para aplicarlo en las articulaciones del constructo"
+        },
+        "MN44GDxsdpc3hiVx": {
+          "text": "Componentes de adamantina o mithral"
+        },
+        "mQ455QFf0c8T3Z89": {
+          "text": "Un objeto mágico con cargas para usarlo como combustible"
+        }
+      }
+    },
+    "tcoeDragonDesire": {
+      "name": "Deseos de dragones",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un dragón.</p>",
+      "results": {
+        "JdKyxjjz8RXoHLSO": {
+          "text": "Una representación artística y halagadora del dragón"
+        },
+        "nGwvzXFyju8h9asL": {
+          "text": "Cualquier objeto del tesoro de un rival dracónico"
+        },
+        "s4Trs1qNOz8HT483": {
+          "text": "Oro o gemas"
+        },
+        "wGOllr5sHdiA1qLN": {
+          "text": "Una antigüedad transmitida durante al menos tres generaciones"
+        }
+      }
+    },
+    "tcoeElementalDes": {
+      "name": "Deseos de elementales",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un elemental.</p>",
+      "results": {
+        "3PdB3FchQd3VaV0O": {
+          "text": "Una gema con un valor mínimo de 50 po, que la criatura se come"
+        },
+        "4KJfpQfusPpA8a9E": {
+          "text": "Una muestra excepcionalmente pura de su elemento favorito"
+        },
+        "eDhjXSM9BGzGMlkN": {
+          "text": "Una forma de devolver al elemental a su plano natal"
+        },
+        "PpVak8jq1V9N7T2E": {
+          "text": "Interpretar una danza del plano natal del elemental"
+        }
+      }
+    },
+    "tcoeElementalEss": {
+      "name": "Esencia y propiedad elemental",
+      "description": "<p>Usa esta tabla para determinar la esencia y la propiedad de una @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeElementalEss]{esquirla}. Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar esa propiedad.</p>",
+      "results": {
+        "qBXxaflvH9Jc757j": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEarthEssence]{Tierra.}</strong> Obtienes &amp;Reference[damageresistance]{resistencia} a un tipo de daño de tu elección hasta el principio de tu siguiente turno."
+        },
+        "RsljOTtT61i2vvVi": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeWaterEssence]{Agua.}</strong> Creas una ola de agua que se expande desde ti en un radio de 10 pies. Cada criatura de tu elección que puedas ver en esa zona recibirá [[/damage 2d6 type=cold]] de daño de frío y deberá superar una tirada de salvación de Fuerza [[/save ability=str]] contra tu CD de salvación de conjuros o será empujada a 10 pies de ti y quedará &amp;Reference[prone]{derribada}."
+        },
+        "UdbjLWCDmcyMnfXx": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeAirEssenceSh]{Aire.}</strong> Puedes volar inmediatamente hasta 60 pies sin provocar ataques de oportunidad."
+        },
+        "xdgUD0YbcflWVMyV": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeFireEssenceS]{Fuego.}</strong> Un objetivo del conjuro que puedas ver comienza a arder. El objetivo en llamas sufre [[/damage 2d10 type=fire]] de daño de fuego al principio de su siguiente turno y luego las llamas se apagan."
+        }
+      }
+    },
+    "tcoeEnchantedSpr": {
+      "name": "Efectos de manantial encantado",
+      "description": "<p>Efectos que pueden producirse en un manantial encantado.</p>",
+      "results": {
+        "8dJkFWA2pysFJNw5": {
+          "text": "Bañarse en el manantial concede a una criatura los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.KJRVzeMQXPj8Gtyx]{trepar cual arácnido} durante 24 horas."
+        },
+        "45dLQ1yyxyPXE259": {
+          "text": "A una criatura que toca o bebe el agua de este manantial le crece la cola de su animal favorito. La criatura no controla la cola, que se mueve o reacciona según sus emociones. La cola desaparece al cabo de 24 horas."
+        },
+        "bp1lBbO3wKUZG6o5": {
+          "text": "A una criatura que toca o bebe el agua de este manantial le crecen orejas de burro. Las orejas le conceden ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído. Desaparecen al cabo de [[/r 1d4]] días."
+        },
+        "Bw4lruX8rY0115Gs": {
+          "text": "Bañarse en el manantial hace que crezcan [[/r 1d10]] flores de la cabeza de una criatura. Las flores tienen un aroma agradable y recuperan su vitalidad y fragancia cada día. Desaparecen al cabo de 7 días."
+        },
+        "djDGx4a2p4Cbr3v7": {
+          "text": "Bañarse en el manantial hace que a una criatura le aparezca un tercer ojo en la frente. El ojo concede a la criatura &amp;Reference[truesight]{visión verdadera} hasta 60 pies. Desaparece al cabo de 24 horas."
+        },
+        "eSvgKcWHHAMaVvZV": {
+          "text": "Bañarse en el manantial hace que la voz de una criatura suene siniestra. Durante las siguientes 24 horas, su voz le concede ventaja en las pruebas de Carisma (Intimidación) y desventaja en las de Carisma (Engaño) y Carisma (Persuasión)."
+        },
+        "N1CIFipEUEx9ZXYg": {
+          "text": "Cualquier criatura que toque o beba el agua de este manantial se siente bendecida. Obtiene los beneficios de un conjuro @UUID[Compendium.dnd5e.spells.Item.8dzaICjGy6mTUaUr]{bendición} durante 1 hora."
+        },
+        "onIV6baZABlP435q": {
+          "text": "A una criatura que toca o bebe el agua de este manantial le crecen [[/r 1d4]] pedúnculos oculares. Estos le permiten ver en todas direcciones y le conceden ventaja en las pruebas de Sabiduría (Percepción) que dependan de la vista. Desaparecen al cabo de [[/r 1d4]] días."
+        },
+        "QOnfWA6ja0Oe7SpO": {
+          "text": "Una criatura que toca o bebe el agua de este manantial desarrolla un deseo irresistible de cantar. Cada frase que pronuncie durante las siguientes 24 horas resuena con esplendor lírico, lo que le concede ventaja en todas las pruebas de Carisma."
+        },
+        "rMeXkXWEWEci5UnI": {
+          "text": "Bañarse en el manantial cubre a una criatura con un brillante plumaje dorado. Mientras no lleve armadura, las plumas le conceden un bonificador de +1 a la CA. Desaparecen al cabo de [[/r 1d4]] días."
+        },
+        "SdXKBvaM2ZZO2FYf": {
+          "text": "Bañarse en el manantial concede a una criatura los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor}. Como efecto secundario, su piel, pelo y ojos adquieren un reluciente color dorado durante [[/r 1d4]] días."
+        },
+        "TVFcN66swPMxusId": {
+          "text": "Cualquier criatura con una puntuación de Inteligencia de 6 o más que toque o beba el agua de este manantial obtiene ventaja en las pruebas de Sabiduría (Perspicacia) y puede lanzar una vez el conjuro @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detectar pensamientos}, sin necesitar componentes. Los efectos del manantial terminan cuando se lanza el conjuro o transcurren 24 horas, lo que suceda primero."
+        }
+      }
+    },
+    "tcoeExperimental": {
+      "name": "Elixir experimental",
+      "description": "<p>Creas el siguiente elixir experimental:</p>",
+      "results": {
+        "aE1Ltv9FXCkpPJYz": {
+          "text": "Elixir de volar"
+        },
+        "ozl7HkkSVpdkBt6u": {
+          "text": "Elixir de audacia"
+        },
+        "PC5a7CivLwRtJtlb": {
+          "text": "Elixir de resistencia"
+        },
+        "rdM8WZNJAlHTZlrS": {
+          "text": "Elixir de curación"
+        },
+        "roepJB54o8LWYvty": {
+          "text": "Elixir de rapidez"
+        },
+        "UHJThc3cyND50fYF": {
+          "text": "Elixir de transformación"
+        }
+      }
+    },
+    "tcoeExtraplanarR": {
+      "name": "Inversión extraplanar",
+      "description": "<p><strong>Matriz imperfecta.</strong> Siempre que uses la propiedad «Destierro absoluto» del Cayado de Rao, o cuando gastes su última carga, tira en la tabla Inversión extraplanar. Las criaturas invocadas como resultado de este efecto aparecerán en espacios sin ocupar aleatorios a 60 pies o menos de ti y no estarán bajo tu control.</p>",
+      "results": {
+        "0FySap008rhNAfhk": {
+          "text": "Aparecen 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.1zzRQps9jZdLZGqI]{diablo gélido} y 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.egsSDYbqoLCelb0J]{marilith}."
+        },
+        "8O8y96iYHfn4dTO3": {
+          "text": "Aparecen 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.uZ8NrRenwYZ4qNf6]{balor} y 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.RCv5y7iWlfNxkinx]{diablo de la sima}. Como alternativa, el DM puede decidir que aparezca un portal del que salga un archidiablo o un señor demoníaco y que se cerrará 5 minutos después."
+        },
+        "bHFPfG5OMtWGCHyi": {
+          "text": "Aparecen [[/gmr 1d10#Barbed devils]] diablos punzantes y [[/gmr 1d10#Vrocks]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.6oc29m5uzzzb0pk3]{vrocks}."
+        },
+        "ct9kh2h7kP39QIsN": {
+          "text": "Aparecen [[/gmr 1d8]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.VmdyZDjqAc8vdncY]{súcubos}/@UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeIncubus00000]{íncubos}}."
+        },
+        "CtfLdWOHWiA6cPsk": {
+          "text": "Maldición de Iggwilv (consulta la propiedad «Maldición de Iggwilv»)."
+        },
+        "FHs2BGaD1mcMhVbF": {
+          "text": "Aparecen 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeArcanaloth00]{arcanaloth}, 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.xvh2UOKv1bh03Gih]{saga de la noche} y 1 @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.qXzMsRTHEodqO8l2]{rakshasa}."
+        },
+        "YDdAMV4A2o9vtnHj": {
+          "text": "Se abre un portal a un plano aleatorio. El portal se cierra al cabo de 5 minutos."
+        },
+        "ZpYbjrUUKCYnXuHy": {
+          "text": "Aparecen [[/gmr 2d4#Imps]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.dLQiESMsfsXijD5c]{diablillos} y [[/gmr 2d4#Quasits]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.bwtkdzavdNHISgp4]{quasits}."
+        }
+      }
+    },
+    "tcoeFarRealmCrea": {
+      "name": "Efectos del Reino Lejano: criaturas",
+      "description": "<p>Opciones que pueden ocurrir como parte de un @UUID[Compendium.dnd-tashas-cauldron.tcoe-tables.RollTable.tcoeFarRealmEffe]{efecto del Reino Lejano}.</p>",
+      "results": {
+        "75yonW4k9w1LiA1R": {
+          "text": "Un conjuro @UUID[Compendium.dnd5e.spells.Item.OVikYmSdHliAG2YD]{plaga de insectos} se centra en una criatura al azar de la región."
+        },
+        "c432Q6shOySDza14": {
+          "text": "Se reúnen [[/r 1d4]] enjambres de @UUID[Compendium.dnd5e.monsters.Actor.LPdX5YLlwci0NDZx]{cuervos} y [[/r 1d4]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.8ihbbjkaOFTPbI73]{enjambres de ratas}, que atacan a cualquier otra criatura de la región."
+        },
+        "PLzhHyvMWFTw3P59": {
+          "text": "Ataca un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.NB6wUgVqeOQtsQKu]{ent} (en terreno boscoso) o un galeb duhr (en terreno rocoso)."
+        }
+      }
+    },
+    "tcoeFarRealmEffe": {
+      "name": "Efectos del Reino Lejano",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural del Reino Lejano.</p>",
+      "results": {
+        "1D98pFNEuCMbgBu2": {
+          "text": "Por toda la región aparecen en objetos inanimados ojos desorbitados que lloran lágrimas viscosas. Estos ojos vigilan a los personajes, y las criaturas de la región no pueden ser sorprendidas por ellos mientras existan los ojos. Un ojo se cierra y desaparece si recibe cualquier cantidad de daño. Vuelve a tirar si ya habías obtenido este efecto."
+        },
+        "6BWaMQLrg11nXQis": {
+          "text": "Los accidentes naturales y las estructuras de esta región se retuercen para formar palabras y símbolos extraños. Cualquier criatura que intente leer los mensajes debe realizar una prueba de [[/check skill=arc dc=20]]. Si tiene éxito, obtiene información como si hubiera lanzado el conjuro @UUID[Compendium.dnd5e.spells.Item.dSTu1MaPhBqPITwM]{contactar con otro plano}. Si falla, queda afectada como si hubiera fallado una tirada de salvación contra el conjuro @UUID[Compendium.dnd5e.spells.Item.9hQXdMSmerkTsHDe]{confusión}. Este efecto termina al final del siguiente turno de la criatura."
+        },
+        "bpCJl2Jzn2eWQAts": {
+          "text": "Un desgarro en la realidad crea una fisura en la región, similar al conjuro portal, que atraviesa el Reino Lejano y conecta con un plano al azar. Cualquier criatura que entre en la fisura recibe [[/damage 10d10 type=psychic]] debido a los horrores del Reino Lejano y aparece en el espacio desocupado más cercano a la abertura de la fisura en otro plano al azar. La fisura desaparece tras [[/r 2d10 + 2]] horas."
+        },
+        "dyd7SAfKvCYlBkJg": {
+          "text": "Una criatura al azar de la región oye susurros extraños y debe superar una tirada de salvación de [[/save wisdom dc=14]] o quedar &amp;Reference[charmed]. Mientras esté hechizada de este modo, se concentra en copiar los diseños blasfemos que aparecen en su mente usando cualquier medio disponible (tinta, carboncillo, barro o su propia sangre). A menos que esté &amp;Reference[restrained], completa los diseños tras 1 hora de trabajo. Cuando termina, deja de estar hechizada y un slaad de muerte aparece a 30 pies o menos de ella y ataca a cualquiera que vea."
+        },
+        "ebLW3pFRXMPgQsOl": {
+          "text": "Una estructura de la región susurra débilmente. Cualquier criatura situada a 60 pies o menos de la estructura que pueda oírla debe superar una tirada de salvación de [[/save wisdom dc=12]] o quedar &amp;Reference[charmed]. Mientras esté hechizada de este modo, debe moverse hacia el origen de los susurros evitando los peligros evidentes. Cuando llega al origen, queda &amp;Reference[incapacitated]. La criatura puede repetir la tirada de salvación cuando recibe daño y al final de cada hora; si tiene éxito, termina el efecto sobre sí misma."
+        },
+        "efVKgoQq3KQlO2Ze": {
+          "text": "Unos murmullos ininteligibles amenazan con dominar la mente de una criatura al azar de la región. Al comienzo de su turno, debe superar una tirada de salvación de [[/save intelligence dc=13]] o usar su acción para realizar un ataque cuerpo a cuerpo contra la criatura más cercana que pueda ver. Si no hay ninguna otra criatura a su alcance, el objetivo emplea su acción en balbucear."
+        },
+        "fqs9wouuRwtO1pQm": {
+          "text": "El paisaje se derrite y se convierte en una masa de carne retorcida, ojos y fauces con colmillos. De un espacio desocupado del suelo carnoso surgen [[/r 1d4 + 5]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.8pX2JhWUpTNNRBVx]{bocones barbotantes}, que atacan a cualquiera que vean."
+        },
+        "JuHlcYtEaIqaPn43": {
+          "text": "Un mal ancestral dirige su atención hacia la región e impone sobre el lugar la presión de su presencia insondable. Cualquier criatura que termine un descanso en la región debe superar una tirada de salvación de [[/save charisma dc=12]] o no obtiene ningún beneficio por haberlo terminado. En su lugar, encuentra cerca extraños garabatos, piedras apiladas o sus pertenencias dispuestas en intrincados e incomprensibles patrones."
+        },
+        "OT22gHmPVM3wxeXD": {
+          "text": "Unos apéndices grotescos se retuercen bajo el suelo y alrededor de árboles u otras estructuras de la región. Docenas de extremidades irrumpen y atrapan a todos los que se encuentren en una esfera de 30 pies de radio centrada en una criatura al azar. Cada criatura de la esfera debe superar una tirada de salvación de [[/save dexterity dc=14]] o recibir [[/damage 3d6 type=bludgeoning]] y quedar &amp;Reference[restrained]. Cualquier criatura que termine su turno en el área recibe [[/damage 3d6 type=bludgeoning]]. Una criatura puede liberarse a sí misma o liberar a otra criatura a su alcance apresada de este modo usando una acción para superar una prueba de [[/check strength dc=14]] o [[/check dexterity dc=14]] (a su elección)."
+        },
+        "OYilWtjh5CalfeSg": {
+          "text": "La distancia deja de funcionar de una forma comprensible dentro de la región. Las criaturas realizan con desventaja las tiradas de ataque a distancia, y el alcance de esos ataques se reduce a la mitad."
+        },
+        "xVK2YkxNAfGQ1oPQ": {
+          "text": "En esta región, las cosas circulares (como botones, bolas de cristal, el sol y similares) parecen espantosamente incorrectas. Una criatura al azar que comience su turno en la región debe superar una tirada de salvación de [[/save intelligence dc=14]] o emplear su turno intentando destruir ruidosamente esos objetos."
+        },
+        "XzCgMZyY0mnwY6rY": {
+          "text": "Efectos del Reino Lejano: criaturas"
+        },
+        "Yk3FO5YMtUeos8Vo": {
+          "text": "Las criaturas de la región no pueden abandonarla y descubren que recorren el mismo terreno una y otra vez. Para cuando se dan cuenta, han transcurrido [[/r 2d10]] horas durante las que no han avanzado en su intento de salir. Entonces el efecto termina, y cada criatura debe superar una tirada de salvación de [[/save constitution dc=10]] o ganar 1 nivel de &amp;Reference[exhaustion]."
+        }
+      }
+    },
+    "tcoeFeyDesires00": {
+      "name": "Deseos de feéricos",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un feérico.</p>",
+      "results": {
+        "e1IPPpUTYvU9ZJq3": {
+          "text": "Un objeto de gran valor sentimental para ti"
+        },
+        "pJPSTcT85R4Z5S4V": {
+          "text": "El recuerdo de tu primer beso"
+        },
+        "qd87vEHT8k47EWkH": {
+          "text": "Recitar un poema sublime"
+        },
+        "TXFA6125pvLmdAmw": {
+          "text": "El color de tus ojos"
+        }
+      }
+    },
+    "tcoeFeywildGifts": {
+      "name": "Dádivas de Feywild",
+      "description": "<p>Como @UUID[Compendium.dnd-tashas-cauldron.tcoe-character-options.Item.tcoeFeyWanderer0]{Errante Feérico}, también posees una bendición sobrenatural de un aliado feérico o de un lugar de poder feérico. Elige tu bendición de esta tabla o determínala al azar.</p>",
+      "results": {
+        "68RSuLJMq6I1fk7K": {
+          "text": "Mariposas ilusorias revolotean a tu alrededor cuando realizas un descanso corto o largo."
+        },
+        "cNoa1pomoPmm1RbB": {
+          "text": "Cada amanecer brotan de tu cabello flores frescas propias de la estación."
+        },
+        "GzSwjlOrNOrJrbb8": {
+          "text": "De tu cabeza brotan cuernos o astas."
+        },
+        "io8AOnmcwkK8UUzk": {
+          "text": "Tu piel y tu cabello cambian de color cada amanecer para adaptarse a la estación."
+        },
+        "qiEgOLYZ5t2NfAlI": {
+          "text": "Tu sombra baila cuando nadie la mira directamente."
+        },
+        "qsaz2Gsd2hUHCAF7": {
+          "text": "Desprendes un tenue aroma a canela, lavanda, nuez moscada u otra hierba o especia reconfortante."
+        }
+      }
+    },
+    "tcoeFiendDesires": {
+      "name": "Deseos de infernales",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un infernal.</p>",
+      "results": {
+        "41pl3imcTPWA3iyd": {
+          "text": "Tu alma"
+        },
+        "b91xDwDFyaJU6qcv": {
+          "text": "Un objeto sagrado profanado"
+        },
+        "eAH87FTfxRorgCwu": {
+          "text": "Sangre de un ser querido vivo o muerto recientemente"
+        },
+        "NXq1Y92LvG5kPS0P": {
+          "text": "Romper una promesa sagrada en presencia del infernal"
+        }
+      }
+    },
+    "tcoeGenieKind000": {
+      "name": "Tipo de genio",
+      "description": "<p>Has hecho un pacto con uno de los tipos de genio más inusuales: un genio noble. Estas entidades gobiernan vastos feudos de los Planos Elementales y tienen gran influencia sobre genios inferiores y criaturas elementales. Los genios nobles tienen cada cual sus motivaciones, pero la mayoría son arrogantes y ostentan un poder que rivaliza con el de las deidades menores. Les gusta pagar a los mortales con su misma moneda, dado que estos a menudo obligan a los genios a servirlos, y siempre están dispuestos a hacer pactos que expandan sus dominios.</p><p>Eliges tu tipo de patrón o lo determinas de forma aleatoria usando las opciones siguientes.</p>",
+      "results": {
+        "4IxbrMlGgWP37jW8": {
+          "text": "<strong>Tipo:</strong> Efreeti. <strong>Elemento:</strong> Fuego."
+        },
+        "dSFnUJPEp5z2PTzA": {
+          "text": "<strong>Tipo:</strong> Dao. <strong>Elemento:</strong> Tierra."
+        },
+        "XyRi6kM1Dpyxpq4F": {
+          "text": "<strong>Tipo:</strong> Marid. <strong>Elemento:</strong> Agua."
+        },
+        "YB0vfNari9YBjAc9": {
+          "text": "<strong>Tipo:</strong> Djinni. <strong>Elemento:</strong> Aire."
+        }
+      }
+    },
+    "tcoeGeniesVessel": {
+      "name": "Recipiente del genio",
+      "description": "<p>Tu patrón te regala un recipiente mágico que te otorga una medida del poder del genio. Es un objeto Diminuto y puedes utilizarlo como canalizador mágico para tus conjuros de brujo. Tú decides lo que es el objeto o puedes determinarlo aleatoriamente tirando en la tabla siguiente:</p>",
+      "results": {
+        "GLq9fWBXObGQ4n0a": {
+          "text": "Anillo con un compartimento"
+        },
+        "K0nn11zadLIHv3ZA": {
+          "text": "Botella con tapón"
+        },
+        "lbUntDmPxTHtjtN5": {
+          "text": "Estatuilla hueca"
+        },
+        "t9UVcPxJNzWYr5it": {
+          "text": "Lámpara de aceite"
+        },
+        "yBlb4SUe30fQr4Sw": {
+          "text": "Farol ornamentado"
+        },
+        "ZCpJbvHDVedJ7ApR": {
+          "text": "Urna"
+        }
+      }
+    },
+    "tcoeGiantDesires": {
+      "name": "Deseos de gigantes",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un gigante.</p>",
+      "results": {
+        "5Ko4Kt2aF3kgQYMs": {
+          "text": "Un enano que admita que la artesanía gigante es superior a la artesanía enana"
+        },
+        "aIGl8y8XIVfbcQO3": {
+          "text": "Un tesoro robado a un gigante rival"
+        },
+        "buAM3DlZS0Bx5R8P": {
+          "text": "Varios barriles de cerveza"
+        },
+        "L3a46nqdpAnfxM53": {
+          "text": "Un animal de trabajo fuerte"
+        }
+      }
+    },
+    "tcoeGuildContact": {
+      "name": "Contacto del gremio",
+      "results": {
+        "4pdtZUO2YspdmJpM": {
+          "text": "<strong>Supervisor atento.</strong> Un representante del gremio se interesa personalmente por las tareas del grupo. Está al día de vuestras hazañas y sabe cómo han ido vuestras aventuras antes de que vayáis a rendirle cuentas. Pese a que resulta un poco inquietante que sepa tanto, parece que su interés por guiar vuestro trabajo es genuino."
+        },
+        "GEqgyzvMVFbQSMep": {
+          "text": "<strong>Benefactor oculto.</strong> Sea quien sea vuestro contacto, no se comunica con vosotros directamente, sino que envía sus mensajes a través de mensajeros o cartas. Nadie del gremio sabe quién es el contacto o, si alguien lo sabe, no os lo cuenta. No obstante, la información del contacto es buena y los pagos siempre llegan puntuales."
+        },
+        "heDsFhcA8bIzHCYS": {
+          "text": "<strong>El perfeccionista.</strong> El contacto es un creador habilidoso pero obsesivo que invierte todo su tiempo en crear algo perfecto que defina la obra de toda su vida y garantice su legado. En su búsqueda de los materiales más selectos y las mejores oportunidades, pierde el sentido del bien y del mal."
+        },
+        "rWNqxwjQGjMBXhCO": {
+          "text": "<strong>Musa caída.</strong> El contacto es una celestial caída. Ya sea porque se arrepiente de sus pecados o porque tiene sed de venganza, os sirve de guía e inspiración divina tanto a vosotros como al gremio. De alguna forma, el grupo y el gremio inspiran su esperanza de ascensión."
+        },
+        "tOT8ufDBcFmLKq0E": {
+          "text": "<strong>Mentor exigente.</strong> Da igual lo bien que lo hagáis o lo perfectas que sean vuestras creaciones: nada está a la altura para este contacto. Señala cualquier mínimo defecto y toda oportunidad perdida. ¿Es un amargado que atormenta a todos los que le rodean o ha visto vuestro potencial y quiere que lleguéis a lo más alto?"
+        },
+        "XebHDtFm7Hn3ReTn": {
+          "text": "<strong>Guía gólem.</strong> El contacto en el gremio es el alma de un artesano que murió hace muchísimo tiempo y que reside en el cuerpo de un autómata. Es un gólem sabio y con un gran bagaje, pero le resulta difícil comprender el paso del tiempo y la época actual en comparación con aquella en la que vivió."
+        }
+      }
+    },
+    "tcoeGuildQuests0": {
+      "name": "Misiones del gremio",
+      "results": {
+        "ebsluT7yWFXXHFat": {
+          "text": "<strong>Hora de pagar la factura.</strong> El líder del gremio ha conseguido estar donde está gracias a un trato con el más allá. Ahora toca pagar el precio acordado y quiere evitarlo a toda costa. Debéis vencer a cualquier cosa que intente cobrar su deuda o encontrar una alternativa de pago aceptable."
+        },
+        "eV8AZFBvyasRBCRt": {
+          "text": "<strong>Entrega de mercancías.</strong> Tenéis que entregar un pedido a un cliente o a un socio importante del gremio. El plazo de la entrega es inamovible y es necesario cumplirlo aunque alguien o algo trate de impedirlo."
+        },
+        "KFGepCsd7YhOTrBU": {
+          "text": "<strong>Acabar con un rival.</strong> El gremio ya ha soportado bastantes humillaciones de un miembro de la competencia, por lo que es hora de decir basta. El grupo tiene la tarea de garantizar que este rival no vuelva a manchar la reputación del gremio. ¿Conseguiréis engañarlo para que caiga en desgracia para siempre o deberéis optar por métodos más directos?"
+        },
+        "lmU6qk1gyW3GacwJ": {
+          "text": "<strong>Adquisición de material.</strong> El gremio necesita materiales raros y difíciles de conseguir, que pueden ser para un proyecto propio o para un cliente. El grupo deberá conseguir los componentes que falten en un lugar peligroso o de un proveedor complicado, al tiempo que os adelantáis a un rival para conseguirlos."
+        },
+        "Mip7q9L0WE9KdbwA": {
+          "text": "<strong>El coleccionista.</strong> Al gremio se le encomienda que cree o adquiera una pieza maravillosa para la colección de un cliente tan rico como misterioso. Los miembros del gremio que no han sido capaces de cumplir su encargo han desaparecido. El coleccionista promete devolveros a los colegas desaparecidos si le dais lo que busca, pero si falláis, pasaréis a formar parte de su colección."
+        },
+        "VaUBuW1tgNtYf40X": {
+          "text": "<strong>La obra de arte.</strong> Ha desaparecido una obra de arte sublime destinada a un cliente muy importante. Puede ser que la haya creado el gremio o que se la hayáis comprado a algún agente. Debéis encontrarla y haceros con ella antes de que se acabe el plazo y el gremio se enfrente a una penalización."
+        }
+      }
+    },
+    "tcoeGuildTypes00": {
+      "name": "Tipos de gremio",
+      "results": {
+        "0mpglL6SxRBRY2nq": {
+          "text": "<strong>Cambistas.</strong> Estos mercaderes comercian con todo tipo de moneda y actúan como banqueros, prestamistas y punto de contacto principal para aventureros y otras criaturas que manejan grandes sumas de dinero. Cambian monedas por piedras preciosas con la misma facilidad que encuentran compradores para reliquias históricas y obras de arte recuperadas."
+        },
+        "aaYaSgysbuiHPo9y": {
+          "text": "<strong>Consorcio de mercaderes.</strong> Estos emprendedores no fabrican las mercancías que venden, sino que son expertos en buscar nuevos dueños para sus productos. Si no los tienen, los encuentran."
+        },
+        "BMbM7SRvw1gZDsPJ": {
+          "text": "<strong>Asociación de milagreros.</strong> Los artesanos de este gremio, con afición por la magia, son expertos en imbuir de magia objetos físicos. Se rumorea que son capaces de sacar la magia de artículos encantados que ya existen y que podrían estar dispuestos a comprar o vender los botines de los aventureros."
+        },
+        "Ff0VPY74kAIT3qBS": {
+          "text": "<strong>Gremio de artesanos.</strong> Esta asociación de artesanos comparte recursos e influencias para garantizar que sus productos adquieren un buen precio."
+        },
+        "qNwQ8eiPNsvCK19b": {
+          "text": "<strong>Facción filosófica.</strong> Se trata de un grupo de personas con ideas afines que siguen una doctrina concreta y difunden su pericia a través de sus servicios y de la formación y el entrenamiento que imparten."
+        },
+        "S4P8rYlmpZnS5lt1": {
+          "text": "<strong>Comerciantes de identidades.</strong> Estos enigmáticos comerciantes compran documentos, recuerdos y los entresijos de toda una vida y se los venden a aquellos que necesitan empezar de cero."
+        }
+      }
+    },
+    "tcoeHauntedEffec": {
+      "name": "Efectos de lugares encantados",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural encantada.</p>",
+      "results": {
+        "0N0CkvtWLHRmS1T7": {
+          "text": "Una criatura al azar de la región se convierte en objetivo del conjuro @UUID[Compendium.dnd5e.spells.Item.MRxldJd6C4bsBo3O]{levitar} (CD de salvación 15) durante 1 minuto."
+        },
+        "1BkOlhjYXSFJpqZe": {
+          "text": "Toda luz brillante se debilita y se convierte en luz tenue durante 24 horas. Las fuentes que proporcionan luz tenue, como las velas, no proyectan ninguna luz."
+        },
+        "6HhOXibiDN5Alym3": {
+          "text": "Un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.qoFEjfrANBdrCP6m]{fantasma} inofensivo pero inquietante —quizá una mascota, un niño propenso a los accidentes o un dedo gordo cercenado— aparece y sigue a una criatura al azar durante 24 horas antes de desaparecer. El fantasma desaparece si queda reducido a 0 puntos de golpe."
+        },
+        "8n71A1BevPYal1WF": {
+          "text": "Tras la siguiente puesta de sol, este no vuelve a salir durante 36 horas. Durante ese tiempo, el cielo sobre la región podría mostrar una luna carmesí, quedar oculto por una niebla turbulenta o exhibir estrellas alienígenas parpadeantes."
+        },
+        "Aqc4njHZCyCgR9tP": {
+          "text": "Durante las próximas 24 horas, cualquier humanoide que muera en la región se descompone rápidamente y se alza como un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.nU8GN8La8DCt8SDb]{esqueleto} [[/r 1d10]] minutos después de morir."
+        },
+        "d2u1Oal7XNzN0Pr1": {
+          "text": "Un ataúd o pequeño espacio cerrado de la región —quizá una caja antigua, un túmulo de piedras o un tocón sellado con rocas— irradia una malicia palpable. La primera vez que una criatura lo abre, tira un dado ([[/r 1d2]]). Si obtienes un número par, la criatura recibe una visión terrible y queda &amp;Reference[frightened] de todas las criaturas durante las próximas 24 horas. Si obtienes un número impar, aparece un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.XiSWKZzAUxdmFOLL]{avatar de la muerte} y ataca como si hubiera sido convocado por la carta Calavera de una baraja de muchas cosas."
+        },
+        "E7thyu0PD019CddI": {
+          "text": "Durante la próxima noche, una criatura dormida al azar desaparece y reaparece aproximadamente 1 pie por debajo de donde dormía, normalmente enterrada en tierra intacta o en un espacio bajo las tablas del suelo. La criatura u otra persona puede liberarla superando una prueba de [[/check skill=ath dc=13]]."
+        },
+        "GAQPwyCpg3HAIwxm": {
+          "text": "Durante las próximas 24 horas, cada vez que una criatura resulte herida, su sangre (o un fluido similar) se extiende para formar un mensaje breve o una escena macabra."
+        },
+        "icpikgsENntGyhBk": {
+          "text": "Durante la próxima noche, un personaje dormido de la región recibe una visión como si fuera el objetivo del conjuro @UUID[Compendium.dnd5e.spells.Item.kSPRpeIx3w3nihrF]{sueño}. El sueño es breve e inquietante, revela algún elemento de la historia del entorno y sitúa al personaje en el lugar de alguien que sufrió allí un destino funesto."
+        },
+        "IJJuFK7NbyUaatnv": {
+          "text": "Un espíritu habita el arma sencilla o marcial de un personaje y la convierte en un objeto mágico consciente hasta que el personaje abandone la región. Genera al azar las propiedades del objeto como se describe en la sección «Objetos mágicos conscientes» de la Guía del Dungeon Master."
+        },
+        "LGOICbxExL5Khfsj": {
+          "text": "Una niebla misteriosa surge de las sombras. Esta niebla densa oculta mucho todo lo que se encuentre en una esfera de 50 pies de radio alrededor de una criatura al azar de la región. Cualquier criatura que comience su turno en la niebla debe superar una tirada de salvación de [[/save constitution dc=10]] o ganar 1 nivel de &amp;Reference[exhaustion]. Este agotamiento no puede eliminarse mientras la criatura esté en la niebla. Además, las criaturas perciben escenas inquietantes a través de ella, como ruinas ominosas o siluetas silenciosas que huyen de sus perseguidores. Ningún viento puede dispersar la niebla, pero se desvanece tras 1 minuto."
+        },
+        "Mjch7kOdtBuGFIty": {
+          "text": "Una fuerza espectral se manifiesta ante un personaje de la región y le permite formular una pregunta y recibir una respuesta breve como mediante el conjuro @UUID[Compendium.dnd5e.spells.Item.4v2H3hHb3Ph9XLNd]{augurio}. La fuerza se manifiesta como una plancheta que se mueve sobre una tabla espiritista, escritura sobre cristal empañado o insectos que forman mensajes al agruparse."
+        },
+        "opxT3t6oIgocQiHZ": {
+          "text": "Comienza una tormenta eléctrica violenta centrada sobre la región. No termina hasta que el grupo abandona la región."
+        },
+        "p1QjbkGQzcvS2kiS": {
+          "text": "El aspecto de un personaje jugador cambia durante las próximas 24 horas para reflejar la historia encantada de la región. Por ejemplo, podría manifestar la característica cicatriz facial asociada a un tirano infame que murió en ella."
+        },
+        "rHw260RGWQkwvjcA": {
+          "text": "Una parte corriente del entorno de un personaje al azar —quizá el tronco de un árbol o la cabeza disecada de un animal— se anima durante 1 minuto y susurra una advertencia o amenaza con revelar uno de los secretos del personaje."
+        },
+        "S74NWVLlDIqymabZ": {
+          "text": "Durante 24 horas, un jirón luminoso de vapor flota sobre un cadáver o una tumba de la región. Si se introduce en un recipiente, una criatura que sostenga este puede lanzar una vez el conjuro @UUID[Compendium.dnd5e.spells.Item.jhhT9PsHy5A7EojO]{resurrección} sin requerir componentes, lo que hace desaparecer el jirón. Cualquier criatura devuelta a la vida de este modo experimenta sueños extraños."
+        },
+        "WEtYlFKDk8se8i2s": {
+          "text": "La temperatura de la región desciende 10 grados Fahrenheit cada hora durante las próximas [[/r 1d6]] horas, tras lo cual vuelve a la normalidad. Si hace suficiente frío, se forman cristales de hielo con patrones siniestros."
+        },
+        "WggrOI0F3rOdTjoQ": {
+          "text": "La sombra de una criatura al azar actúa de forma independiente durante las próximas 24 horas. Actúa desincronizada de su dueño y quizá finja estrangularlo dramáticamente o intente asesinar a otra sombra."
+        },
+        "x7dMf4vkpItj1HY5": {
+          "text": "Durante las próximas 24 horas, cada vez que una criatura de la región recupere puntos de golpe gracias a un conjuro, la magia curativa dejará cicatrices. Esto podría ir acompañado de una purga de bilis negra o de una fuerza espectral que se libere violentamente de la criatura. Estas cicatrices solo pueden eliminarse mediante @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} o @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo}."
+        },
+        "yoENy4y1NUHfkUSh": {
+          "text": "Un edificio al azar de la región obtiene los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.yw0tYQkOMCgKZ8Ur]{guardas y custodias} (CD de salvación 13) durante las próximas 24 horas."
+        }
+      }
+    },
+    "tcoeHumanoidDesi": {
+      "name": "Deseos de humanoides",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un humanoide.</p>",
+      "results": {
+        "JP64jHsJkxiGQxKi": {
+          "text": "Recuperar algo que haya perdido"
+        },
+        "koaYkD2ktaY3NZ9D": {
+          "text": "Desafiarlo a una competición amistosa, como bailar, cantar o beber"
+        },
+        "m2fvpg4Cwjircd2d": {
+          "text": "Prometer que encontrarás un objeto perdido de gran importancia para su cultura"
+        },
+        "pnhw5A5uYjqrGeKe": {
+          "text": "Información sobre los secretos o debilidades de un enemigo"
+        }
+      }
+    },
+    "tcoeInfestedEffe": {
+      "name": "Efectos de infestación",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural infestada.</p>",
+      "results": {
+        "0DvYXm5TyNq3qdG9": {
+          "text": "El suelo se abre bajo una criatura al azar y crea un pozo de arenas movedizas (consulta la Guía del Dungeon Master)."
+        },
+        "5ZlXV6vIW0B6lw5s": {
+          "text": "Comienza una migración masiva de insectos, con oleadas de bichos Diminutos que reptan sobre todo lo que hay en la región. Las criaturas no pueden realizar descansos cortos ni largos en la región durante las próximas 24 horas."
+        },
+        "7qlFVaVuGK2mceOQ": {
+          "text": "Una criatura con forma de grillo y las estadísticas de un gato salta hasta una criatura al azar y la sigue como una mascota cariñosa durante 24 horas antes de alejarse correteando."
+        },
+        "51yzP2pkIasFm7zR": {
+          "text": "Un grupo de [[/r 1d4 + 2]] larvas que emiten un tenue resplandor aparece en un espacio desocupado a 30 pies o menos del grupo. Cualquier criatura que consuma una de estas suculentas larvas recibe los beneficios de una @UUID[Compendium.dnd5e.items.Item.ytlsBjYsZ7OBSEBs]{poción de curación}."
+        },
+        "aPVnbp1rzewG7IzX": {
+          "text": "Unos zumbidos o chirridos intensos llenan la región durante las próximas 24 horas. Salvo sonidos verdaderamente cacofónicos, las criaturas solo pueden oír voces y ruidos originados a 10 pies o menos de ellas."
+        },
+        "b45mxeRy7zcYLAKC": {
+          "text": "Un enjambre de moscas bioluminiscentes converge sobre una criatura al azar de la región. Durante el próximo minuto, la criatura proyecta luz tenue en un radio de 10 pies, cualquier ataque contra ella tiene ventaja si el atacante puede verla y la criatura no puede beneficiarse de estar &amp;Reference[invisible]."
+        },
+        "eD3bLBltCcCRytqO": {
+          "text": "Una masa de termitas brota del suelo junto con docenas de huesos y un tesoro a elección del DM (consulta «Tesoro aleatorio» en la Guía del Dungeon Master)."
+        },
+        "hZE0h40dIAVoRp2t": {
+          "text": "Incontables insectos diminutos chupadores de sangre infestan la región durante las próximas [[/r 1d6]] horas. Cada hora, toda criatura de la región debe superar una tirada de salvación de [[/save constitution dc=10]] o ganar 1 nivel de &amp;Reference[exhaustion]. Los insectos no afectan a las criaturas inmunes a las enfermedades."
+        },
+        "Ifnvhp0jMwPH9EvU": {
+          "text": "Uno de los personajes de la región debe superar una tirada de salvación de [[/save wisdom dc=15]] o transformarse en una @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.v99wOosUJjUgcUNF]{araña gigante}, como mediante el conjuro @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polimorfar}. El conjuro dura 1 hora o hasta que sea disipado."
+        },
+        "M7riuPSWqKMVFkzW": {
+          "text": "Una larva enorme e hinchada emerge del suelo a 10 pies o menos del grupo y revienta, cubriendo el suelo de icor en un cuadrado de 10 pies centrado en ella. Esta zona queda afectada por el conjuro @UUID[Compendium.dnd5e.spells.Item.etgcR9wqmrhyZ0tx]{grasa} (tirada de salvación de [[/save dex dc=13]]) durante 1 minuto."
+        },
+        "mWj6UhcLLRPA7CJv": {
+          "text": "Una criatura al azar de la región debe superar una tirada de salvación de [[/save constitution dc=16]] o convertirse en huésped de una tenia especialmente agresiva. La criatura afectada no obtiene ningún beneficio de comer hasta recibir un tratamiento que elimine una enfermedad. Una criatura inmune a las enfermedades supera automáticamente esta tirada de salvación."
+        },
+        "pEMXcmcRjwFu4CRV": {
+          "text": "Casi todas las superficies quedan cubiertas de caparazones desechados semejantes a los de las cigarras, que crujen con fuerza al pisarlos e imponen desventaja en las pruebas de Destreza (Sigilo) realizadas al moverse sobre ellos. Los caparazones desaparecen tras 1 hora."
+        },
+        "RkIaGvaj6bg5nhpy": {
+          "text": "Unos insectos del color del estiércol cubren el suelo. Las criaturas que se muevan a la mitad de su velocidad caminando normal pueden ignorarlos. Las que se muevan más rápido deben superar una tirada de salvación de [[/save constitution dc=16]] o quedar &amp;Reference[poisoned] hasta el comienzo de su siguiente turno. Una criatura envenenada de este modo ve reducida su velocidad a 0, abrumada por el hedor de los insectos aplastados. Las criaturas que no necesiten respirar superan automáticamente esta tirada de salvación."
+        },
+        "uL0SoXG6Q5e1HJVf": {
+          "text": "Una criatura al azar de la región debe superar una tirada de salvación de [[/save constitution dc=16]] o su equipo queda infestado de voraces pececillos de plata. La infestación se descubre la próxima vez que la criatura termina un descanso corto o largo. Si posee algún material de papel, los pececillos de plata destruyen al azar un libro u otro objeto de papel que no sea mágico."
+        },
+        "WxMVQbMS4cs0OlWd": {
+          "text": "Una criatura al azar de la región debe superar una tirada de salvación de [[/save constitution dc=16]] o contraer la enfermedad podredumbre de la vista (consulta la Guía del Dungeon Master) a causa de unos parásitos diminutos."
+        },
+        "XH2vnykyvqKFSoI7": {
+          "text": "La región queda obstruida por tenues telarañas, que cuentan como &amp;Reference[difficult-terrain]."
+        },
+        "Xp0C3tUUwjwf7rTu": {
+          "text": "Unos ácaros mordedores infestan las ropas de las criaturas de la región. Cualquier criatura que vista armadura media o pesada tiene desventaja en las tiradas de ataque, pruebas de característica y tiradas de salvación durante las próximas 24 horas."
+        },
+        "y7IXvs1DCaWVYzol": {
+          "text": "Unos arácnidos diminutos invaden los espacios desatendidos. La próxima vez que una criatura al azar de la región se ponga la ropa o la armadura después de terminar un descanso largo, debe superar una tirada de salvación de [[/save constitution dc=16]] o recibir [[/damage 2d10 type=poison average=true]]."
+        },
+        "YmOWNNVztuXt0paI": {
+          "text": "Una gran polilla de colores psicodélicos vuela sobre el grupo y espolvorea a los personajes con un polvo extraño. Las criaturas sobre las que pase deben superar una tirada de salvación de [[/save constitution dc=16]] o quedar &amp;Reference[charmed] por todas las criaturas durante 1 hora."
+        }
+      }
+    },
+    "tcoeMagicMushroo": {
+      "name": "Efectos de hongos mágicos",
+      "description": "<p>Efectos que pueden producirse al interactuar con hongos mágicos.</p>",
+      "results": {
+        "6JUoEepC2HyegJbj": {
+          "text": "La criatura obtiene los beneficios del conjuro telepatía durante las siguientes 24 horas."
+        },
+        "8qL4gnlxaYT60I6I": {
+          "text": "La criatura recupera [[/r 5d8 + 20]] puntos de golpe."
+        },
+        "BxHzfQRSGY4v0W4w": {
+          "text": "La criatura puede entender y hablar todos los idiomas durante [[/r 1d4]] días."
+        },
+        "eNEAYuClyxNCROU3": {
+          "text": "De los ojos y oídos de la criatura brotan nieblas mágicas que actúan como un conjuro @UUID[Compendium.dnd5e.spells.Item.IBJmWjzbQGu7M4UX]{nube de oscurecimiento} durante 1 hora, centrado en la criatura y desplazándose con ella."
+        },
+        "Hi1jFgraYdMwkmQR": {
+          "text": "La criatura lanza de inmediato el conjuro @UUID[Compendium.dnd5e.spells.Item.JYuRBwxpoFhXduvD]{parar el tiempo} sin necesitar componentes. Constitución es la aptitud mágica para este conjuro."
+        },
+        "jAsuAXMX0STt2xkA": {
+          "text": "La criatura solo puede cacarear y cloquear como una gallina. También puede entender y hablar con las gallinas. Esta maldición dura 1 hora, salvo que termine mediante un conjuro @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{levantar maldición} o magia similar."
+        },
+        "MKqJX2Q4YbGAM8uX": {
+          "text": "La criatura lanza de inmediato el conjuro @UUID[Compendium.dnd5e.spells.Item.ppWAAEul0QHtm4er]{detectar pensamientos} sin necesitar componentes. Constitución es la aptitud mágica para este conjuro."
+        },
+        "Pjhzl5EHq0tYdvLN": {
+          "text": "La criatura obtiene el efecto de agrandar o reducir (un 50 % de probabilidad para cada uno) del conjuro @UUID[Compendium.dnd5e.spells.Item.WahI41a3goVUg0x1]{agrandar/reducir} durante 1 hora."
+        },
+        "qqFBYEv3ddRHjUwn": {
+          "text": "La criatura obtiene los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.2VXGS206tuChoeXy]{hablar con las plantas} durante 8 horas."
+        },
+        "SA1FlftMLy6QRJ44": {
+          "text": "La piel de la criatura adopta un color inusual. Tira [[/r 1d4]]: 1, morada con manchas amarillas; 2, naranja brillante con rayas de tigre; 3, verde de rana arbórea con garabatos rojos; 4, rosa intenso con lunares amarillos. El cambio es permanente, salvo que se elimine mediante un conjuro @UUID[Compendium.dnd5e.spells.Item.WzvJ7G3cqvIubsLk]{restablecimiento mayor} o magia similar."
+        }
+      }
+    },
+    "tcoeMagicThemes0": {
+      "name": "Temáticas mágicas",
+      "results": {
+        "0FFV8ofqpJBz0SZk": {
+          "text": "Páginas de libros, figuras de origami, plumas y tinta, acompañadas por sonidos de papel y aromas de biblioteca"
+        },
+        "2MpaTeljjpXwMYzc": {
+          "text": "Formas de tiburones, medusas, pulpos y otras criaturas marinas con olor a salmuera"
+        },
+        "6sUhgJo7NgIgugyi": {
+          "text": "Manifestaciones de emociones profundas, como las tenues cadenas de la melancolía, los tonos sepia de la nostalgia o explosiones de afecto en forma de corazón"
+        },
+        "BtvHWvXE0kHCkx73": {
+          "text": "Armas y armaduras transparentes, máquinas de guerra en miniatura y soldados fantasmales"
+        },
+        "K0eSqrm2MIi6jSfs": {
+          "text": "Alimentos o utensilios que desprenden el aroma de la cocina de la tierra natal del lanzador"
+        },
+        "P9EhPP51eeVOKVVP": {
+          "text": "Rayos dorados que transmiten un calor tenue y un atisbo de arena arrastrada por el viento"
+        },
+        "PExqGbTEPGMLxnjI": {
+          "text": "Intensos aromas a cobre acompañados de lo que parecen ser los humores desequilibrados del propio lanzador"
+        },
+        "prqIplx7CCTBa9Y5": {
+          "text": "Pequeños seres extravagantes o aterradores procedentes de los sueños recurrentes e inevitables del lanzador"
+        },
+        "PXJLRM4R4ntNQENm": {
+          "text": "Salpicaduras y pinceladas de acuarela pintadas por un pincel invisible"
+        },
+        "uXIeNob9sIvC8ry8": {
+          "text": "Bulliciosos animales de granja acompañados por los cálidos olores de corrales y establos"
+        }
+      }
+    },
+    "tcoeManifestatio": {
+      "name": "Manifestaciones del orden",
+      "description": "<p>Elige o determina al azar cómo se manifiesta tu conexión con el orden mientras lanzas cualquiera de tus conjuros de hechicero.</p>",
+      "results": {
+        "2dAJDC23dB33cEc5": {
+          "text": "Tu piel resplandece con un brillo metálico."
+        },
+        "2YfWd1zkvY1B3zDM": {
+          "text": "Objetos geométricos y ecuaciones flotantes recubren tu cuerpo."
+        },
+        "DBhOLPG2frcgKc2G": {
+          "text": "Tanto tú como aquellos afectados por tu magia podéis escuchar el tictac de los engranajes o el timbre de un reloj."
+        },
+        "r8H1RcKeQJmp7Is5": {
+          "text": "Tu canalizador mágico adopta temporalmente la forma de un mecanismo de relojería Diminuto."
+        },
+        "RKbarfqIINLbUV11": {
+          "text": "Unos engranajes espectrales levitan tras de ti."
+        },
+        "UV5dvOtvZK9RPLMR": {
+          "text": "Las manecillas de un reloj giran en tus ojos."
+        }
+      }
+    },
+    "tcoeMercifulMask": {
+      "name": "Máscara de misericordia",
+      "description": "<p>Una selección de posibles máscaras para la subclase del monje Camino de la Misericordia.</p>",
+      "results": {
+        "0qE1B6hrmehOKGrx": {
+          "text": "Rostro que llora"
+        },
+        "b1JrvBoTyYrVkaLe": {
+          "text": "Rostro que ríe"
+        },
+        "FGdcbgTYbGFeK6zW": {
+          "text": "Blanca y vacía"
+        },
+        "j1WR3x9mT25ciQ6E": {
+          "text": "Mariposa"
+        },
+        "ljJpDxOKq773zZ9L": {
+          "text": "Cuervo"
+        },
+        "msF5vo2R3VnAPf0E": {
+          "text": "Calavera"
+        }
+      }
+    },
+    "tcoeMilitaryCont": {
+      "name": "Oficial al mando",
+      "results": {
+        "4UZ4gNkYDzq6ooGg": {
+          "text": "<strong>Oficial protector.</strong> Un oficial amable que siempre tiene dudas a la hora de enviaros a misiones peligrosas y que no deja de recordaros que tengáis cuidado."
+        },
+        "dScnvedEojxsgRUf": {
+          "text": "<strong>Soldado amargado.</strong> Vuestro oficial al mando se la tiene jurada a las fuerzas enemigas. Aprovecha cualquier oportunidad para ir a por ellas, incluso si eso supone poner en peligro al grupo."
+        },
+        "GvFFbkbEGDPTAKFw": {
+          "text": "<strong>Líder devoto.</strong> Vuestro oficial al mando es una persona con una gran fe. A su juicio, vuestro éxito o vuestro fracaso dependen totalmente de la voluntad divina y cree que sois un instrumento más de ella."
+        },
+        "kRVa1EeuGQZmtKGD": {
+          "text": "<strong>Supervisor duro.</strong> Este oficial con muy mal carácter grita cada una de sus órdenes, os echa la bronca por el más mínimo error y está convencido de que vais a fracasar en todas vuestras misiones. Puede que sea uno de esos amores que matan... o a lo mejor solo de los que duelen."
+        },
+        "qMtz5P82RHthTUY3": {
+          "text": "<strong>Superior esperanzado.</strong> Este oficial optimista sabe que se avecina una nueva etapa de paz. Una vez que acabéis esas últimas pocas misiones que quedan, todo habrá terminado."
+        },
+        "tuYHWiMwsCW9vQUl": {
+          "text": "<strong>Veterano curtido.</strong> Vuestro superior es un oficial curtido en mil batallas que ha sufrido toda clase de horrores en combate. Para mitigar el dolor que le producen sus recuerdos o heridas, tiene que recurrir a una vía de escape, desde la prosa de su escritor favorito hasta un vicio que le mantiene distraído."
+        }
+      }
+    },
+    "tcoeMilitaryQues": {
+      "name": "Misiones militares",
+      "results": {
+        "9IO4tamwqKiqvGbr": {
+          "text": "<strong>Operaciones de defensa.</strong> Debéis mantener la seguridad de un enclave importante, por ejemplo, un núcleo de población civil, un almacén de suministros o un puente o un puerto críticos desde el punto de vista estratégico."
+        },
+        "A6wIt9kbiFS0mzQ5": {
+          "text": "<strong>Reconocimiento.</strong> Recopiláis distintos datos sobre el enemigo: sus números, sus emplazamientos, sus movimientos o sus almacenes y rutas de abastecimiento."
+        },
+        "A7n3U67egzmC8gux": {
+          "text": "<strong>Fuerza de choque.</strong> Lanzáis un ataque rápido, estratégico y devastador contra una fuerza enemiga."
+        },
+        "cnapsUyy4ojhphim": {
+          "text": "<strong>Fuerzas especiales.</strong> Os han enviado a una operación encubierta tras las líneas enemigas. Es una tarea similar al trabajo de un espía o un asesino, pero con un enfoque más amplio. Os dedicáis a sabotear algún equipo o a ejecutar ataques dirigidos contra objetivos de gran valor."
+        },
+        "VSG4fr3lHW11IpQK": {
+          "text": "<strong>Localizar y eliminar.</strong> Sois responsables de dar caza a objetivos concretos peligrosos y de gran valor, entre los que hay desertores, posibles fuerzas especiales enemigas o máquinas de guerra mágicas descontroladas."
+        },
+        "ZBOEyoTaRDW2shkH": {
+          "text": "<strong>Asedio.</strong> Vuestra misión consiste en comenzar un asedio a una fortaleza enemiga o en ayudar a poner fin a uno que sufra algún aliado."
+        }
+      }
+    },
+    "tcoeMilitaryType": {
+      "name": "Tipos de fuerza militar",
+      "results": {
+        "bWVQryfuWMIu9snb": {
+          "text": "<strong>Ejército oficial.</strong> Un ejército oficial es el guardián estructurado y muy disciplinado de una provincia o nación. Sus estrictos niveles de mando garantizan la coordinación entre las distintas facciones de esta fuerza."
+        },
+        "MmBoiXpT6CHJgXJK": {
+          "text": "<strong>Reclutas planares.</strong> Esta fuerza militar lucha por causas cósmicas en planetas lejanos del multiverso o contra una invasión extraplanar en el Plano Material. Sus guerreros incluyen reclutas obligados a luchar en la Guerra de la Sangre, custodiados por despiadados mercenarios yugoloth, y también a miembros de un grupo de celestiales gloriosos que se defienden contra una incursión infernal."
+        },
+        "mptARndPvUq1VKYz": {
+          "text": "<strong>Horda.</strong> La horda es prácticamente una fuerza de la naturaleza y lo que le falta de disciplina le sobra de valentía. No tiene una estructura de mando rígida, sino que funciona como una pirámide de ejércitos más pequeños. Los comandantes de cada horda son leales a sus superiores más fuertes, y así hasta llegar al señor de la guerra."
+        },
+        "plpai0ZRk5nUva4E": {
+          "text": "<strong>Grupo de mercenarios.</strong> Veteranos curtidos en multitud de conflictos, los mercenarios trabajan para alguien movidos por el dinero más que por la lealtad."
+        },
+        "QCT6EqZL3SokBKzw": {
+          "text": "<strong>Guerreros de los cielos.</strong> Esta fuerza militar se compone de criaturas aladas que vuelan gracias a la magia o manejan naves como una armada de los cielos. Los métodos de defensa tradicionales son inútiles frente a sus ataques desde el aire, por lo que los guerreros de los cielos pueden ser un enemigo temible o unos mercenarios caros y codiciados."
+        },
+        "wbG4j0extTyMXmHN": {
+          "text": "<strong>Fuerza expedicionaria.</strong> Esta fuerza militar se encuentra lejos de casa y lucha tras las líneas enemigas o explora tierras salvajes aún sin colonizar. Debe ser rápida y autosuficiente y mostrarse diplomática o resolutiva, según las circunstancias, para garantizar su supervivencia."
+        }
+      }
+    },
+    "tcoeMirrorZoneEf": {
+      "name": "Efectos de zona especular",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural de zona especular.</p>",
+      "results": {
+        "0dCM6q4d1j1tFG85": {
+          "text": "Un duplicado de una criatura al azar de la región aparece en un espacio desocupado a 30 pies o menos de ella. El aspecto, las estadísticas de juego y el equipo del duplicado son idénticos a los de la criatura. El duplicado ataca de inmediato a la criatura con la intención de matarla. Si el duplicado muere, tanto él como todo su equipo se hacen añicos. Si no consigue matar a la criatura en 1 hora, desaparece."
+        },
+        "4So2sld2rJOfPjiL": {
+          "text": "La piel de una criatura al azar de la región se vuelve plateada y reflectante durante las próximas 24 horas. Mientras dure el efecto, esa criatura tiene ventaja en las tiradas de salvación contra conjuros, y los ataques de conjuro tienen desventaja contra ella."
+        },
+        "38OnC2c6Txy1KoMP": {
+          "text": "Un personaje puede lanzar una vez el conjuro @UUID[Compendium.dnd5e.spells.Item.fVbCxFRaORalHB20]{escudriñar} ([[/save wisdom dc=17]]) durante las próximas 24 horas sin requerir componentes, pero usando un espejo u otra superficie reflectante."
+        },
+        "At0KOFpk4pSN2YrR": {
+          "text": "Los reflejos de [[/r 1d4]] criaturas de la región emergen de los espejos y atacan. Los reflejos son versiones bidimensionales y centelleantes de las criaturas que los proyectan. Trátalos como sombras feéricas en vez de muertos vivientes y vulnerables al daño contundente en vez de al radiante."
+        },
+        "ATnEJb9pgJxGcMQc": {
+          "text": "Una criatura al azar de la región obtiene los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.GSvLWcdCZLQkilXT]{intermitencia} durante 1 minuto y centellea con reflejos rotos superpuestos."
+        },
+        "dF1Dj3HmQHBvmBCw": {
+          "text": "Las criaturas de la región comienzan a mostrar rasgos que no son los suyos durante las próximas 24 horas. Durante ese tiempo, las criaturas afectadas tienen ventaja en las pruebas de Carisma (Engaño) y en las pruebas de característica realizadas para disfrazarse."
+        },
+        "fGMnNzd6XE3x520L": {
+          "text": "Durante las próximas 24 horas, cuando alguien de la región impacte a una criatura con una tirada de ataque y le inflija daño, el atacante debe superar una tirada de salvación de [[/save charisma dc=13]] o recibir una cantidad de daño de fuerza igual a la mitad del daño infligido."
+        },
+        "Fn6oTawazSRZwepX": {
+          "text": "Las criaturas de la región no proyectan reflejos. Las pruebas de Sabiduría (Perspicacia) realizadas contra ellas tienen desventaja, y dichas criaturas tienen desventaja en las pruebas de Carisma (Persuasión) realizadas contra cualquiera que advierta su falta de reflejo. Cuando abandonan la región, recuperan sus reflejos y el efecto termina."
+        },
+        "hBxb2tY42m34kNPI": {
+          "text": "La próxima vez que un personaje del grupo vea su reflejo en la región, este cobra vida y entabla conversación con su original. Se ofrece a responder una pregunta como si la criatura hubiera lanzado el conjuro @UUID[Compendium.dnd5e.spells.Item.XqzXSKNR75ZdYTA9]{adivinación}. Tras responderla, el reflejo vuelve a la normalidad."
+        },
+        "jGOsoNGna74STLNy": {
+          "text": "Durante las próximas 24 horas, ciertas heridas causadas en la región atraen esquirlas espectrales de cristal que infligen daño adicional. Cualquier criatura que no sea un autómata ni un muerto viviente y sea impactada por un ataque que inflija daño perforante o cortante comienza a sangrar, por lo que pierde [[/damage 1d4]] puntos de golpe al comienzo de cada uno de sus turnos. Si la criatura que sangra recibe el impacto de otro ataque semejante, la hemorragia aumenta en [[/r 1d4]]. Cualquier criatura puede usar una acción para restañar la herida superando una prueba de [[/check skill=medicine dc=10]]. La hemorragia también se detiene si el objetivo recibe curación mágica."
+        },
+        "mEvusYMpY9Efgehe": {
+          "text": "Una espada larga o espada corta con una hoja hecha de espejo dentado aparece en un espacio desocupado a 60 pies o menos de una criatura al azar de la región. El arma es una espada hiriente (consulta la Guía del Dungeon Master). Si quien la empuña obtiene un 1 o un 20 en una tirada de ataque con ella, el arma se hace añicos y queda destruida después de ese ataque."
+        },
+        "QGez7upm5wVYVq0a": {
+          "text": "Durante el próximo minuto, esquirlas flotantes de espejos rotos se arremolinan por la región y muestran reflejos de criaturas y lugares que no están presentes; después desaparecen. En la posición 20 del orden de iniciativa (perdiendo todos los empates), las esquirlas realizan un ataque con arma a distancia (+6 a impactar) contra una criatura al azar de la región. Si impactan, el objetivo recibe [[/damage 3d6 type=slashing average=true]]."
+        },
+        "rFJtmPcdBwFrkoGp": {
+          "text": "Dos discos de energía verticales, reflectantes y centelleantes aparecen en espacios desocupados de la región durante 1 minuto. Cada uno mide 6 pies de diámetro y flota a 1 pie del suelo. Uno aparece en un espacio desocupado a 30 pies o menos del grupo. Cualquier criatura que atraviese un disco aparece al instante a 5 pies o menos del otro, o en el espacio desocupado más cercano."
+        },
+        "udg4bwR4ztyrEDwQ": {
+          "text": "Un personaje de la región obtiene los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.X4c8xCkmF8U9HUMz]{imagen múltiple}. Las imágenes creadas a veces se mueven o hablan por voluntad propia."
+        },
+        "Xv2RFiwTG99uvvsO": {
+          "text": "Los espejos y otras superficies muy reflectantes permiten el transporte mágico dentro de la región. Cualquier criatura que toque su reflejo en un objeto que no vista ni lleve consigo puede lanzar de inmediato el conjuro @UUID[Compendium.dnd5e.spells.Item.wqfAVANuQonNBgnL]{paso brumoso} sin requerir componentes."
+        },
+        "YyPdzp88viW1rcvy": {
+          "text": "El conjuro @UUID[Compendium.dnd5e.spells.Item.sTIkQK7KuQNOyY0C]{terreno alucinatorio} ([[/check skill=investigation dc=15]]) afecta al terreno natural de la región y lo transforma en un tipo de terreno distinto (a elección del DM)."
+        }
+      }
+    },
+    "tcoeMonstrosityD": {
+      "name": "Deseos de monstruosidades",
+      "description": "<p>Algunas opciones de ofrendas que podría desear una monstruosidad.</p>",
+      "results": {
+        "esd5YJHTFahh1YXO": {
+          "text": "La comida favorita de la criatura"
+        },
+        "JP0le9fwy9ZjWHUL": {
+          "text": "Extraer los restos atascados de la última comida de la criatura"
+        },
+        "vfBIpap4xZzoFJ0Y": {
+          "text": "Ahuyentar al rival de la criatura"
+        },
+        "vLmXRw0uBzpnKGLU": {
+          "text": "Realizar movimientos que imiten la danza de apareamiento del monstruo"
+        }
+      }
+    },
+    "tcoeOozeDesires0": {
+      "name": "Deseos de cienos",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un cieno.</p>",
+      "results": {
+        "0NvWbtVprk2fsvs8": {
+          "text": "Huesos o metal, que el cieno absorbe de inmediato"
+        },
+        "9vDGXYlel38kTcf4": {
+          "text": "Una tela impregnada de un olor nauseabundo"
+        },
+        "pO2oimx8tS5ZlTz4": {
+          "text": "Un galón de cualquier líquido efervescente"
+        },
+        "zFhpEvxXdMPGaSZF": {
+          "text": "Un vial de líquidos putrefactos"
+        }
+      }
+    },
+    "tcoeOriginOfTheB": {
+      "name": "Origen de la bestia",
+      "description": "<p>Los bárbaros de este tipo podrían albergar en su interior un espíritu primordial o descender de un cambiaformas. Puedes elegir el origen de tu fuerza salvaje o determinarlo con una tirada en esta tabla.</p>",
+      "results": {
+        "6ucuGyeI6cKsDppU": {
+          "text": "Un espíritu feérico te concedió la capacidad de adoptar distintas formas de bestia."
+        },
+        "DtWjV6GHREoOczVv": {
+          "text": "En tu interior reside un espíritu animal ancestral que te permite recorrer esta senda."
+        },
+        "hMv8PTcqZlSdW1PA": {
+          "text": "Desciendes de un archidruida y has heredado su capacidad de cambiar de forma parcialmente."
+        },
+        "PTN9RwABB68A903M": {
+          "text": "Uno de tus padres es un licántropo y has heredado parte de su maldición."
+        }
+      }
+    },
+    "tcoeOuterPlaneEs": {
+      "name": "Esencia y propiedad exterior",
+      "description": "<p>Usa esta tabla para determinar la esencia y la propiedad de una @UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeOuterEssence]{esquirla}. Cuando uses una opción de Metamagia en un conjuro mientras sostienes o llevas encima la esquirla, podrás utilizar esa propiedad.</p>",
+      "results": {
+        "2cOBqzcNUOHcMUoh": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeLawfulEssenc]{Legal.}</strong> Puedes hacer que acabe uno de los siguientes estados que os afecten a ti o a una criatura que puedas ver a 30 pies o menos de ti: hechizado, cegado, ensordecido, asustado, envenenado o aturdido."
+        },
+        "AG8KWBVYnAmEut5l": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeEvilEssenceS]{Malvada.}</strong> Eliges una criatura que recibirá el daño del conjuro. El objetivo recibirá 3d6 de daño necrótico adicional."
+        },
+        "oS1FrFPMXCEmsRft": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeGoodEssenceS]{Buena.}</strong> Tú o una criatura de tu elección que puedas ver a 30 pies o menos de ti obtenéis 3d6 puntos de golpe temporales."
+        },
+        "PHx0XvpHMDpKNu9h": {
+          "text": "<strong>@UUID[Compendium.dnd-tashas-cauldron.tcoe-magic-items.Item.tcoeChaoticEssen]{Caótica.}</strong> Eliges una criatura que recibirá el daño del conjuro. El objetivo tendrá desventaja en las tiradas de ataque y las pruebas de característica que realice antes del principio de tu siguiente turno."
+        }
+      }
+    },
+    "tcoePartyOrigin0": {
+      "name": "Origen del grupo",
+      "results": {
+        "CKINlu0RPb6rzATc": {
+          "text": "Los personajes se han unido para vencer a un enemigo."
+        },
+        "dWwkMqAKXhDi3McP": {
+          "text": "Los personajes se encuentran atrapados juntos."
+        },
+        "jVYZosWUdin47vEs": {
+          "text": "Un benefactor común que desea patrocinar sus aventuras ha reunido a los personajes."
+        },
+        "QnDIOspVhcB1Z7Le": {
+          "text": "Un funeral reúne a los personajes."
+        },
+        "sBINQRTPJXdldrn5": {
+          "text": "Un festival reúne a los personajes."
+        },
+        "YUVnYFBctMfB93mv": {
+          "text": "Los personajes crecieron en el mismo lugar y se conocen desde hace años."
+        }
+      }
+    },
+    "tcoePlantDesires": {
+      "name": "Deseos de plantas",
+      "description": "<p>Algunas opciones de ofrendas que podría desear una planta.</p>",
+      "results": {
+        "BM0tvOJCIDJAajbc": {
+          "text": "Eliminar la vegetación invasora del territorio de la criatura"
+        },
+        "e7K13C2ayn9IlwcG": {
+          "text": "Destruir todas las hachas y herramientas para encender fuego que lleve el grupo"
+        },
+        "NAr5jhoTbOmalbzX": {
+          "text": "Agua de un manantial imbuido de energía de Feywild"
+        },
+        "Vd9V7DExpwSo7JOd": {
+          "text": "Una libra de mantillo"
+        }
+      }
+    },
+    "tcoePrimalFruitE": {
+      "name": "Efectos del fruto primordial",
+      "description": "<p>Efectos que pueden producirse al interactuar con frutos primordiales.</p>",
+      "results": {
+        "2ig235hIPbpgGsE7": {
+          "text": "Visiones eufóricas de luz brillante inundan la mente de la criatura. Esta obtiene los beneficios del conjuro @UUID[Compendium.dnd5e.spells.Item.VtCXMdyM6mAdIJZb]{guarda contra la muerte} durante 8 horas y debe superar una tirada de salvación de Constitución [[/save constitution dc=13]] o queda &amp;Reference[poisoned]{envenenada} durante ese tiempo."
+        },
+        "6aXjcMMeYiUTJGPe": {
+          "text": "La criatura no necesita comer, beber ni dormir durante [[/r 1d4]] días. Durante ese tiempo, la magia no puede dormirla y sus sueños invaden sus pensamientos conscientes, lo que le impone desventaja en las pruebas de Sabiduría (Percepción)."
+        },
+        "EL2SQP1LLVRToqiF": {
+          "text": "La piel de la criatura hormiguea levemente. Durante 1 hora, obtiene resistencia a un tipo de daño elegido por el DM."
+        },
+        "LO2btgzgUkJQrM0t": {
+          "text": "Unos susurros invaden la mente de la criatura durante 24 horas. Durante ese tiempo, puede comunicarse telepáticamente con cualquier criatura que vea a 120 pies o menos. Si la otra criatura comprende al menos un idioma, puede responder telepáticamente."
+        },
+        "MEmPeWHGWZkqdgHO": {
+          "text": "Oleadas de vitalidad recorren a la criatura. Sus puntos de golpe máximos aumentan en [[/r 2d10]] y obtiene la misma cantidad de puntos de golpe. El aumento dura hasta que termina un descanso largo, momento en el que debe superar una tirada de salvación de Carisma [[/save charisma dc=15]] o queda maldita con una forma aleatoria de licantropía (consulta «Licántropos» en el Monster Manual)."
+        },
+        "NfqFoEpkCuHWV8vi": {
+          "text": "Un tenue zumbido acompaña todo lo que oye la criatura durante 1 hora; durante ese tiempo tiene ventaja en las tiradas de salvación contra conjuros."
+        },
+        "Rlp3kOOg7PQbNz3o": {
+          "text": "La criatura recupera [[/r 3d8 + 4]] puntos de golpe y su piel emite luz brillante en un radio de 5 pies y luz tenue 5 pies más durante 1 hora."
+        },
+        "zvZLNmaW4PPBHfXL": {
+          "text": "La criatura siente una oleada de poder. Durante 1 hora, tiene ventaja en las tiradas de ataque que usen Fuerza, las pruebas de Fuerza y las tiradas de salvación de Fuerza. Cuando termina el efecto, la criatura obtiene 1 nivel de &amp;Reference[exhaustion]{cansancio}."
+        }
+      }
+    },
+    "tcoePsychicReson": {
+      "name": "Efectos de resonancia psíquica",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural de resonancia psíquica.</p>",
+      "results": {
+        "CbrxNMv8tz9KkDNO": {
+          "text": "La compasión y la alegría llenan la mente de una criatura al azar de la región durante 1 minuto. Mientras dure el efecto, la criatura tiene ventaja en las tiradas de salvación de Inteligencia, Sabiduría y Carisma, y desventaja en las tiradas de ataque."
+        },
+        "cIilcyrg2PaeNrnH": {
+          "text": "Durante 1 minuto, en la posición 20 del orden de iniciativa (perdiendo todos los empates), una criatura al azar de la región debe superar una tirada de salvación de Inteligencia CD 15 o recibir 2d6 de daño psíquico."
+        },
+        "FbrY5t3YZtx6PceW": {
+          "text": "Una criatura al azar de la región obtiene la capacidad de lanzar una vez el conjuro telequinesis durante las próximas 24 horas (CD de salvación 15), sin requerir componentes. Inteligencia es su aptitud mágica para este conjuro."
+        },
+        "FeK1ScsfusUj2kd6": {
+          "text": "Una criatura al azar de la región obtiene la capacidad de lanzar una vez el conjuro detectar pensamientos durante las próximas 24 horas (CD de salvación 13), sin requerir componentes. Inteligencia es su aptitud mágica para este conjuro."
+        },
+        "FRFu1EqdqKm8c5em": {
+          "text": "Las criaturas de la región sufren pensamientos inconexos y dificultades para concentrarse durante 1 hora. Mientras dure el efecto, tienen desventaja en las pruebas de Inteligencia y en las tiradas de salvación de Constitución para mantener la concentración en conjuros."
+        },
+        "FrhQnP0fT1UTzWxS": {
+          "text": "El poder psíquico se acumula en la mente de una criatura al azar de la región. Una vez durante el próximo minuto, la criatura puede usar una acción adicional para asaltar mágicamente la mente de otra criatura que pueda ver. El objetivo debe superar una tirada de salvación de Inteligencia CD 14 o recibir 4d10 de daño psíquico."
+        },
+        "GI6eu15SZE3Zy1Xl": {
+          "text": "Los humanoides de la región padecen dolores de cabeza y hemorragias nasales, lo que les impone desventaja en las pruebas de Sabiduría (Percepción) durante 1 hora."
+        },
+        "jM3zkUPzXtq2HD9l": {
+          "text": "Una criatura al azar de la región oye susurros extraños en su mente. Los susurros son fragmentos de pensamientos de otras criaturas cercanas. La criatura tiene ventaja en las pruebas de Sabiduría (Perspicacia) durante 1 hora."
+        },
+        "MDk0Zhnlx15kU5dV": {
+          "text": "Los pensamientos de la región atraen energía psíquica ambiental, que forma campos protectores alrededor de las mentes de las criaturas. Las criaturas de la región obtienen resistencia al daño psíquico durante la próxima hora."
+        },
+        "muKsuPS9Q8giqbpW": {
+          "text": "Durante 1 hora, cada criatura de la región obtiene la capacidad de comunicarse telepáticamente con cualquier criatura que pueda ver a 60 pies o menos. Si el objetivo entiende algún idioma, puede responder telepáticamente."
+        },
+        "N9qDxn2Idg3ZkRYl": {
+          "text": "Durante 1 minuto, en la posición 20 del orden de iniciativa (perdiendo todos los empates), una fuerza invisible arroja los objetos Diminutos y Pequeños de la región que nadie vista ni lleve consigo. Una criatura al azar de la región debe superar una tirada de salvación de Destreza CD 15 o recibir 2d4 de daño contundente de los objetos arrojados."
+        },
+        "OXpoda70YsF68tQK": {
+          "text": "Los recuerdos se vuelven nítidos y claros durante 1 hora. Durante ese tiempo, cada criatura de la región añade el doble de su bonificador por competencia a las pruebas de Inteligencia realizadas para recordar información."
+        },
+        "Q8DTl1CkX6iIk7Xj": {
+          "text": "La mente de todas las bestias de la región se inunda de energía psíquica. Esta energía hace que la puntuación de Inteligencia de cada bestia pase a ser 10 si no era ya superior, y la bestia obtiene la capacidad de hablar común y silvano con fluidez. Estos cambios son permanentes."
+        },
+        "QwMbK3unlhkhAmHs": {
+          "text": "Una criatura al azar de la región queda afectada por el conjuro mente en blanco durante las próximas 24 horas."
+        },
+        "tF0dQZH0hovErsXw": {
+          "text": "Una criatura al azar de la región puede percibir la presencia de mentes cercanas durante 1 hora. Mientras dure el efecto, tiene ventaja en las pruebas de Sabiduría (Percepción) realizadas para localizar a otras criaturas a 120 pies o menos de ella, incluso si están tras cobertura completa."
+        },
+        "uom05q4FRwjacu85": {
+          "text": "Los temores latentes se convierten en pesadillas. Cualquier criatura que termine un descanso corto o largo en la región debe superar una tirada de salvación de Sabiduría CD 10 o no obtiene ningún beneficio por haberlo terminado."
+        }
+      }
+    },
+    "tcoeReligiousCon": {
+      "name": "Contacto de la orden religiosa",
+      "results": {
+        "bNcSDWD1egNdtCwO": {
+          "text": "<strong>Sanador querido.</strong> Un célebre sanador os manda allá donde más os necesitan, incluso si hasta vuestra llegada al lugar no se esclarecen los motivos de la visita."
+        },
+        "OuPvxyrsXqNoLXiW": {
+          "text": "<strong>Voz de la divinidad.</strong> Mensajes de otro mundo os encomiendan misiones divinas."
+        },
+        "P3WTeCByniYJn6rw": {
+          "text": "<strong>Inquisidor inclemente.</strong> Un recto jerarca os manda que purifiquéis de maldad una región, la orden a la que sirve o vuestras propias personas."
+        },
+        "QXbGPBza4f1taq0Y": {
+          "text": "<strong>Confidente en la sombra.</strong> Un misterioso portavoz de la orden os dicta los siguientes pasos, pero teme que le descubra una poderosa fe rival."
+        },
+        "RipursIUuVg1fJUs": {
+          "text": "<strong>Texto misterioso.</strong> La traducción gradual de un texto sagrado secreto os conduce hacia los siguientes pasos de un destino divino."
+        },
+        "TAdKuZslNOWClqRE": {
+          "text": "<strong>Creador genial.</strong> Un talentoso artesano se encarga de comunicar la voluntad de la divinidad a través de canciones u obras de arte proféticas."
+        }
+      }
+    },
+    "tcoeReligiousQue": {
+      "name": "Misiones de las órdenes religiosas",
+      "results": {
+        "5TemBEWu93wsC3P0": {
+          "text": "<strong>Evitar la profecía.</strong> Una orden rival está a punto de cumplir una profecía con consecuencias mortales. Vuestro objetivo es acabar con su blasfemo plan."
+        },
+        "c5iWb36riMBr9F8c": {
+          "text": "<strong>Huida segura.</strong> Un grupo de fieles se ha adentrado en un territorio hostil para los de vuestra orden. Tenéis que encontrarlos y ponerlos a salvo."
+        },
+        "ePqtYt9VgsQqR2Cm": {
+          "text": "<strong>Recuperación de una reliquia.</strong> Buscáis un símbolo perdido de la orden descubierto en un lugar peligroso o que se encuentra en manos del enemigo."
+        },
+        "n79RZTqQhgaSVIEu": {
+          "text": "<strong>Exterminación de la herejía.</strong> Buscáis el origen de la blasfemia que ha arraigado en la orden."
+        },
+        "OrFgBuzOMUzSCMRA": {
+          "text": "<strong>Peregrinación temeraria.</strong> Protegéis a algunos miembros de la orden en una peregrinación que los lleva por tierras repletas de peligros."
+        },
+        "y02MxdmNSpRZEUvJ": {
+          "text": "<strong>Persecución de un culto.</strong> Dais caza a un grupo de extremistas que son peligrosos para la orden o para el resto de los mortales en general."
+        }
+      }
+    },
+    "tcoeReligiousTyp": {
+      "name": "Tipos de órdenes religiosas",
+      "results": {
+        "8ezG7smfcmv9aaYX": {
+          "text": "<strong>Misioneros caritativos.</strong> Con el convencimiento de que la religión ayuda a mejorar a cualquier civilización, esta orden viaja hasta los destinos más remotos para ayudar a pueblos oprimidos y atraer nuevos fieles inspirados por su ejemplo."
+        },
+        "fhETmLuNmlvXbiUG": {
+          "text": "<strong>Evangelistas apocalípticos.</strong> Esta orden no tiene dudas de que el mundo está a punto de acabar. Creen firmemente que, si convencen al resto del mundo de que esto es cierto, tendrán alguna posibilidad de evitar el desastre."
+        },
+        "H8lUgDMUSjaQRRA2": {
+          "text": "<strong>Cazadores de muertos vivientes.</strong> Esta comunidad de eruditos y cazadores de monstruos investiga con tesón a los muertos que no descansan, localiza sus guaridas y los sume en un descanso eterno."
+        },
+        "OgxTAUu4W5cGBQG2": {
+          "text": "<strong>Coleccionistas de reliquias.</strong> Esta orden de monjes arqueólogos pretende llenar de reliquias sagradas su templo con aspecto de museo."
+        },
+        "SoXAWEdCJEVoWS6L": {
+          "text": "<strong>Eruditos devotos.</strong> Esta congregación valora el conocimiento y los textos relativos a su dios. Coleccionan libros sagrados raros y dejan constancia de las hazañas de profetas milagrosos."
+        },
+        "yFrAvYiRvlYErZF0": {
+          "text": "<strong>Inquisidores dogmáticos.</strong> Este grupo jerárquico tremendamente dogmático pretende acabar con cualquier amenaza para sus creencias."
+        }
+      }
+    },
+    "tcoeSoulsOfTheTa": {
+      "name": "Almas del Tarokka",
+      "description": "<p><strong>Prisioneros del destino.</strong> Siempre que usas la propiedad «Giro del destino», existe la posibilidad de que una de las almas atrapadas en el mazo escape. Tira [[/r d100]] y consulta la tabla Almas del Tarokka. Si el resultado es una de las cartas mayores, el alma asociada con ella escapará. Puedes encontrar su perfil en el Monster Manual. Si el resultado es un alma que ya haya escapado, vuelve a tirar.</p><section class=\"secret\" id=\"secret-8ZYxRNidEnMZvkji\"><p><strong>Nota de Foundry</strong></p><p>Esta tabla está configurada para extraer resultados <em>sin</em> reemplazo, representando así la fuga de las almas de las cartas mayores. Sin embargo, el resultado que representa todas las demás cartas, 15-100, siempre se repondrá mediante la funcionalidad incluida en el módulo.</p></section><p>El alma liberada aparece en un lugar aleatorio a [[/r 10d10#Miles]] millas o menos de ti y aterroriza a los vivos. Hasta que el alma liberada es destruida, obtiene el beneficio de <strong>bienestar</strong> de la propiedad Giro del destino de la baraja, y tanto tú como el objetivo original del Giro del destino sufrís el efecto de <strong>aflicción</strong>.</p>",
+      "results": {
+        "1jzu5UdDKqS66J09": {
+          "text": "Vampiro"
+        },
+        "1lqwvZYAhyo53dZx": {
+          "text": "Calavera llameante"
+        },
+        "2GlVPCDrXpXAvNRS": {
+          "text": "Caballero de la muerte"
+        },
+        "3HoWw2y0UJKQ6nSH": {
+          "text": "Engendro vampírico"
+        },
+        "6ZwklEhoA7LBD2Zh": {
+          "text": "Engendro vampírico"
+        },
+        "7ixmwD484H8UC2Mv": {
+          "text": "La Inocente"
+        },
+        "8OGazlOH4ZFIUbfh": {
+          "text": "Momia"
+        },
+        "8Ove5RLJjFJ5XQgR": {
+          "text": "Aparición"
+        },
+        "BmFz3g5Jm8IQrQce": {
+          "text": "Las Brumas"
+        },
+        "BTkzmtnmDxWeEgVI": {
+          "text": "El Hundido"
+        },
+        "C21DfPR4kDawnf71": {
+          "text": "La Seductora"
+        },
+        "d32bQCfKIgOkd7J0": {
+          "text": "El Artefacto"
+        },
+        "dh4vrtXaAMVD5s24": {
+          "text": "Señor de las momias"
+        },
+        "FbSiyBDNbJ1l57lH": {
+          "text": "La Mazmorra"
+        },
+        "fdJETQfuqxLKf3gU": {
+          "text": "El Lord Oscuro"
+        },
+        "hCarkS7GNr0x1G7K": {
+          "text": "La Bestia"
+        },
+        "JgGlooogAzWPlquv": {
+          "text": "(no escapa ningún alma)"
+        },
+        "jPLe8u5hZygQtENg": {
+          "text": "Fantasma"
+        },
+        "k6D0XGVNdUFnOfrs": {
+          "text": "El Vidente"
+        },
+        "LrZkhbyekgRcZYQk": {
+          "text": "Aparición"
+        },
+        "maQLuILTUNAeUMLl": {
+          "text": "El Jinete"
+        },
+        "NViC2jV5epoAsFXP": {
+          "text": "Momia"
+        },
+        "o3ssoVPuEJe0QqA2": {
+          "text": "Fantasma"
+        },
+        "q0Rl0By4JvJQHbQE": {
+          "text": "Banshee"
+        },
+        "QIWGqIaINWSHOYlj": {
+          "text": "El Cuervo"
+        },
+        "QobkOuD23Jp9UJc5": {
+          "text": "El Verdugo"
+        },
+        "tq6jFvZQOx7i9J61": {
+          "text": "Vampiro"
+        },
+        "TwFLGKhnKswNCLiM": {
+          "text": "La Marioneta"
+        },
+        "uaryuuvU5lb62kwH": {
+          "text": "Fantasma"
+        }
+      }
+    },
+    "tcoeSovereignCon": {
+      "name": "Contacto del soberano",
+      "results": {
+        "cGrMIhFzJhv7JRic": {
+          "text": "<strong>Maestro de espías.</strong> Un operativo de inteligencia se encarga del trabajo sucio de la nación para que el soberano no se manche las manos."
+        },
+        "dQWEpxkDr6FJWPS3": {
+          "text": "<strong>Asamblea espectral.</strong> Un consejo fantasmagórico de los anteriores regentes de la nación se manifiesta para evitar desastres."
+        },
+        "dsxluprwRWfYtpk8": {
+          "text": "<strong>Asistente ejecutivo.</strong> Las responsabilidades de un riguroso mayordomo o de cualquier otro miembro del servicio doméstico de la casa real se quedan cortas para todo lo que hace."
+        },
+        "hxtGcbk5hVWINi4K": {
+          "text": "<strong>Administrador.</strong> Este recto burócrata no está de acuerdo con muchas de las políticas del soberano, pero su lealtad puede más que su opinión."
+        },
+        "iAjkkmXqIXV0C9vL": {
+          "text": "<strong>Confidente íntimo.</strong> Puede tratarse de un amigo o de un amante del soberano que pretende ayudarle sea como sea."
+        },
+        "XaO0PhoMdVKrFc0t": {
+          "text": "<strong>Emisario.</strong> Un embajador semijubilado y hedonista os da instrucciones, entre sugerencias e indirectas."
+        }
+      }
+    },
+    "tcoeSovereignQue": {
+      "name": "Misiones del soberano",
+      "results": {
+        "04ljqKklDuZ4vHbK": {
+          "text": "<strong>Poner a prueba al heredero.</strong> Preparáis al heredero del soberano para el desafío de ascender al trono."
+        },
+        "KrgbqZDSFSLuntue": {
+          "text": "<strong>Diplomacia a la desesperada.</strong> Tratáis de firmar la paz con una fuerza o una entidad que podría acabar con vuestra nación."
+        },
+        "Pv1dYsN2Wxbtz1KF": {
+          "text": "<strong>Azote de la corrupción.</strong> Ayudáis al soberano a reformar el gobierno, para lo que hay que acabar con algunos malos hábitos institucionales."
+        },
+        "WIygHgi5YZivU3uO": {
+          "text": "<strong>Espionaje internacional.</strong> El objetivo es robar información secreta, símbolos nacionales o una superarma de una potencia enemiga."
+        },
+        "YC8FbhUA27qQlIy8": {
+          "text": "<strong>Desgastar al enemigo.</strong> Queréis debilitar o acabar con un rival que se enfrenta al gobierno del regente, el cual puede ser un general, un archidruida o un noble que quiere hacerse con el trono."
+        },
+        "zTNTWZSBt39UtGls": {
+          "text": "<strong>Ocultar la vergüenza.</strong> El soberano se ha visto envuelto en un escándalo y no debe quedar rastro."
+        }
+      }
+    },
+    "tcoeSovereignTyp": {
+      "name": "Tipos de soberano",
+      "results": {
+        "5ghhMyWXp6Saqidj": {
+          "text": "<strong>Anciano de la aldea.</strong> El marchito líder de una comunidad que ofrece liderazgo cívico y moral."
+        },
+        "bHUY7wYN5CRY8TCh": {
+          "text": "<strong>Poder oculto.</strong> Una figura misteriosa manipula al líder de la nación, que no es más que su marioneta, y dicta las verdaderas intenciones del gobierno."
+        },
+        "DzPdjHQXjOnU2hdM": {
+          "text": "<strong>Gobernador a la deriva.</strong> Un líder desesperado lucha por mantener vivo a su pueblo en un lugar inhóspito para el que les falta lo necesario para sobrevivir."
+        },
+        "K8721fd2zhNYQZ4G": {
+          "text": "<strong>Rey verdadero.</strong> El legítimo heredero al trono lucha por recuperar el poder de un impostor exacto."
+        },
+        "pqnQFA4GJih1TSiK": {
+          "text": "<strong>Líder resucitado.</strong> El venerado líder de una tribu ha vuelto de entre los muertos y quiere resucitar su gloria de antaño."
+        },
+        "Vnef9ctI9isJiymq": {
+          "text": "<strong>Joven noble.</strong> Un noble ambicioso que pretende ansiosamente reformar la sociedad de acuerdo con sus principios."
+        }
+      }
+    },
+    "tcoeStarMapForm0": {
+      "name": "Mapa estelar",
+      "description": "<p>Has creado un mapa estelar como parte de tus estudios del firmamento. Es un objeto Diminuto y puede servir como canalizador mágico para tus conjuros de druida. Escoge su forma de entre las de esta tabla o tira un dado para decidirlo.</p>",
+      "results": {
+        "aghPhcpiJNK66NM5": {
+          "text": "Una tablilla de piedra perforada con pequeños agujeros"
+        },
+        "B9aI6FkXkzKJwJUo": {
+          "text": "Un trozo de piel moteada de oso lechuza, decorada con grabados"
+        },
+        "BMsL5MXLQmIqwiHZ": {
+          "text": "Un conjunto de mapas encuadernados con una cubierta de ébano"
+        },
+        "dXpCqm7OMWPVz2HF": {
+          "text": "Discos de vidrio que representan las distintas constelaciones"
+        },
+        "EbJTGBr9oKxL33MR": {
+          "text": "Un cristal que proyecta patrones de estrellas cuando se coloca frente a una luz"
+        },
+        "KQwLc2Z4b8ktzong": {
+          "text": "Un pergamino con representaciones de constelaciones"
+        }
+      }
+    },
+    "tcoeSwarmAppeara": {
+      "name": "Aspecto del enjambre",
+      "description": "<p>Un enjambre de espíritus de la naturaleza intangibles se ha vinculado a ti y puede ayudarte en combate. Mientras estés vivo, el enjambre permanece en tu espacio, trepando por ti, volando o correteando a tu alrededor. Tú determinas su aspecto o lo generas tirando en esta tabla.</p>",
+      "results": {
+        "0is0e7F5CU4Hojxz": {
+          "text": "Enjambre de insectos"
+        },
+        "C0p0wbVGAWWh00g7": {
+          "text": "Hadas juguetonas"
+        },
+        "GJcdYlgDX4I9mwOo": {
+          "text": "Ramas marchitas diminutas"
+        },
+        "LRsr9gGmzpul7QIE": {
+          "text": "Pájaros revoloteando"
+        }
+      }
+    },
+    "tcoeSyndicateCon": {
+      "name": "Contacto del sindicato",
+      "results": {
+        "E1CAsjjgxr35a90n": {
+          "text": "<strong>Vividor.</strong> El dueño de un garito local donde impera el vicio (en forma de juego, droga u otros placeres) os echa una mano cuando no está inmerso en su propio desenfreno."
+        },
+        "hvf0SuoaudYBj32d": {
+          "text": "<strong>Guardia retirado.</strong> Vuestro contacto era (o quizás todavía lo sea) un miembro de los cuerpos de seguridad locales. Conoce al dedillo el funcionamiento de la ley en vuestra zona y, como consecuencia de ello, muestra una buena dosis de paranoia."
+        },
+        "Juqkyqc6fbcTZ0h2": {
+          "text": "<strong>Mentor personal.</strong> Este antiguo miembro del sindicato acogió a alguien del grupo bajo su protección cuando era joven y se ha convertido en una figura paterna."
+        },
+        "N7WKEOyxf7Rww9Sa": {
+          "text": "<strong>Nobleza criminal.</strong> Aunque la mayoría lo ignora, vuestro contacto es un miembro de la nobleza o la realeza local. El porqué de su relación con el sindicato es un misterio inquietante."
+        },
+        "Sjet8R8J0dFThN5z": {
+          "text": "<strong>Traidor.</strong> Os consta que vuestro contacto ha traicionado al sindicato, pero aún tiene suficiente influencia como para que no os atreváis a contrariarlo (de momento)."
+        },
+        "Z32dOB3ZBcfvQpDz": {
+          "text": "<strong>Rata callejera.</strong> Alguien poco llamativo, un mendigo o un trabajador humilde, pero que conoce a todo el que importa y comparte sus contactos con el grupo."
+        }
+      }
+    },
+    "tcoeSyndicateQue": {
+      "name": "Misiones del sindicato criminal",
+      "results": {
+        "0jmvVOXg7j8LnV8C": {
+          "text": "<strong>Magnicidio.</strong> Liquidáis a gente importante, de esa que tiene un montón de guardaespaldas y sistemas de seguridad muy sofisticados."
+        },
+        "4MI9HhgLtUpz3bW2": {
+          "text": "<strong>Atracos.</strong> Planificáis y ejecutáis robos elaborados que requieren la combinación de habilidades del equipo."
+        },
+        "6BJvyjSx9Hg2KvVy": {
+          "text": "<strong>Derrocar a los poderosos.</strong> Formáis parte de un sindicato criminal y sus métodos son ilegales, pero sus fines son lícitos. Ayudáis a gente indefensa contra la explotación a la que la someten los poderosos."
+        },
+        "6Dp9wNFq3SJU7qCt": {
+          "text": "<strong>Guerra de bandas.</strong> Os aseguráis de que ningún otro sindicato criminal consiga poder en vuestro territorio."
+        },
+        "EcKjuzJVhpaQDMIY": {
+          "text": "<strong>Disciplina interna.</strong> Mantenéis a raya a los miembros corruptos, tercos o avariciosos de la organización y obligáis a que cumplan las normas y los objetivos del sindicato."
+        },
+        "Gmt06I0czJn6AC3c": {
+          "text": "<strong>Adquisición y recuperación.</strong> El grupo adquiere activos para el sindicato. Robáis documentos importantes o despejáis lugares para usarlos como escondite."
+        }
+      }
+    },
+    "tcoeSyndicateTyp": {
+      "name": "Tipos de sindicato",
+      "results": {
+        "AQZNb9OKMZIsVIXw": {
+          "text": "<strong>Flota pirata.</strong> Esta alianza de capitanes piratas está unida bajo las órdenes de un capitán o un almirante común y cumple un estricto código de honor. Solo se congregan como respuesta a una amenaza externa."
+        },
+        "dQWXJk4AYQvsa09P": {
+          "text": "<strong>Gremio de ladrones.</strong> Un grupo dispar de ladrones, espías, contrabandistas y otros sinvergüenzas controla la actividad criminal de una zona de la ciudad."
+        },
+        "irbeuTxWRzf7ufTQ": {
+          "text": "<strong>Ladrones de pensamientos.</strong> Estos delincuentes psíquicos se infiltran en la mente de sus víctimas para robarles secretos y camuflar su existencia."
+        },
+        "JmCIgJs6ngSzkIeV": {
+          "text": "<strong>Círculo de asesinos.</strong> La muerte es el medio de vida de esta red. Sus miembros perfeccionan sus habilidades como asesinos, envenenadores, expertos en eliminación de cadáveres y cualquier otra labor relacionada con poner fin a las vidas de otros. Las motivaciones de este círculo pueden ir desde el simple dinero a una causa más importante."
+        },
+        "qsNv7bk5UQ7OroFF": {
+          "text": "<strong>Ladrones de cuerpos.</strong> Este sindicato está compuesto sobre todo, si no en su totalidad, por criaturas que poseen a otras personas o se hacen pasar por ellas. Su objetivo es sustituir a gente con influencia de todas las capas de la sociedad por integrantes de su grupo."
+        },
+        "SSv8ZgTB9GesDbSo": {
+          "text": "<strong>Traficantes de armas mágicas.</strong> El sindicato ha acaparado el mercado de los dispositivos mágicos mortales. Ofrecen sus productos y servicios a cambio de un precio y consiguen un poder mágico asombroso para aquellos que cumplen sus peticiones."
+        }
+      }
+    },
+    "tcoeTeethOfDehlv": {
+      "name": "Dientes de Dahlver-Nar",
+      "results": {
+        "4GlGDVitP1y8kAyg": {
+          "text": "La última tarasca (fragmento serrado de diente de tarasca)"
+        },
+        "4su5JVv1KxhXra0i": {
+          "text": "Fatalidades de los Malpheggi (colmillo esmeralda de hombre lagarto)"
+        },
+        "4wDRARDQMvMflaHB": {
+          "text": "Las garras de Dragotha (colmillo translúcido roto)"
+        },
+        "8GkZ8FgIjGPufjpx": {
+          "text": "Las mil muertes de Jander Sunstar (colmillo amarillento de vampiro)"
+        },
+        "8okwimEzwFZ7YcFe": {
+          "text": "Los gatos atentos de Uldun-dar (molar felino de marfil)"
+        },
+        "75ed5M76SMGmqOfS": {
+          "text": "Leyendas de fantasmas y espectros (molar humano de obsidiana)"
+        },
+        "bybZ81u7uVadepd5": {
+          "text": "El ensueño del asno (molar de burro de color arcoíris)"
+        },
+        "C57NoKLheRYX25aW": {
+          "text": "Por qué grita el cielo (colmillo de dragón azul)"
+        },
+        "dkBeTI5xdzHXOuP0": {
+          "text": "Diente de Incendax (colmillo de dragón rojo con vetas de rubí)"
+        },
+        "EX8QDR31LtJf8ENP": {
+          "text": "Las hijas de Bel (colmillo de acero verde de diablo de la sima)"
+        },
+        "FM5LRQBhyHp00CwG": {
+          "text": "Más allá de la Roca de Bral (diente plateado de azotamentes)"
+        },
+        "HBYnDmrjEFD8TFDN": {
+          "text": "La edad de oro de Dhakaan (bicúspide dorado de goblin)"
+        },
+        "HQdHSk5SpVZI6KL6": {
+          "text": "Diente de Dahlver-Nar (molar humano polvoriento)"
+        },
+        "LF3ci8XdFtDRGy5I": {
+          "text": "El secreto de la Mano Firme (canino humano de sabor dulce)"
+        },
+        "ny2sP2iWNe5F5vi2": {
+          "text": "El día sorprendente de Duggle (molar humano)"
+        },
+        "QvwK404Lmvy6PJBs": {
+          "text": "Cenizas de las edades y el fuego eterno (bicúspide de jade de humanoide)"
+        },
+        "sfMmVIXgYcDdOOww": {
+          "text": "Tres puentes al cielo (colmillo de oni de lapislázuli)"
+        },
+        "UI6Zb6MJ6Ftu1Ven": {
+          "text": "Los asesinatos de la senda del molino (canino de mediano)"
+        },
+        "VdCNOhRANRRidcmG": {
+          "text": "Las desapariciones de Semihueco (diente vomerino de sapo Grande)"
+        },
+        "wFn79I6VbjLgH39Z": {
+          "text": "Las pesadillas de Kaggash (diente retorcido de contemplador)"
+        }
+      }
+    },
+    "tcoeTrinkets0000": {
+      "name": "Baratijas",
+      "results": {
+        "1f1jgDatQF9nHgXL": {
+          "text": "Un par de dados de tabas, cada uno con un símbolo de calavera en la cara donde normalmente habría seis puntos"
+        },
+        "1o0FQMfiHEyeZC9X": {
+          "text": "Una esfera de latón grabada con extrañas runas"
+        },
+        "2AHNyVygpG2i9SZo": {
+          "text": "Un pañuelo morado bordado con el nombre de un archimago poderoso"
+        },
+        "2mJqDpFy3MdaxzGR": {
+          "text": "Una caja de madera con base de cerámica que contiene un gusano vivo con una cabeza en cada extremo del cuerpo"
+        },
+        "2zpsc41Vpg9o4OgT": {
+          "text": "Una lata metálica sin abertura que suena como si estuviera llena de líquido, arena, arañas o vidrio roto (a tu elección)"
+        },
+        "3A8MbsYDWrJ7sZ8P": {
+          "text": "Una mano momificada de goblin"
+        },
+        "3qwuGrbTiLuBCfOW": {
+          "text": "Un trozo de tela de un viejo estandarte"
+        },
+        "4JdyZR458qJPfkWg": {
+          "text": "Un diminuto icono de plata con forma de cuervo"
+        },
+        "4rnHE6FKs3DgNMqe": {
+          "text": "Una diminuta caja de música creada por gnomos que reproduce una canción que recuerdas vagamente de tu infancia"
+        },
+        "4rRLmjfxfvwWflOw": {
+          "text": "Una urna de metal que contiene las cenizas de un héroe"
+        },
+        "5VrMcBYfIXhnQMFc": {
+          "text": "Un mapa del tesoro indescifrable"
+        },
+        "8j1PhkONd4NoPltm": {
+          "text": "Una tabaquera de plata vacía con una inscripción en la superficie que dice «sueños»"
+        },
+        "8lLCNwDx9b9Jb0Mh": {
+          "text": "Un gorro de dormir que, al llevarlo puesto, te proporciona sueños agradables"
+        },
+        "9DyI8ThKgzmSyBZY": {
+          "text": "Una insignia de plata con forma de estrella de cinco puntas"
+        },
+        "12JQ3lfr6EhrF9Is": {
+          "text": "Un diario escrito en un idioma que no conoces"
+        },
+        "38JpyVHZmKfu5Vwn": {
+          "text": "Una diminuta jaula sin puerta"
+        },
+        "61dK3p9UJ9tFEKaj": {
+          "text": "Un collar de cuerda del que cuelgan cuatro dedos de elfo momificados"
+        },
+        "91RGj0WB5AsGSZF4": {
+          "text": "Una invitación a una fiesta donde ocurrió un asesinato"
+        },
+        "aCTgJY1zDHP98rkW": {
+          "text": "Un ojo de vidrio"
+        },
+        "As8GCtpAgB2J2cZK": {
+          "text": "Una flecha antigua de diseño élfico"
+        },
+        "AsOQP24kojUv7STD": {
+          "text": "Un pendiente de plata en forma de lágrima hecho con una lágrima auténtica"
+        },
+        "AxHAbNdijk0rIvsn": {
+          "text": "Un anillo de latón que nunca se empaña"
+        },
+        "B1yJPsAXgujuE5hJ": {
+          "text": "Una aguja que nunca se dobla"
+        },
+        "B8LV0fb60u65Cnh5": {
+          "text": "Un par de calcetines viejos"
+        },
+        "BOeO0F5T1XQIxOVf": {
+          "text": "Un frasco de vidrio que contiene un extraño trozo de carne flotando en líquido de conservación"
+        },
+        "BWGXp2ep9kEjkkjJ": {
+          "text": "Una hoja de pergamino sobre la que se ha dibujado un complejo artilugio mecánico"
+        },
+        "Bzz9Ims29e5w8f6T": {
+          "text": "Un tarro de vidrio que contiene manteca con una etiqueta que dice: «Grasa de grifo»"
+        },
+        "C9Yw2F5RRortnigh": {
+          "text": "Una antigua carta de adivinación con tu retrato"
+        },
+        "cGiIH2AgGQa2kKkW": {
+          "text": "Una bandera pirata negra adornada con una calavera de dragón y tibias cruzadas"
+        },
+        "ClOnkzCi2fyGMbte": {
+          "text": "Un bloque de 1 onza hecho de un material desconocido"
+        },
+        "dAUuHZfpJukFyxno": {
+          "text": "La cáscara de un huevo pintada con escenas de sufrimiento humano representadas con detalles perturbadores"
+        },
+        "DkXUR1lJR4O2G5HZ": {
+          "text": "Un símbolo sagrado de hierro dedicado a un dios desconocido"
+        },
+        "EDKtlKeCdHobbTjJ": {
+          "text": "Un trébol de cuatro hojas prensado dentro de un libro sobre modales y etiqueta"
+        },
+        "eLT9eOo7W7YTdirm": {
+          "text": "La escritura de propiedad de una parcela de tierra en un reino desconocido para ti"
+        },
+        "EmndF58nO0smJ2Jc": {
+          "text": "Una llave antigua"
+        },
+        "eTZEsBU0pSKIUm5j": {
+          "text": "Un único abrojo hecho de hueso"
+        },
+        "EUo8WTWUAyHeaMLv": {
+          "text": "Un fragmento de una hermosa canción, escrito como notas musicales en dos trozos de pergamino"
+        },
+        "Eva5jF0qSbukutgn": {
+          "text": "Una insignia de rango de un legionario de una legión perdida"
+        },
+        "fkYqwAqluqwwAFhW": {
+          "text": "Un fragmento de obsidiana que siempre se siente cálido al tacto"
+        },
+        "G0BcVsi0SJ9LhcC4": {
+          "text": "Un pentáculo de bronce con un grabado de la cabeza de una rata en el centro"
+        },
+        "gIO8ZeR93EFfwszz": {
+          "text": "Un huevo de 1 libra con una cáscara de color rojo brillante"
+        },
+        "GlEtZf8txhWDTOlm": {
+          "text": "Una enorme escama, quizá de dragón"
+        },
+        "HHN81FWfK8oA4m6i": {
+          "text": "Un diminuto cangrejo o araña mecánica que se mueve cuando no está siendo observado"
+        },
+        "IjEEyv2owfB32bP7": {
+          "text": "Un escarabajo muerto del tamaño de tu mano"
+        },
+        "ijfwd7CmxmlMXiwJ": {
+          "text": "Un cuchillo que perteneció a un pariente"
+        },
+        "IX914RdhqpEHBv0r": {
+          "text": "Un vial de vidrio vacío que huele a perfume cuando se abre"
+        },
+        "j0CuUle5MUlLCYtv": {
+          "text": "Un conjunto de flautas de hueso"
+        },
+        "J0rfpTnqxke8Ze4M": {
+          "text": "Una pequeña caja llena de botones de distintos tamaños"
+        },
+        "J2w4CwLMjTgU3x2x": {
+          "text": "Un camafeo tallado con la efigie de una persona horrible"
+        },
+        "J69VJe9roszQhWOI": {
+          "text": "Dos soldados de juguete, uno de ellos sin cabeza"
+        },
+        "Jf4EWpIEcrCa65SR": {
+          "text": "La montura de un monóculo de oro sin lente"
+        },
+        "JNA4iEmGwsQJuhO4": {
+          "text": "Un dispositivo metálico rectangular con dos pequeñas copas metálicas en un extremo que produce chispas cuando se moja"
+        },
+        "JPJyXd1PMikID56Z": {
+          "text": "Una pirámide de incienso negro y pegajoso que huele muy mal"
+        },
+        "k0wwZmj6GOwk9mR8": {
+          "text": "Un abanico que, al desplegarse, muestra un gato dormido"
+        },
+        "kIgP9EDA2jD75IjE": {
+          "text": "Una tesela de mosaico con una superficie vidriada multicolor"
+        },
+        "kvTm4JAmDxAvpzBU": {
+          "text": "Un fragmento de cristal que brilla tenuemente a la luz de la luna"
+        },
+        "M1NlCVDtCCCEsBeW": {
+          "text": "Un libro en blanco cuyas páginas se niegan a retener tinta, tiza, grafito o cualquier otra sustancia o marca"
+        },
+        "MLg7cm07DkKXqv0L": {
+          "text": "Un duendecillo muerto dentro de una botella de vidrio transparente"
+        },
+        "N98qxIYLxFPQcji2": {
+          "text": "Una cuchara de plata con una M grabada en el mango"
+        },
+        "nh2en9tmQU9YTyzi": {
+          "text": "Una vieja pieza de ajedrez hecha de vidrio"
+        },
+        "NMlCnTdr2j3Uay24": {
+          "text": "Una pata de conejo"
+        },
+        "NSbRFK8zx2qhNIOI": {
+          "text": "Una botella de vino vacía con una hermosa etiqueta que dice: «The Wizard of Wines Winery, Red Dragon Crush, 331422-W»"
+        },
+        "NspSIEnSRdSMHJ04": {
+          "text": "Una moneda de oro acuñada en una tierra desconocida"
+        },
+        "nzraNl4PEKT4NC9e": {
+          "text": "Un diminuto cofre tallado para que parezca tener numerosas patas en la base"
+        },
+        "o70ejNtAWLTfvvYN": {
+          "text": "Una garra huesuda de dragón colgada de un sencillo collar de cuero"
+        },
+        "ol4QlAMBHaNAY4hl": {
+          "text": "Un libro que narra el ascenso y la caída de un héroe legendario y al que le falta el último capítulo"
+        },
+        "OP1y80rnnFZbmjFu": {
+          "text": "Una vaina ornamentada en la que no encaja ninguna hoja que hayas encontrado hasta ahora"
+        },
+        "oxhx3mS1VGzle6DX": {
+          "text": "Un trozo de tela doblado que, al desplegarse, se convierte en una elegante gorra"
+        },
+        "PafnrFXlZoK8gNkh": {
+          "text": "Una vela que no puede encenderse"
+        },
+        "PaJ7D03IexCbg564": {
+          "text": "Un diario al que le faltan siete páginas"
+        },
+        "PGJJr8NcuXKe3g8l": {
+          "text": "Un pequeño bloque de piedra sin peso"
+        },
+        "pRRLbArbkaqFytcS": {
+          "text": "Un pequeño ídolo que representa a una criatura de pesadilla y que te provoca sueños inquietantes cuando duermes cerca de él"
+        },
+        "QGu3o6KClBYE8LAQ": {
+          "text": "Un guante blanco con lentejuelas del tamaño adecuado para un humano"
+        },
+        "QhPu0OHu6KnhpPSR": {
+          "text": "Un canario mecánico dentro de una lámpara fabricada por gnomos"
+        },
+        "qLeKUIuPYjxEFtxK": {
+          "text": "Una pequeña estatuilla de madera de un mediano con aire autosatisfecho"
+        },
+        "RBp8S8NhGOHq1ZSx": {
+          "text": "Un silbato hecho de madera de color dorado"
+        },
+        "RthlMjHLEQiTeWdo": {
+          "text": "La mitad del plano de planta de un templo, un castillo u otra estructura"
+        },
+        "SocDQSM5UDFwu177": {
+          "text": "Una esfera de vidrio llena de humo en movimiento"
+        },
+        "sUdH7AaXAte1acfI": {
+          "text": "Una esfera de vidrio llena de agua en la que nada un pez dorado mecánico"
+        },
+        "sykdipI2yrjjYjq1": {
+          "text": "Un ratón petrificado"
+        },
+        "TkvcoDwmEy0bFBcQ": {
+          "text": "Una pequeña muñeca de tela atravesada por agujas"
+        },
+        "tN9IxMVSM2vJMU1e": {
+          "text": "Una gema que parece un trozo de carbón cuando la examina cualquiera que no seas tú"
+        },
+        "UVaUUQDqESrLHNU9": {
+          "text": "Un broche ornamentado de diseño enano"
+        },
+        "X4jgJUqYaONf79mH": {
+          "text": "Una pipa que sopla burbujas"
+        },
+        "xpeQ2TwQnKgOhEg3": {
+          "text": "Un diente de una bestia desconocida"
+        },
+        "xUp3YPtHoE3Gdt0x": {
+          "text": "Un recibo de depósito de un banco situado en una ciudad remota"
+        },
+        "XvvtXP8xQWZFC3bO": {
+          "text": "Una diminuta campana de plata sin badajo"
+        },
+        "xx4SlkIAKingvnkQ": {
+          "text": "Un pequeño paquete lleno de polvo rosa"
+        },
+        "xzfrwMdm9nbh7Dtp": {
+          "text": "Un chaleco con cien diminutos bolsillos"
+        },
+        "Y0ymTo3EIsAzTB8c": {
+          "text": "Un vial de sangre de dragón"
+        },
+        "yAzSn2zXbgTQnUUS": {
+          "text": "Un vial de vidrio lleno de recortes de uñas"
+        },
+        "yFvGeC7DlhNOBlTR": {
+          "text": "La empuñadura de una espada rota"
+        },
+        "YfwE5lBN8Fbu3bBC": {
+          "text": "Una calavera de plata del tamaño de una moneda"
+        },
+        "YOJdLwTXFSH3ffhI": {
+          "text": "Un cubo de 1 pulgada con cada cara pintada de un color diferente"
+        },
+        "Z4Zjf08QPTIBk6GF": {
+          "text": "Un diminuto retrato a carboncillo de un goblin"
+        },
+        "Zj9ExRB2WZwr2jjl": {
+          "text": "Un pomo de cristal procedente de una puerta"
+        },
+        "zJsE5ALLNMxQE8nx": {
+          "text": "Una bolsa que contiene cuarenta y siete dientes de humanoide, uno de ellos podrido"
+        },
+        "ZL128G4JHRyRIQVi": {
+          "text": "Un disco de piedra multicolor"
+        },
+        "zno8w1USsdab8LTJ": {
+          "text": "Una máscara de alabastro"
+        },
+        "ZsC70IzMBo8V8Z0F": {
+          "text": "Una pluma de color verde brillante"
+        }
+      }
+    },
+    "tcoeUndeadDesire": {
+      "name": "Deseos de muertos vivientes",
+      "description": "<p>Algunas opciones de ofrendas que podría desear un muerto viviente.</p>",
+      "results": {
+        "6ktI7Da68laZrPWd": {
+          "text": "Un vial de sangre"
+        },
+        "L0FJKHfXj4akiE6V": {
+          "text": "Completar una tarea que la criatura no pudo terminar en vida"
+        },
+        "po7TB0qfHaxH8ZhA": {
+          "text": "Un recuerdo personal del pasado de la criatura"
+        },
+        "rOjCCs5JzlQwiYdC": {
+          "text": "Materiales, herramientas o conocimientos para proteger del sol un mausoleo en ruinas"
+        }
+      }
+    },
+    "tcoeUnearthlyRoa": {
+      "name": "Llaves de caminos sobrenaturales",
+      "description": "<p>Opciones para acceder a distintos caminos sobrenaturales.</p>",
+      "results": {
+        "4wiUoSbnESaSUnlX": {
+          "text": "Ser descendiente de un héroe legendario"
+        },
+        "CdulYOLO9wEAVnQi": {
+          "text": "Lanzar un orbe de plata a través de un arco antiguo"
+        },
+        "FeXVO0ZfBfNSnsvC": {
+          "text": "Derramar una pinta de sangre de humanoide"
+        },
+        "JF0T6Ad9RSc54eVS": {
+          "text": "Sacrificar para siempre un recuerdo feliz"
+        },
+        "khdmXAFVew26YNw9": {
+          "text": "Pronunciar tres veces el nombre de un archifata concreto"
+        },
+        "XqPogoNZcaXH5ym6": {
+          "text": "Vestir las insignias de una dinastía real desaparecida"
+        }
+      }
+    },
+    "tcoeUnravelingMa": {
+      "name": "Efectos de magia desatada",
+      "description": "<p>Un efecto que puede producirse en una región sobrenatural de magia desatada.</p>",
+      "results": {
+        "0lb3TgSxAh4L465d": {
+          "text": "Todo el fuego de la región se congela y se convierte en hielo que emite una luz azul equivalente a la iluminación que proporcionaba normalmente. Además, la región irradia frío extremo (consulta la Guía del Dungeon Master) durante 1 día."
+        },
+        "0nIVvye4ZoSanor9": {
+          "text": "Un relámpago forma una línea de 5 pies de ancho entre dos criaturas de la región que estén a 30 pies o menos entre sí y no se encuentren tras cobertura completa. Cada criatura de la línea (incluidas ambas) debe realizar una tirada de salvación de [[/save dexterity dc=13]]; recibe [[/damage 4d6 type=lightning]] si falla o la mitad si tiene éxito."
+        },
+        "2fl4y3wWrceKmMcv": {
+          "text": "Una criatura al azar de la región que posea espacios de conjuro se convierte en un foco de magia ambiental durante 1 hora. Al final de cada uno de sus turnos, las demás criaturas situadas a 10 pies o menos deben superar una tirada de salvación de [[/save dexterity]] contra la CD de salvación de conjuros del lanzador o recibir [[/damage 1d6 type=force]]."
+        },
+        "4f8jM87ix91Sh4Mx": {
+          "text": "Una energía arremolinada rodea a una criatura al azar de la región durante 24 horas. Mientras dure el efecto, obtiene resistencia al daño de fuerza y su velocidad se reduce en 10 pies."
+        },
+        "8L76sBGsLbai2cjN": {
+          "text": "Unos destellos de energía mágica recorren la región durante 1 minuto. Mientras dure el efecto, cada asalto en la posición 20 del orden de iniciativa (perdiendo todos los empates), una criatura al azar de la región recibe 2d4 de daño de un tipo determinado mediante [[/r 1d6]]: 1, [[/damage 2d4 type=acid]]{ácido}; 2, [[/damage 2d4 type=cold]]{frío}; 3, [[/damage 2d4 type=fire]]{fuego}; 4, [[/damage 2d4 type=force]]{fuerza}; 5, [[/damage 2d4 type=lightning]]{relámpago}; o 6, [[/damage 2d4 type=thunder]]{trueno}."
+        },
+        "8UlIgRxp0IKpNdq3": {
+          "text": "El conjuro @UUID[Compendium.dnd5e.spells.Item.FjYE214HTERCRZNm]{esfera de llamas} ([[/save dexterity dc=15]]) se activa espontáneamente en un espacio desocupado a 5 pies o menos del grupo. En la posición 20 del orden de iniciativa (perdiendo todos los empates), la esfera se mueve 30 pies hacia la criatura más cercana. Desaparece tras 1 minuto."
+        },
+        "beUftEVmMOukOLyw": {
+          "text": "Cada personaje de la región aprende magia repentinamente. Aprende un truco de mago de su elección y lo conoce durante [[/r 1d8]] días."
+        },
+        "BXLy1EB2lacBLWAJ": {
+          "text": "Una criatura al azar de la región que haya gastado espacios de conjuro recupera uno de un nivel al azar."
+        },
+        "FLdRi15Nm6s8u2QD": {
+          "text": "Las armas sencillas o marciales no mágicas de la región crepitan de poder. Durante 1 hora se convierten en armas mágicas que conceden un bonificador de +1 a las tiradas de ataque y daño realizadas con ellas."
+        },
+        "h1loajHNroEu5LiQ": {
+          "text": "La región se convierte en una zona de magia muerta durante 1 hora. Mientras dure el efecto, toda ella queda afectada por el conjuro @UUID[Compendium.dnd5e.spells.Item.Eon0jzGzQRNluTPQ]{campo antimagia}."
+        },
+        "hsFPj7DvEarlrVJQ": {
+          "text": "En la posición 20 del orden de iniciativa (perdiendo todos los empates), dos criaturas al azar de la región deben realizar sendas tiradas de salvación de [[/save charisma dc=15]]. Si alguna falla, las criaturas se teletransportan mágicamente e intercambian sus posiciones. Si ambas tienen éxito, no se teletransportan."
+        },
+        "jjXbaMyTAOMyZWV9": {
+          "text": "Una criatura al azar de la región crepita con chispas de luz durante 1 hora. Mientras dure el efecto, proyecta mágicamente luz brillante en un radio de 10 pies y luz tenue 10 pies más allá. Además, cualquier criatura a la que toque (lo que requiere un ataque sin armas si el objetivo no está dispuesto) recibe [[/damage 1d6 type=force]]."
+        },
+        "jWpV8S4vth5cC9gI": {
+          "text": "Durante las próximas 24 horas, la primera vez que una criatura de la región elija a otra criatura como objetivo de un conjuro, el lanzador debe realizar una tirada de salvación CD 11 usando su aptitud mágica. Si falla, el conjuro elige al lanzador como objetivo. Si tiene éxito, funciona con normalidad. Entonces este efecto termina."
+        },
+        "kn2RZ1auyNeWKEjl": {
+          "text": "Una criatura al azar de la región deshace conjuros durante 1 hora. Siempre que alguien situado a 20 pies o menos de ella lance un conjuro, el lanzador debe superar una tirada de salvación CD 15 usando su aptitud mágica o el conjuro se disipa sin efecto. El espacio de conjuro, carga o uso del rasgo que lo alimentaba se desperdicia."
+        },
+        "Nqo4ZU39v4HB0DVi": {
+          "text": "Uno de los personajes de la región debe superar una tirada de salvación de [[/save wisdom dc=15]] o transformarse en un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.jOANE6M0My6UJF4e]{perro intermitente}, como mediante el conjuro @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polimorfar}. El conjuro dura 1 hora o hasta que sea disipado."
+        },
+        "tzbmxkA7C6E8BdM6": {
+          "text": "Una criatura al azar de la región que posea espacios de conjuro gasta uno de un nivel al azar en una inofensiva lluvia de chispas y sonidos."
+        },
+        "winZohSivvtYaj9L": {
+          "text": "El conjuro @UUID[Compendium.dnd5e.spells.Item.ERCv7yuRkQ0YjGx6]{invertir gravedad} ([[/save dexterity dc=18]]) se activa durante 1 minuto, centrado en el suelo bajo una criatura al azar de la región."
+        },
+        "wmdFNENbTD3nYCiH": {
+          "text": "Todos los objetos mágicos de la región pierden temporalmente sus propiedades mágicas y se vuelven no mágicos durante 1 hora. Los artefactos no se ven afectados. Cuando los objetos recuperan su magia, también se restablece la sintonización de las criaturas con ellos."
+        },
+        "WPZfO6I8cERrzLhE": {
+          "text": "Una criatura al azar de la región debe superar una tirada de salvación de [[/save dexterity dc=15]] o quedar encerrada en la @UUID[Compendium.dnd5e.spells.Item.1ADstb0Xec6HHRcU]{esfera elástica} de Otiluke durante 1 minuto."
+        },
+        "XwL2UoYrf3sAzlZm": {
+          "text": "Una criatura al azar de la región puede lanzar repentinamente una vez el conjuro @UUID[Compendium.dnd5e.spells.Item.3okM6Gn63zzEULkz]{deseo} durante el próximo minuto. Vuelve a tirar si has obtenido este efecto en las últimas 24 horas."
+        }
+      }
+    },
+    "tcoeWildMagicEru": {
+      "name": "Magia salvaje",
+      "description": "<p>La energía mágica que borbotea en tu interior a veces se desborda. Cuando te dejes llevar por la furia, haz una tirada en la tabla Magia salvaje para determinar el efecto mágico producido.</p><p>Si el efecto obliga a hacer una tirada de salvación, tu CD es igual a 8 + tu bonificador por competencia + tu modificador por Constitución.</p>",
+      "results": {
+        "3Eqsr0sWvhpMH6yQ": {
+          "text": "Cuando una criatura te impacte con una tirada de ataque antes de que finalice tu furia, recibirá [[/damage 1d6 type=force]] de daño de fuerza, ya que la magia la atacará como castigo."
+        },
+        "5NKzELyQKOUooO5w": {
+          "text": "A tu alrededor crecen temporalmente flores y parras; hasta que finalice tu furia, el suelo a 15 pies o menos de ti será terreno difícil para tus enemigos."
+        },
+        "DP5BhOo91G4ijGRX": {
+          "text": "Hasta que finalice tu furia, estarás rodeado de luces protectoras de varios colores; obtienes un bonificador de +1 a la CA y tus aliados obtendrán lo mismo mientras estén a 10 pies o menos de ti."
+        },
+        "gnRZAmmuWnOantOz": {
+          "text": "Unos zarcillos sombríos dan latigazos a tu alrededor. Cada criatura de tu elección que puedas ver a 30 pies o menos de ti deberá tener éxito en una tirada de salvación de Constitución [[/save ability=con]] o sufrirá [[/damage 1d12 type=necrotic]] de daño necrótico. También ganas [[/r 1d12#Temporary Hit Points]] puntos de golpe temporales."
+        },
+        "i4J1zLaTDalSYqui": {
+          "text": "Un espíritu intangible, con aspecto de flumph o pixie (a tu elección), aparece a 5 pies o menos de una criatura de tu elección que puedas ver a 30 pies o menos de ti. Al final de ese turno, el espíritu explota y cada criatura que esté a 5 pies o menos de él deberá tener éxito en una tirada de salvación de Destreza [[/save ability=dex]] o recibirá [[/damage 1d6 type=force]] de daño de fuerza. Hasta que finalice tu furia, podrás volver a usar este efecto e invocar a otro espíritu en cada uno de tus turnos como acción adicional."
+        },
+        "m6cpBk67eC4r3dcX": {
+          "text": "La magia imbuye un arma de tu elección que sostengas. Hasta que finalice tu furia, el tipo de daño del arma cambiará a fuerza y tendrá las propiedades «ligera» y «arrojadiza», con un alcance normal de 20 pies y un alcance largo de 60. Si el arma abandona tu mano, volverá a aparecer en ella al final de ese turno."
+        },
+        "R4CVbQ6tZAeq7sN9": {
+          "text": "De tu pecho sale un rayo de luz. Otra criatura de tu elección que puedas ver a 30 pies o menos de ti deberá tener éxito en una tirada de salvación de Constitución [[/save ability=con]] o sufrirá [[/damage 1d6 type=radiant]] de daño radiante y quedará cegada hasta el principio de tu siguiente turno. Hasta que finalice tu furia, podrás volver a usar este efecto en cada uno de tus turnos como acción adicional."
+        },
+        "xyHkZQhbMJ5385k7": {
+          "text": "Te teletransportas un máximo de 30 pies hasta un espacio sin ocupar que puedas ver. Hasta que finalice tu furia, podrás volver a usar este efecto en cada uno de tus turnos como acción adicional."
+        }
+      }
+    },
+    "tcoeWildMagicSur": {
+      "name": "Oleada de magia salvaje",
+      "description": "<p>Si el resultado es un conjuro, es demasiado salvaje para que tu Metamagia lo afecte y, si normalmente requiere concentración, en este caso no la requiere; el conjuro dura toda su duración.</p>",
+      "results": {
+        "0q9jyUMexZGd2vTr": {
+          "text": "Estás &amp;Reference[frightened] por la criatura más cercana hasta el final de tu siguiente turno."
+        },
+        "5gijK22yali2AiX0": {
+          "text": "Un @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.G9PENY6nw0xRxCJW]{unicornio} controlado por el DM aparece en un espacio a 5 pies o menos de ti y desaparece 1 minuto después."
+        },
+        "8RkrLCYBFVrd3qzU": {
+          "text": "Obtienes &amp;Reference[damageresistance]{resistencia} a todo el daño durante el próximo minuto."
+        },
+        "A6zi9kjE86qZAGiN": {
+          "text": "Eres inmune a emborracharte con alcohol durante los próximos [[/r 5d6]] días."
+        },
+        "banwSIcdwORl8Ssd": {
+          "text": "Un escudo espectral flota cerca de ti durante el próximo minuto, lo que te concede un bonificador de +2 a la CA e inmunidad a @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{proyectil mágico}."
+        },
+        "bF0pWpqDIY7Vwl9O": {
+          "text": "Te transformas en una planta en maceta hasta el comienzo de tu siguiente turno. Mientras seas una planta, estás &amp;Reference[incapacitated] y tienes vulnerabilidad a todo el daño. Si quedas reducido a 0 puntos de golpe, la maceta se rompe y recuperas tu forma."
+        },
+        "BLIdLTkLCh2GUvzV": {
+          "text": "Las criaturas tienen desventaja en las tiradas de salvación contra el siguiente conjuro que lances durante el próximo minuto y que implique una tirada de salvación."
+        },
+        "BQrN9zRtRk24QouK": {
+          "text": "Tu tamaño aumenta en una categoría durante el próximo minuto."
+        },
+        "brT92gGuhYbi075n": {
+          "text": "Tira [[/r d10]]. Tu altura cambia tantas pulgadas como el resultado. Si es impar, encoges; si es par, creces."
+        },
+        "cbSnXJT8maDoGGoc": {
+          "text": "Tú y todas las criaturas situadas a 30 pies o menos de ti obtenéis &amp;Reference[damagevulnerability]{vulnerabilidad} al daño perforante durante el próximo minuto."
+        },
+        "CoaKzJXVMEsY9nOS": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.ztgcdrWPshKRpFd0]{bola de fuego} como conjuro de nivel 3 centrado en ti.<hr />Tirada de salvación: [[/save dex dc=@attributes.spelldc]]<br />Daño: [[/damage 8d6 type=fire]]"
+        },
+        "DLdBHYNYbS6sIcy2": {
+          "text": "Durante el próximo minuto, debes gritar cuando hables."
+        },
+        "DXaAQ6CfYGnxB6Wd": {
+          "text": "Eres transportado al Plano Astral hasta el final de tu siguiente turno, tras lo cual regresas al espacio que ocupabas o al espacio desocupado más cercano si aquel está ocupado."
+        },
+        "eUjwFSKWu2PcpmB1": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.MRxldJd6C4bsBo3O]{levitar} sobre ti."
+        },
+        "EwS4NL75ip9mj6br": {
+          "text": "Te vuelves &amp;Reference[invisible] durante el próximo minuto. Durante ese tiempo, las demás criaturas no pueden oírte. La invisibilidad termina si atacas o lanzas un conjuro."
+        },
+        "FaYYRPOCuSrieDkF": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.etgcR9wqmrhyZ0tx]{grasa} centrado en ti.<hr />Tirada de salvación: [[/save dex dc=@attributes.spelldc]]"
+        },
+        "fTDu5VrecDvx6JiF": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.yfbK8gZqESlaoY5t]{volar} sobre una criatura al azar situada a 60 pies o menos de ti."
+        },
+        "GjAwnr0TyV9u1uEz": {
+          "text": "Recuperas tu espacio de conjuro gastado de menor nivel."
+        },
+        "GkNgwX7tE36Rr3tb": {
+          "text": "<p>Tu piel adquiere un tono azul intenso. Un conjuro @UUID[Compendium.dnd5e.spells.Item.XZhdgVK3cLoxNCQl]{quitar maldición} puede terminar este efecto.</p>"
+        },
+        "gOceOHWZzOy5xGIW": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.X4c8xCkmF8U9HUMz]{imagen múltiple}."
+        },
+        "HRe9SM4UdgRsDbAA": {
+          "text": "Cada criatura situada a 30 pies o menos de ti se vuelve &amp;Reference[invisible] durante el próximo minuto. La invisibilidad termina para una criatura cuando ataca o lanza un conjuro."
+        },
+        "iRrtPkxKenBnX81t": {
+          "text": "Mariposas ilusorias y pétalos de flores revolotean en el aire a 10 pies o menos de ti durante el próximo minuto."
+        },
+        "lNrHY6eYnilUDMcg": {
+          "text": "Hasta tres criaturas de tu elección situadas a 30 pies o menos de ti reciben [[/damage 4d10 type=lightning]]."
+        },
+        "M3BbIDGZPmsckFcc": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.IBJmWjzbQGu7M4UX]{nube de oscurecimiento} centrado en ti."
+        },
+        "ME7ldS106QBVFA9F": {
+          "text": "No puedes hablar durante el próximo minuto. Cada vez que lo intentas, salen flotando burbujas rosas de tu boca."
+        },
+        "MISpvvZWyllR0lS1": {
+          "text": "Una tenue música etérea te rodea durante el próximo minuto."
+        },
+        "MReYVmm9o7v5zr3Z": {
+          "text": "Puedes realizar una acción adicional inmediatamente."
+        },
+        "Ne9D07SIt4zjzQZw": {
+          "text": "Cada criatura situada a 30 pies o menos de ti recibe [[/damage 1d10 type=necrotic]]. Recuperas tantos puntos de golpe como la suma del daño necrótico infligido."
+        },
+        "oicA3EVJRs1N0Z12": {
+          "text": "Te crece una larga barba de plumas que permanece hasta que estornudas, momento en que las plumas salen despedidas de tu cara."
+        },
+        "P8Y1PNGfgpVG2vBb": {
+          "text": "Recuperas [[/healing 2d10 type=healing]]{2d10 puntos de golpe}."
+        },
+        "pzH7n5oUZ7VjcdVv": {
+          "text": "Durante el próximo minuto, recuperas [[/healing 5 type=healing]]{5 puntos de golpe} al comienzo de cada uno de tus turnos."
+        },
+        "q9lHtvBQnnMFRO9Y": {
+          "text": "Se te cae el pelo, pero vuelve a crecer en 24 horas."
+        },
+        "qiQkP5folTlXe0e5": {
+          "text": "[[/r 1d6]] @UUID[Compendium.dnd-tashas-cauldron.tcoe-actors.Actor.tcoeFlumph000000]{flumphs} controlados por el DM aparecen en espacios desocupados a 60 pies o menos de ti y están &amp;Reference[frightened] por ti. Desaparecen tras 1 minuto."
+        },
+        "qrNV5LCzDgknPe3H": {
+          "text": "Un ojo aparece en tu frente durante el próximo minuto. Durante ese tiempo, tienes ventaja en las pruebas de &amp;Reference[perception]{Sabiduría (Percepción)} que dependan de la vista."
+        },
+        "reFs8LV9VCoJddOE": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{proyectil mágico} como conjuro de nivel 5.<hr />Dardos: 7<br />Daño: [[/damage 1d4+1 type=force]]"
+        },
+        "rN7uepYHxqFlXoPC": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.9hQXdMSmerkTsHDe]{confusión} centrado en ti.<hr />Tirada de salvación: [[/save wis dc=@attributes.spelldc]]"
+        },
+        "rtExAbs3VpYhLmnL": {
+          "text": "Tira en esta tabla al comienzo de cada uno de tus turnos durante el próximo minuto, ignorando este resultado en tiradas posteriores."
+        },
+        "RWUXKVeRyAgWeXcI": {
+          "text": "Una criatura al azar situada a 60 pies o menos de ti queda &amp;Reference[poisoned] durante [[/r 1d4]] horas."
+        },
+        "RzcAjwEYMAuyxy5A": {
+          "text": "Durante el próximo minuto, todos tus conjuros con un tiempo de lanzamiento de 1 acción tienen un tiempo de lanzamiento de 1 acción adicional."
+        },
+        "u3iC848898sKppg8": {
+          "text": "Tira [[/r d10]]. Tu edad cambia tantos años como el resultado. Si es impar, rejuveneces (hasta un mínimo de 1 año); si es par, envejeces."
+        },
+        "wAPMC8mJJgXLNovl": {
+          "text": "Recuperas todos tus puntos de hechicería gastados."
+        },
+        "WezPwDjW3SM7b3lL": {
+          "text": "Irradias luz brillante en un radio de 30 pies durante el próximo minuto. Cualquier criatura que termine su turno a 5 pies o menos de ti queda &amp;Reference[blinded] hasta el final de su siguiente turno."
+        },
+        "wrZtNd8kARX6Q2O8": {
+          "text": "Maximiza el daño del siguiente conjuro que inflija daño que lances durante el próximo minuto."
+        },
+        "XC0AnZnEa1IEfYCM": {
+          "text": "Un modron elegido y controlado por el DM aparece en un espacio desocupado a 5 pies o menos de ti y desaparece 1 minuto después."
+        },
+        "xc6606L0NiEqWORg": {
+          "text": "Durante el próximo minuto, puedes teletransportarte hasta 20 pies como acción adicional en cada uno de tus turnos."
+        },
+        "xGUOT9jRm1QUDkUK": {
+          "text": "Lanzas @UUID[Compendium.dnd5e.spells.Item.04nMsTWkIFvkbXlY]{polimorfar} sobre ti. Si fallas la tirada de salvación, te transformas en una oveja mientras dure el conjuro.<hr />Tirada de salvación: [[/save wis dc=@attributes.spelldc]]"
+        },
+        "xQxTRhwFYy1LEnZz": {
+          "text": "Durante el próximo minuto, puedes ver a cualquier criatura &amp;Reference[invisible] si tienes línea de visión hasta ella."
+        },
+        "Yr7AYoqA0AqM40So": {
+          "text": "Durante el próximo minuto, cualquier objeto inflamable que toques y que otra criatura no vista ni lleve consigo estalla en llamas."
+        },
+        "zhMPhbRnIfOkKN7N": {
+          "text": "Si mueres durante el próximo minuto, vuelves a la vida inmediatamente como mediante el conjuro @UUID[Compendium.dnd5e.spells.Item.zMEo5DKK8uxsuWnq]{reencarnar}."
+        },
+        "zwlUILwQHZ9pQs0g": {
+          "text": "Te teletransportas hasta 60 pies a un espacio desocupado de tu elección que puedas ver."
+        }
+      }
+    }
+  }
+}
