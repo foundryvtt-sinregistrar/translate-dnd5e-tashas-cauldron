@@ -15,5 +15,5 @@ if not args.allow_dirty and subprocess.check_output(["git", "status", "--porcela
 meta = json.loads((root / "module.json").read_text(encoding="utf-8"))
 output = root / args.dist
 output.mkdir(parents=True, exist_ok=True)
-for name in (f"{meta['id']}-{meta['version']}.zip", f"{meta['id']}.zip"):
+for name in (f"{meta['id']}-{meta['version']}.zip", f"{meta['id']}-es.zip"):
     subprocess.run(["git", "archive", "--format=zip", f"--prefix={meta['id']}/", "-o", str(output / name), args.ref], cwd=root, check=True)

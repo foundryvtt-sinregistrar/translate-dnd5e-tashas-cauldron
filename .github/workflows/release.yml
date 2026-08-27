@@ -37,7 +37,7 @@ jobs:
 
       - name: Verify expected asset exists
         run: |
-          test -f "dist/translate-dnd5e-tashas-cauldron.zip"
+          test -f "dist/translate-dnd5e-tashas-cauldron-es.zip"
           test -f "module.json"
           echo "OK: release assets exist"
 
@@ -48,5 +48,5 @@ jobs:
           draft: true
           generate_release_notes: true
           files: |
-            dist/translate-dnd5e-tashas-cauldron.zip
+            dist/translate-dnd5e-tashas-cauldron-es.zip
             module.json

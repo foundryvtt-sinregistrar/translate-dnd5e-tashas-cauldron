@@ -56,7 +56,7 @@
   "authors": [{ "name": "foundryvtt-sinregistrar" }],
   "url": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron",
   "manifest": "https://raw.githubusercontent.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/main/module.json",
-  "download": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest/download/translate-dnd5e-tashas-cauldron.zip",
+  "download": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest/download/translate-dnd5e-tashas-cauldron-es.zip",
   "bugs": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/issues",
   "readme": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/blob/main/README.md",
   "changelog": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases",
