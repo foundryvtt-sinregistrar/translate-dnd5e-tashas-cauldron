@@ -1,6 +1,6 @@
 # 🇪🇸 D&D 5e Tasha's Cauldron of Everything -- Español (Babele)
 
-![Foundry v14](https://img.shields.io/badge/Foundry-v14-green) ![dnd5e
+![Foundry v13](https://img.shields.io/badge/Foundry-v13-green)![Foundry v14](https://img.shields.io/badge/Foundry-v14-green) ![dnd5e
 5.3.x](https://img.shields.io/badge/dnd5e-5.3.x-blue) ![Babele
 Required](https://img.shields.io/badge/Babele-required-orange) ![Tasha's
 Cauldron](https://img.shields.io/badge/Tasha's%20Cauldron-required-orange)
