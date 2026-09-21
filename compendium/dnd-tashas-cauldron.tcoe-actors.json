@@ -2416,7 +2416,7 @@
         },
         "DoaZn93hetq3H5UW": {
           "name": "Lanzamiento de conjuros",
-          "description": "<section class=\"secret\" id=\"secret-CxFMCSJ2gp4CKao4\"><p>El [[lookup @name lowercase]] es un lanzador de conjuros de nivel 19. Su aptitud de lanzamiento de conjuros es Carisma (CD de salvación de conjuros 18, +10 al ataque con ataques de conjuro). Tiene preparados los siguientes conjuros de paladín:</p><p>Nivel 1 (4 espacios): command, compelled duel, searing smite</p><p>Nivel 2 (3 espacios): hold person, magic weapon</p><p>Nivel 3 (3 espacios): dispel magic, elemental weapon</p><p>Nivel 4 (3 espacios): banishment, staggering smite</p><p>Nivel 5 (2 espacios): destructive wave (necrotic)</p><p><strong>Nota de Foundry</strong></p><p>Algunos de estos conjuros no están incluidos en el SRD ni se reimprimen en Tasha’s y, como resultado, no se incluyen en este bloque de estadísticas.</p></section><p>El [[lookup @name lowercase]] es un lanzador de conjuros. Su aptitud de lanzamiento de conjuros es Carisma.</p>"
+          "description": "<section class=\"secret\" id=\"secret-CxFMCSJ2gp4CKao4\"><p>El [[lookup @name lowercase]] es un lanzador de conjuros de nivel 19. Su aptitud de lanzamiento de conjuros es Carisma (CD de salvación de conjuros 18, +10 al ataque con ataques de conjuro). Tiene preparados los siguientes conjuros de paladín:</p><p>Nivel 1 (4 espacios): Orden imperiosa, Duelo forzado, Castigo abrasador</p><p>Nivel 2 (3 espacios): Inmovilizar persona, Arma mágica</p><p>Nivel 3 (3 espacios): Disipar magia, Arma elemental</p><p>Nivel 4 (3 espacios): Destierro, Castigo abrumador</p><p>Nivel 5 (2 espacios): Onda destructora (necrótico)</p><p><strong>Nota de Foundry</strong></p><p>Algunos de estos conjuros no están incluidos en el SRD ni se reimprimen en Tasha’s y, como resultado, no se incluyen en este bloque de estadísticas.</p></section><p>El [[lookup @name lowercase]] es un lanzador de conjuros. Su aptitud de lanzamiento de conjuros es Carisma.</p>"
         },
         "pcExWuKLd6iU85PA": {
           "name": "Orden",
@@ -2803,7 +2803,7 @@
         },
         "IolQj4vA4MeO1syv": {
           "name": "Tentáculos",
-          "description": "<section class=\"secret\" id=\"secret-bpS9qNbP9Cedo6Io\"><p><em>Ataque de arma cuerpo a cuerpo:</em> +4 a impactar, alcance 5 pies, una criatura. <em>Impacto:</em> 4 (1d4 + 2) de daño perforante más 2 (1d4) de daño de ácido. Al final de cada uno de sus turnos, el objetivo debe hacer una tirada de salvación de Constitución CD 10; si falla, recibe 2 (1d4) de daño de ácido, o si la supera, termina el daño recurrente de ácido. Un conjuro de @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{lesser restoration} lanzado sobre el objetivo también termina el daño recurrente de ácido.</p><p><strong>Foundry Tip:</strong> El daño recurrente de ácido está implementado en la fórmula \"Other\".</p></section><p>El flumph ataca con sus tentáculos.</p>"
+          "description": "<section class=\"secret\" id=\"secret-bpS9qNbP9Cedo6Io\"><p><em>Ataque de arma cuerpo a cuerpo:</em> +4 a impactar, alcance 5 pies, una criatura. <em>Impacto:</em> 4 (1d4 + 2) de daño perforante más 2 (1d4) de daño de ácido. Al final de cada uno de sus turnos, el objetivo debe hacer una tirada de salvación de Constitución CD 10; si falla, recibe 2 (1d4) de daño de ácido, o si la supera, termina el daño recurrente de ácido. Un conjuro de @UUID[Compendium.dnd5e.spells.Item.F0GsG0SJzsIOacwV]{lesser restoration} lanzado sobre el objetivo también termina el daño recurrente de ácido.</p><p><strong>Consejo de Foundry:</strong> El daño recurrente de ácido está implementado en la fórmula \"Other\".</p></section><p>El Flumph ataca con sus tentáculos.</p>"
         },
         "nZawaajOm7QRBsFI": {
           "name": "Rociada pestilente",
@@ -3370,7 +3370,7 @@
     "tcoeReflection00": {
       "name": "Reflejo",
       "tokenName": "Reflejo",
-      "biography": "<p>Los reflejos son versiones bidimensionales y centelleantes de las criaturas que los proyectan.</p><section class=\"secret\" id=\"secret-Y5od7ccaZJ5bNsxe\"><p><strong>Foundry Note</strong></p><p>Como no podemos saber con certeza qué criatura proyectó un reflejo, a este Actor se le ha asignado el arte de una criatura feérica, pero debería sustituirse por una ilustración basada en el lanzador.</p></section>",
+      "biography": "<p>Los reflejos son versiones bidimensionales y centelleantes de las criaturas que los proyectan.</p><section class=\"secret\" id=\"secret-Y5od7ccaZJ5bNsxe\"><p><strong>Nota de Foundry</strong></p><p>Como no podemos saber con certeza qué criatura proyectó un reflejo, a este Actor se le ha asignado el arte de una criatura feérica, pero debería sustituirse por una ilustración basada en el lanzador.</p></section>",
       "items": {
         "aaUWxdObcQ03PeDd": {
           "name": "Amorfo",
@@ -3405,7 +3405,7 @@
         },
         "bNuEiPi9nNIGIN1w": {
           "name": "Peso de la pena",
-          "description": "<p>Cualquier criatura, salvo tú, que comience su turno a 5 pies o menos del espíritu tiene su velocidad reducida en 20 pies hasta el inicio del siguiente turno de esa criatura.</p><section id=\"secret-kVhPFpKqmw8i0Qqs\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>Este rasgo incluye un Efecto Activo, \"Weight of Sorrow\", que reducirá la velocidad de movimiento de una criatura. No termina automáticamente cuando la criatura se mueve ni al final de su turno.</p></section>",
+          "description": "<p>Cualquier criatura, salvo tú, que comience su turno a 5 pies o menos del espíritu tiene su velocidad reducida en 20 pies hasta el inicio del siguiente turno de esa criatura.</p><section id=\"secret-kVhPFpKqmw8i0Qqs\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Este rasgo incluye un Efecto Activo, \"Peso de la pena\", que reducirá la velocidad de movimiento de una criatura. No termina automáticamente cuando la criatura se mueve ni al final de su turno.</p></section>",
           "effects": {
             "mEhtoeLE1vdev3yY": {
               "name": "Peso de la pena",

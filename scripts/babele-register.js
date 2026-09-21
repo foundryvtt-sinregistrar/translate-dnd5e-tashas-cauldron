@@ -1,21 +1,36 @@
-/** Registra los compendios oficiales de Tasha en Babele. */
-Hooks.on("init", () => {
-  const babele = game?.babele;
+/**
+ * Babele registration for this translation module.
+ * - Registers only for Spanish ("es" and variants such as "es-ES").
+ */
+Hooks.once("babele.init", (babele) => {
   if (!babele) return;
 
-  const current = game.i18n?.lang ?? "es";
-  const langs = Array.from(new Set([current, current.split("-")[0]]));
-  const compendium = {
-    "dnd-tashas-cauldron.tcoe-content": { label: "Tasha - Contenido", path: "dnd-tashas-cauldron.tcoe-content.json" },
-    "dnd-tashas-cauldron.tcoe-character-options": { label: "Tasha - Opciones de personaje", path: "dnd-tashas-cauldron.tcoe-character-options.json" },
-    "dnd-tashas-cauldron.tcoe-magic-items": { label: "Tasha - Objetos mágicos", path: "dnd-tashas-cauldron.tcoe-magic-items.json" },
-    "dnd-tashas-cauldron.tcoe-tables": { label: "Tasha - Tablas", path: "dnd-tashas-cauldron.tcoe-tables.json" },
-    "dnd-tashas-cauldron.tcoe-actors": { label: "Tasha - Actores", path: "dnd-tashas-cauldron.tcoe-actors.json" },
-    "dnd-tashas-cauldron.tcoe-dm-tools": { label: "Tasha - Herramientas del DM", path: "dnd-tashas-cauldron.tcoe-dm-tools.json" },
-    "dnd-tashas-cauldron.tcoe-scenes": { label: "Tasha - Escenas", path: "dnd-tashas-cauldron.tcoe-scenes.json" }
-  };
+  // Foundry 14 has not registered core.language during babele.init.
+  // setup runs after core settings exist and before Babele loads its session
+  // in ready. Converters are also registered during setup.
+  Hooks.once("setup", () => registerSpanishCompendiums(babele));
+});
+
+function registerSpanishCompendiums(babele) {
+  // Match the language Babele uses for its translation session.
+  const current = game.settings.get("core", "language");
+  if (typeof current !== "string") return;
+
+  const base = current.split("-")[0].toLowerCase();
+  if (base !== "es") return;
+
+  const langs = Array.from(new Set([current, base]));
 
   for (const lang of langs) {
-    babele.register({ module: "translate-dnd5e-tashas-cauldron", lang, dir: "compendium", compendium });
+    try {
+      babele.register({
+          module: "translate-dnd5e-tashas-cauldron",
+          lang,
+          dir: "compendium"
+      });
+        console.log(`[Babele - translate-dnd5e-tashas-cauldron] Registered for lang="${lang}" (dir=compendium)`);
+    } catch (err) {
+        console.error(`[Babele - translate-dnd5e-tashas-cauldron] Failed registering for lang="${lang}"`, err);
+    }
   }
-});
+}

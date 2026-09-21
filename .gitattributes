@@ -4,6 +4,7 @@
 .github/             export-ignore
 .idea/               export-ignore
 dev-tools/           export-ignore
+tests/               export-ignore
 dist/                export-ignore
 _release-zip/        export-ignore
 DEVELOPER.md         export-ignore

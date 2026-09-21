@@ -1,11 +1,11 @@
 {
   "id": "translate-dnd5e-tashas-cauldron",
-  "title": "D&D 5e Tasha's Cauldron of Everything - Spanish Translation (Babele)",
+  "title": "Translation: DnD5e Tasha's Cauldron of Everything - Spanish Translation (Babele)",
   "description": "Spanish translation for the official D&D 5e Tasha's Cauldron of Everything module using Babele.",
   "version": "1.14.0",
   "compatibility": {
-    "minimum": "13",
-    "verified": "14.363"
+    "minimum": "14.367",
+    "verified": "14.368"
   },
   "languages": [
     {
@@ -25,8 +25,8 @@
         "id": "dnd5e",
         "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
         "compatibility": {
-          "minimum": "5.2.1",
-          "verified": "5.3.3"
+          "minimum": "6.0.0",
+          "verified": "6.0.3"
         },
         "type": "system"
       }
@@ -37,15 +37,15 @@
         "type": "module",
         "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
         "compatibility": {
-          "minimum": "2.7.5",
-          "verified": "2.7.5"
+          "minimum": "2.9.1",
+          "verified": "2.9.1"
         }
       },
       {
         "id": "dnd-tashas-cauldron",
         "type": "module",
         "manifest": "https://r2.foundryvtt.com/packages-public/dnd-tashas-cauldron/module.json",
-        "compatibility": { "minimum": "3.0.0", "verified": "3.0.0" }
+        "compatibility": { "minimum": "4.0.0", "verified": "4.0.0" }
       }
     ]
   },
