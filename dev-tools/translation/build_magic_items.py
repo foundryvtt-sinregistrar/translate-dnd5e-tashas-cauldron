@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 from typing import Any
+from reviewed_cleanup import apply_reviewed_cleanup
 
 
 def load(path: Path) -> dict[str, Any]:
@@ -101,6 +102,7 @@ def main() -> int:
         "note": "Every non-empty source description has a reviewed Spanish translation; entries without source descriptions require no description field."
     }
     generated = dev_tools / "translation/generated"
+    apply_reviewed_cleanup("magic-items", output, memory)
     write(module_root / "compendium/dnd-tashas-cauldron.tcoe-magic-items.json", output)
     write(generated / "translation-memory.magic-items.json", memory)
     write(generated / "pending.magic-items.json", pending)

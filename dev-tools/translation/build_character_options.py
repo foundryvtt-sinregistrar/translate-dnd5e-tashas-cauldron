@@ -9,6 +9,7 @@ import re
 from collections import Counter
 from pathlib import Path
 from typing import Any
+from reviewed_cleanup import apply_reviewed_cleanup
 
 
 PROTECTED = re.compile(
@@ -208,6 +209,7 @@ def main() -> int:
         ),
     }
 
+    apply_reviewed_cleanup("character-options", output, memory)
     write(args.output, output)
     write(args.assets / "translation-memory.character-options.json", memory)
     write(args.assets / "glossary.character-options.json", dict(sorted(glossary.items())))

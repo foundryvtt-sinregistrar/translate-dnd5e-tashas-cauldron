@@ -8,6 +8,8 @@ All notable changes to this project will be documented in this file.
 - Updated compatibility for Foundry VTT 14.368, dnd5e 6.0.3, Babele 2.9.1, and Tasha's Cauldron of Everything 4.0.0.
 
 ### Fixed
+- Translated 19 remaining English compendium fields, including spell lists, link labels, activity conditions, folder names, Foundry notes, and a complete changelog page.
+- Applied reviewed translations during compendium generation and synchronized affected translation memories to prevent English text from returning.
 - Register compendiums and converters through `babele.init`, deferring language lookup until `setup` when core settings are available.
 - Use the configured Babele session language and register only for Spanish and its regional variants.
 
