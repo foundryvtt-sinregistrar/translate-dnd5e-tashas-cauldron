@@ -1,7 +1,7 @@
 # 🇪🇸 D&D 5e Tasha's Cauldron of Everything -- Español (Babele)
 
 ![Foundry v14](https://img.shields.io/badge/Foundry-v14-green) ![dnd5e
-5.3.x](https://img.shields.io/badge/dnd5e-5.3.x-blue) ![Babele
+6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue) ![Babele
 Required](https://img.shields.io/badge/Babele-required-orange) ![Tasha's
 Cauldron](https://img.shields.io/badge/Tasha's%20Cauldron-required-orange)
 [![Latest Release](https://img.shields.io/github/v/release/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron?label=release)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest)
@@ -70,11 +70,10 @@ Mapping First → Converter Second → Normalization Layer
 
 ## ⚙️ Requisitos
 
-- Foundry VTT v13
-- Foundry VTT v14+
-- Sistema dnd5e 5.3.x
-- Babele 2.7.5+
-- Módulo oficial Tasha's Cauldron of Everything 3.0.0+
+- Foundry VTT 14.367+ (14.368)
+- Sistema dnd5e 6.0.3
+- Babele 2.9.1+
+- Módulo oficial Tasha's Cauldron of Everything 4.0.0+
 
 ------------------------------------------------------------------------
 

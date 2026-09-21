@@ -4,16 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-No changes yet.
-
-### Added
-- —
-
 ### Changed
-- —
+- Updated compatibility for Foundry VTT 14.368, dnd5e 6.0.3, Babele 2.9.1, and Tasha's Cauldron of Everything 4.0.0.
 
 ### Fixed
-- —
+- Register compendiums and converters through `babele.init`, deferring language lookup until `setup` when core settings are available.
+- Use the configured Babele session language and register only for Spanish and its regional variants.
+
+### Added
+- Regression tests for initialization timing, configured language selection, and converter coverage across all seven compendiums.
 
 ---
 
