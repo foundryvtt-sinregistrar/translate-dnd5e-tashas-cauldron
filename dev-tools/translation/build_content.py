@@ -8,6 +8,7 @@ import re
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
+from reviewed_cleanup import apply_reviewed_cleanup
 
 
 PROTECTED = re.compile(
@@ -64,6 +65,7 @@ def build_pack(pack_name: str, slug: str, label: str) -> int:
         for row in reviewed_patch.pop("reviewedUnchanged", []):
             reviewed_unchanged.add((row.get("entryId", ""), row.get("pageId", ""), row["path"]))
         deep_merge(reviewed, reviewed_patch)
+    apply_reviewed_cleanup(slug, reviewed)
     terms_path = root / f"dev-tools/translation/official-{slug}-terms.json"
     official_terms = load(terms_path) if terms_path.exists() else {}
     memory, memory_conflicts = translation_memory(generated)

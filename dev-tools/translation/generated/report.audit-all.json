@@ -1,10 +1,10 @@
 {
   "status": "passed",
   "module": "translate-dnd5e-tashas-cauldron",
-  "moduleVersion": "0.1.0",
+  "moduleVersion": "1.14.0",
   "foundryCompatibility": {
-    "minimum": "14",
-    "verified": "14.363"
+    "minimum": "14.367",
+    "verified": "14.368"
   },
   "packsAudited": 7,
   "packReports": [

@@ -9,6 +9,7 @@ import re
 from collections import Counter
 from pathlib import Path
 from typing import Any
+from reviewed_cleanup import apply_reviewed_cleanup
 
 
 PROTECTED = re.compile(r"@(?:UUID|Embed)\[([^\]]+)\]|&Reference\[([^\]]+)\]|\[\[([^\]]+)\]\]")
@@ -158,6 +159,7 @@ def main() -> int:
         "conflicts": len(conflicts),
         "protectedTokenIssues": len(token_issues),
     }
+    apply_reviewed_cleanup("actors", output, memory)
     write(args.output, output)
     write(args.assets / "translation-memory.actors.json", memory)
     write(args.assets / "glossary.actors.json", dict(sorted(glossary.items())))
