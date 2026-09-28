@@ -6,7 +6,7 @@ Plantilla inicial: PHB `caf298ee2c8b78c27634c2e2f23baf87e44243fe`; base anterior
 
 ## Archivos y adaptaciones
 
-Documentación bilingüe, DEVELOPER, CHANGELOG, `.editorconfig`, `.gitattributes`, base de `.gitignore`, constructor y suite de 24 pruebas compartida. El perfil versionado conserva alias `translate-dnd5e-tashas-cauldron-es.zip`, canal `latest` y variante `standard`. Se mantiene la licencia existente; los avisos de DM/Tomb no sustituyen la decisión pendiente sobre sus aportaciones.
+Documentación bilingüe, DEVELOPER, CHANGELOG, `.editorconfig`, `.gitattributes`, base de `.gitignore`, constructor y suite de 24 pruebas compartida. El perfil versionado conserva alias `translate-dnd5e-tashas-cauldron-es.zip`, canal `latest` y variante `standard`. Se mantiene la licencia existente de este proyecto. DM y Tomb adoptaron posteriormente MIT para sus aportaciones propias por elección expresa del titular; sus avisos conservan el alcance y los derechos de terceros.
 
 Se conservan convertidores `tcoe`, Apache 2.0 y el alias `translate-dnd5e-tashas-cauldron-es.zip`, declarado en el perfil. No hay un exportador documentado en `dev-tools/export/README.md`: ese enlace antiguo se ha retirado. Registra manualmente la procedencia y versión de las fuentes locales antes de editar traducciones.
 
