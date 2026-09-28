@@ -1,6 +1,6 @@
 # Guía de desarrollo
 
-Proyecto: `translate-dnd5e-tashas-cauldron`, versión de trabajo **1.14.0**. Instalación: [README.md](README.md) y [README.en.md](README.en.md).
+Proyecto: `translate-dnd5e-tashas-cauldron`, versión de trabajo **1.14.3**. Instalación: [README.md](README.md) y [README.en.md](README.en.md).
 
 ## Entorno y compatibilidad
 

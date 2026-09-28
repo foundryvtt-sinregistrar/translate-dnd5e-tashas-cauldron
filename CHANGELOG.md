@@ -7,6 +7,8 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.14.3] - 2026-09-28
+
 ### Changed
 
 - Homogeneizados documentación ES/EN, guía de desarrollo, configuración de edición, exclusiones y proceso de distribución. Constructor desde un único commit, perfil por proyecto, manifiesto externo, SHA-256 y validación compartida en PR y releases. Se conservan las particularidades y los avisos de licencia del proyecto.
@@ -46,3 +48,8 @@ All notable changes to this project will be documented in this file.
 - Validated case-insensitive Foundry references.
 - Corrected puzzle mechanics, table tokens, and structured embedded descriptions during review.
 - Added full compendium audits and final translation coverage reports.
+
+## Version Links
+
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/compare/v1.14.3...HEAD
+[1.14.3]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/tag/v1.14.3

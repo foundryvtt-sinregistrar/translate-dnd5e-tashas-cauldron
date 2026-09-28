@@ -6,7 +6,7 @@ Traducción para Foundry VTT mediante Babele. Identificador: `translate-dnd5e-ta
 
 ## Estado
 
-Versión: **1.14.0**. Incluye traducciones de siete compendios mediante Babele y convertidores con prefijo `tcoe`. Las pruebas de registro y cobertura no acreditan una validación funcional completa. Se conserva el nombre histórico del ZIP terminado en `-es.zip`.
+Versión: **1.14.3**. Incluye traducciones de siete compendios mediante Babele y convertidores con prefijo `tcoe`. Las pruebas de registro y cobertura no acreditan una validación funcional completa. Se conserva el nombre histórico del ZIP terminado en `-es.zip`.
 
 Consulta [CHANGELOG.md](CHANGELOG.md).
 

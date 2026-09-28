@@ -6,7 +6,7 @@ Translation for Foundry VTT using Babele. Module ID: `translate-dnd5e-tashas-cau
 
 ## Status
 
-Version: **1.14.0**. Includes translations of seven compendiums through Babele and converters prefixed with `tcoe`. Registration and coverage tests do not establish complete functional validation. The historical ZIP name ending in `-es.zip` is preserved.
+Version: **1.14.3**. Includes translations of seven compendiums through Babele and converters prefixed with `tcoe`. Registration and coverage tests do not establish complete functional validation. The historical ZIP name ending in `-es.zip` is preserved.
 
 See [CHANGELOG.md](CHANGELOG.md).
 
