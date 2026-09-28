@@ -9,6 +9,8 @@ All notable changes to this project will be documented in this file.
 
 ## [1.14.3] - 2026-09-28
 
+- Comprobados en Foundry 837 documentos, nombres y campos explícitos; importada y revisada una muestra. Evidencia y límites en `dev-tools/homogeneizacion/VALIDACION-FOUNDRY.md`.
+
 ### Changed
 
 - Homogeneizados documentación ES/EN, guía de desarrollo, configuración de edición, exclusiones y proceso de distribución. Constructor desde un único commit, perfil por proyecto, manifiesto externo, SHA-256 y validación compartida en PR y releases. Se conservan las particularidades y los avisos de licencia del proyecto.
