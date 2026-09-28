@@ -45,7 +45,10 @@
         "id": "dnd-tashas-cauldron",
         "type": "module",
         "manifest": "https://r2.foundryvtt.com/packages-public/dnd-tashas-cauldron/module.json",
-        "compatibility": { "minimum": "4.0.0", "verified": "4.0.0" }
+        "compatibility": {
+          "minimum": "4.0.0",
+          "verified": "4.0.0"
+        }
       }
     ]
   },
@@ -53,10 +56,14 @@
     "scripts/converters.js",
     "scripts/babele-register.js"
   ],
-  "authors": [{ "name": "foundryvtt-sinregistrar" }],
+  "authors": [
+    {
+      "name": "foundryvtt-sinregistrar"
+    }
+  ],
   "url": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/main/module.json",
-  "download": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest/download/translate-dnd5e-tashas-cauldron-es.zip",
+  "manifest": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest/download/module.json",
+  "download": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/download/v1.14.0/translate-dnd5e-tashas-cauldron-es.zip",
   "bugs": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/issues",
   "readme": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/blob/main/README.md",
   "changelog": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases",

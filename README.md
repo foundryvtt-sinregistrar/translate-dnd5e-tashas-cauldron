@@ -1,121 +1,75 @@
-# 🇪🇸 D&D 5e Tasha's Cauldron of Everything -- Español (Babele)
+# El caldero de Tasha para todo — Traducción al español
 
-![Foundry v14](https://img.shields.io/badge/Foundry-v14-green) ![dnd5e
-6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue) ![Babele
-Required](https://img.shields.io/badge/Babele-required-orange) ![Tasha's
-Cauldron](https://img.shields.io/badge/Tasha's%20Cauldron-required-orange)
-[![Latest Release](https://img.shields.io/github/v/release/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron?label=release)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest)
-[![Downloads Latest Release](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/latest/total?label=descargas%20%C3%BAltima%20release)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest)
-[![Downloads Total](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/total?label=descargas%20totales)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases)
+**Español** | [English](README.en.md)
 
-### Este módulo no está afiliado a Wizards of the Coast.
-### Este módulo es una traducción no oficial de Tasha's Cauldron of Everything.
+Traducción para Foundry VTT mediante Babele. Identificador: `translate-dnd5e-tashas-cauldron`.
 
-Este módulo contiene traducciones de contenido de **Tasha's Cauldron of Everything**, que es material propietario de Wizards of the Coast.
+## Estado
 
-La traducción se ofrece de conformidad con la [Wizards of the Coast Fan Content Policy](https://dnd.wizards.com/en/digital-tools-licensing).
+Versión: **1.14.0**. Incluye traducciones de siete compendios mediante Babele y convertidores con prefijo `tcoe`. Las pruebas de registro y cobertura no acreditan una validación funcional completa. Se conserva el nombre histórico del ZIP terminado en `-es.zip`.
 
-Dungeons & Dragons Tasha's Cauldron of Everything © Wizards of the Coast LLC. Todos los derechos reservados.
+Consulta [CHANGELOG.md](CHANGELOG.md).
 
----
+## Requisitos
 
-## 📦 Descripción
-**Current version:** 1.14.0
+Versiones declaradas en el manifiesto; «—» indica que no se declara ese límite.
 
-Traducción al español de **Tasha's Cauldron of Everything** para el sistema **dnd5e** en Foundry VTT.
+| Dependencia | Mínima | Verificada |
+|---|---|---|
+| Foundry VTT | 14.367 | 14.368 |
+| dnd5e | 6.0.0 | 6.0.3 |
+| babele | 2.9.1 | 2.9.1 |
+| dnd-tashas-cauldron | 4.0.0 | 4.0.0 |
 
-Implementado mediante **Babele** con arquitectura:
+Instala y activa las dependencias, adquiriendo por separado los productos oficiales cuando sean necesarios.
 
-Mapping First → Converter Second → Normalization Layer
+## Instalación
 
-------------------------------------------------------------------------
+En la configuración de Foundry, abre **Add-on Modules → Install Module** y utiliza este manifiesto:
 
-## 📦 Contenido del Módulo
+```text
+https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest/download/module.json
+```
 
-Este módulo proporciona traducciones estructuradas para los siete compendios de Tasha's Cauldron of Everything:
+Para instalar manualmente, descarga `translate-dnd5e-tashas-cauldron-es.zip` de las [releases](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases). Con Foundry detenido, extrae la carpeta `translate-dnd5e-tashas-cauldron` en `Data/modules/`; el manifiesto debe quedar en `Data/modules/translate-dnd5e-tashas-cauldron/module.json`.
 
-| Compendio | Estado |
-|----------|:------:|
-| Actores | ✅ |
-| Opciones de personaje | ✅ |
-| Contenido | ✅ |
-| Herramientas del DM | ✅ |
-| Objetos mágicos | ✅ |
-| Escenas | ✅ |
-| Tablas | ✅ |
+## Activación
 
-------------------------------------------------------------------------
+1. Abre un mundo dnd5e.
+2. Activa Babele, sus dependencias, los productos oficiales requeridos y esta traducción.
+3. Selecciona **Español** y recarga el mundo.
+4. Abre un compendio traducido para comprobar el resultado.
 
-## 🧠 Arquitectura Técnica
+El registro es automático para `es` y sus variantes regionales. Otros idiomas no activan la traducción española.
 
-Mapping First → Converter Second → Normalization Layer
+## Actualización
 
-### Convertidores
+Actualiza desde Foundry o sustituye la carpeta con el ZIP publicado y Foundry detenido. Recarga el mundo. Las copias ya importadas no se sincronizan automáticamente: revisa las diferencias antes de sustituir documentos con cambios propios.
 
-- activities
-- mergeEffects
-- advancementById
-- journalEntryFullById
-- journalPagesById
-- rollTableResultsById
+## Contenido incluido
 
-### Normalización
+- `dnd-tashas-cauldron.tcoe-actors.json`.
+- `dnd-tashas-cauldron.tcoe-character-options.json`.
+- `dnd-tashas-cauldron.tcoe-content.json`.
+- `dnd-tashas-cauldron.tcoe-dm-tools.json`.
+- `dnd-tashas-cauldron.tcoe-magic-items.json`.
+- `dnd-tashas-cauldron.tcoe-scenes.json`.
+- `dnd-tashas-cauldron.tcoe-tables.json`.
 
-- Glosario EN→ES canónico
-- Protección de macros (@UUID, &Reference, @Embed, \[\[/r ...\]\])
-- Protección de tablas HTML y encabezados estructurales
-- Title Case semántico en campos estructurales
+## Limitaciones
 
-------------------------------------------------------------------------
+La cobertura textual y las pruebas automáticas no acreditan todas las automatizaciones de una partida. Conserva las limitaciones indicadas en Estado. Las copias importadas no se actualizan automáticamente. Las nuevas URLs de release necesitan una publicación con sus adjuntos; mientras no estén disponibles, utiliza un ZIP validado. No se distribuyen fuentes privadas, PDF, OCR ni exportaciones oficiales completas.
 
-## ⚙️ Requisitos
+## Soporte y contribuciones
 
-- Foundry VTT 14.367+ (14.368)
-- Sistema dnd5e 6.0.3
-- Babele 2.9.1+
-- Módulo oficial Tasha's Cauldron of Everything 4.0.0+
+Comunica errores en las [incidencias](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/issues), indicando versiones, compendio/documento afectado, pasos, resultado esperado y observado, y si se trata de una copia importada.
 
-------------------------------------------------------------------------
+## Desarrollo
 
-## 🚀 Instalación
+La [guía de desarrollo](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/blob/main/DEVELOPER.md) está disponible en el repositorio y se excluye del ZIP instalable.
 
-### 🔹 Opción 1 — Descargar ZIP
+## Licencia y créditos
 
-1. Ir a la sección **Releases** del repositorio.
-2. Descargar el fichero `.zip` de la última versión.
-3. Descomprimir en:
+Consulta la licencia y sus condiciones en [LICENSE.md](LICENSE.md). Se conserva la licencia Apache 2.0 existente.
 
-	FoundryVTT/Data/modules/
-
-4. Activar el módulo desde Foundry.
-5. Activar la traducción desde Babele.
-
----
-
-### 🔹 Opción 2 — Instalación directa desde Foundry (URL)
-
-1. En Foundry, ir a **Add-on Modules → Install Module → Install from Manifest URL**.
-2. Introducir la siguiente URL:
-
-	https://raw.githubusercontent.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/main/module.json
-
-3. Instalar el módulo.
-4. Activarlo y habilitar la traducción desde Babele.
-
-------------------------------------------------------------------------
-
-## 📜 Licencia
-
-Este proyecto es una traducción no oficial del contenido de Tasha's Cauldron of Everything.
-
-Consulta la [Wizards of the Coast Fan Content Policy](https://dnd.wizards.com/en/digital-tools-licensing) para más información sobre permisos y restricciones.
-
----
-
-## 📜 Changelog
-
-Consulta: **CHANGELOG.md**
-
-## 👤 Autor
-
-foundryvtt-sinregistrar
+Traducción no oficial, sin afiliación con Wizards of the Coast ni Foundry VTT. Los materiales del producto oficial pertenecen a sus respectivos titulares. Autor del módulo: [foundryvtt-sinregistrar](https://github.com/foundryvtt-sinregistrar).

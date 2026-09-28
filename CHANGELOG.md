@@ -1,8 +1,16 @@
 # Changelog
 
+Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorías `Added`, `Changed` y `Fixed`. El historial anterior conserva su contenido e idioma.
+
+
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+
+### Changed
+
+- Homogeneizados documentación ES/EN, guía de desarrollo, configuración de edición, exclusiones y proceso de distribución. Constructor desde un único commit, perfil por proyecto, manifiesto externo, SHA-256 y validación compartida en PR y releases. Se conservan las particularidades y los avisos de licencia del proyecto.
+
 
 ### Changed
 - Updated compatibility for Foundry VTT 14.368, dnd5e 6.0.3, Babele 2.9.1, and Tasha's Cauldron of Everything 4.0.0.
