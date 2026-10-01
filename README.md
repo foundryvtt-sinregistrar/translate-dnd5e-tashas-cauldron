@@ -1,5 +1,13 @@
 # El caldero de Tasha para todo — Traducción al español
 
+**Versión actual — Foundry v14**
+
+![Foundry v14](https://img.shields.io/badge/Foundry-v14-green)
+[![Release v1.14.3](https://img.shields.io/badge/release-v1.14.3-blue)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/tag/v1.14.3)
+![dnd5e 6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue)
+![Babele 2.9.1 required](https://img.shields.io/badge/Babele-2.9.1_required-orange)
+![Tasha required](https://img.shields.io/badge/Tasha-required-orange)
+
 **Español** | [English](README.en.md)
 
 Traducción para Foundry VTT mediante Babele. Identificador: `translate-dnd5e-tashas-cauldron`.
