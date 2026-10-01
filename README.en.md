@@ -7,6 +7,11 @@
 ![dnd5e 6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue)
 ![Babele 2.9.1 required](https://img.shields.io/badge/Babele-2.9.1_required-orange)
 ![Tasha required](https://img.shields.io/badge/Tasha-required-orange)
+[![Latest release](https://img.shields.io/github/v/release/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron?label=release)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest)
+[![Latest release downloads](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/latest/total?label=latest%20release%20downloads)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/latest)
+
+[![Total downloads](https://img.shields.io/github/downloads/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/total?label=total%20downloads)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases)
+
 
 [Español](README.md) | **English**
 
