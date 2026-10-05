@@ -1,29 +1,11 @@
-export function mergeById(source, translation) {
-  if (!source || typeof source !== "object" || !translation || typeof translation !== "object") {
-    return source;
-  }
+import { translateById, activityPaths, effectPaths, tablePaths, scenePaths } from "./text-only.js";
 
-  const out = foundry.utils.deepClone(source);
-  for (const [id, patch] of Object.entries(translation)) {
-    if (!patch || typeof patch !== "object") continue;
-
-    if (Array.isArray(out)) {
-      const target = out.find((row) => (row?._id ?? row?.id) === id);
-      if (target) foundry.utils.mergeObject(target, patch, { insertKeys: true, overwrite: true, inplace: true });
-      continue;
-    }
-
-    if (out[id]) {
-      foundry.utils.mergeObject(out[id], patch, { insertKeys: true, overwrite: true, inplace: true });
-    }
-  }
-  return out;
-}
-
-export const tcoeActivitiesById = mergeById;
-export const tcoeEffectsById = mergeById;
-export const tcoeAdvancementById = mergeById;
-export const tcoeTableResultsById = mergeById;
+// Retained export for callers localizing general labels.
+export const mergeById = (source, translation) => translateById(source, translation, scenePaths);
+export const tcoeActivitiesById = (source, translation) => translateById(source, translation, activityPaths, "activity");
+export const tcoeEffectsById = (source, translation) => translateById(source, translation, effectPaths);
+export const tcoeAdvancementById = (source, translation) => translateById(source, translation, ["hint"], "advancement");
+export const tcoeTableResultsById = (source, translation) => translateById(source, translation, tablePaths);
 
 export function tcoeJournalPagesById(source, translation) {
   if (!source || !translation || typeof translation !== "object") return source;
@@ -63,12 +45,12 @@ export function tcoeActorItemsById(source, translation) {
     }
     if (patch.activities) {
       item.system ??= {};
-      item.system.activities = mergeById(item.system.activities ?? {}, patch.activities);
+    item.system.activities = tcoeActivitiesById(item.system.activities ?? {}, patch.activities);
     }
-    if (patch.effects) item.effects = mergeById(item.effects ?? [], patch.effects);
+    if (patch.effects) item.effects = tcoeEffectsById(item.effects ?? [], patch.effects);
     if (patch.advancement) {
       item.system ??= {};
-      item.system.advancement = mergeById(item.system.advancement ?? [], patch.advancement);
+    item.system.advancement = tcoeAdvancementById(item.system.advancement ?? [], patch.advancement);
     }
   }
   return out;

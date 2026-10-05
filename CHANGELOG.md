@@ -7,6 +7,20 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.14.4] - 2026-10-05
+
+### Fixed
+
+- Convertidores de avances, efectos, actividades y tablas limitados a campos textuales; las traducciones no pueden sobrescribir niveles, fórmulas, UUID, rangos ni configuración mecánica.
+- Avances compatibles con `name`/ `title`, arrays, objetos indexados y contenedores serializados con `contents`.
+- Aplicada la misma protección a objetos y efectos embebidos en actores.
+
+### Added
+
+- Evidencia y límites de la validación en `dev-tools/VALIDACION-COMPATIBILIDAD-6X.md`.
+
+- Pruebas de regresión de formatos de colección, preservación de mecánicas y etiquetas de perfiles de invocación.
+
 ## [1.14.3] - 2026-09-28
 
 - Comprobados en Foundry 837 documentos, nombres y campos explícitos; importada y revisada una muestra. Evidencia y límites en `dev-tools/homogeneizacion/VALIDACION-FOUNDRY.md`.
@@ -53,5 +67,6 @@ All notable changes to this project will be documented in this file.
 
 ## Version Links
 
-[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/compare/v1.14.3...HEAD
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/compare/v1.14.4...HEAD
+[1.14.4]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/tag/v1.14.4
 [1.14.3]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/tag/v1.14.3
