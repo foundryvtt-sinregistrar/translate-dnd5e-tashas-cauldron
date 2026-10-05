@@ -1,7 +1,7 @@
 {
   "id": "translate-dnd5e-tashas-cauldron",
-  "title": "Translation: DnD5e Tasha's Cauldron of Everything - Spanish (Babele)",
-  "description": "Spanish translation for the official D&D 5e Tasha's Cauldron of Everything module using Babele.",
+  "title": "Translation: DnD5e Tasha's Cauldron of Everything - Spanish Translation (Babele)",
+  "description": "Spanish translation for the official D&amp;D 5e Tasha's Cauldron of Everything module using Babele.",
   "version": "1.14.3",
   "compatibility": {
     "minimum": "14.367",
@@ -11,12 +11,14 @@
     {
       "lang": "en",
       "name": "English",
-      "path": "lang/en.json"
+      "path": "lang/en.json",
+      "flags": {}
     },
     {
       "lang": "es",
       "name": "Español",
-      "path": "lang/es.json"
+      "path": "lang/es.json",
+      "flags": {}
     }
   ],
   "relationships": {
@@ -58,7 +60,8 @@
   ],
   "authors": [
     {
-      "name": "foundryvtt-sinregistrar"
+      "name": "foundryvtt-sinregistrar",
+      "flags": {}
     }
   ],
   "url": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron",
@@ -67,5 +70,6 @@
   "bugs": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/issues",
   "readme": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/blob/main/README.md",
   "changelog": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases",
-  "license": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/blob/main/LICENSE.md"
+  "license": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/blob/main/LICENSE.md",
+  "flags": {}
 }
