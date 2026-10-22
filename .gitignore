@@ -149,6 +149,7 @@ __pycache__/
 *.py[cod]
 .venv/
 node_modules/
+.tmp-npm-cache/
 
 # Fuentes e informes locales
 /dev-tools/export/data/*
