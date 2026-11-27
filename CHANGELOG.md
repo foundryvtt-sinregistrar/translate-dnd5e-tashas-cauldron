@@ -7,9 +7,11 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.14.6] - 2026-11-27
+
 ### Changed
 
-- Compatibilidad verificada con Foundry VTT 14.370 y D&D5e 6.0.6.
+- Compatibilidad verificada con Foundry VTT 14.370 y D&D5e 6.1.1.
 
 ## [1.14.5] - 2026-10-27
 
@@ -77,6 +79,7 @@ All notable changes to this project will be documented in this file.
 
 ## Version Links
 
-[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/compare/v1.14.4...HEAD
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/compare/v1.14.6...HEAD
 [1.14.4]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/tag/v1.14.4
 [1.14.3]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/tag/v1.14.3
+[1.14.6]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-tashas-cauldron/releases/tag/v1.14.6
